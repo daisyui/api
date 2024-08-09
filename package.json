@@ -1,0 +1,7 @@
+{
+	"name": "daisyui-api",
+	"type": "module",
+	"scripts": {
+		"build": "bun build.js"
+	}
+}

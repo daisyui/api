@@ -1,0 +1,38 @@
+name: Fetch data
+
+on:
+  schedule:
+    # Runs at 00:00, 06:00, 12:00, and 18:00 UTC every day
+    - cron: "0 */6 * * *"
+  workflow_dispatch:
+
+jobs:
+  run-node-command:
+    runs-on: ubuntu-latest
+    env:
+      LEMONSQUEEZY_API_KEY: ${{ secrets.LEMONSQUEEZY_API_KEY }}
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Setup bun
+        uses: oven-sh/setup-bun@v1.2.2
+
+      - name: Run script
+        run: bun run build
+
+      - name: Configure Git
+        run: |
+          git config --local user.email "pouya.saadeghi@gmail.com"
+          git config --local user.name "Pouya Saadeghi"
+
+      - name: Commit changes
+        run: |
+          git add .
+          git diff-index --quiet HEAD || git commit -m "Fetch data"
+      
+      - name: Push changes
+        uses: ad-m/github-push-action@master
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
