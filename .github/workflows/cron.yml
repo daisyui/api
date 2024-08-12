@@ -1,4 +1,4 @@
-name: Fetch data
+name: Update API data
 
 on:
   schedule:
@@ -19,8 +19,11 @@ jobs:
       - name: Setup bun
         uses: oven-sh/setup-bun@v1.2.2
 
-      - name: Run script
-        run: bun run build
+      - name: Build log
+        run: bun build_log.js
+
+      - name: Create Discount
+        run: bun create_discount.js
 
       - name: Configure Git
         run: |
@@ -30,7 +33,7 @@ jobs:
       - name: Commit changes
         run: |
           git add .
-          git diff-index --quiet HEAD || git commit -m "Fetch data"
+          git diff-index --quiet HEAD || git commit -m "Update API data"
       
       - name: Push changes
         uses: ad-m/github-push-action@master
