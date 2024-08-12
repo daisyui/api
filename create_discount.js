@@ -1,6 +1,6 @@
 import { writeFileSync } from "bun:fs";
 
-const chance_to_run = 20 / 100;
+const chance_to_run = 40 / 100;
 const discountPercentages = [5, 10, 15, 20, 25];
 const discountHours = [1, 2, 3, 4];
 
