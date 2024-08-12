@@ -1,42 +1,38 @@
 import { writeFileSync } from "bun:fs";
+import {
+	getRandomValueWithChance,
+	generateDiscountCode,
+	getISODateTime,
+} from "./functions.js";
 
-const chance_to_run = 40 / 100;
-const discountPercentages = [5, 10, 15, 20, 25];
-const discountHours = [1, 2, 3, 4];
-
-const getRandomItemOfArray = (arr) => {
-	const randomIndex = Math.floor(Math.random() * arr.length);
-	return arr[randomIndex];
-};
-
-// Function to generate a random unique string
-function generateDiscountCode(length) {
-	const characters = "ABCDEFGHIJKLMNPQRSTUVWXYZ123456789";
-	let result = "";
-	for (let i = 0; i < length; i++) {
-		result += characters.charAt(Math.floor(Math.random() * characters.length));
-	}
-	return result;
-}
-function getISODateTime(hoursFromNow) {
-	const date = new Date();
-	date.setHours(date.getHours() + hoursFromNow);
-	return date.toISOString();
-}
-
-const discountCode = generateDiscountCode(10); // Generate a 10-character discount code
-
+const chanceToRun = 50 / 100;
+const discountPercentages = [
+	{ value: 5, chance: 40 },
+	{ value: 10, chance: 30 },
+	{ value: 15, chance: 20 },
+	{ value: 20, chance: 7 },
+	{ value: 25, chance: 2 },
+	{ value: 30, chance: 1 },
+];
+const discountHours = [
+	{ value: 1, chance: 40 },
+	{ value: 2, chance: 30 },
+	{ value: 3, chance: 20 },
+	{ value: 4, chance: 8 },
+	{ value: 5, chance: 2 },
+];
 const apiKey = process.env.LEMONSQUEEZY_API_KEY;
 const url = "https://api.lemonsqueezy.com/v1/discounts";
+
 const data = {
 	data: {
 		type: "discounts",
 		attributes: {
 			name: "Limited time discount code!",
-			code: discountCode,
-			amount: getRandomItemOfArray(discountPercentages),
+			code: `LTD${generateDiscountCode(9)}`,
+			amount: getRandomValueWithChance(discountPercentages),
 			amount_type: "percent",
-			expires_at: getISODateTime(getRandomItemOfArray(discountHours)),
+			expires_at: getISODateTime(getRandomValueWithChance(discountHours)),
 		},
 		relationships: {
 			store: {
@@ -49,7 +45,7 @@ const data = {
 	},
 };
 
-if (Math.random() < chance_to_run) {
+if (Math.random() < chanceToRun) {
 	fetch(url, {
 		method: "POST",
 		headers: {
@@ -62,11 +58,8 @@ if (Math.random() < chance_to_run) {
 		.then((response) => response.json())
 		.then((json) => {
 			if (json.data?.id) {
-				// Save the response in a JSON file
 				writeFileSync("api/discount.json", JSON.stringify(json, null, 2));
-				console.log(
-					"Discount code created successfully and response saved to api/discount.json",
-				);
+				console.log("Discount code created successfully JSON");
 			} else {
 				console.error("Failed to create discount code:", json);
 			}
