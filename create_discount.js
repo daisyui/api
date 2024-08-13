@@ -5,21 +5,22 @@ import {
 	getISODateTime,
 } from "./functions.js";
 
-const chanceToRun = 50 / 100;
+const chanceToRun = 100 / 100;
 const discountPercentages = [
-	{ value: 5, chance: 40 },
-	{ value: 10, chance: 30 },
-	{ value: 15, chance: 20 },
-	{ value: 20, chance: 7 },
-	{ value: 25, chance: 2 },
-	{ value: 30, chance: 1 },
+	{ value: 5, chance: 30 },
+	{ value: 10, chance: 25 },
+	{ value: 15, chance: 15 },
+	{ value: 20, chance: 12 },
+	{ value: 25, chance: 10 },
+	{ value: 30, chance: 7 },
+	{ value: 40, chance: 1 },
 ];
 const discountHours = [
-	{ value: 1, chance: 40 },
-	{ value: 2, chance: 30 },
-	{ value: 3, chance: 20 },
-	{ value: 4, chance: 8 },
-	{ value: 5, chance: 2 },
+	{ value: 1, chance: 70 },
+	{ value: 2, chance: 20 },
+	{ value: 3, chance: 6 },
+	{ value: 4, chance: 3 },
+	{ value: 5, chance: 1 },
 ];
 const apiKey = process.env.LEMONSQUEEZY_API_KEY;
 const url = "https://api.lemonsqueezy.com/v1/discounts";
