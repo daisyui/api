@@ -33,8 +33,8 @@ export const generateDiscountCode = (length) => {
 	return result;
 };
 
-export const getISODateTime = (hoursFromNow) => {
+export const addMinutesToIsoTime = (minutesFromNow) => {
 	const date = new Date();
-	date.setHours(date.getHours() + hoursFromNow);
+	date.setMinutes(date.getMinutes() + minutesFromNow);
 	return date.toISOString();
 };

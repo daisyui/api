@@ -2,25 +2,25 @@ import { writeFileSync } from "bun:fs";
 import {
 	getRandomValueWithChance,
 	generateDiscountCode,
-	getISODateTime,
+	addMinutesToIsoTime,
 } from "./functions.js";
 
 const chanceToRun = 100 / 100;
 const discountPercentages = [
-	{ value: 5, chance: 30 },
-	{ value: 10, chance: 25 },
-	{ value: 15, chance: 15 },
-	{ value: 20, chance: 12 },
-	{ value: 25, chance: 10 },
-	{ value: 30, chance: 7 },
-	{ value: 40, chance: 1 },
+	{ value: 5, chance: 25 },
+	{ value: 10, chance: 20 },
+	{ value: 15, chance: 18 },
+	{ value: 20, chance: 15 },
+	{ value: 25, chance: 12 },
+	{ value: 30, chance: 10 },
 ];
-const discountHours = [
-	{ value: 1, chance: 70 },
-	{ value: 2, chance: 20 },
-	{ value: 3, chance: 6 },
-	{ value: 4, chance: 3 },
-	{ value: 5, chance: 1 },
+const discountDuration = [
+	{ value: 1 * 60, chance: 20 },
+	{ value: 2 * 60, chance: 18 },
+	{ value: 3 * 60, chance: 15 },
+	{ value: 4 * 60, chance: 12 },
+	{ value: 5 * 60, chance: 10 },
+	{ value: 5.5 * 60, chance: 10 },
 ];
 const apiKey = process.env.LEMONSQUEEZY_API_KEY;
 const url = "https://api.lemonsqueezy.com/v1/discounts";
@@ -33,7 +33,9 @@ const data = {
 			code: `LTD${generateDiscountCode(9)}`,
 			amount: getRandomValueWithChance(discountPercentages),
 			amount_type: "percent",
-			expires_at: getISODateTime(getRandomValueWithChance(discountHours)),
+			expires_at: addMinutesToIsoTime(
+				getRandomValueWithChance(discountDuration),
+			),
 		},
 		relationships: {
 			store: {
