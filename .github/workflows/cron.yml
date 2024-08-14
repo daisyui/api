@@ -11,6 +11,7 @@ jobs:
     runs-on: ubuntu-latest
     env:
       LEMONSQUEEZY_API_KEY: ${{ secrets.LEMONSQUEEZY_API_KEY }}
+      DISCORD_BOT_TOKEN: ${{ secrets.DISCORD_BOT_TOKEN }}
 
     steps:
       - name: Checkout repository
