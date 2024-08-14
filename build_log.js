@@ -20,7 +20,6 @@ Promise.all(sources)
 				fetch(url, params).then((response) => response.json()),
 			);
 			const results = await Promise.all(fetchPromises);
-			console.log("Results:", results);
 			const mergedData = results
 				.flatMap((obj) => obj.data)
 				.filter(filter)
