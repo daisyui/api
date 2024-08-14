@@ -38,3 +38,23 @@ export const addMinutesToIsoTime = (minutesFromNow) => {
 	date.setMinutes(date.getMinutes() + minutesFromNow);
 	return date.toISOString();
 };
+export const expiresIn = (timestamp) => {
+	const now = new Date();
+	const targetDate = new Date(timestamp);
+	const diffMs = targetDate - now; // Difference in milliseconds
+
+	if (diffMs < 0) {
+		return ""; // The time has already passed
+	}
+
+	const diffMinutes = Math.floor(diffMs / 60000); // Convert milliseconds to minutes
+	const diffHours = Math.floor(diffMinutes / 60); // Convert minutes to hours
+
+	if (diffHours > 0) {
+		return `expires in ${diffHours}${diffHours === 1 ? " hour" : " hours"}`;
+	}
+	if (diffMinutes > 0) {
+		return `expires in ${diffMinutes}${diffMinutes === 1 ? " minute" : " minutes"}`;
+	}
+	return ""; // Less than a minute
+};

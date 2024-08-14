@@ -1,26 +1,27 @@
 import { writeFileSync } from "bun:fs";
+import { postToDiscord } from "./post_to_discord.js";
 import {
 	getRandomValueWithChance,
 	generateDiscountCode,
 	addMinutesToIsoTime,
+	expiresIn,
 } from "./functions.js";
 
 const chanceToRun = 100 / 100;
 const discountPercentages = [
-	{ value: 5, chance: 25 },
-	{ value: 10, chance: 20 },
-	{ value: 15, chance: 18 },
+	{ value: 5, chance: 30 },
+	{ value: 10, chance: 25 },
+	{ value: 15, chance: 20 },
 	{ value: 20, chance: 15 },
-	{ value: 25, chance: 12 },
-	{ value: 30, chance: 10 },
+	{ value: 25, chance: 9 },
+	{ value: 50, chance: 1 },
 ];
 const discountDuration = [
-	{ value: 1 * 60, chance: 20 },
-	{ value: 2 * 60, chance: 18 },
-	{ value: 3 * 60, chance: 15 },
-	{ value: 4 * 60, chance: 12 },
+	{ value: 1 * 60, chance: 30 },
+	{ value: 2 * 60, chance: 25 },
+	{ value: 3 * 60, chance: 20 },
+	{ value: 4 * 60, chance: 15 },
 	{ value: 5 * 60, chance: 10 },
-	{ value: 5.5 * 60, chance: 10 },
 ];
 const apiKey = process.env.LEMONSQUEEZY_API_KEY;
 const url = "https://api.lemonsqueezy.com/v1/discounts";
@@ -62,7 +63,14 @@ if (Math.random() < chanceToRun) {
 		.then((json) => {
 			if (json.data?.id) {
 				writeFileSync("api/discount.json", JSON.stringify(json, null, 2));
-				console.log("Discount code created successfully JSON");
+				console.log("Discount code created successfully");
+				postToDiscord(
+					"1204197126775504926",
+					`🎁 daisyUI Store: short time discount
+Use code \`${json.data.attributes.code}\` at checkout to get ${json.data.attributes.amount}% discount on all products
+${expiresIn(json.data.attributes.expires_at)}
+https://daisyui.com/store`,
+				);
 			} else {
 				console.error("Failed to create discount code:", json);
 			}
