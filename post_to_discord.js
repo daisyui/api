@@ -13,6 +13,10 @@ export const postToDiscord = (channelId, message) => {
 	})
 		.then((response) => response.json())
 		.then((data) => {
+			if (data.message) {
+				console.error("Failed to send message to Discord:", data.message);
+				return;
+			}
 			console.log(
 				`Published: https://discord.com/channels/1204154732978118716/${data.channel_id}/${data.id}`,
 			);
