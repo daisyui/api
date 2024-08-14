@@ -1,4 +1,7 @@
-export const url = "https://api.lemonsqueezy.com/v1/orders?page[size]=100";
+export const url = [
+	"https://api.lemonsqueezy.com/v1/orders?page[size]=100",
+	"https://api.lemonsqueezy.com/v1/orders?page[size]=100&page[number]=2",
+];
 export const params = {
 	headers: {
 		Accept: "application/vnd.api+json",

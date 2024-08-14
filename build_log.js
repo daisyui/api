@@ -5,7 +5,7 @@ const files = ["./source/142623.js", "./source/144550.js"];
 const sources = files.map(async (path) => {
 	const module = await import(path);
 	return {
-		url: module.url,
+		urls: module.url,
 		params: module.params,
 		template: module.template,
 		filter: module.filter,
@@ -14,21 +14,23 @@ const sources = files.map(async (path) => {
 });
 
 Promise.all(sources)
-	.then((source) => {
-		for (const { url, params, template, filter, output } of source) {
-			fetch(url, params)
-				.then((response) => response.json())
-				.then((obj) => {
-					const formattedData = {
-						cached_at: new Date().toISOString(),
-						data: obj.data.filter(filter).map(template),
-					};
-					writeFileSync(output, JSON.stringify(formattedData), "utf-8");
-					console.log(`Data saved to ${output}`);
-				})
-				.catch((error) => {
-					console.error("Error fetching data:", error);
-				});
+	.then(async (source) => {
+		for (const { urls, params, template, filter, output } of source) {
+			const fetchPromises = urls.map((url) =>
+				fetch(url, params).then((response) => response.json()),
+			);
+			const results = await Promise.all(fetchPromises);
+			console.log("Results:", results);
+			const mergedData = results
+				.flatMap((obj) => obj.data)
+				.filter(filter)
+				.map(template);
+			const formattedData = {
+				cached_at: new Date().toISOString(),
+				data: mergedData,
+			};
+			writeFileSync(output, JSON.stringify(formattedData), "utf-8");
+			console.log(`Data saved to ${output}`);
 		}
 	})
 	.catch((error) => {
