@@ -62,7 +62,10 @@ if (Math.random() < chanceToRun) {
 		.then((response) => response.json())
 		.then((json) => {
 			if (json.data?.id) {
-				writeFileSync("api/discount.json", JSON.stringify(json, null, 2));
+				writeFileSync(
+					"api/discount_shorttime.json",
+					JSON.stringify(json, null, 2),
+				);
 				console.log("Discount code created successfully");
 				postToDiscord(
 					"1204197126775504926",

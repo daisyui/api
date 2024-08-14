@@ -24,7 +24,7 @@ jobs:
         run: bun build_log.js
 
       - name: Create Discount
-        run: bun create_discount.js
+        run: bun discount_shorttime.js
 
       - name: Configure Git
         run: |

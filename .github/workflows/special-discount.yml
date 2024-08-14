@@ -38,7 +38,7 @@ jobs:
         run: bun build_log.js
 
       - name: Create Discount
-        run: bun special_discount.js ${{ inputs.discount_percentage }} ${{ inputs.discount_days }} "${{ inputs.discount_title }}" "${{ inputs.discount_code }}"
+        run: bun discount_special.js ${{ inputs.discount_percentage }} ${{ inputs.discount_days }} "${{ inputs.discount_title }}" "${{ inputs.discount_code }}"
 
       - name: Configure Git
         run: |
