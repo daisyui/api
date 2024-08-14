@@ -1,4 +1,4 @@
-name: Update API data
+name: Create Special Discount
 
 on:
   workflow_dispatch:
