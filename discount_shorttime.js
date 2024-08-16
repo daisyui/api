@@ -7,7 +7,7 @@ import {
 	expiresIn,
 } from "./functions.js";
 
-const chanceToRun = 40 / 100;
+const chanceToRun = 30 / 100;
 const discountPercentages = [
 	{ value: 5, chance: 30 },
 	{ value: 10, chance: 25 },
