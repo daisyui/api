@@ -7,7 +7,7 @@ import {
 	expiresIn,
 } from "./functions.js";
 
-const chanceToRun = 30 / 100;
+const chanceToRun = 20 / 100;
 const discountPercentages = [
 	{ value: 5, chance: 30 },
 	{ value: 10, chance: 25 },
@@ -17,10 +17,10 @@ const discountPercentages = [
 	{ value: 50, chance: 1 },
 ];
 const discountDuration = [
-	{ value: 1 * 60, chance: 55 },
-	{ value: 2 * 60, chance: 20 },
-	{ value: 3 * 60, chance: 15 },
-	{ value: 4 * 60, chance: 9 },
+	{ value: 1 * 60, chance: 70 },
+	{ value: 2 * 60, chance: 15 },
+	{ value: 3 * 60, chance: 10 },
+	{ value: 4 * 60, chance: 4 },
 	{ value: 5 * 60, chance: 1 },
 ];
 const apiKey = process.env.LEMONSQUEEZY_API_KEY;
