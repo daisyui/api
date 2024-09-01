@@ -7,21 +7,18 @@ import {
 	expiresIn,
 } from "./functions.js";
 
-const chanceToRun = 20 / 100;
+const chanceToRun = 10 / 100;
 const discountPercentages = [
-	{ value: 5, chance: 30 },
-	{ value: 10, chance: 25 },
-	{ value: 15, chance: 20 },
-	{ value: 20, chance: 15 },
-	{ value: 25, chance: 9 },
+	{ value: 5, chance: 60 },
+	{ value: 10, chance: 20 },
+	{ value: 15, chance: 15 },
+	{ value: 20, chance: 4 },
 	{ value: 50, chance: 1 },
 ];
 const discountDuration = [
-	{ value: 1 * 60, chance: 70 },
-	{ value: 2 * 60, chance: 15 },
-	{ value: 3 * 60, chance: 10 },
-	{ value: 4 * 60, chance: 4 },
-	{ value: 5 * 60, chance: 1 },
+	{ value: 4 * 60, chance: 50 },
+	{ value: 5 * 60, chance: 30 },
+	{ value: 6 * 60, chance: 20 },
 ];
 const apiKey = process.env.LEMONSQUEEZY_API_KEY;
 const url = "https://api.lemonsqueezy.com/v1/discounts";
