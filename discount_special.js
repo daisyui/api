@@ -1,13 +1,12 @@
 import { writeFileSync } from "bun:fs";
 import { postToDiscord } from "./post_to_discord.js";
+import { config } from "./config.js";
 import {
 	generateDiscountCode,
 	addMinutesToIsoTime,
 	expiresIn,
 } from "./functions.js";
 
-const apiKey = process.env.LEMONSQUEEZY_API_KEY;
-const url = "https://api.lemonsqueezy.com/v1/discounts";
 const args = process.argv.slice(2);
 
 const data = {
@@ -24,19 +23,19 @@ const data = {
 			store: {
 				data: {
 					type: "stores",
-					id: "10640",
+					id: config.storeId,
 				},
 			},
 		},
 	},
 };
 
-fetch(url, {
+fetch("https://api.lemonsqueezy.com/v1/discounts", {
 	method: "POST",
 	headers: {
 		Accept: "application/vnd.api+json",
 		"Content-Type": "application/vnd.api+json",
-		Authorization: `Bearer ${apiKey}`,
+		Authorization: `Bearer ${process.env.LEMONSQUEEZY_API_KEY}`,
 	},
 	body: JSON.stringify(data),
 })
@@ -46,7 +45,7 @@ fetch(url, {
 			writeFileSync("api/discount_special.json", JSON.stringify(json, null, 2));
 			console.log("Discount code created successfully");
 			postToDiscord(
-				"1204197126775504926",
+				config.channelId,
 				`🎁 daisyUI Store: ${args[2]}
 Use code \`${json.data.attributes.code}\` at checkout to get ${json.data.attributes.amount}% discount on all products
 ${expiresIn(json.data.attributes.expires_at)}

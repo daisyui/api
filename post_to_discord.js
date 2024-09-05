@@ -1,3 +1,4 @@
+import { config } from "./config.js";
 export const postToDiscord = (channelId, message) => {
 	const messageData = {
 		content: message,
@@ -18,7 +19,7 @@ export const postToDiscord = (channelId, message) => {
 				return;
 			}
 			console.log(
-				`Published: https://discord.com/channels/1204154732978118716/${data.channel_id}/${data.id}`,
+				`Published: https://discord.com/channels/${config.serverId}/${data.channel_id}/${data.id}`,
 			);
 		})
 		.catch((error) => {

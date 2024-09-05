@@ -1,8 +1,7 @@
 import { writeFileSync } from "bun:fs";
+import { config } from "./config.js";
 
-const files = ["./source/142623.js", "./source/144550.js"];
-
-const sources = files.map(async (path) => {
+const sources = config.logFiles.map(async (path) => {
 	const module = await import(path);
 	return {
 		urls: module.url,

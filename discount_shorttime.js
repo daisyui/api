@@ -1,5 +1,6 @@
 import { writeFileSync } from "bun:fs";
 import { postToDiscord } from "./post_to_discord.js";
+import { config } from "./config.js";
 import {
 	getRandomValueWithChance,
 	generateDiscountCode,
@@ -7,52 +8,36 @@ import {
 	expiresIn,
 } from "./functions.js";
 
-const chanceToRun = 10 / 100;
-const discountPercentages = [
-	{ value: 5, chance: 60 },
-	{ value: 10, chance: 20 },
-	{ value: 15, chance: 15 },
-	{ value: 20, chance: 4 },
-	{ value: 50, chance: 1 },
-];
-const discountDuration = [
-	{ value: 4 * 60, chance: 50 },
-	{ value: 5 * 60, chance: 30 },
-	{ value: 6 * 60, chance: 20 },
-];
-const apiKey = process.env.LEMONSQUEEZY_API_KEY;
-const url = "https://api.lemonsqueezy.com/v1/discounts";
-
 const data = {
 	data: {
 		type: "discounts",
 		attributes: {
 			name: "Limited time discount code!",
 			code: `LTD${generateDiscountCode(9)}`,
-			amount: getRandomValueWithChance(discountPercentages),
+			amount: getRandomValueWithChance(config.discountPercentages),
 			amount_type: "percent",
 			expires_at: addMinutesToIsoTime(
-				getRandomValueWithChance(discountDuration),
+				getRandomValueWithChance(config.discountDuration),
 			),
 		},
 		relationships: {
 			store: {
 				data: {
 					type: "stores",
-					id: "10640",
+					id: config.storeId,
 				},
 			},
 		},
 	},
 };
 
-if (Math.random() < chanceToRun) {
-	fetch(url, {
+if (Math.random() < config.chanceToRun) {
+	fetch("https://api.lemonsqueezy.com/v1/discounts", {
 		method: "POST",
 		headers: {
 			Accept: "application/vnd.api+json",
 			"Content-Type": "application/vnd.api+json",
-			Authorization: `Bearer ${apiKey}`,
+			Authorization: `Bearer ${process.env.LEMONSQUEEZY_API_KEY}`,
 		},
 		body: JSON.stringify(data),
 	})
@@ -64,13 +49,17 @@ if (Math.random() < chanceToRun) {
 					JSON.stringify(json, null, 2),
 				);
 				console.log("Discount code created successfully");
-				postToDiscord(
-					"1204197126775504926",
-					`🎁 daisyUI Store: short time discount
-Use code \`${json.data.attributes.code}\` at checkout to get ${json.data.attributes.amount}% discount on all products
-${expiresIn(json.data.attributes.expires_at)}
-https://daisyui.com/store`,
-				);
+				if (Math.random() < config.chanceToShare) {
+  				postToDiscord(
+  					config.channelId,
+  					`🎁 daisyUI Store: short time discount
+  Use code \`${json.data.attributes.code}\` at checkout to get ${json.data.attributes.amount}% discount on all products
+  ${expiresIn(json.data.attributes.expires_at)}
+  https://daisyui.com/store`,
+  				);
+				} else {
+				  console.log("skipped posting to Discord");
+				}
 			} else {
 				console.error("Failed to create discount code:", json);
 			}
