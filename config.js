@@ -1,6 +1,6 @@
 export const config = {
-  chanceToRun: 100 / 100,
-  chanceToShare: 5 / 100,
+  chanceToRun: 80 / 100,
+  chanceToShare: 20 / 100,
   discountPercentages: [
     { value: 5, chance: 50 },
     { value: 10, chance: 40 },
