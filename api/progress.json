@@ -1,0 +1,101 @@
+{
+  "daisyui5": {
+    "setup": {
+      "structure": true,
+      "tailwind": true,
+      "esm": true,
+      "nesting": true,
+      "deps": true,
+      "build pipeline": true,
+      "formatter": true,
+      "generate tw config for components": true,
+      "remove old files": false
+    },
+    "cdn": {
+      "full version": false,
+      "no build version": false,
+      "oraganize files": false
+    },
+    "themes": {
+      "remove fallback colors": true,
+      "theme-loading": true,
+      "light": true,
+      "dark": true,
+      "others": false,
+      "custom": false
+    },
+    "components": {
+      "accordion": false,
+      "alert": false,
+      "artboard": false,
+      "avatar": false,
+      "badge": false,
+      "bottom-navigation": false,
+      "breadcrumbs": false,
+      "button": true,
+      "card": false,
+      "carousel": false,
+      "chat": false,
+      "checkbox": true,
+      "collapse": false,
+      "countdown": false,
+      "diff": false,
+      "divider": false,
+      "drawer": false,
+      "dropdown": false,
+      "file-input": false,
+      "footer": false,
+      "hero": false,
+      "indicator": false,
+      "input": true,
+      "join": false,
+      "kbd": false,
+      "link": false,
+      "loading": false,
+      "mask": true,
+      "menu": false,
+      "mockup-browser": false,
+      "mockup-code": false,
+      "mockup-phone": false,
+      "mockup-window": false,
+      "modal": false,
+      "navbar": false,
+      "pagination": false,
+      "progress": false,
+      "radial-progress": false,
+      "radio": true,
+      "range": true,
+      "rating": true,
+      "select": false,
+      "skeleton": false,
+      "stack": false,
+      "stat": false,
+      "steps": false,
+      "swap": false,
+      "tab": false,
+      "table": false,
+      "textarea": false,
+      "theme-controller": false,
+      "timeline": false,
+      "toast": false,
+      "toggle": true,
+      "tooltip": false
+    },
+    "new features": {
+      "tag": false,
+      "banner": false,
+      "dotted variants": false,
+      "bottom-sheet": false
+    },
+    "refactor": {
+      "diff": false
+    },
+    "tests": {
+      "framworks": false,
+      "esm": false,
+      "cdn": false,
+      "fallback": false,
+      "backward compatibility": false
+    }
+  }
+}
