@@ -13,12 +13,18 @@ const sources = config.logFiles.map(async (path) => {
 });
 
 Promise.all(sources)
-  .then(async (source) => {
-    for (const { urls, params, template, filter, output } of source) {
-      const fetchPromises = urls.map((url) =>
-        fetch(url, params).then((response) => response.json()),
-      );
-      const results = await Promise.all(fetchPromises);
+  .then(async (sources) => {
+    const allFetchPromises = sources.flatMap(({ urls, params }) =>
+      urls.map((url) => fetch(url, params).then((response) => response.json()))
+    );
+
+    const allResults = await Promise.all(allFetchPromises);
+
+    let resultIndex = 0;
+    for (const { urls, template, filter, output } of sources) {
+      const results = allResults.slice(resultIndex, resultIndex + urls.length);
+      resultIndex += urls.length;
+
       const mergedData = results
         .flatMap((obj) => obj.data)
         .filter(filter)
