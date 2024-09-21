@@ -45,7 +45,7 @@ if (Math.random() < config.chanceToRun) {
     .then((json) => {
       if (json.data?.id) {
         writeFileSync(
-          "public/api/discount_shorttime.json",
+          "docs/api/discount_shorttime.json",
           JSON.stringify(json, null, 2),
         );
         console.log("Discount code created successfully");

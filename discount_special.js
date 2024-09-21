@@ -42,7 +42,7 @@ fetch("https://api.lemonsqueezy.com/v1/discounts", {
   .then((response) => response.json())
   .then((json) => {
     if (json.data?.id) {
-      writeFileSync("public/api/discount_special.json", JSON.stringify(json, null, 2));
+      writeFileSync("docs/api/discount_special.json", JSON.stringify(json, null, 2));
       console.log("Discount code created successfully");
       postToDiscord(
         config.channelId,
