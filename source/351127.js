@@ -4,4 +4,4 @@ const products = [351127];
 export const filter = (order) => {
   return products.includes(order?.attributes?.first_order_item?.product_id);
 };
-export const output = "public/api/351127.json";
+export const output = "docs/api/351127.json";
