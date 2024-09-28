@@ -12,9 +12,11 @@
       "remove old files": false
     },
     "cdn": {
-      "full version": false,
-      "no build version": false,
-      "oraganize files": false
+      "full": true,
+      "components": true,
+      "themes": false,
+      "utilities": false,
+      "responsive": false
     },
     "themes": {
       "remove fallback colors": true,
@@ -49,7 +51,7 @@
       "indicator": false,
       "input": true,
       "join": false,
-      "kbd": false,
+      "kbd": true,
       "link": false,
       "loading": false,
       "mask": true,
@@ -89,6 +91,13 @@
     },
     "refactor": {
       "diff": false
+    },
+    "redesign": {
+      "button": true,
+      "checkbox": true,
+      "input": true,
+      "radio": true,
+      "toggle": true
     },
     "tests": {
       "framworks": false,
