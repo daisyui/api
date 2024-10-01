@@ -53,9 +53,9 @@
       "join": false,
       "kbd": true,
       "link": false,
-      "loading": false,
+      "loading": true,
       "mask": true,
-      "menu": false,
+      "menu": true,
       "mockup-browser": false,
       "mockup-code": false,
       "mockup-phone": false,
@@ -74,14 +74,14 @@
       "stat": false,
       "steps": false,
       "swap": false,
-      "tab": false,
+      "tab": true,
       "table": false,
       "textarea": false,
       "theme-controller": false,
       "timeline": false,
       "toast": false,
       "toggle": true,
-      "tooltip": false
+      "tooltip": true
     },
     "new features": {
       "tag": false,
@@ -105,6 +105,17 @@
       "cdn": false,
       "fallback": false,
       "backward compatibility": false
+    },
+    "docs": {
+      "update docs": false,
+      "theme generator": false,
+      "update examples": false
+    },
+    "performance": {
+      "optimize file size": false
+    },
+    "accessibility": {
+      "check": false
     }
   }
 }
