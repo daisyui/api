@@ -9,10 +9,12 @@
       "build pipeline": true,
       "formatter": true,
       "generate tw config for components": true,
-      "remove old files": false
+      "remove old files": false,
+      "prefix": false
     },
     "cdn": {
       "full": true,
+      "chunks": true,
       "components": true,
       "themes": false,
       "utilities": false,
@@ -30,7 +32,7 @@
       "accordion": false,
       "alert": false,
       "artboard": false,
-      "avatar": false,
+      "avatar": true,
       "badge": true,
       "bottom-navigation": false,
       "breadcrumbs": false,
@@ -44,7 +46,7 @@
       "diff": false,
       "divider": false,
       "drawer": false,
-      "dropdown": false,
+      "dropdown": true,
       "file-input": false,
       "footer": false,
       "hero": false,
@@ -52,7 +54,7 @@
       "input": true,
       "join": false,
       "kbd": true,
-      "link": false,
+      "link": true,
       "loading": true,
       "mask": true,
       "menu": true,
@@ -70,7 +72,7 @@
       "rating": true,
       "select": true,
       "skeleton": false,
-      "stack": false,
+      "stack": true,
       "stat": false,
       "steps": false,
       "swap": false,
@@ -90,7 +92,8 @@
       "bottom-sheet": false
     },
     "refactor": {
-      "diff": false
+      "diff": false,
+      "alert": true
     },
     "redesign": {
       "button": true,
@@ -112,7 +115,7 @@
       "update examples": false
     },
     "performance": {
-      "optimize file size": false
+      "optimize file size": true
     },
     "accessibility": {
       "check": false
