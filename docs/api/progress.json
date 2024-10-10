@@ -89,7 +89,8 @@
       "tag": false,
       "banner": false,
       "dotted variants": false,
-      "bottom-sheet": false
+      "bottom-sheet": false,
+      "animated tab": false
     },
     "refactor": {
       "diff": false,
@@ -119,6 +120,11 @@
     },
     "accessibility": {
       "check": false
+    },
+    "release": {
+      "public alpha": false,
+      "public beta": false,
+      "stable": false
     }
   }
 }
