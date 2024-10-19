@@ -16,7 +16,7 @@
       "full": true,
       "chunks": true,
       "components": true,
-      "themes": false,
+      "themes": true,
       "utilities": false,
       "responsive": false
     },
@@ -25,12 +25,12 @@
       "theme-loading": true,
       "light": true,
       "dark": true,
-      "others": false,
-      "custom": false
+      "others": true,
+      "custom": true
     },
     "components": {
       "accordion": true,
-      "alert": false,
+      "alert": true,
       "artboard": false,
       "avatar": true,
       "badge": true,
@@ -44,7 +44,7 @@
       "collapse": true,
       "countdown": true,
       "diff": false,
-      "divider": false,
+      "divider": true,
       "drawer": false,
       "dropdown": true,
       "file-input": false,
@@ -74,7 +74,7 @@
       "skeleton": true,
       "stack": true,
       "stat": false,
-      "steps": false,
+      "steps": true,
       "swap": true,
       "tab": true,
       "table": true,
@@ -86,9 +86,11 @@
       "tooltip": true
     },
     "new features": {
+      "status": true,
       "tag": false,
       "banner": false,
-      "dotted variants": false,
+      "dotted variants": true,
+      "soft variants": true,
       "bottom-sheet": false,
       "animated tab": false
     },
