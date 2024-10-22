@@ -50,7 +50,7 @@
       "file-input": false,
       "footer": true,
       "hero": true,
-      "indicator": false,
+      "indicator": true,
       "input": true,
       "join": true,
       "kbd": true,
@@ -81,11 +81,12 @@
       "textarea": false,
       "theme-controller": true,
       "timeline": true,
-      "toast": false,
+      "toast": true,
       "toggle": true,
       "tooltip": true
     },
     "new features": {
+      "replace rounded-box,button,badge with 1 automatic radius": false,
       "status": true,
       "tag": false,
       "banner": false,
