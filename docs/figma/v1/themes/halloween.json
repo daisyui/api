@@ -1,0 +1,152 @@
+{
+  "color": {
+    "semantic": {
+      "primary": {
+        "bg": {
+          "value": "#ff8f00",
+          "type": "color"
+        },
+        "content": {
+          "value": "#131616",
+          "type": "color"
+        }
+      },
+      "secondary": {
+        "bg": {
+          "value": "#7a00c2",
+          "type": "color"
+        },
+        "content": {
+          "value": "#e3d4f6",
+          "type": "color"
+        }
+      },
+      "accent": {
+        "bg": {
+          "value": "#42aa00",
+          "type": "color"
+        },
+        "content": {
+          "value": "#000000",
+          "type": "color"
+        }
+      },
+      "neutral": {
+        "bg": {
+          "value": "#2f1b05",
+          "type": "color"
+        },
+        "content": {
+          "value": "#d2ccc7",
+          "type": "color"
+        }
+      }
+    },
+    "base": {
+      "100": {
+        "value": "#212121",
+        "type": "color"
+      },
+      "200": {
+        "value": "#1d1d1d",
+        "type": "color"
+      },
+      "300": {
+        "value": "#191919",
+        "type": "color"
+      },
+      "content": {
+        "value": "#cdcdcd",
+        "type": "color"
+      }
+    },
+    "status": {
+      "info": {
+        "bg": {
+          "value": "#2563eb",
+          "type": "color"
+        },
+        "content": {
+          "value": "#d2e2ff",
+          "type": "color"
+        }
+      },
+      "success": {
+        "bg": {
+          "value": "#16a34a",
+          "type": "color"
+        },
+        "content": {
+          "value": "#000a02",
+          "type": "color"
+        }
+      },
+      "warning": {
+        "bg": {
+          "value": "#d97706",
+          "type": "color"
+        },
+        "content": {
+          "value": "#110500",
+          "type": "color"
+        }
+      },
+      "error": {
+        "bg": {
+          "value": "#f35248",
+          "type": "color"
+        },
+        "content": {
+          "value": "#140202",
+          "type": "color"
+        }
+      }
+    }
+  },
+  "borderWidth": {
+    "btn": {
+      "value": "1px",
+      "type": "dimension"
+    },
+    "tab": {
+      "value": "1px",
+      "type": "dimension"
+    }
+  },
+  "borderRadius": {
+    "box": {
+      "value": "16px",
+      "type": "dimension"
+    },
+    "btn": {
+      "value": "8px",
+      "type": "dimension"
+    },
+    "badge": {
+      "value": "30.4px",
+      "type": "dimension"
+    },
+    "tab": {
+      "value": "8px",
+      "type": "dimension"
+    },
+    "join": {
+      "value": "0px",
+      "type": "dimension"
+    }
+  },
+  "fontFamily": {
+    "primary": {
+      "value": "Inter",
+      "type": "fontFamilies"
+    },
+    "code": {
+      "value": "Menlo",
+      "type": "fontFamilies"
+    }
+  },
+  "themeName": {
+    "value": "halloween",
+    "type": "text"
+  }
+}

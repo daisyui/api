@@ -10,7 +10,7 @@
       "formatter": true,
       "generate tw config for components": true,
       "remove old files": false,
-      "prefix": false
+      "prefix": true
     },
     "cdn": {
       "full": true,
@@ -31,6 +31,7 @@
     "components": {
       "accordion": true,
       "alert": true,
+      "form-control": false,
       "artboard": false,
       "avatar": true,
       "badge": true,
@@ -88,17 +89,21 @@
     "new features": {
       "replace rounded-box,button,badge with 1 automatic radius": false,
       "status": true,
+      "shimmer/aura: wrapper div for gradient border or glow animation": false,
       "tag": false,
       "dock": true,
       "banner": false,
       "dash variants": true,
       "soft variants": true,
       "bottom-sheet": false,
+      "stack in other directions": false,
+      "segmented control": false,
       "animated tab": false
     },
     "refactor": {
       "diff": false,
-      "alert": true
+      "alert": true,
+      "tab": true
     },
     "redesign": {
       "button": true,
@@ -127,6 +132,7 @@
       "test on no-build stacks": false
     },
     "docs": {
+      "migrate svelte5": true,
       "update docs": false,
       "theme generator": false,
       "update examples": false,
@@ -134,6 +140,7 @@
       "update demos": false,
       "changelog": false,
       "i18n": false,
+      "more input examples": false,
       "new homepage": false
     },
     "performance": {

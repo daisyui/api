@@ -1,0 +1,152 @@
+{
+  "color": {
+    "semantic": {
+      "primary": {
+        "bg": {
+          "value": "#e779c1",
+          "type": "color"
+        },
+        "content": {
+          "value": "#13050e",
+          "type": "color"
+        }
+      },
+      "secondary": {
+        "bg": {
+          "value": "#58c7f3",
+          "type": "color"
+        },
+        "content": {
+          "value": "#030e14",
+          "type": "color"
+        }
+      },
+      "accent": {
+        "bg": {
+          "value": "#ffd200",
+          "type": "color"
+        },
+        "content": {
+          "value": "#171000",
+          "type": "color"
+        }
+      },
+      "neutral": {
+        "bg": {
+          "value": "#221551",
+          "type": "color"
+        },
+        "content": {
+          "value": "#f9f7fd",
+          "type": "color"
+        }
+      }
+    },
+    "base": {
+      "100": {
+        "value": "#1a103d",
+        "type": "color"
+      },
+      "200": {
+        "value": "#170d36",
+        "type": "color"
+      },
+      "300": {
+        "value": "#130b30",
+        "type": "color"
+      },
+      "content": {
+        "value": "#f9f7fd",
+        "type": "color"
+      }
+    },
+    "status": {
+      "info": {
+        "bg": {
+          "value": "#53c0f3",
+          "type": "color"
+        },
+        "content": {
+          "value": "#201047",
+          "type": "color"
+        }
+      },
+      "success": {
+        "bg": {
+          "value": "#71ead2",
+          "type": "color"
+        },
+        "content": {
+          "value": "#201047",
+          "type": "color"
+        }
+      },
+      "warning": {
+        "bg": {
+          "value": "#eace6c",
+          "type": "color"
+        },
+        "content": {
+          "value": "#201047",
+          "type": "color"
+        }
+      },
+      "error": {
+        "bg": {
+          "value": "#ec8c78",
+          "type": "color"
+        },
+        "content": {
+          "value": "#201047",
+          "type": "color"
+        }
+      }
+    }
+  },
+  "borderWidth": {
+    "btn": {
+      "value": "1px",
+      "type": "dimension"
+    },
+    "tab": {
+      "value": "1px",
+      "type": "dimension"
+    }
+  },
+  "borderRadius": {
+    "box": {
+      "value": "16px",
+      "type": "dimension"
+    },
+    "btn": {
+      "value": "8px",
+      "type": "dimension"
+    },
+    "badge": {
+      "value": "30.4px",
+      "type": "dimension"
+    },
+    "tab": {
+      "value": "8px",
+      "type": "dimension"
+    },
+    "join": {
+      "value": "0px",
+      "type": "dimension"
+    }
+  },
+  "fontFamily": {
+    "primary": {
+      "value": "Inter",
+      "type": "fontFamilies"
+    },
+    "code": {
+      "value": "Menlo",
+      "type": "fontFamilies"
+    }
+  },
+  "themeName": {
+    "value": "synthwave",
+    "type": "text"
+  }
+}

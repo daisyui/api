@@ -1,0 +1,152 @@
+{
+  "color": {
+    "semantic": {
+      "primary": {
+        "bg": {
+          "value": "#65c3c8",
+          "type": "color"
+        },
+        "content": {
+          "value": "#030e0f",
+          "type": "color"
+        }
+      },
+      "secondary": {
+        "bg": {
+          "value": "#ef9fbc",
+          "type": "color"
+        },
+        "content": {
+          "value": "#14090d",
+          "type": "color"
+        }
+      },
+      "accent": {
+        "bg": {
+          "value": "#eeaf3a",
+          "type": "color"
+        },
+        "content": {
+          "value": "#140b01",
+          "type": "color"
+        }
+      },
+      "neutral": {
+        "bg": {
+          "value": "#291334",
+          "type": "color"
+        },
+        "content": {
+          "value": "#d0cad3",
+          "type": "color"
+        }
+      }
+    },
+    "base": {
+      "100": {
+        "value": "#faf7f5",
+        "type": "color"
+      },
+      "200": {
+        "value": "#efeae6",
+        "type": "color"
+      },
+      "300": {
+        "value": "#e7e2df",
+        "type": "color"
+      },
+      "content": {
+        "value": "#291334",
+        "type": "color"
+      }
+    },
+    "status": {
+      "info": {
+        "bg": {
+          "value": "#00b5ff",
+          "type": "color"
+        },
+        "content": {
+          "value": "#000000",
+          "type": "color"
+        }
+      },
+      "success": {
+        "bg": {
+          "value": "#00a96e",
+          "type": "color"
+        },
+        "content": {
+          "value": "#000000",
+          "type": "color"
+        }
+      },
+      "warning": {
+        "bg": {
+          "value": "#ffbe00",
+          "type": "color"
+        },
+        "content": {
+          "value": "#000000",
+          "type": "color"
+        }
+      },
+      "error": {
+        "bg": {
+          "value": "#ff5861",
+          "type": "color"
+        },
+        "content": {
+          "value": "#000000",
+          "type": "color"
+        }
+      }
+    }
+  },
+  "borderWidth": {
+    "btn": {
+      "value": "1px",
+      "type": "dimension"
+    },
+    "tab": {
+      "value": "2px",
+      "type": "dimension"
+    }
+  },
+  "borderRadius": {
+    "box": {
+      "value": "16px",
+      "type": "dimension"
+    },
+    "btn": {
+      "value": "30.4px",
+      "type": "dimension"
+    },
+    "badge": {
+      "value": "30.4px",
+      "type": "dimension"
+    },
+    "tab": {
+      "value": "11.2px",
+      "type": "dimension"
+    },
+    "join": {
+      "value": "0px",
+      "type": "dimension"
+    }
+  },
+  "fontFamily": {
+    "primary": {
+      "value": "Inter",
+      "type": "fontFamilies"
+    },
+    "code": {
+      "value": "Menlo",
+      "type": "fontFamilies"
+    }
+  },
+  "themeName": {
+    "value": "cupcake",
+    "type": "text"
+  }
+}
