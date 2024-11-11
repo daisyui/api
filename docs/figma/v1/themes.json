@@ -1,5 +1,5 @@
-[
-  {
+{
+  "acid": {
     "color": {
       "semantic": {
         "primary": {
@@ -151,7 +151,7 @@
       "type": "text"
     }
   },
-  {
+  "aqua": {
     "color": {
       "semantic": {
         "primary": {
@@ -303,7 +303,7 @@
       "type": "text"
     }
   },
-  {
+  "autumn": {
     "color": {
       "semantic": {
         "primary": {
@@ -455,7 +455,7 @@
       "type": "text"
     }
   },
-  {
+  "black": {
     "color": {
       "semantic": {
         "primary": {
@@ -607,7 +607,7 @@
       "type": "text"
     }
   },
-  {
+  "bumblebee": {
     "color": {
       "semantic": {
         "primary": {
@@ -759,7 +759,7 @@
       "type": "text"
     }
   },
-  {
+  "business": {
     "color": {
       "semantic": {
         "primary": {
@@ -911,7 +911,7 @@
       "type": "text"
     }
   },
-  {
+  "cmyk": {
     "color": {
       "semantic": {
         "primary": {
@@ -1063,7 +1063,7 @@
       "type": "text"
     }
   },
-  {
+  "coffee": {
     "color": {
       "semantic": {
         "primary": {
@@ -1215,7 +1215,7 @@
       "type": "text"
     }
   },
-  {
+  "corporate": {
     "color": {
       "semantic": {
         "primary": {
@@ -1367,7 +1367,7 @@
       "type": "text"
     }
   },
-  {
+  "cupcake": {
     "color": {
       "semantic": {
         "primary": {
@@ -1519,7 +1519,7 @@
       "type": "text"
     }
   },
-  {
+  "cyberpunk": {
     "color": {
       "semantic": {
         "primary": {
@@ -1671,7 +1671,7 @@
       "type": "text"
     }
   },
-  {
+  "dark": {
     "color": {
       "semantic": {
         "primary": {
@@ -1823,7 +1823,7 @@
       "type": "text"
     }
   },
-  {
+  "dim": {
     "color": {
       "semantic": {
         "primary": {
@@ -1975,7 +1975,7 @@
       "type": "text"
     }
   },
-  {
+  "dracula": {
     "color": {
       "semantic": {
         "primary": {
@@ -2127,7 +2127,7 @@
       "type": "text"
     }
   },
-  {
+  "emerald": {
     "color": {
       "semantic": {
         "primary": {
@@ -2279,7 +2279,7 @@
       "type": "text"
     }
   },
-  {
+  "fantasy": {
     "color": {
       "semantic": {
         "primary": {
@@ -2431,7 +2431,7 @@
       "type": "text"
     }
   },
-  {
+  "forest": {
     "color": {
       "semantic": {
         "primary": {
@@ -2583,7 +2583,7 @@
       "type": "text"
     }
   },
-  {
+  "garden": {
     "color": {
       "semantic": {
         "primary": {
@@ -2735,7 +2735,7 @@
       "type": "text"
     }
   },
-  {
+  "halloween": {
     "color": {
       "semantic": {
         "primary": {
@@ -2887,7 +2887,7 @@
       "type": "text"
     }
   },
-  {
+  "lemonade": {
     "color": {
       "semantic": {
         "primary": {
@@ -3039,7 +3039,7 @@
       "type": "text"
     }
   },
-  {
+  "light": {
     "color": {
       "semantic": {
         "primary": {
@@ -3191,7 +3191,7 @@
       "type": "text"
     }
   },
-  {
+  "lofi": {
     "color": {
       "semantic": {
         "primary": {
@@ -3343,7 +3343,7 @@
       "type": "text"
     }
   },
-  {
+  "luxury": {
     "color": {
       "semantic": {
         "primary": {
@@ -3495,7 +3495,7 @@
       "type": "text"
     }
   },
-  {
+  "night": {
     "color": {
       "semantic": {
         "primary": {
@@ -3647,7 +3647,7 @@
       "type": "text"
     }
   },
-  {
+  "nord": {
     "color": {
       "semantic": {
         "primary": {
@@ -3799,7 +3799,7 @@
       "type": "text"
     }
   },
-  {
+  "pastel": {
     "color": {
       "semantic": {
         "primary": {
@@ -3951,7 +3951,7 @@
       "type": "text"
     }
   },
-  {
+  "retro": {
     "color": {
       "semantic": {
         "primary": {
@@ -4103,7 +4103,7 @@
       "type": "text"
     }
   },
-  {
+  "sunset": {
     "color": {
       "semantic": {
         "primary": {
@@ -4255,7 +4255,7 @@
       "type": "text"
     }
   },
-  {
+  "synthwave": {
     "color": {
       "semantic": {
         "primary": {
@@ -4407,7 +4407,7 @@
       "type": "text"
     }
   },
-  {
+  "valentine": {
     "color": {
       "semantic": {
         "primary": {
@@ -4559,7 +4559,7 @@
       "type": "text"
     }
   },
-  {
+  "winter": {
     "color": {
       "semantic": {
         "primary": {
@@ -4711,7 +4711,7 @@
       "type": "text"
     }
   },
-  {
+  "wireframe": {
     "color": {
       "semantic": {
         "primary": {
@@ -4863,4 +4863,4 @@
       "type": "text"
     }
   }
-]
+}
