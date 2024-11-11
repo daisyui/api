@@ -1,0 +1,6248 @@
+{
+  "light": {
+    "color": {
+      "base": {
+        "100": {
+          "value": "#FFFFFF",
+          "type": "color"
+        },
+        "200": {
+          "value": "#F2F2F2",
+          "type": "color"
+        },
+        "300": {
+          "value": "#E5E6E6",
+          "type": "color"
+        },
+        "content": {
+          "value": "#1F2937",
+          "type": "color"
+        }
+      },
+      "semantic": {
+        "primary": {
+          "content": {
+            "value": "#D1DBFF",
+            "type": "color"
+          },
+          "bg": {
+            "value": "#4A00FF",
+            "type": "color"
+          }
+        },
+        "neutral": {
+          "bg": {
+            "value": "#2B3440",
+            "type": "color"
+          },
+          "content": {
+            "value": "#D7DDE4",
+            "type": "color"
+          }
+        },
+        "accent": {
+          "bg": {
+            "value": "#00D7C0",
+            "type": "color"
+          },
+          "content": {
+            "value": "#00110E",
+            "type": "color"
+          }
+        },
+        "secondary": {
+          "content": {
+            "value": "#FFF8FD",
+            "type": "color"
+          },
+          "bg": {
+            "value": "#FF00D3",
+            "type": "color"
+          }
+        }
+      },
+      "status": {
+        "info": {
+          "content": {
+            "value": "#000000",
+            "type": "color"
+          },
+          "bg": {
+            "value": "#00B5FF",
+            "type": "color"
+          }
+        },
+        "warning": {
+          "bg": {
+            "value": "#FFBE00",
+            "type": "color"
+          },
+          "content": {
+            "value": "#000000",
+            "type": "color"
+          }
+        },
+        "success": {
+          "bg": {
+            "value": "#00A96E",
+            "type": "color"
+          },
+          "content": {
+            "value": "#000000",
+            "type": "color"
+          }
+        },
+        "error": {
+          "content": {
+            "value": "#000000",
+            "type": "color"
+          },
+          "bg": {
+            "value": "#FF5861",
+            "type": "color"
+          }
+        }
+      }
+    },
+    "borderWidth": {
+      "btn": {
+        "value": "1px",
+        "type": "dimension"
+      },
+      "tab": {
+        "value": "1px",
+        "type": "dimension"
+      }
+    },
+    "borderRadius": {
+      "box": {
+        "value": "16px",
+        "type": "dimension"
+      },
+      "btn": {
+        "value": "8px",
+        "type": "dimension"
+      },
+      "badge": {
+        "value": "30.4px",
+        "type": "dimension"
+      },
+      "tab": {
+        "value": "8px",
+        "type": "dimension"
+      },
+      "join": {
+        "value": "0px",
+        "type": "dimension"
+      }
+    },
+    "fontFamily": {
+      "primary": {
+        "value": "Inter",
+        "type": "fontFamilies"
+      },
+      "code": {
+        "value": "Menlo",
+        "type": "fontFamilies"
+      }
+    },
+    "themeName": {
+      "value": "light",
+      "type": "text"
+    }
+  },
+  "dark": {
+    "color": {
+      "semantic": {
+        "primary": {
+          "bg": {
+            "value": "#7480FF",
+            "type": "color"
+          },
+          "content": {
+            "value": "#050617",
+            "type": "color"
+          }
+        },
+        "secondary": {
+          "bg": {
+            "value": "#FF52D9",
+            "type": "color"
+          },
+          "content": {
+            "value": "#190211",
+            "type": "color"
+          }
+        },
+        "accent": {
+          "bg": {
+            "value": "#00CDB7",
+            "type": "color"
+          },
+          "content": {
+            "value": "#000F0C",
+            "type": "color"
+          }
+        },
+        "neutral": {
+          "bg": {
+            "value": "#2A323C",
+            "type": "color"
+          },
+          "content": {
+            "value": "#A6ADBB",
+            "type": "color"
+          }
+        }
+      },
+      "base": {
+        "100": {
+          "value": "#1D232A",
+          "type": "color"
+        },
+        "200": {
+          "value": "#191E24",
+          "type": "color"
+        },
+        "300": {
+          "value": "#15191E",
+          "type": "color"
+        },
+        "content": {
+          "value": "#A6ADBB",
+          "type": "color"
+        }
+      },
+      "status": {
+        "info": {
+          "bg": {
+            "value": "#00B5FF",
+            "type": "color"
+          },
+          "content": {
+            "value": "#000000",
+            "type": "color"
+          }
+        },
+        "success": {
+          "bg": {
+            "value": "#00A96E",
+            "type": "color"
+          },
+          "content": {
+            "value": "#000000",
+            "type": "color"
+          }
+        },
+        "warning": {
+          "bg": {
+            "value": "#FFBE00",
+            "type": "color"
+          },
+          "content": {
+            "value": "#000000",
+            "type": "color"
+          }
+        },
+        "error": {
+          "bg": {
+            "value": "#FF5861",
+            "type": "color"
+          },
+          "content": {
+            "value": "#000000",
+            "type": "color"
+          }
+        }
+      }
+    },
+    "borderWidth": {
+      "btn": {
+        "value": "1px",
+        "type": "dimension"
+      },
+      "tab": {
+        "value": "1px",
+        "type": "dimension"
+      }
+    },
+    "borderRadius": {
+      "box": {
+        "value": "16px",
+        "type": "dimension"
+      },
+      "btn": {
+        "value": "8px",
+        "type": "dimension"
+      },
+      "badge": {
+        "value": "30.4px",
+        "type": "dimension"
+      },
+      "tab": {
+        "value": "8px",
+        "type": "dimension"
+      },
+      "join": {
+        "value": "0px",
+        "type": "dimension"
+      }
+    },
+    "fontFamily": {
+      "primary": {
+        "value": "Inter",
+        "type": "fontFamilies"
+      },
+      "code": {
+        "value": "Menlo",
+        "type": "fontFamilies"
+      }
+    },
+    "themeName": {
+      "value": "dark",
+      "type": "text"
+    }
+  },
+  "valentine": {
+    "color": {
+      "semantic": {
+        "primary": {
+          "bg": {
+            "value": "#E96D7B",
+            "type": "color"
+          },
+          "content": {
+            "value": "#130405",
+            "type": "color"
+          }
+        },
+        "secondary": {
+          "bg": {
+            "value": "#A991F7",
+            "type": "color"
+          },
+          "content": {
+            "value": "#0A0715",
+            "type": "color"
+          }
+        },
+        "accent": {
+          "bg": {
+            "value": "#66B1B3",
+            "type": "color"
+          },
+          "content": {
+            "value": "#040C0C",
+            "type": "color"
+          }
+        },
+        "neutral": {
+          "content": {
+            "value": "#F0D6E8",
+            "type": "color"
+          },
+          "bg": {
+            "value": "#AF4670",
+            "type": "color"
+          }
+        }
+      },
+      "base": {
+        "100": {
+          "value": "#FAE7F4",
+          "type": "color"
+        },
+        "200": {
+          "value": "#E3D2DE",
+          "type": "color"
+        },
+        "300": {
+          "value": "#CDBDC8",
+          "type": "color"
+        },
+        "content": {
+          "value": "#632C3B",
+          "type": "color"
+        }
+      },
+      "status": {
+        "info": {
+          "bg": {
+            "value": "#2563EB",
+            "type": "color"
+          },
+          "content": {
+            "value": "#D2E2FF",
+            "type": "color"
+          }
+        },
+        "success": {
+          "bg": {
+            "value": "#16A34A",
+            "type": "color"
+          },
+          "content": {
+            "value": "#000A02",
+            "type": "color"
+          }
+        },
+        "warning": {
+          "bg": {
+            "value": "#D97706",
+            "type": "color"
+          },
+          "content": {
+            "value": "#110500",
+            "type": "color"
+          }
+        },
+        "error": {
+          "bg": {
+            "value": "#FF675B",
+            "type": "color"
+          },
+          "content": {
+            "value": "#180403",
+            "type": "color"
+          }
+        }
+      }
+    },
+    "borderWidth": {
+      "btn": {
+        "value": "1px",
+        "type": "dimension"
+      },
+      "tab": {
+        "value": "1px",
+        "type": "dimension"
+      }
+    },
+    "borderRadius": {
+      "box": {
+        "value": "16px",
+        "type": "dimension"
+      },
+      "btn": {
+        "value": "30.4px",
+        "type": "dimension"
+      },
+      "badge": {
+        "value": "30.4px",
+        "type": "dimension"
+      },
+      "tab": {
+        "value": "11.2px",
+        "type": "dimension"
+      },
+      "join": {
+        "value": "0px",
+        "type": "dimension"
+      }
+    },
+    "fontFamily": {
+      "primary": {
+        "value": "Inter",
+        "type": "fontFamilies"
+      },
+      "code": {
+        "value": "Menlo",
+        "type": "fontFamilies"
+      }
+    },
+    "themeName": {
+      "value": "valentine",
+      "type": "text"
+    }
+  },
+  "cyberpunk": {
+    "color": {
+      "semantic": {
+        "primary": {
+          "bg": {
+            "value": "#FF6596",
+            "type": "color"
+          },
+          "content": {
+            "value": "#180308",
+            "type": "color"
+          }
+        },
+        "secondary": {
+          "bg": {
+            "value": "#00E8FF",
+            "type": "color"
+          },
+          "content": {
+            "value": "#001316",
+            "type": "color"
+          }
+        },
+        "accent": {
+          "bg": {
+            "value": "#CE74FF",
+            "type": "color"
+          },
+          "content": {
+            "value": "#0F0517",
+            "type": "color"
+          }
+        },
+        "neutral": {
+          "bg": {
+            "value": "#111A3B",
+            "type": "color"
+          },
+          "content": {
+            "value": "#FFF248",
+            "type": "color"
+          }
+        }
+      },
+      "base": {
+        "100": {
+          "value": "#FFF248",
+          "type": "color"
+        },
+        "200": {
+          "value": "#E9DC41",
+          "type": "color"
+        },
+        "300": {
+          "value": "#D2C639",
+          "type": "color"
+        },
+        "content": {
+          "value": "#161402",
+          "type": "color"
+        }
+      },
+      "status": {
+        "info": {
+          "bg": {
+            "value": "#00B5FF",
+            "type": "color"
+          },
+          "content": {
+            "value": "#000000",
+            "type": "color"
+          }
+        },
+        "success": {
+          "bg": {
+            "value": "#00A96E",
+            "type": "color"
+          },
+          "content": {
+            "value": "#000000",
+            "type": "color"
+          }
+        },
+        "warning": {
+          "bg": {
+            "value": "#FFBE00",
+            "type": "color"
+          },
+          "content": {
+            "value": "#000000",
+            "type": "color"
+          }
+        },
+        "error": {
+          "bg": {
+            "value": "#FF5861",
+            "type": "color"
+          },
+          "content": {
+            "value": "#000000",
+            "type": "color"
+          }
+        }
+      }
+    },
+    "borderWidth": {
+      "btn": {
+        "value": "1px",
+        "type": "dimension"
+      },
+      "tab": {
+        "value": "1px",
+        "type": "dimension"
+      }
+    },
+    "borderRadius": {
+      "box": {
+        "value": "0px",
+        "type": "dimension"
+      },
+      "btn": {
+        "value": "0px",
+        "type": "dimension"
+      },
+      "badge": {
+        "value": "0px",
+        "type": "dimension"
+      },
+      "tab": {
+        "value": "0px",
+        "type": "dimension"
+      },
+      "join": {
+        "value": "0px",
+        "type": "dimension"
+      }
+    },
+    "fontFamily": {
+      "primary": {
+        "value": "Menlo",
+        "type": "fontFamilies"
+      },
+      "code": {
+        "value": "Menlo",
+        "type": "fontFamilies"
+      }
+    },
+    "themeName": {
+      "value": "cyberpunk",
+      "type": "text"
+    }
+  },
+  "acid": {
+    "color": {
+      "semantic": {
+        "primary": {
+          "bg": {
+            "value": "#ff00ff",
+            "type": "color"
+          },
+          "content": {
+            "value": "#190017",
+            "type": "color"
+          }
+        },
+        "secondary": {
+          "bg": {
+            "value": "#ff6e00",
+            "type": "color"
+          },
+          "content": {
+            "value": "#190400",
+            "type": "color"
+          }
+        },
+        "accent": {
+          "bg": {
+            "value": "#c8ff00",
+            "type": "color"
+          },
+          "content": {
+            "value": "#0f1600",
+            "type": "color"
+          }
+        },
+        "neutral": {
+          "bg": {
+            "value": "#140151",
+            "type": "color"
+          },
+          "content": {
+            "value": "#c7cadc",
+            "type": "color"
+          }
+        }
+      },
+      "base": {
+        "100": {
+          "value": "#fafafa",
+          "type": "color"
+        },
+        "200": {
+          "value": "#e3e3e3",
+          "type": "color"
+        },
+        "300": {
+          "value": "#cdcdcd",
+          "type": "color"
+        },
+        "content": {
+          "value": "#151515",
+          "type": "color"
+        }
+      },
+      "status": {
+        "info": {
+          "bg": {
+            "value": "#007fff",
+            "type": "color"
+          },
+          "content": {
+            "value": "#000617",
+            "type": "color"
+          }
+        },
+        "success": {
+          "bg": {
+            "value": "#00ff8a",
+            "type": "color"
+          },
+          "content": {
+            "value": "#001607",
+            "type": "color"
+          }
+        },
+        "warning": {
+          "bg": {
+            "value": "#ffe200",
+            "type": "color"
+          },
+          "content": {
+            "value": "#161200",
+            "type": "color"
+          }
+        },
+        "error": {
+          "bg": {
+            "value": "#ff0000",
+            "type": "color"
+          },
+          "content": {
+            "value": "#190000",
+            "type": "color"
+          }
+        }
+      }
+    },
+    "borderWidth": {
+      "btn": {
+        "value": "1px",
+        "type": "dimension"
+      },
+      "tab": {
+        "value": "1px",
+        "type": "dimension"
+      }
+    },
+    "borderRadius": {
+      "box": {
+        "value": "20px",
+        "type": "dimension"
+      },
+      "btn": {
+        "value": "16px",
+        "type": "dimension"
+      },
+      "badge": {
+        "value": "16px",
+        "type": "dimension"
+      },
+      "tab": {
+        "value": "11.2px",
+        "type": "dimension"
+      },
+      "join": {
+        "value": "0px",
+        "type": "dimension"
+      }
+    },
+    "fontFamily": {
+      "primary": {
+        "value": "Inter",
+        "type": "fontFamilies"
+      },
+      "code": {
+        "value": "Menlo",
+        "type": "fontFamilies"
+      }
+    },
+    "themeName": {
+      "value": "acid",
+      "type": "text"
+    }
+  },
+  "aqua": {
+    "color": {
+      "semantic": {
+        "primary": {
+          "bg": {
+            "value": "#09ecf3",
+            "type": "color"
+          },
+          "content": {
+            "value": "#005355",
+            "type": "color"
+          }
+        },
+        "secondary": {
+          "bg": {
+            "value": "#966fb3",
+            "type": "color"
+          },
+          "content": {
+            "value": "#08040c",
+            "type": "color"
+          }
+        },
+        "accent": {
+          "bg": {
+            "value": "#ffe999",
+            "type": "color"
+          },
+          "content": {
+            "value": "#161308",
+            "type": "color"
+          }
+        },
+        "neutral": {
+          "bg": {
+            "value": "#3b8ac4",
+            "type": "color"
+          },
+          "content": {
+            "value": "#01070e",
+            "type": "color"
+          }
+        }
+      },
+      "base": {
+        "100": {
+          "value": "#345da7",
+          "type": "color"
+        },
+        "200": {
+          "value": "#2e5497",
+          "type": "color"
+        },
+        "300": {
+          "value": "#294b88",
+          "type": "color"
+        },
+        "content": {
+          "value": "#d4deef",
+          "type": "color"
+        }
+      },
+      "status": {
+        "info": {
+          "bg": {
+            "value": "#2563eb",
+            "type": "color"
+          },
+          "content": {
+            "value": "#d2e2ff",
+            "type": "color"
+          }
+        },
+        "success": {
+          "bg": {
+            "value": "#16a34a",
+            "type": "color"
+          },
+          "content": {
+            "value": "#000a02",
+            "type": "color"
+          }
+        },
+        "warning": {
+          "bg": {
+            "value": "#d97706",
+            "type": "color"
+          },
+          "content": {
+            "value": "#110500",
+            "type": "color"
+          }
+        },
+        "error": {
+          "bg": {
+            "value": "#ff7265",
+            "type": "color"
+          },
+          "content": {
+            "value": "#180403",
+            "type": "color"
+          }
+        }
+      }
+    },
+    "borderWidth": {
+      "btn": {
+        "value": "1px",
+        "type": "dimension"
+      },
+      "tab": {
+        "value": "1px",
+        "type": "dimension"
+      }
+    },
+    "borderRadius": {
+      "box": {
+        "value": "16px",
+        "type": "dimension"
+      },
+      "btn": {
+        "value": "8px",
+        "type": "dimension"
+      },
+      "badge": {
+        "value": "30.4px",
+        "type": "dimension"
+      },
+      "tab": {
+        "value": "8px",
+        "type": "dimension"
+      },
+      "join": {
+        "value": "0px",
+        "type": "dimension"
+      }
+    },
+    "fontFamily": {
+      "primary": {
+        "value": "Inter",
+        "type": "fontFamilies"
+      },
+      "code": {
+        "value": "Menlo",
+        "type": "fontFamilies"
+      }
+    },
+    "themeName": {
+      "value": "aqua",
+      "type": "text"
+    }
+  },
+  "autumn": {
+    "color": {
+      "semantic": {
+        "primary": {
+          "bg": {
+            "value": "#8c0327",
+            "type": "color"
+          },
+          "content": {
+            "value": "#edd0d0",
+            "type": "color"
+          }
+        },
+        "secondary": {
+          "bg": {
+            "value": "#d85251",
+            "type": "color"
+          },
+          "content": {
+            "value": "#110202",
+            "type": "color"
+          }
+        },
+        "accent": {
+          "bg": {
+            "value": "#d59b6a",
+            "type": "color"
+          },
+          "content": {
+            "value": "#100904",
+            "type": "color"
+          }
+        },
+        "neutral": {
+          "bg": {
+            "value": "#826a5c",
+            "type": "color"
+          },
+          "content": {
+            "value": "#e5e0dc",
+            "type": "color"
+          }
+        }
+      },
+      "base": {
+        "100": {
+          "value": "#f1f1f1",
+          "type": "color"
+        },
+        "200": {
+          "value": "#dbdbdb",
+          "type": "color"
+        },
+        "300": {
+          "value": "#c5c5c5",
+          "type": "color"
+        },
+        "content": {
+          "value": "#141414",
+          "type": "color"
+        }
+      },
+      "status": {
+        "info": {
+          "bg": {
+            "value": "#42adbb",
+            "type": "color"
+          },
+          "content": {
+            "value": "#010b0d",
+            "type": "color"
+          }
+        },
+        "success": {
+          "bg": {
+            "value": "#499380",
+            "type": "color"
+          },
+          "content": {
+            "value": "#020806",
+            "type": "color"
+          }
+        },
+        "warning": {
+          "bg": {
+            "value": "#e97f14",
+            "type": "color"
+          },
+          "content": {
+            "value": "#130600",
+            "type": "color"
+          }
+        },
+        "error": {
+          "bg": {
+            "value": "#d40014",
+            "type": "color"
+          },
+          "content": {
+            "value": "#ffd4d1",
+            "type": "color"
+          }
+        }
+      }
+    },
+    "borderWidth": {
+      "btn": {
+        "value": "1px",
+        "type": "dimension"
+      },
+      "tab": {
+        "value": "1px",
+        "type": "dimension"
+      }
+    },
+    "borderRadius": {
+      "box": {
+        "value": "16px",
+        "type": "dimension"
+      },
+      "btn": {
+        "value": "8px",
+        "type": "dimension"
+      },
+      "badge": {
+        "value": "30.4px",
+        "type": "dimension"
+      },
+      "tab": {
+        "value": "8px",
+        "type": "dimension"
+      },
+      "join": {
+        "value": "0px",
+        "type": "dimension"
+      }
+    },
+    "fontFamily": {
+      "primary": {
+        "value": "Inter",
+        "type": "fontFamilies"
+      },
+      "code": {
+        "value": "Menlo",
+        "type": "fontFamilies"
+      }
+    },
+    "themeName": {
+      "value": "autumn",
+      "type": "text"
+    }
+  },
+  "black": {
+    "color": {
+      "semantic": {
+        "primary": {
+          "bg": {
+            "value": "#373737",
+            "type": "color"
+          },
+          "content": {
+            "value": "#d3d3d3",
+            "type": "color"
+          }
+        },
+        "secondary": {
+          "bg": {
+            "value": "#373737",
+            "type": "color"
+          },
+          "content": {
+            "value": "#d3d3d3",
+            "type": "color"
+          }
+        },
+        "accent": {
+          "bg": {
+            "value": "#373737",
+            "type": "color"
+          },
+          "content": {
+            "value": "#d3d3d3",
+            "type": "color"
+          }
+        },
+        "neutral": {
+          "bg": {
+            "value": "#373737",
+            "type": "color"
+          },
+          "content": {
+            "value": "#d3d3d3",
+            "type": "color"
+          }
+        }
+      },
+      "base": {
+        "100": {
+          "value": "#000000",
+          "type": "color"
+        },
+        "200": {
+          "value": "#141414",
+          "type": "color"
+        },
+        "300": {
+          "value": "#262626",
+          "type": "color"
+        },
+        "content": {
+          "value": "#d6d6d6",
+          "type": "color"
+        }
+      },
+      "status": {
+        "info": {
+          "bg": {
+            "value": "#0000ff",
+            "type": "color"
+          },
+          "content": {
+            "value": "#c6dbff",
+            "type": "color"
+          }
+        },
+        "success": {
+          "bg": {
+            "value": "#008000",
+            "type": "color"
+          },
+          "content": {
+            "value": "#d2e6d0",
+            "type": "color"
+          }
+        },
+        "warning": {
+          "bg": {
+            "value": "#ffff00",
+            "type": "color"
+          },
+          "content": {
+            "value": "#161600",
+            "type": "color"
+          }
+        },
+        "error": {
+          "bg": {
+            "value": "#ff0000",
+            "type": "color"
+          },
+          "content": {
+            "value": "#160000",
+            "type": "color"
+          }
+        }
+      }
+    },
+    "borderWidth": {
+      "btn": {
+        "value": "1px",
+        "type": "dimension"
+      },
+      "tab": {
+        "value": "1px",
+        "type": "dimension"
+      }
+    },
+    "borderRadius": {
+      "box": {
+        "value": "0px",
+        "type": "dimension"
+      },
+      "btn": {
+        "value": "0px",
+        "type": "dimension"
+      },
+      "badge": {
+        "value": "0px",
+        "type": "dimension"
+      },
+      "tab": {
+        "value": "NaNpx",
+        "type": "dimension"
+      },
+      "join": {
+        "value": "0px",
+        "type": "dimension"
+      }
+    },
+    "fontFamily": {
+      "primary": {
+        "value": "Inter",
+        "type": "fontFamilies"
+      },
+      "code": {
+        "value": "Menlo",
+        "type": "fontFamilies"
+      }
+    },
+    "themeName": {
+      "value": "black",
+      "type": "text"
+    }
+  },
+  "bumblebee": {
+    "color": {
+      "semantic": {
+        "primary": {
+          "bg": {
+            "value": "#ffd900",
+            "type": "color"
+          },
+          "content": {
+            "value": "#4c4528",
+            "type": "color"
+          }
+        },
+        "secondary": {
+          "bg": {
+            "value": "#ffa400",
+            "type": "color"
+          },
+          "content": {
+            "value": "#5d3f18",
+            "type": "color"
+          }
+        },
+        "accent": {
+          "bg": {
+            "value": "#ffa551",
+            "type": "color"
+          },
+          "content": {
+            "value": "#180a02",
+            "type": "color"
+          }
+        },
+        "neutral": {
+          "bg": {
+            "value": "#060023",
+            "type": "color"
+          },
+          "content": {
+            "value": "#c4c5d0",
+            "type": "color"
+          }
+        }
+      },
+      "base": {
+        "100": {
+          "value": "#ffffff",
+          "type": "color"
+        },
+        "200": {
+          "value": "#e8e8e8",
+          "type": "color"
+        },
+        "300": {
+          "value": "#d1d1d1",
+          "type": "color"
+        },
+        "content": {
+          "value": "#161616",
+          "type": "color"
+        }
+      },
+      "status": {
+        "info": {
+          "bg": {
+            "value": "#00b5ff",
+            "type": "color"
+          },
+          "content": {
+            "value": "#000000",
+            "type": "color"
+          }
+        },
+        "success": {
+          "bg": {
+            "value": "#00a96e",
+            "type": "color"
+          },
+          "content": {
+            "value": "#000000",
+            "type": "color"
+          }
+        },
+        "warning": {
+          "bg": {
+            "value": "#ffbe00",
+            "type": "color"
+          },
+          "content": {
+            "value": "#000000",
+            "type": "color"
+          }
+        },
+        "error": {
+          "bg": {
+            "value": "#ff5861",
+            "type": "color"
+          },
+          "content": {
+            "value": "#000000",
+            "type": "color"
+          }
+        }
+      }
+    },
+    "borderWidth": {
+      "btn": {
+        "value": "1px",
+        "type": "dimension"
+      },
+      "tab": {
+        "value": "1px",
+        "type": "dimension"
+      }
+    },
+    "borderRadius": {
+      "box": {
+        "value": "16px",
+        "type": "dimension"
+      },
+      "btn": {
+        "value": "8px",
+        "type": "dimension"
+      },
+      "badge": {
+        "value": "30.4px",
+        "type": "dimension"
+      },
+      "tab": {
+        "value": "8px",
+        "type": "dimension"
+      },
+      "join": {
+        "value": "0px",
+        "type": "dimension"
+      }
+    },
+    "fontFamily": {
+      "primary": {
+        "value": "Inter",
+        "type": "fontFamilies"
+      },
+      "code": {
+        "value": "Menlo",
+        "type": "fontFamilies"
+      }
+    },
+    "themeName": {
+      "value": "bumblebee",
+      "type": "text"
+    }
+  },
+  "business": {
+    "color": {
+      "semantic": {
+        "primary": {
+          "bg": {
+            "value": "#1c4e80",
+            "type": "color"
+          },
+          "content": {
+            "value": "#cfdae6",
+            "type": "color"
+          }
+        },
+        "secondary": {
+          "bg": {
+            "value": "#7c909a",
+            "type": "color"
+          },
+          "content": {
+            "value": "#050709",
+            "type": "color"
+          }
+        },
+        "accent": {
+          "bg": {
+            "value": "#ea6947",
+            "type": "color"
+          },
+          "content": {
+            "value": "#130402",
+            "type": "color"
+          }
+        },
+        "neutral": {
+          "bg": {
+            "value": "#23282e",
+            "type": "color"
+          },
+          "content": {
+            "value": "#cecfd1",
+            "type": "color"
+          }
+        }
+      },
+      "base": {
+        "100": {
+          "value": "#202020",
+          "type": "color"
+        },
+        "200": {
+          "value": "#1c1c1c",
+          "type": "color"
+        },
+        "300": {
+          "value": "#181818",
+          "type": "color"
+        },
+        "content": {
+          "value": "#cdcdcd",
+          "type": "color"
+        }
+      },
+      "status": {
+        "info": {
+          "bg": {
+            "value": "#0091d5",
+            "type": "color"
+          },
+          "content": {
+            "value": "#000710",
+            "type": "color"
+          }
+        },
+        "success": {
+          "bg": {
+            "value": "#6bb187",
+            "type": "color"
+          },
+          "content": {
+            "value": "#040c06",
+            "type": "color"
+          }
+        },
+        "warning": {
+          "bg": {
+            "value": "#dbae59",
+            "type": "color"
+          },
+          "content": {
+            "value": "#110b03",
+            "type": "color"
+          }
+        },
+        "error": {
+          "bg": {
+            "value": "#ac3e31",
+            "type": "color"
+          },
+          "content": {
+            "value": "#f2d8d4",
+            "type": "color"
+          }
+        }
+      }
+    },
+    "borderWidth": {
+      "btn": {
+        "value": "1px",
+        "type": "dimension"
+      },
+      "tab": {
+        "value": "1px",
+        "type": "dimension"
+      }
+    },
+    "borderRadius": {
+      "box": {
+        "value": "4px",
+        "type": "dimension"
+      },
+      "btn": {
+        "value": "2px",
+        "type": "dimension"
+      },
+      "badge": {
+        "value": "2px",
+        "type": "dimension"
+      },
+      "tab": {
+        "value": "8px",
+        "type": "dimension"
+      },
+      "join": {
+        "value": "0px",
+        "type": "dimension"
+      }
+    },
+    "fontFamily": {
+      "primary": {
+        "value": "Inter",
+        "type": "fontFamilies"
+      },
+      "code": {
+        "value": "Menlo",
+        "type": "fontFamilies"
+      }
+    },
+    "themeName": {
+      "value": "business",
+      "type": "text"
+    }
+  },
+  "cmyk": {
+    "color": {
+      "semantic": {
+        "primary": {
+          "bg": {
+            "value": "#45aeee",
+            "type": "color"
+          },
+          "content": {
+            "value": "#020b14",
+            "type": "color"
+          }
+        },
+        "secondary": {
+          "bg": {
+            "value": "#e8488a",
+            "type": "color"
+          },
+          "content": {
+            "value": "#130207",
+            "type": "color"
+          }
+        },
+        "accent": {
+          "bg": {
+            "value": "#fff232",
+            "type": "color"
+          },
+          "content": {
+            "value": "#161401",
+            "type": "color"
+          }
+        },
+        "neutral": {
+          "bg": {
+            "value": "#1a1a1a",
+            "type": "color"
+          },
+          "content": {
+            "value": "#cbcbcb",
+            "type": "color"
+          }
+        }
+      },
+      "base": {
+        "100": {
+          "value": "#ffffff",
+          "type": "color"
+        },
+        "200": {
+          "value": "#e8e8e8",
+          "type": "color"
+        },
+        "300": {
+          "value": "#d1d1d1",
+          "type": "color"
+        },
+        "content": {
+          "value": "#161616",
+          "type": "color"
+        }
+      },
+      "status": {
+        "info": {
+          "bg": {
+            "value": "#4aa8c0",
+            "type": "color"
+          },
+          "content": {
+            "value": "#020a0e",
+            "type": "color"
+          }
+        },
+        "success": {
+          "bg": {
+            "value": "#823290",
+            "type": "color"
+          },
+          "content": {
+            "value": "#e6d5e9",
+            "type": "color"
+          }
+        },
+        "warning": {
+          "bg": {
+            "value": "#ee8133",
+            "type": "color"
+          },
+          "content": {
+            "value": "#140601",
+            "type": "color"
+          }
+        },
+        "error": {
+          "bg": {
+            "value": "#e93f33",
+            "type": "color"
+          },
+          "content": {
+            "value": "#130101",
+            "type": "color"
+          }
+        }
+      }
+    },
+    "borderWidth": {
+      "btn": {
+        "value": "1px",
+        "type": "dimension"
+      },
+      "tab": {
+        "value": "1px",
+        "type": "dimension"
+      }
+    },
+    "borderRadius": {
+      "box": {
+        "value": "16px",
+        "type": "dimension"
+      },
+      "btn": {
+        "value": "8px",
+        "type": "dimension"
+      },
+      "badge": {
+        "value": "30.4px",
+        "type": "dimension"
+      },
+      "tab": {
+        "value": "8px",
+        "type": "dimension"
+      },
+      "join": {
+        "value": "0px",
+        "type": "dimension"
+      }
+    },
+    "fontFamily": {
+      "primary": {
+        "value": "Inter",
+        "type": "fontFamilies"
+      },
+      "code": {
+        "value": "Menlo",
+        "type": "fontFamilies"
+      }
+    },
+    "themeName": {
+      "value": "cmyk",
+      "type": "text"
+    }
+  },
+  "coffee": {
+    "color": {
+      "semantic": {
+        "primary": {
+          "bg": {
+            "value": "#db924b",
+            "type": "color"
+          },
+          "content": {
+            "value": "#110802",
+            "type": "color"
+          }
+        },
+        "secondary": {
+          "bg": {
+            "value": "#263e3f",
+            "type": "color"
+          },
+          "content": {
+            "value": "#d0d5d5",
+            "type": "color"
+          }
+        },
+        "accent": {
+          "bg": {
+            "value": "#10576d",
+            "type": "color"
+          },
+          "content": {
+            "value": "#cfdce1",
+            "type": "color"
+          }
+        },
+        "neutral": {
+          "bg": {
+            "value": "#120c12",
+            "type": "color"
+          },
+          "content": {
+            "value": "#c9c7c9",
+            "type": "color"
+          }
+        }
+      },
+      "base": {
+        "100": {
+          "value": "#20161f",
+          "type": "color"
+        },
+        "200": {
+          "value": "#1c131b",
+          "type": "color"
+        },
+        "300": {
+          "value": "#181017",
+          "type": "color"
+        },
+        "content": {
+          "value": "#c59f60",
+          "type": "color"
+        }
+      },
+      "status": {
+        "info": {
+          "bg": {
+            "value": "#8dcac1",
+            "type": "color"
+          },
+          "content": {
+            "value": "#070f0e",
+            "type": "color"
+          }
+        },
+        "success": {
+          "bg": {
+            "value": "#9db787",
+            "type": "color"
+          },
+          "content": {
+            "value": "#090c06",
+            "type": "color"
+          }
+        },
+        "warning": {
+          "bg": {
+            "value": "#ffd25f",
+            "type": "color"
+          },
+          "content": {
+            "value": "#161003",
+            "type": "color"
+          }
+        },
+        "error": {
+          "bg": {
+            "value": "#fc9581",
+            "type": "color"
+          },
+          "content": {
+            "value": "#160806",
+            "type": "color"
+          }
+        }
+      }
+    },
+    "borderWidth": {
+      "btn": {
+        "value": "1px",
+        "type": "dimension"
+      },
+      "tab": {
+        "value": "1px",
+        "type": "dimension"
+      }
+    },
+    "borderRadius": {
+      "box": {
+        "value": "16px",
+        "type": "dimension"
+      },
+      "btn": {
+        "value": "8px",
+        "type": "dimension"
+      },
+      "badge": {
+        "value": "30.4px",
+        "type": "dimension"
+      },
+      "tab": {
+        "value": "8px",
+        "type": "dimension"
+      },
+      "join": {
+        "value": "0px",
+        "type": "dimension"
+      }
+    },
+    "fontFamily": {
+      "primary": {
+        "value": "Inter",
+        "type": "fontFamilies"
+      },
+      "code": {
+        "value": "Menlo",
+        "type": "fontFamilies"
+      }
+    },
+    "themeName": {
+      "value": "coffee",
+      "type": "text"
+    }
+  },
+  "coporate": {
+    "color": {
+      "semantic": {
+        "primary": {
+          "bg": {
+            "value": "#4d6eff",
+            "type": "color"
+          },
+          "content": {
+            "value": "#020417",
+            "type": "color"
+          }
+        },
+        "secondary": {
+          "bg": {
+            "value": "#7b92b2",
+            "type": "color"
+          },
+          "content": {
+            "value": "#05080c",
+            "type": "color"
+          }
+        },
+        "accent": {
+          "bg": {
+            "value": "#67cba0",
+            "type": "color"
+          },
+          "content": {
+            "value": "#040f09",
+            "type": "color"
+          }
+        },
+        "neutral": {
+          "bg": {
+            "value": "#181a2a",
+            "type": "color"
+          },
+          "content": {
+            "value": "#edf2f7",
+            "type": "color"
+          }
+        }
+      },
+      "base": {
+        "100": {
+          "value": "#ffffff",
+          "type": "color"
+        },
+        "200": {
+          "value": "#e8e8e8",
+          "type": "color"
+        },
+        "300": {
+          "value": "#d1d1d1",
+          "type": "color"
+        },
+        "content": {
+          "value": "#181a2a",
+          "type": "color"
+        }
+      },
+      "status": {
+        "info": {
+          "bg": {
+            "value": "#00b5ff",
+            "type": "color"
+          },
+          "content": {
+            "value": "#000000",
+            "type": "color"
+          }
+        },
+        "success": {
+          "bg": {
+            "value": "#00a96e",
+            "type": "color"
+          },
+          "content": {
+            "value": "#000000",
+            "type": "color"
+          }
+        },
+        "warning": {
+          "bg": {
+            "value": "#ffbe00",
+            "type": "color"
+          },
+          "content": {
+            "value": "#000000",
+            "type": "color"
+          }
+        },
+        "error": {
+          "bg": {
+            "value": "#ff5861",
+            "type": "color"
+          },
+          "content": {
+            "value": "#000000",
+            "type": "color"
+          }
+        }
+      }
+    },
+    "borderWidth": {
+      "btn": {
+        "value": "1px",
+        "type": "dimension"
+      },
+      "tab": {
+        "value": "1px",
+        "type": "dimension"
+      }
+    },
+    "borderRadius": {
+      "box": {
+        "value": "4px",
+        "type": "dimension"
+      },
+      "btn": {
+        "value": "2px",
+        "type": "dimension"
+      },
+      "badge": {
+        "value": "2px",
+        "type": "dimension"
+      },
+      "tab": {
+        "value": "4px",
+        "type": "dimension"
+      },
+      "join": {
+        "value": "0px",
+        "type": "dimension"
+      }
+    },
+    "fontFamily": {
+      "primary": {
+        "value": "Inter",
+        "type": "fontFamilies"
+      },
+      "code": {
+        "value": "Menlo",
+        "type": "fontFamilies"
+      }
+    },
+    "themeName": {
+      "value": "corporate",
+      "type": "text"
+    }
+  },
+  "cupcake": {
+    "color": {
+      "semantic": {
+        "primary": {
+          "bg": {
+            "value": "#65c3c8",
+            "type": "color"
+          },
+          "content": {
+            "value": "#030e0f",
+            "type": "color"
+          }
+        },
+        "secondary": {
+          "bg": {
+            "value": "#ef9fbc",
+            "type": "color"
+          },
+          "content": {
+            "value": "#14090d",
+            "type": "color"
+          }
+        },
+        "accent": {
+          "bg": {
+            "value": "#eeaf3a",
+            "type": "color"
+          },
+          "content": {
+            "value": "#140b01",
+            "type": "color"
+          }
+        },
+        "neutral": {
+          "bg": {
+            "value": "#291334",
+            "type": "color"
+          },
+          "content": {
+            "value": "#d0cad3",
+            "type": "color"
+          }
+        }
+      },
+      "base": {
+        "100": {
+          "value": "#faf7f5",
+          "type": "color"
+        },
+        "200": {
+          "value": "#efeae6",
+          "type": "color"
+        },
+        "300": {
+          "value": "#e7e2df",
+          "type": "color"
+        },
+        "content": {
+          "value": "#291334",
+          "type": "color"
+        }
+      },
+      "status": {
+        "info": {
+          "bg": {
+            "value": "#00b5ff",
+            "type": "color"
+          },
+          "content": {
+            "value": "#000000",
+            "type": "color"
+          }
+        },
+        "success": {
+          "bg": {
+            "value": "#00a96e",
+            "type": "color"
+          },
+          "content": {
+            "value": "#000000",
+            "type": "color"
+          }
+        },
+        "warning": {
+          "bg": {
+            "value": "#ffbe00",
+            "type": "color"
+          },
+          "content": {
+            "value": "#000000",
+            "type": "color"
+          }
+        },
+        "error": {
+          "bg": {
+            "value": "#ff5861",
+            "type": "color"
+          },
+          "content": {
+            "value": "#000000",
+            "type": "color"
+          }
+        }
+      }
+    },
+    "borderWidth": {
+      "btn": {
+        "value": "1px",
+        "type": "dimension"
+      },
+      "tab": {
+        "value": "2px",
+        "type": "dimension"
+      }
+    },
+    "borderRadius": {
+      "box": {
+        "value": "16px",
+        "type": "dimension"
+      },
+      "btn": {
+        "value": "30.4px",
+        "type": "dimension"
+      },
+      "badge": {
+        "value": "30.4px",
+        "type": "dimension"
+      },
+      "tab": {
+        "value": "11.2px",
+        "type": "dimension"
+      },
+      "join": {
+        "value": "0px",
+        "type": "dimension"
+      }
+    },
+    "fontFamily": {
+      "primary": {
+        "value": "Inter",
+        "type": "fontFamilies"
+      },
+      "code": {
+        "value": "Menlo",
+        "type": "fontFamilies"
+      }
+    },
+    "themeName": {
+      "value": "cupcake",
+      "type": "text"
+    }
+  },
+  "dim": {
+    "color": {
+      "semantic": {
+        "primary": {
+          "bg": {
+            "value": "#9fe88d",
+            "type": "color"
+          },
+          "content": {
+            "value": "#091307",
+            "type": "color"
+          }
+        },
+        "secondary": {
+          "bg": {
+            "value": "#ff7d5c",
+            "type": "color"
+          },
+          "content": {
+            "value": "#160503",
+            "type": "color"
+          }
+        },
+        "accent": {
+          "bg": {
+            "value": "#c792e9",
+            "type": "color"
+          },
+          "content": {
+            "value": "#0e0813",
+            "type": "color"
+          }
+        },
+        "neutral": {
+          "bg": {
+            "value": "#1c212b",
+            "type": "color"
+          },
+          "content": {
+            "value": "#b2ccd6",
+            "type": "color"
+          }
+        }
+      },
+      "base": {
+        "100": {
+          "value": "#2a303c",
+          "type": "color"
+        },
+        "200": {
+          "value": "#242933",
+          "type": "color"
+        },
+        "300": {
+          "value": "#20252e",
+          "type": "color"
+        },
+        "content": {
+          "value": "#b2ccd6",
+          "type": "color"
+        }
+      },
+      "status": {
+        "info": {
+          "bg": {
+            "value": "#28ebff",
+            "type": "color"
+          },
+          "content": {
+            "value": "#011316",
+            "type": "color"
+          }
+        },
+        "success": {
+          "bg": {
+            "value": "#62efbd",
+            "type": "color"
+          },
+          "content": {
+            "value": "#03140d",
+            "type": "color"
+          }
+        },
+        "warning": {
+          "bg": {
+            "value": "#efd057",
+            "type": "color"
+          },
+          "content": {
+            "value": "#141003",
+            "type": "color"
+          }
+        },
+        "error": {
+          "bg": {
+            "value": "#ffae9b",
+            "type": "color"
+          },
+          "content": {
+            "value": "#160b09",
+            "type": "color"
+          }
+        }
+      }
+    },
+    "borderWidth": {
+      "btn": {
+        "value": "1px",
+        "type": "dimension"
+      },
+      "tab": {
+        "value": "1px",
+        "type": "dimension"
+      }
+    },
+    "borderRadius": {
+      "box": {
+        "value": "16px",
+        "type": "dimension"
+      },
+      "btn": {
+        "value": "8px",
+        "type": "dimension"
+      },
+      "badge": {
+        "value": "30.4px",
+        "type": "dimension"
+      },
+      "tab": {
+        "value": "8px",
+        "type": "dimension"
+      },
+      "join": {
+        "value": "0px",
+        "type": "dimension"
+      }
+    },
+    "fontFamily": {
+      "primary": {
+        "value": "Inter",
+        "type": "fontFamilies"
+      },
+      "code": {
+        "value": "Menlo",
+        "type": "fontFamilies"
+      }
+    },
+    "themeName": {
+      "value": "dim",
+      "type": "text"
+    }
+  },
+  "dracula": {
+    "color": {
+      "semantic": {
+        "primary": {
+          "bg": {
+            "value": "#ff79c6",
+            "type": "color"
+          },
+          "content": {
+            "value": "#16050e",
+            "type": "color"
+          }
+        },
+        "secondary": {
+          "bg": {
+            "value": "#bd93f9",
+            "type": "color"
+          },
+          "content": {
+            "value": "#0d0815",
+            "type": "color"
+          }
+        },
+        "accent": {
+          "bg": {
+            "value": "#ffb86c",
+            "type": "color"
+          },
+          "content": {
+            "value": "#160c04",
+            "type": "color"
+          }
+        },
+        "neutral": {
+          "bg": {
+            "value": "#414558",
+            "type": "color"
+          },
+          "content": {
+            "value": "#d6d7db",
+            "type": "color"
+          }
+        }
+      },
+      "base": {
+        "100": {
+          "value": "#282a36",
+          "type": "color"
+        },
+        "200": {
+          "value": "#232530",
+          "type": "color"
+        },
+        "300": {
+          "value": "#1f202a",
+          "type": "color"
+        },
+        "content": {
+          "value": "#f8f8f2",
+          "type": "color"
+        }
+      },
+      "status": {
+        "info": {
+          "bg": {
+            "value": "#8be9fd",
+            "type": "color"
+          },
+          "content": {
+            "value": "#071316",
+            "type": "color"
+          }
+        },
+        "success": {
+          "bg": {
+            "value": "#50fa7b",
+            "type": "color"
+          },
+          "content": {
+            "value": "#021505",
+            "type": "color"
+          }
+        },
+        "warning": {
+          "bg": {
+            "value": "#f1fa8c",
+            "type": "color"
+          },
+          "content": {
+            "value": "#141507",
+            "type": "color"
+          }
+        },
+        "error": {
+          "bg": {
+            "value": "#ff5555",
+            "type": "color"
+          },
+          "content": {
+            "value": "#160202",
+            "type": "color"
+          }
+        }
+      }
+    },
+    "borderWidth": {
+      "btn": {
+        "value": "1px",
+        "type": "dimension"
+      },
+      "tab": {
+        "value": "1px",
+        "type": "dimension"
+      }
+    },
+    "borderRadius": {
+      "box": {
+        "value": "16px",
+        "type": "dimension"
+      },
+      "btn": {
+        "value": "8px",
+        "type": "dimension"
+      },
+      "badge": {
+        "value": "30.4px",
+        "type": "dimension"
+      },
+      "tab": {
+        "value": "8px",
+        "type": "dimension"
+      },
+      "join": {
+        "value": "0px",
+        "type": "dimension"
+      }
+    },
+    "fontFamily": {
+      "primary": {
+        "value": "Inter",
+        "type": "fontFamilies"
+      },
+      "code": {
+        "value": "Menlo",
+        "type": "fontFamilies"
+      }
+    },
+    "themeName": {
+      "value": "dracula",
+      "type": "text"
+    }
+  },
+  "emerald": {
+    "color": {
+      "semantic": {
+        "primary": {
+          "bg": {
+            "value": "#66cc8a",
+            "type": "color"
+          },
+          "content": {
+            "value": "#223d30",
+            "type": "color"
+          }
+        },
+        "secondary": {
+          "bg": {
+            "value": "#377cfb",
+            "type": "color"
+          },
+          "content": {
+            "value": "#ffffff",
+            "type": "color"
+          }
+        },
+        "accent": {
+          "bg": {
+            "value": "#f68067",
+            "type": "color"
+          },
+          "content": {
+            "value": "#000000",
+            "type": "color"
+          }
+        },
+        "neutral": {
+          "bg": {
+            "value": "#333c4d",
+            "type": "color"
+          },
+          "content": {
+            "value": "#f9fafb",
+            "type": "color"
+          }
+        }
+      },
+      "base": {
+        "100": {
+          "value": "#ffffff",
+          "type": "color"
+        },
+        "200": {
+          "value": "#e8e8e8",
+          "type": "color"
+        },
+        "300": {
+          "value": "#d1d1d1",
+          "type": "color"
+        },
+        "content": {
+          "value": "#333c4d",
+          "type": "color"
+        }
+      },
+      "status": {
+        "info": {
+          "bg": {
+            "value": "#00b5ff",
+            "type": "color"
+          },
+          "content": {
+            "value": "#000000",
+            "type": "color"
+          }
+        },
+        "success": {
+          "bg": {
+            "value": "#00a96e",
+            "type": "color"
+          },
+          "content": {
+            "value": "#000000",
+            "type": "color"
+          }
+        },
+        "warning": {
+          "bg": {
+            "value": "#ffbe00",
+            "type": "color"
+          },
+          "content": {
+            "value": "#000000",
+            "type": "color"
+          }
+        },
+        "error": {
+          "bg": {
+            "value": "#ff5861",
+            "type": "color"
+          },
+          "content": {
+            "value": "#000000",
+            "type": "color"
+          }
+        }
+      }
+    },
+    "borderWidth": {
+      "btn": {
+        "value": "1px",
+        "type": "dimension"
+      },
+      "tab": {
+        "value": "1px",
+        "type": "dimension"
+      }
+    },
+    "borderRadius": {
+      "box": {
+        "value": "16px",
+        "type": "dimension"
+      },
+      "btn": {
+        "value": "8px",
+        "type": "dimension"
+      },
+      "badge": {
+        "value": "30.4px",
+        "type": "dimension"
+      },
+      "tab": {
+        "value": "8px",
+        "type": "dimension"
+      },
+      "join": {
+        "value": "0px",
+        "type": "dimension"
+      }
+    },
+    "fontFamily": {
+      "primary": {
+        "value": "Inter",
+        "type": "fontFamilies"
+      },
+      "code": {
+        "value": "Menlo",
+        "type": "fontFamilies"
+      }
+    },
+    "themeName": {
+      "value": "emerald",
+      "type": "text"
+    }
+  },
+  "fantasy": {
+    "color": {
+      "semantic": {
+        "primary": {
+          "bg": {
+            "value": "#6d0076",
+            "type": "color"
+          },
+          "content": {
+            "value": "#e3cee4",
+            "type": "color"
+          }
+        },
+        "secondary": {
+          "bg": {
+            "value": "#0075c2",
+            "type": "color"
+          },
+          "content": {
+            "value": "#cee4f5",
+            "type": "color"
+          }
+        },
+        "accent": {
+          "bg": {
+            "value": "#ff8600",
+            "type": "color"
+          },
+          "content": {
+            "value": "#180600",
+            "type": "color"
+          }
+        },
+        "neutral": {
+          "bg": {
+            "value": "#1f2937",
+            "type": "color"
+          },
+          "content": {
+            "value": "#cdd0d3",
+            "type": "color"
+          }
+        }
+      },
+      "base": {
+        "100": {
+          "value": "#ffffff",
+          "type": "color"
+        },
+        "200": {
+          "value": "#e8e8e8",
+          "type": "color"
+        },
+        "300": {
+          "value": "#d1d1d1",
+          "type": "color"
+        },
+        "content": {
+          "value": "#1f2937",
+          "type": "color"
+        }
+      },
+      "status": {
+        "info": {
+          "bg": {
+            "value": "#00b5ff",
+            "type": "color"
+          },
+          "content": {
+            "value": "#000000",
+            "type": "color"
+          }
+        },
+        "success": {
+          "bg": {
+            "value": "#00a96e",
+            "type": "color"
+          },
+          "content": {
+            "value": "#000000",
+            "type": "color"
+          }
+        },
+        "warning": {
+          "bg": {
+            "value": "#ffbe00",
+            "type": "color"
+          },
+          "content": {
+            "value": "#000000",
+            "type": "color"
+          }
+        },
+        "error": {
+          "bg": {
+            "value": "#ff5861",
+            "type": "color"
+          },
+          "content": {
+            "value": "#000000",
+            "type": "color"
+          }
+        }
+      }
+    },
+    "borderWidth": {
+      "btn": {
+        "value": "1px",
+        "type": "dimension"
+      },
+      "tab": {
+        "value": "1px",
+        "type": "dimension"
+      }
+    },
+    "borderRadius": {
+      "box": {
+        "value": "16px",
+        "type": "dimension"
+      },
+      "btn": {
+        "value": "8px",
+        "type": "dimension"
+      },
+      "badge": {
+        "value": "30.4px",
+        "type": "dimension"
+      },
+      "tab": {
+        "value": "8px",
+        "type": "dimension"
+      },
+      "join": {
+        "value": "0px",
+        "type": "dimension"
+      }
+    },
+    "fontFamily": {
+      "primary": {
+        "value": "Inter",
+        "type": "fontFamilies"
+      },
+      "code": {
+        "value": "Menlo",
+        "type": "fontFamilies"
+      }
+    },
+    "themeName": {
+      "value": "fantasy",
+      "type": "text"
+    }
+  },
+  "forest": {
+    "color": {
+      "semantic": {
+        "primary": {
+          "bg": {
+            "value": "#1eb854",
+            "type": "color"
+          },
+          "content": {
+            "value": "#000000",
+            "type": "color"
+          }
+        },
+        "secondary": {
+          "bg": {
+            "value": "#1db88e",
+            "type": "color"
+          },
+          "content": {
+            "value": "#000c07",
+            "type": "color"
+          }
+        },
+        "accent": {
+          "bg": {
+            "value": "#1db8ab",
+            "type": "color"
+          },
+          "content": {
+            "value": "#000c0b",
+            "type": "color"
+          }
+        },
+        "neutral": {
+          "bg": {
+            "value": "#19362d",
+            "type": "color"
+          },
+          "content": {
+            "value": "#cdd3d1",
+            "type": "color"
+          }
+        }
+      },
+      "base": {
+        "100": {
+          "value": "#171212",
+          "type": "color"
+        },
+        "200": {
+          "value": "#140f0f",
+          "type": "color"
+        },
+        "300": {
+          "value": "#110c0c",
+          "type": "color"
+        },
+        "content": {
+          "value": "#cbc9c9",
+          "type": "color"
+        }
+      },
+      "status": {
+        "info": {
+          "bg": {
+            "value": "#00b5ff",
+            "type": "color"
+          },
+          "content": {
+            "value": "#000000",
+            "type": "color"
+          }
+        },
+        "success": {
+          "bg": {
+            "value": "#00a96e",
+            "type": "color"
+          },
+          "content": {
+            "value": "#000000",
+            "type": "color"
+          }
+        },
+        "warning": {
+          "bg": {
+            "value": "#ffbe00",
+            "type": "color"
+          },
+          "content": {
+            "value": "#000000",
+            "type": "color"
+          }
+        },
+        "error": {
+          "bg": {
+            "value": "#ff5861",
+            "type": "color"
+          },
+          "content": {
+            "value": "#000000",
+            "type": "color"
+          }
+        }
+      }
+    },
+    "borderWidth": {
+      "btn": {
+        "value": "1px",
+        "type": "dimension"
+      },
+      "tab": {
+        "value": "1px",
+        "type": "dimension"
+      }
+    },
+    "borderRadius": {
+      "box": {
+        "value": "16px",
+        "type": "dimension"
+      },
+      "btn": {
+        "value": "30.4px",
+        "type": "dimension"
+      },
+      "badge": {
+        "value": "30.4px",
+        "type": "dimension"
+      },
+      "tab": {
+        "value": "8px",
+        "type": "dimension"
+      },
+      "join": {
+        "value": "0px",
+        "type": "dimension"
+      }
+    },
+    "fontFamily": {
+      "primary": {
+        "value": "Inter",
+        "type": "fontFamilies"
+      },
+      "code": {
+        "value": "Menlo",
+        "type": "fontFamilies"
+      }
+    },
+    "themeName": {
+      "value": "forest",
+      "type": "text"
+    }
+  },
+  "garden": {
+    "color": {
+      "semantic": {
+        "primary": {
+          "bg": {
+            "value": "#fe0075",
+            "type": "color"
+          },
+          "content": {
+            "value": "#ffffff",
+            "type": "color"
+          }
+        },
+        "secondary": {
+          "bg": {
+            "value": "#8e4162",
+            "type": "color"
+          },
+          "content": {
+            "value": "#ead7de",
+            "type": "color"
+          }
+        },
+        "accent": {
+          "bg": {
+            "value": "#5c7f67",
+            "type": "color"
+          },
+          "content": {
+            "value": "#030604",
+            "type": "color"
+          }
+        },
+        "neutral": {
+          "bg": {
+            "value": "#291e00",
+            "type": "color"
+          },
+          "content": {
+            "value": "#e9e7e7",
+            "type": "color"
+          }
+        }
+      },
+      "base": {
+        "100": {
+          "value": "#e9e7e7",
+          "type": "color"
+        },
+        "200": {
+          "value": "#d4d2d2",
+          "type": "color"
+        },
+        "300": {
+          "value": "#bfbdbd",
+          "type": "color"
+        },
+        "content": {
+          "value": "#100f0f",
+          "type": "color"
+        }
+      },
+      "status": {
+        "info": {
+          "bg": {
+            "value": "#00b5ff",
+            "type": "color"
+          },
+          "content": {
+            "value": "#000000",
+            "type": "color"
+          }
+        },
+        "success": {
+          "bg": {
+            "value": "#00a96e",
+            "type": "color"
+          },
+          "content": {
+            "value": "#000000",
+            "type": "color"
+          }
+        },
+        "warning": {
+          "bg": {
+            "value": "#ffbe00",
+            "type": "color"
+          },
+          "content": {
+            "value": "#000000",
+            "type": "color"
+          }
+        },
+        "error": {
+          "bg": {
+            "value": "#ff5861",
+            "type": "color"
+          },
+          "content": {
+            "value": "#000000",
+            "type": "color"
+          }
+        }
+      }
+    },
+    "borderWidth": {
+      "btn": {
+        "value": "1px",
+        "type": "dimension"
+      },
+      "tab": {
+        "value": "1px",
+        "type": "dimension"
+      }
+    },
+    "borderRadius": {
+      "box": {
+        "value": "16px",
+        "type": "dimension"
+      },
+      "btn": {
+        "value": "8px",
+        "type": "dimension"
+      },
+      "badge": {
+        "value": "30.4px",
+        "type": "dimension"
+      },
+      "tab": {
+        "value": "8px",
+        "type": "dimension"
+      },
+      "join": {
+        "value": "0px",
+        "type": "dimension"
+      }
+    },
+    "fontFamily": {
+      "primary": {
+        "value": "Inter",
+        "type": "fontFamilies"
+      },
+      "code": {
+        "value": "Menlo",
+        "type": "fontFamilies"
+      }
+    },
+    "themeName": {
+      "value": "garden",
+      "type": "text"
+    }
+  },
+  "halloween": {
+    "color": {
+      "semantic": {
+        "primary": {
+          "bg": {
+            "value": "#ff8f00",
+            "type": "color"
+          },
+          "content": {
+            "value": "#131616",
+            "type": "color"
+          }
+        },
+        "secondary": {
+          "bg": {
+            "value": "#7a00c2",
+            "type": "color"
+          },
+          "content": {
+            "value": "#e3d4f6",
+            "type": "color"
+          }
+        },
+        "accent": {
+          "bg": {
+            "value": "#42aa00",
+            "type": "color"
+          },
+          "content": {
+            "value": "#000000",
+            "type": "color"
+          }
+        },
+        "neutral": {
+          "bg": {
+            "value": "#2f1b05",
+            "type": "color"
+          },
+          "content": {
+            "value": "#d2ccc7",
+            "type": "color"
+          }
+        }
+      },
+      "base": {
+        "100": {
+          "value": "#212121",
+          "type": "color"
+        },
+        "200": {
+          "value": "#1d1d1d",
+          "type": "color"
+        },
+        "300": {
+          "value": "#191919",
+          "type": "color"
+        },
+        "content": {
+          "value": "#cdcdcd",
+          "type": "color"
+        }
+      },
+      "status": {
+        "info": {
+          "bg": {
+            "value": "#2563eb",
+            "type": "color"
+          },
+          "content": {
+            "value": "#d2e2ff",
+            "type": "color"
+          }
+        },
+        "success": {
+          "bg": {
+            "value": "#16a34a",
+            "type": "color"
+          },
+          "content": {
+            "value": "#000a02",
+            "type": "color"
+          }
+        },
+        "warning": {
+          "bg": {
+            "value": "#d97706",
+            "type": "color"
+          },
+          "content": {
+            "value": "#110500",
+            "type": "color"
+          }
+        },
+        "error": {
+          "bg": {
+            "value": "#f35248",
+            "type": "color"
+          },
+          "content": {
+            "value": "#140202",
+            "type": "color"
+          }
+        }
+      }
+    },
+    "borderWidth": {
+      "btn": {
+        "value": "1px",
+        "type": "dimension"
+      },
+      "tab": {
+        "value": "1px",
+        "type": "dimension"
+      }
+    },
+    "borderRadius": {
+      "box": {
+        "value": "16px",
+        "type": "dimension"
+      },
+      "btn": {
+        "value": "8px",
+        "type": "dimension"
+      },
+      "badge": {
+        "value": "30.4px",
+        "type": "dimension"
+      },
+      "tab": {
+        "value": "8px",
+        "type": "dimension"
+      },
+      "join": {
+        "value": "0px",
+        "type": "dimension"
+      }
+    },
+    "fontFamily": {
+      "primary": {
+        "value": "Inter",
+        "type": "fontFamilies"
+      },
+      "code": {
+        "value": "Menlo",
+        "type": "fontFamilies"
+      }
+    },
+    "themeName": {
+      "value": "halloween",
+      "type": "text"
+    }
+  },
+  "lemonade": {
+    "color": {
+      "semantic": {
+        "primary": {
+          "bg": {
+            "value": "#419400",
+            "type": "color"
+          },
+          "content": {
+            "value": "#010800",
+            "type": "color"
+          }
+        },
+        "secondary": {
+          "bg": {
+            "value": "#bdc000",
+            "type": "color"
+          },
+          "content": {
+            "value": "#0d0e00",
+            "type": "color"
+          }
+        },
+        "accent": {
+          "bg": {
+            "value": "#edd000",
+            "type": "color"
+          },
+          "content": {
+            "value": "#141000",
+            "type": "color"
+          }
+        },
+        "neutral": {
+          "bg": {
+            "value": "#343300",
+            "type": "color"
+          },
+          "content": {
+            "value": "#d2d3c7",
+            "type": "color"
+          }
+        }
+      },
+      "base": {
+        "100": {
+          "value": "#f8fdef",
+          "type": "color"
+        },
+        "200": {
+          "value": "#e1e6d9",
+          "type": "color"
+        },
+        "300": {
+          "value": "#cbcfc3",
+          "type": "color"
+        },
+        "content": {
+          "value": "#151614",
+          "type": "color"
+        }
+      },
+      "status": {
+        "info": {
+          "bg": {
+            "value": "#b1d9e9",
+            "type": "color"
+          },
+          "content": {
+            "value": "#0c1113",
+            "type": "color"
+          }
+        },
+        "success": {
+          "bg": {
+            "value": "#b9dbc6",
+            "type": "color"
+          },
+          "content": {
+            "value": "#0d110e",
+            "type": "color"
+          }
+        },
+        "warning": {
+          "bg": {
+            "value": "#d7d3b0",
+            "type": "color"
+          },
+          "content": {
+            "value": "#11100b",
+            "type": "color"
+          }
+        },
+        "error": {
+          "bg": {
+            "value": "#efc6c2",
+            "type": "color"
+          },
+          "content": {
+            "value": "#140e0e",
+            "type": "color"
+          }
+        }
+      }
+    },
+    "borderWidth": {
+      "btn": {
+        "value": "1px",
+        "type": "dimension"
+      },
+      "tab": {
+        "value": "1px",
+        "type": "dimension"
+      }
+    },
+    "borderRadius": {
+      "box": {
+        "value": "16px",
+        "type": "dimension"
+      },
+      "btn": {
+        "value": "8px",
+        "type": "dimension"
+      },
+      "badge": {
+        "value": "30.4px",
+        "type": "dimension"
+      },
+      "tab": {
+        "value": "8px",
+        "type": "dimension"
+      },
+      "join": {
+        "value": "0px",
+        "type": "dimension"
+      }
+    },
+    "fontFamily": {
+      "primary": {
+        "value": "Inter",
+        "type": "fontFamilies"
+      },
+      "code": {
+        "value": "Menlo",
+        "type": "fontFamilies"
+      }
+    },
+    "themeName": {
+      "value": "lemonade",
+      "type": "text"
+    }
+  },
+  "lofi": {
+    "color": {
+      "semantic": {
+        "primary": {
+          "bg": {
+            "value": "#0d0d0d",
+            "type": "color"
+          },
+          "content": {
+            "value": "#ffffff",
+            "type": "color"
+          }
+        },
+        "secondary": {
+          "bg": {
+            "value": "#1a1919",
+            "type": "color"
+          },
+          "content": {
+            "value": "#ffffff",
+            "type": "color"
+          }
+        },
+        "accent": {
+          "bg": {
+            "value": "#262626",
+            "type": "color"
+          },
+          "content": {
+            "value": "#ffffff",
+            "type": "color"
+          }
+        },
+        "neutral": {
+          "bg": {
+            "value": "#000000",
+            "type": "color"
+          },
+          "content": {
+            "value": "#ffffff",
+            "type": "color"
+          }
+        }
+      },
+      "base": {
+        "100": {
+          "value": "#ffffff",
+          "type": "color"
+        },
+        "200": {
+          "value": "#f2f2f2",
+          "type": "color"
+        },
+        "300": {
+          "value": "#e6e5e5",
+          "type": "color"
+        },
+        "content": {
+          "value": "#000000",
+          "type": "color"
+        }
+      },
+      "status": {
+        "info": {
+          "bg": {
+            "value": "#5fcfdd",
+            "type": "color"
+          },
+          "content": {
+            "value": "#031011",
+            "type": "color"
+          }
+        },
+        "success": {
+          "bg": {
+            "value": "#69fec3",
+            "type": "color"
+          },
+          "content": {
+            "value": "#04160e",
+            "type": "color"
+          }
+        },
+        "warning": {
+          "bg": {
+            "value": "#ffce69",
+            "type": "color"
+          },
+          "content": {
+            "value": "#170f04",
+            "type": "color"
+          }
+        },
+        "error": {
+          "bg": {
+            "value": "#ff9181",
+            "type": "color"
+          },
+          "content": {
+            "value": "#180706",
+            "type": "color"
+          }
+        }
+      }
+    },
+    "borderWidth": {
+      "btn": {
+        "value": "1px",
+        "type": "dimension"
+      },
+      "tab": {
+        "value": "1px",
+        "type": "dimension"
+      }
+    },
+    "borderRadius": {
+      "box": {
+        "value": "4px",
+        "type": "dimension"
+      },
+      "btn": {
+        "value": "2px",
+        "type": "dimension"
+      },
+      "badge": {
+        "value": "2px",
+        "type": "dimension"
+      },
+      "tab": {
+        "value": "2px",
+        "type": "dimension"
+      },
+      "join": {
+        "value": "0px",
+        "type": "dimension"
+      }
+    },
+    "fontFamily": {
+      "primary": {
+        "value": "Inter",
+        "type": "fontFamilies"
+      },
+      "code": {
+        "value": "Menlo",
+        "type": "fontFamilies"
+      }
+    },
+    "themeName": {
+      "value": "lofi",
+      "type": "text"
+    }
+  },
+  "luxury": {
+    "color": {
+      "semantic": {
+        "primary": {
+          "bg": {
+            "value": "#ffffff",
+            "type": "color"
+          },
+          "content": {
+            "value": "#161616",
+            "type": "color"
+          }
+        },
+        "secondary": {
+          "bg": {
+            "value": "#152747",
+            "type": "color"
+          },
+          "content": {
+            "value": "#cbd0d8",
+            "type": "color"
+          }
+        },
+        "accent": {
+          "bg": {
+            "value": "#513448",
+            "type": "color"
+          },
+          "content": {
+            "value": "#dad3d7",
+            "type": "color"
+          }
+        },
+        "neutral": {
+          "bg": {
+            "value": "#331800",
+            "type": "color"
+          },
+          "content": {
+            "value": "#ffe7a3",
+            "type": "color"
+          }
+        }
+      },
+      "base": {
+        "100": {
+          "value": "#09090b",
+          "type": "color"
+        },
+        "200": {
+          "value": "#171618",
+          "type": "color"
+        },
+        "300": {
+          "value": "#2e2d2f",
+          "type": "color"
+        },
+        "content": {
+          "value": "#dca54c",
+          "type": "color"
+        }
+      },
+      "status": {
+        "info": {
+          "bg": {
+            "value": "#66c6ff",
+            "type": "color"
+          },
+          "content": {
+            "value": "#040e16",
+            "type": "color"
+          }
+        },
+        "success": {
+          "bg": {
+            "value": "#87d039",
+            "type": "color"
+          },
+          "content": {
+            "value": "#061001",
+            "type": "color"
+          }
+        },
+        "warning": {
+          "bg": {
+            "value": "#e2d562",
+            "type": "color"
+          },
+          "content": {
+            "value": "#121003",
+            "type": "color"
+          }
+        },
+        "error": {
+          "bg": {
+            "value": "#ff6f6f",
+            "type": "color"
+          },
+          "content": {
+            "value": "#160404",
+            "type": "color"
+          }
+        }
+      }
+    },
+    "borderWidth": {
+      "btn": {
+        "value": "1px",
+        "type": "dimension"
+      },
+      "tab": {
+        "value": "1px",
+        "type": "dimension"
+      }
+    },
+    "borderRadius": {
+      "box": {
+        "value": "16px",
+        "type": "dimension"
+      },
+      "btn": {
+        "value": "8px",
+        "type": "dimension"
+      },
+      "badge": {
+        "value": "30.4px",
+        "type": "dimension"
+      },
+      "tab": {
+        "value": "8px",
+        "type": "dimension"
+      },
+      "join": {
+        "value": "0px",
+        "type": "dimension"
+      }
+    },
+    "fontFamily": {
+      "primary": {
+        "value": "Inter",
+        "type": "fontFamilies"
+      },
+      "code": {
+        "value": "Menlo",
+        "type": "fontFamilies"
+      }
+    },
+    "themeName": {
+      "value": "luxury",
+      "type": "text"
+    }
+  },
+  "night": {
+    "color": {
+      "semantic": {
+        "primary": {
+          "bg": {
+            "value": "#38bdf8",
+            "type": "color"
+          },
+          "content": {
+            "value": "#010d15",
+            "type": "color"
+          }
+        },
+        "secondary": {
+          "bg": {
+            "value": "#818cf8",
+            "type": "color"
+          },
+          "content": {
+            "value": "#060715",
+            "type": "color"
+          }
+        },
+        "accent": {
+          "bg": {
+            "value": "#f471b5",
+            "type": "color"
+          },
+          "content": {
+            "value": "#14040c",
+            "type": "color"
+          }
+        },
+        "neutral": {
+          "bg": {
+            "value": "#1e293b",
+            "type": "color"
+          },
+          "content": {
+            "value": "#cdd0d5",
+            "type": "color"
+          }
+        }
+      },
+      "base": {
+        "100": {
+          "value": "#0f172a",
+          "type": "color"
+        },
+        "200": {
+          "value": "#0c1425",
+          "type": "color"
+        },
+        "300": {
+          "value": "#0a1120",
+          "type": "color"
+        },
+        "content": {
+          "value": "#c8cbd0",
+          "type": "color"
+        }
+      },
+      "status": {
+        "info": {
+          "bg": {
+            "value": "#0ca5e9",
+            "type": "color"
+          },
+          "content": {
+            "value": "#000000",
+            "type": "color"
+          }
+        },
+        "success": {
+          "bg": {
+            "value": "#2dd4bf",
+            "type": "color"
+          },
+          "content": {
+            "value": "#01100d",
+            "type": "color"
+          }
+        },
+        "warning": {
+          "bg": {
+            "value": "#f4bf50",
+            "type": "color"
+          },
+          "content": {
+            "value": "#140d02",
+            "type": "color"
+          }
+        },
+        "error": {
+          "bg": {
+            "value": "#fb7085",
+            "type": "color"
+          },
+          "content": {
+            "value": "#150406",
+            "type": "color"
+          }
+        }
+      }
+    },
+    "borderWidth": {
+      "btn": {
+        "value": "1px",
+        "type": "dimension"
+      },
+      "tab": {
+        "value": "1px",
+        "type": "dimension"
+      }
+    },
+    "borderRadius": {
+      "box": {
+        "value": "16px",
+        "type": "dimension"
+      },
+      "btn": {
+        "value": "8px",
+        "type": "dimension"
+      },
+      "badge": {
+        "value": "30.4px",
+        "type": "dimension"
+      },
+      "tab": {
+        "value": "8px",
+        "type": "dimension"
+      },
+      "join": {
+        "value": "0px",
+        "type": "dimension"
+      }
+    },
+    "fontFamily": {
+      "primary": {
+        "value": "Inter",
+        "type": "fontFamilies"
+      },
+      "code": {
+        "value": "Menlo",
+        "type": "fontFamilies"
+      }
+    },
+    "themeName": {
+      "value": "night",
+      "type": "text"
+    }
+  },
+  "nord": {
+    "color": {
+      "semantic": {
+        "primary": {
+          "bg": {
+            "value": "#5e81ac",
+            "type": "color"
+          },
+          "content": {
+            "value": "#03060b",
+            "type": "color"
+          }
+        },
+        "secondary": {
+          "bg": {
+            "value": "#81a1c1",
+            "type": "color"
+          },
+          "content": {
+            "value": "#06090e",
+            "type": "color"
+          }
+        },
+        "accent": {
+          "bg": {
+            "value": "#88c0d0",
+            "type": "color"
+          },
+          "content": {
+            "value": "#060e10",
+            "type": "color"
+          }
+        },
+        "neutral": {
+          "bg": {
+            "value": "#4c566a",
+            "type": "color"
+          },
+          "content": {
+            "value": "#d8dee9",
+            "type": "color"
+          }
+        }
+      },
+      "base": {
+        "100": {
+          "value": "#eceff4",
+          "type": "color"
+        },
+        "200": {
+          "value": "#e5e9f0",
+          "type": "color"
+        },
+        "300": {
+          "value": "#d8dee9",
+          "type": "color"
+        },
+        "content": {
+          "value": "#2e3440",
+          "type": "color"
+        }
+      },
+      "status": {
+        "info": {
+          "bg": {
+            "value": "#b48ead",
+            "type": "color"
+          },
+          "content": {
+            "value": "#0c070b",
+            "type": "color"
+          }
+        },
+        "success": {
+          "bg": {
+            "value": "#a3be8c",
+            "type": "color"
+          },
+          "content": {
+            "value": "#0a0d07",
+            "type": "color"
+          }
+        },
+        "warning": {
+          "bg": {
+            "value": "#ebcb8b",
+            "type": "color"
+          },
+          "content": {
+            "value": "#130f07",
+            "type": "color"
+          }
+        },
+        "error": {
+          "bg": {
+            "value": "#bf616a",
+            "type": "color"
+          },
+          "content": {
+            "value": "#0d0304",
+            "type": "color"
+          }
+        }
+      }
+    },
+    "borderWidth": {
+      "btn": {
+        "value": "1px",
+        "type": "dimension"
+      },
+      "tab": {
+        "value": "1px",
+        "type": "dimension"
+      }
+    },
+    "borderRadius": {
+      "box": {
+        "value": "6.4px",
+        "type": "dimension"
+      },
+      "btn": {
+        "value": "3.2px",
+        "type": "dimension"
+      },
+      "badge": {
+        "value": "6.4px",
+        "type": "dimension"
+      },
+      "tab": {
+        "value": "3.2px",
+        "type": "dimension"
+      },
+      "join": {
+        "value": "0px",
+        "type": "dimension"
+      }
+    },
+    "fontFamily": {
+      "primary": {
+        "value": "Inter",
+        "type": "fontFamilies"
+      },
+      "code": {
+        "value": "Menlo",
+        "type": "fontFamilies"
+      }
+    },
+    "themeName": {
+      "value": "nord",
+      "type": "text"
+    }
+  },
+  "pastel": {
+    "color": {
+      "semantic": {
+        "primary": {
+          "bg": {
+            "value": "#d1c1d7",
+            "type": "color"
+          },
+          "content": {
+            "value": "#100e11",
+            "type": "color"
+          }
+        },
+        "secondary": {
+          "bg": {
+            "value": "#f6cbd1",
+            "type": "color"
+          },
+          "content": {
+            "value": "#150f10",
+            "type": "color"
+          }
+        },
+        "accent": {
+          "bg": {
+            "value": "#b4e9d6",
+            "type": "color"
+          },
+          "content": {
+            "value": "#0c1310",
+            "type": "color"
+          }
+        },
+        "neutral": {
+          "bg": {
+            "value": "#70acc7",
+            "type": "color"
+          },
+          "content": {
+            "value": "#040b0e",
+            "type": "color"
+          }
+        }
+      },
+      "base": {
+        "100": {
+          "value": "#ffffff",
+          "type": "color"
+        },
+        "200": {
+          "value": "#f9fafb",
+          "type": "color"
+        },
+        "300": {
+          "value": "#d1d5db",
+          "type": "color"
+        },
+        "content": {
+          "value": "#161616",
+          "type": "color"
+        }
+      },
+      "status": {
+        "info": {
+          "bg": {
+            "value": "#00b5ff",
+            "type": "color"
+          },
+          "content": {
+            "value": "#000000",
+            "type": "color"
+          }
+        },
+        "success": {
+          "bg": {
+            "value": "#00a96e",
+            "type": "color"
+          },
+          "content": {
+            "value": "#000000",
+            "type": "color"
+          }
+        },
+        "warning": {
+          "bg": {
+            "value": "#ffbe00",
+            "type": "color"
+          },
+          "content": {
+            "value": "#000000",
+            "type": "color"
+          }
+        },
+        "error": {
+          "bg": {
+            "value": "#ff5861",
+            "type": "color"
+          },
+          "content": {
+            "value": "#000000",
+            "type": "color"
+          }
+        }
+      }
+    },
+    "borderWidth": {
+      "btn": {
+        "value": "1px",
+        "type": "dimension"
+      },
+      "tab": {
+        "value": "1px",
+        "type": "dimension"
+      }
+    },
+    "borderRadius": {
+      "box": {
+        "value": "16px",
+        "type": "dimension"
+      },
+      "btn": {
+        "value": "30.4px",
+        "type": "dimension"
+      },
+      "badge": {
+        "value": "30.4px",
+        "type": "dimension"
+      },
+      "tab": {
+        "value": "11.2px",
+        "type": "dimension"
+      },
+      "join": {
+        "value": "0px",
+        "type": "dimension"
+      }
+    },
+    "fontFamily": {
+      "primary": {
+        "value": "Inter",
+        "type": "fontFamilies"
+      },
+      "code": {
+        "value": "Menlo",
+        "type": "fontFamilies"
+      }
+    },
+    "themeName": {
+      "value": "pastel",
+      "type": "text"
+    }
+  },
+  "retro": {
+    "color": {
+      "semantic": {
+        "primary": {
+          "bg": {
+            "value": "#ef9995",
+            "type": "color"
+          },
+          "content": {
+            "value": "#282425",
+            "type": "color"
+          }
+        },
+        "secondary": {
+          "bg": {
+            "value": "#a4cbb4",
+            "type": "color"
+          },
+          "content": {
+            "value": "#282425",
+            "type": "color"
+          }
+        },
+        "accent": {
+          "bg": {
+            "value": "#dc8850",
+            "type": "color"
+          },
+          "content": {
+            "value": "#282425",
+            "type": "color"
+          }
+        },
+        "neutral": {
+          "bg": {
+            "value": "#2e282a",
+            "type": "color"
+          },
+          "content": {
+            "value": "#ede6d4",
+            "type": "color"
+          }
+        }
+      },
+      "base": {
+        "100": {
+          "value": "#ece3ca",
+          "type": "color"
+        },
+        "200": {
+          "value": "#e4d8b4",
+          "type": "color"
+        },
+        "300": {
+          "value": "#dbca9a",
+          "type": "color"
+        },
+        "content": {
+          "value": "#282425",
+          "type": "color"
+        }
+      },
+      "status": {
+        "info": {
+          "bg": {
+            "value": "#2563eb",
+            "type": "color"
+          },
+          "content": {
+            "value": "#d2e2ff",
+            "type": "color"
+          }
+        },
+        "success": {
+          "bg": {
+            "value": "#16a34a",
+            "type": "color"
+          },
+          "content": {
+            "value": "#000a02",
+            "type": "color"
+          }
+        },
+        "warning": {
+          "bg": {
+            "value": "#d97706",
+            "type": "color"
+          },
+          "content": {
+            "value": "#110500",
+            "type": "color"
+          }
+        },
+        "error": {
+          "bg": {
+            "value": "#f35248",
+            "type": "color"
+          },
+          "content": {
+            "value": "#140202",
+            "type": "color"
+          }
+        }
+      }
+    },
+    "borderWidth": {
+      "btn": {
+        "value": "1px",
+        "type": "dimension"
+      },
+      "tab": {
+        "value": "1px",
+        "type": "dimension"
+      }
+    },
+    "borderRadius": {
+      "box": {
+        "value": "6.4px",
+        "type": "dimension"
+      },
+      "btn": {
+        "value": "6.4px",
+        "type": "dimension"
+      },
+      "badge": {
+        "value": "6.4px",
+        "type": "dimension"
+      },
+      "tab": {
+        "value": "6.4px",
+        "type": "dimension"
+      },
+      "join": {
+        "value": "0px",
+        "type": "dimension"
+      }
+    },
+    "fontFamily": {
+      "primary": {
+        "value": "Inter",
+        "type": "fontFamilies"
+      },
+      "code": {
+        "value": "Menlo",
+        "type": "fontFamilies"
+      }
+    },
+    "themeName": {
+      "value": "retro",
+      "type": "text"
+    }
+  },
+  "sunset": {
+    "color": {
+      "semantic": {
+        "primary": {
+          "bg": {
+            "value": "#ff865b",
+            "type": "color"
+          },
+          "content": {
+            "value": "#160603",
+            "type": "color"
+          }
+        },
+        "secondary": {
+          "bg": {
+            "value": "#fd6f9c",
+            "type": "color"
+          },
+          "content": {
+            "value": "#160409",
+            "type": "color"
+          }
+        },
+        "accent": {
+          "bg": {
+            "value": "#b387fa",
+            "type": "color"
+          },
+          "content": {
+            "value": "#0c0615",
+            "type": "color"
+          }
+        },
+        "neutral": {
+          "bg": {
+            "value": "#1b262c",
+            "type": "color"
+          },
+          "content": {
+            "value": "#94a0a9",
+            "type": "color"
+          }
+        }
+      },
+      "base": {
+        "100": {
+          "value": "#121c22",
+          "type": "color"
+        },
+        "200": {
+          "value": "#0e171e",
+          "type": "color"
+        },
+        "300": {
+          "value": "#091319",
+          "type": "color"
+        },
+        "content": {
+          "value": "#9fb9d0",
+          "type": "color"
+        }
+      },
+      "status": {
+        "info": {
+          "bg": {
+            "value": "#89e0eb",
+            "type": "color"
+          },
+          "content": {
+            "value": "#071213",
+            "type": "color"
+          }
+        },
+        "success": {
+          "bg": {
+            "value": "#addfad",
+            "type": "color"
+          },
+          "content": {
+            "value": "#0b120b",
+            "type": "color"
+          }
+        },
+        "warning": {
+          "bg": {
+            "value": "#f1c891",
+            "type": "color"
+          },
+          "content": {
+            "value": "#140f07",
+            "type": "color"
+          }
+        },
+        "error": {
+          "bg": {
+            "value": "#ffbbbd",
+            "type": "color"
+          },
+          "content": {
+            "value": "#160d0d",
+            "type": "color"
+          }
+        }
+      }
+    },
+    "borderWidth": {
+      "btn": {
+        "value": "1px",
+        "type": "dimension"
+      },
+      "tab": {
+        "value": "1px",
+        "type": "dimension"
+      }
+    },
+    "borderRadius": {
+      "box": {
+        "value": "19.2px",
+        "type": "dimension"
+      },
+      "btn": {
+        "value": "12.8px",
+        "type": "dimension"
+      },
+      "badge": {
+        "value": "6.4px",
+        "type": "dimension"
+      },
+      "tab": {
+        "value": "11.2px",
+        "type": "dimension"
+      },
+      "join": {
+        "value": "0px",
+        "type": "dimension"
+      }
+    },
+    "fontFamily": {
+      "primary": {
+        "value": "Inter",
+        "type": "fontFamilies"
+      },
+      "code": {
+        "value": "Menlo",
+        "type": "fontFamilies"
+      }
+    },
+    "themeName": {
+      "value": "sunset",
+      "type": "text"
+    }
+  },
+  "synthwave": {
+    "color": {
+      "semantic": {
+        "primary": {
+          "bg": {
+            "value": "#e779c1",
+            "type": "color"
+          },
+          "content": {
+            "value": "#13050e",
+            "type": "color"
+          }
+        },
+        "secondary": {
+          "bg": {
+            "value": "#58c7f3",
+            "type": "color"
+          },
+          "content": {
+            "value": "#030e14",
+            "type": "color"
+          }
+        },
+        "accent": {
+          "bg": {
+            "value": "#ffd200",
+            "type": "color"
+          },
+          "content": {
+            "value": "#171000",
+            "type": "color"
+          }
+        },
+        "neutral": {
+          "bg": {
+            "value": "#221551",
+            "type": "color"
+          },
+          "content": {
+            "value": "#f9f7fd",
+            "type": "color"
+          }
+        }
+      },
+      "base": {
+        "100": {
+          "value": "#1a103d",
+          "type": "color"
+        },
+        "200": {
+          "value": "#170d36",
+          "type": "color"
+        },
+        "300": {
+          "value": "#130b30",
+          "type": "color"
+        },
+        "content": {
+          "value": "#f9f7fd",
+          "type": "color"
+        }
+      },
+      "status": {
+        "info": {
+          "bg": {
+            "value": "#53c0f3",
+            "type": "color"
+          },
+          "content": {
+            "value": "#201047",
+            "type": "color"
+          }
+        },
+        "success": {
+          "bg": {
+            "value": "#71ead2",
+            "type": "color"
+          },
+          "content": {
+            "value": "#201047",
+            "type": "color"
+          }
+        },
+        "warning": {
+          "bg": {
+            "value": "#eace6c",
+            "type": "color"
+          },
+          "content": {
+            "value": "#201047",
+            "type": "color"
+          }
+        },
+        "error": {
+          "bg": {
+            "value": "#ec8c78",
+            "type": "color"
+          },
+          "content": {
+            "value": "#201047",
+            "type": "color"
+          }
+        }
+      }
+    },
+    "borderWidth": {
+      "btn": {
+        "value": "1px",
+        "type": "dimension"
+      },
+      "tab": {
+        "value": "1px",
+        "type": "dimension"
+      }
+    },
+    "borderRadius": {
+      "box": {
+        "value": "16px",
+        "type": "dimension"
+      },
+      "btn": {
+        "value": "8px",
+        "type": "dimension"
+      },
+      "badge": {
+        "value": "30.4px",
+        "type": "dimension"
+      },
+      "tab": {
+        "value": "8px",
+        "type": "dimension"
+      },
+      "join": {
+        "value": "0px",
+        "type": "dimension"
+      }
+    },
+    "fontFamily": {
+      "primary": {
+        "value": "Inter",
+        "type": "fontFamilies"
+      },
+      "code": {
+        "value": "Menlo",
+        "type": "fontFamilies"
+      }
+    },
+    "themeName": {
+      "value": "synthwave",
+      "type": "text"
+    }
+  },
+  "winter": {
+    "color": {
+      "semantic": {
+        "primary": {
+          "bg": {
+            "value": "#0069ff",
+            "type": "color"
+          },
+          "content": {
+            "value": "#cee4ff",
+            "type": "color"
+          }
+        },
+        "secondary": {
+          "bg": {
+            "value": "#463aa2",
+            "type": "color"
+          },
+          "content": {
+            "value": "#d5d7ef",
+            "type": "color"
+          }
+        },
+        "accent": {
+          "bg": {
+            "value": "#c148ac",
+            "type": "color"
+          },
+          "content": {
+            "value": "#0e020b",
+            "type": "color"
+          }
+        },
+        "neutral": {
+          "bg": {
+            "value": "#021431",
+            "type": "color"
+          },
+          "content": {
+            "value": "#c5cbd3",
+            "type": "color"
+          }
+        }
+      },
+      "base": {
+        "100": {
+          "value": "#ffffff",
+          "type": "color"
+        },
+        "200": {
+          "value": "#f2f7ff",
+          "type": "color"
+        },
+        "300": {
+          "value": "#e3e9f4",
+          "type": "color"
+        },
+        "content": {
+          "value": "#394e6a",
+          "type": "color"
+        }
+      },
+      "status": {
+        "info": {
+          "bg": {
+            "value": "#93e7fb",
+            "type": "color"
+          },
+          "content": {
+            "value": "#081315",
+            "type": "color"
+          }
+        },
+        "success": {
+          "bg": {
+            "value": "#81cfd1",
+            "type": "color"
+          },
+          "content": {
+            "value": "#061010",
+            "type": "color"
+          }
+        },
+        "warning": {
+          "bg": {
+            "value": "#efd7bb",
+            "type": "color"
+          },
+          "content": {
+            "value": "#14110d",
+            "type": "color"
+          }
+        },
+        "error": {
+          "bg": {
+            "value": "#e58b8b",
+            "type": "color"
+          },
+          "content": {
+            "value": "#120707",
+            "type": "color"
+          }
+        }
+      }
+    },
+    "borderWidth": {
+      "btn": {
+        "value": "1px",
+        "type": "dimension"
+      },
+      "tab": {
+        "value": "1px",
+        "type": "dimension"
+      }
+    },
+    "borderRadius": {
+      "box": {
+        "value": "16px",
+        "type": "dimension"
+      },
+      "btn": {
+        "value": "8px",
+        "type": "dimension"
+      },
+      "badge": {
+        "value": "30.4px",
+        "type": "dimension"
+      },
+      "tab": {
+        "value": "8px",
+        "type": "dimension"
+      },
+      "join": {
+        "value": "0px",
+        "type": "dimension"
+      }
+    },
+    "fontFamily": {
+      "primary": {
+        "value": "Inter",
+        "type": "fontFamilies"
+      },
+      "code": {
+        "value": "Menlo",
+        "type": "fontFamilies"
+      }
+    },
+    "themeName": {
+      "value": "winter",
+      "type": "text"
+    }
+  },
+  "wireframe": {
+    "color": {
+      "semantic": {
+        "primary": {
+          "bg": {
+            "value": "#b8b8b8",
+            "type": "color"
+          },
+          "content": {
+            "value": "#0c0c0c",
+            "type": "color"
+          }
+        },
+        "secondary": {
+          "bg": {
+            "value": "#b8b8b8",
+            "type": "color"
+          },
+          "content": {
+            "value": "#0c0c0c",
+            "type": "color"
+          }
+        },
+        "accent": {
+          "bg": {
+            "value": "#b8b8b8",
+            "type": "color"
+          },
+          "content": {
+            "value": "#0c0c0c",
+            "type": "color"
+          }
+        },
+        "neutral": {
+          "bg": {
+            "value": "#ebebeb",
+            "type": "color"
+          },
+          "content": {
+            "value": "#131313",
+            "type": "color"
+          }
+        }
+      },
+      "base": {
+        "100": {
+          "value": "#ffffff",
+          "type": "color"
+        },
+        "200": {
+          "value": "#eeeeee",
+          "type": "color"
+        },
+        "300": {
+          "value": "#dddddd",
+          "type": "color"
+        },
+        "content": {
+          "value": "#161616",
+          "type": "color"
+        }
+      },
+      "status": {
+        "info": {
+          "bg": {
+            "value": "#0000ff",
+            "type": "color"
+          },
+          "content": {
+            "value": "#c6dbff",
+            "type": "color"
+          }
+        },
+        "success": {
+          "bg": {
+            "value": "#008000",
+            "type": "color"
+          },
+          "content": {
+            "value": "#d2e6d0",
+            "type": "color"
+          }
+        },
+        "warning": {
+          "bg": {
+            "value": "#a6a659",
+            "type": "color"
+          },
+          "content": {
+            "value": "#0a0a03",
+            "type": "color"
+          }
+        },
+        "error": {
+          "bg": {
+            "value": "#ff0000",
+            "type": "color"
+          },
+          "content": {
+            "value": "#160000",
+            "type": "color"
+          }
+        }
+      }
+    },
+    "borderWidth": {
+      "btn": {
+        "value": "1px",
+        "type": "dimension"
+      },
+      "tab": {
+        "value": "1px",
+        "type": "dimension"
+      }
+    },
+    "borderRadius": {
+      "box": {
+        "value": "3.2px",
+        "type": "dimension"
+      },
+      "btn": {
+        "value": "3.2px",
+        "type": "dimension"
+      },
+      "badge": {
+        "value": "3.2px",
+        "type": "dimension"
+      },
+      "tab": {
+        "value": "3.2px",
+        "type": "dimension"
+      },
+      "join": {
+        "value": "0px",
+        "type": "dimension"
+      }
+    },
+    "fontFamily": {
+      "primary": {
+        "value": "Inter",
+        "type": "fontFamilies"
+      },
+      "code": {
+        "value": "Menlo",
+        "type": "fontFamilies"
+      }
+    },
+    "themeName": {
+      "value": "wireframe",
+      "type": "text"
+    }
+  },
+  "$themes": [
+    {
+      "id": "087073fd60cbd6a52b36746c8067ab5b235e05ad",
+      "name": "light",
+      "$figmaStyleReferences": {},
+      "selectedTokenSets": {
+        "light": "enabled"
+      },
+      "$figmaCollectionId": "VariableCollectionId:4:7611",
+      "$figmaModeId": "5001:0",
+      "$figmaVariableReferences": {
+        "color.semantic.primary.bg": "f97dce15069b065188f2e805652665ace13921bb",
+        "color.semantic.primary.content": "196e0a56699ccec8f59e17bb6d9ba8c2d660d6b5",
+        "color.semantic.secondary.bg": "4f44078ca37898572dabdfa84731c29d737642fe",
+        "color.semantic.secondary.content": "eab7f2980da4740d4c03ad72b648eb0f81ac92e5",
+        "color.semantic.accent.bg": "18e0b1d6da95ecf1bb56ef9161aef97ad7f45fdb",
+        "color.semantic.accent.content": "1b4d314966f0993040cdd2d6f6390728cd84e399",
+        "color.semantic.neutral.bg": "40997e76b764c86d30a3da1995d3e25750a20019",
+        "color.semantic.neutral.content": "7a4ccd944fd3076bd7de3ea8e23b1dbd2aca01fe",
+        "color.base.100": "c701efb4c89fb11009ec69320605e310ae4c3a1e",
+        "color.base.200": "1bae81b0d47d6deed18c2ecd75d27aba55ea706e",
+        "color.base.300": "8b6f6de93dd470339a77d9f697fe438fdaee9b1b",
+        "color.base.content": "4f547039d253c997501f58c839e875e5fa1c48d1",
+        "color.status.info.bg": "8e3656293a06550b64f09b954f83bc3ea5ae3ea8",
+        "color.status.info.content": "ff3c55b176624644b130942bf24c7c6645af2222",
+        "color.status.success.bg": "e5c141826cea099d2c8916ea4eec4823b0651086",
+        "color.status.success.content": "e7b2199cd8d9d5421fd964d367c6bcbecd142ba4",
+        "color.status.warning.bg": "54a5d8a563d73b06d0b10866c351deec1ca5d1d0",
+        "color.status.warning.content": "4777c579607424cf566bcd160a0e8dcc3466b26d",
+        "color.status.error.bg": "f8a2c5fb58a7e7a7d117001ea6caad482ee46f66",
+        "color.status.error.content": "8be6ccf7de13bc8e228a5a723f7d0398e30394ad",
+        "borderWidth.btn": "1d7447fb3b413a8853283263de55a17cea8c5c2f",
+        "borderWidth.tab": "0a9d061d76d0519a634f1709653e6389ad09ee11",
+        "borderRadius.box": "52a8644805c90d8e85d8898bbf74b8ed2ab6bff5",
+        "borderRadius.btn": "daa8263087d1eeaa67a7299628589b3a4c0a2fd0",
+        "borderRadius.badge": "c1d281380dde584b7a3b98b319a03eac3a6a73d2",
+        "borderRadius.tab": "0bceecbec4b964294ac0b3efebe4ab6d9491a3c4",
+        "borderRadius.join": "489ab739ca7b188ef3d2bdc0e1c61c42d8f707d0",
+        "fontFamily.primary": "de209bb7553317b1a466c7867616b70e9a2fccca",
+        "fontFamily.code": "42d6e53c13a414694a19741843da3e74a8b171a7",
+        "themeName": "93d938a7169c97c87e4f5952d80d3d2f333b902e"
+      }
+    },
+    {
+      "id": "e6a7fa108aec0c7b837e1507c863391084043ccc",
+      "name": "dark",
+      "$figmaStyleReferences": {},
+      "selectedTokenSets": {
+        "dark": "enabled"
+      },
+      "$figmaCollectionId": "VariableCollectionId:5001:28702",
+      "$figmaModeId": "5001:1",
+      "$figmaVariableReferences": {
+        "color.base.content": "e2e562ba9265ffa7f3885cf0b939a4c9fb6f7b97",
+        "color.semantic.primary.content": "96a4eb7f292b8fae4fb25107e0771111abd4ebbc",
+        "color.semantic.neutral.bg": "976af8b718d59e21d60f74467af685409b7c2200",
+        "color.semantic.accent.bg": "dabb1d84d946f7bf269eaf89b0e25e0067c42925",
+        "color.semantic.secondary.content": "24ebaf93bbb0da9c044dd160580411d57038a8ce",
+        "color.semantic.neutral.content": "b73474de8174d754fa84a73ddd3c8bbf9df30cff",
+        "color.semantic.accent.content": "8d155420e915d5de2a918af583c31472d0f92dbe",
+        "color.base.100": "61cebb930c46523e397c09cb9108b0bfd6410819",
+        "color.base.200": "b87286d3e093eccd174cbe0f6820844c5947dd49",
+        "color.base.300": "27ba9bfb110538968d6ddf0e4243dc5b23a30973",
+        "color.status.info.content": "9ff0a87fd7ede4b9f1f6b709954424093242f5f6",
+        "color.status.info.bg": "e4b24ba6a686984a1cd468b1d9bae3aba5002989",
+        "color.status.warning.bg": "9b2ad0edbde172e791f1b3807dff7ad741e3dea9",
+        "color.status.success.bg": "1e4c5928171f05eb1355ca9498f522d2be478f4c",
+        "color.status.error.content": "2fe86948f87073873182b1cf4579abd407043e8a",
+        "color.status.error.bg": "845aa52eac17254c777d217e874ad0246eed4986",
+        "color.status.success.content": "733db4d57f1938983010dde8a2c68b0e1e8f3c52",
+        "color.status.warning.content": "da0b68a8cf07a67540a96115f2b088c58257b262",
+        "borderWidth.btn": "193b943bf16279e864d42868d886916ecb930034",
+        "borderWidth.tab": "00490fa15c73f119acd7f3da8b22ae178d6c6c8a",
+        "borderRadius.box": "1e65c35e1643047e914f65366ce1fcd6e27d0ee5",
+        "borderRadius.btn": "886aeea250c942c53d040bb2d75bea68d866eb97",
+        "color.semantic.primary.bg": "7838f7963330d1f06563c033c8d04a8601dceed3",
+        "borderRadius.badge": "72b1e59855d93602ce49c87b56085b882d807c92",
+        "borderRadius.tab": "65663f2b30dbbfd9981d5764f690cfabce4d63d5",
+        "fontFamily.primary": "3a322953436c41794565ef9d34291e486559734b",
+        "fontFamily.code": "2e537f767d8f0c9d47c5d9a75038903e5e42e8f2",
+        "color.semantic.secondary.bg": "4c17d6e092fce7149b9a19b0dd296d9b1378fea2",
+        "themeName": "aeb9e760187c9da7c55dfbde046741e45d0f1dc7",
+        "borderRadius.join": "7df74abf0a83676f2b2aa7e8fe2e50be6325dad9"
+      }
+    },
+    {
+      "id": "fbec8e5c1758e0b8d46a4a9237e5da6758ea1748",
+      "name": "valentine",
+      "$figmaStyleReferences": {},
+      "selectedTokenSets": {
+        "valentine": "enabled"
+      },
+      "$figmaCollectionId": "VariableCollectionId:5002:33508",
+      "$figmaModeId": "5002:2",
+      "$figmaVariableReferences": {
+        "color.base.content": "2c704f250ae5e4b7767fae9c949be7a70d74ce66",
+        "color.semantic.primary.content": "be3a46ea1ed26b68c175c81b5d6f44b182a5eab9",
+        "color.semantic.neutral.bg": "51e2826f25c9c5cafc9bfad133fae428de993618",
+        "color.semantic.accent.bg": "9eeca656b8123d98317b117a0f14e378b7cd3485",
+        "color.semantic.secondary.content": "34d778d8f5ecf431bbf42ee890eb7e4a66dcaef3",
+        "color.semantic.neutral.content": "39fea24f3a5e49586ab22be76ae02fe512127709",
+        "color.semantic.accent.content": "aa929b935c52313409afd7e26386cd09b8bb0496",
+        "color.base.100": "6483ca3c1834164b7b876808e21bdc02bea8fbaa",
+        "color.base.200": "b524b732f13893f0e50fbc41f8910302224c0070",
+        "color.base.300": "f8cfc3cf77553ddea6b796572a6f2d012983f7a0",
+        "color.status.info.content": "d88b278694cbe95457e48b23fbbcf9922aee8985",
+        "color.status.info.bg": "a72ae3cdefcd73b7b835b1e76ca4a191a184a051",
+        "color.status.warning.bg": "fadf48d8104a6d3c1539d553f98fadf579c96df8",
+        "color.status.success.bg": "13bd6248d29e53d58708ab2a1e8c6674aff0ec4c",
+        "color.status.error.content": "a8c8e3c539648dd3d0edb36d65bf9b0f310b4c93",
+        "color.status.error.bg": "3b318f4f30de3c7a92b7befe6472c752be19c807",
+        "color.status.success.content": "7f204c672f7093f82e3a014a6e939d777c91649c",
+        "color.status.warning.content": "96629c0e233b7b8d49344b126d2c65dd30c47ac9",
+        "borderWidth.btn": "17d3826c9a651a634ba81bc4b231a91cef63bbf7",
+        "borderWidth.tab": "e89c435b2d1a556f0232957c31f84c63819e7421",
+        "borderRadius.box": "58299cb6f63a8eb4dadc23660bc84fcb22e53671",
+        "borderRadius.btn": "9365cdb63fcc43dfd98b43c701efa18c410de248",
+        "color.semantic.primary.bg": "76360e0938d7064d9966c087565f2e4a92597af7",
+        "borderRadius.badge": "aa0486719810a2c19ffbaa1bf9de706cad6657b4",
+        "borderRadius.tab": "e21049530a46e39d1924d339db7b0df3e544c811",
+        "fontFamily.primary": "1353ae15c4f07e091aa64e65faf01c64caded35b",
+        "fontFamily.code": "bd85ce40009d9aaaa6fee77b6c9e6722ed407923",
+        "color.semantic.secondary.bg": "7411ef13aa9730107bae739b0e2b3e88c0064326",
+        "themeName": "341cd3e4e02b4a14573c6de292f6c952ba4ec146",
+        "borderRadius.join": "aab6a0ac5ee9a14bc140051f98d85d067e22c014"
+      }
+    },
+    {
+      "id": "82519f58bfbd6460b9c2851c1f57c760f347cd6e",
+      "name": "cyberpunk",
+      "$figmaStyleReferences": {},
+      "selectedTokenSets": {
+        "cyberpunk": "enabled"
+      },
+      "$figmaCollectionId": "VariableCollectionId:5005:33564",
+      "$figmaModeId": "5005:3",
+      "$figmaVariableReferences": {
+        "color.base.content": "b1a4506a9f5d5c7db5ecb757728e91a0f2cf5b1b",
+        "color.semantic.primary.content": "7dbdf8b9567629f998a179c957597d748f5e7ec1",
+        "color.semantic.neutral.bg": "969efd1dd3e9251d48454a6acb8a6e0d0ad8ece9",
+        "color.semantic.accent.bg": "1d95aa0a26f27f41c780bec0c78363aa8ab13603",
+        "color.semantic.secondary.content": "8df5c59e8ed85a3069d7c1db483ddc95219921b4",
+        "color.semantic.neutral.content": "5c01711393e5618ac0f82a69e4c47e550f808925",
+        "color.semantic.accent.content": "cfce8537253fa13f33730f471dda990c2389dcfc",
+        "color.base.100": "298cfdc21063b0a4d750d5d39c905205148f696a",
+        "color.base.200": "fe7ce7cfedb9c5dd769b4a4473ec9c300f76bacd",
+        "color.base.300": "8f50da3cf0d99f3b9454896b1ea71ca3e15d8f04",
+        "color.status.info.content": "69cd56a26c9a91cf8d7880afa334765dd0d11cb9",
+        "color.status.info.bg": "a15f2553831e332ae9dc5f56781f192152a99cf7",
+        "color.status.warning.bg": "8b719ae529a0df57b7e8b078f0828ba203fbe9ca",
+        "color.status.success.bg": "3b4b1e17014e0b3bcc6b12f52c58b766245e3570",
+        "color.status.error.content": "36ca4db450be7ef8c548273e9e7326e38f437743",
+        "color.status.error.bg": "00f4d04e0405747ae5875824e8731e735a494c41",
+        "color.status.success.content": "8ac65df1e7956648cd145b1d22ed6169f4e14771",
+        "color.status.warning.content": "bd80780d40a09bfe968a7ca7f2e2d42a2d30be2a",
+        "borderWidth.btn": "8ad535cf216b4aac4887b0886bfe4d949136dcd3",
+        "borderWidth.tab": "ad9a23f16ce800a6d48896da45a54eb6032db047",
+        "borderRadius.box": "dd692766000e21deaaf144b916865007e2b85ec6",
+        "borderRadius.btn": "ff92b079a5a744bdd84ed2466acd03d8fddbfcdd",
+        "color.semantic.primary.bg": "87ce968ebc82f0884100538518047486d617efc3",
+        "borderRadius.badge": "77cce0871bd8d666115f4b39329c5474ddcf53ab",
+        "borderRadius.tab": "cc8d987176fd9a0bbe2d922aebb6964310055883",
+        "fontFamily.primary": "e186356999eba5da394903f9d05c7519b1515f6d",
+        "fontFamily.code": "d5b30d549dc5a4f337f0ea58df7ad1c6322e618f",
+        "color.semantic.secondary.bg": "49864ecec6fb72ab78175c81c6af381d9538e697",
+        "themeName": "e03a601133b9c6e8988c533937e000b64c213d13",
+        "borderRadius.join": "ac9ff3ad706e071941829426349c85a382d0d88c"
+      }
+    },
+    {
+      "id": "7960501dde1a0d5c1c81fd16103ecb1e4ae060ac",
+      "name": "acid",
+      "$figmaStyleReferences": {},
+      "selectedTokenSets": {
+        "acid": "enabled"
+      },
+      "$figmaCollectionId": "VariableCollectionId:5061:69",
+      "$figmaModeId": "5061:0",
+      "$figmaVariableReferences": {
+        "color.base.content": "501775bf5f1abb7499e7e0c29c8292786f8ea104",
+        "color.semantic.primary.content": "b00628ee57dff7893d57ae947cf3eb1a458e81ff",
+        "color.semantic.neutral.bg": "8e768568fd4a26b6a7d1297737880c66a2bbf926",
+        "color.semantic.accent.bg": "6f6f452ad2072a4993824204331a7894f62300ad",
+        "color.semantic.secondary.content": "1690ca63e51da71a34d0d480a1936ac7eadb27c6",
+        "color.semantic.neutral.content": "42b712ef62ce44ec64d503300da8e94782892b15",
+        "color.semantic.accent.content": "20a307aaf961478cbd38503af12ecd399d4b84a7",
+        "color.base.100": "53a3b499246235735abb8360555c0206920651ff",
+        "color.base.200": "eafaf193aa30bca586f8b56c55dfdde4755698bb",
+        "color.base.300": "da3dd683f091186923aaf85f75e23087b9fe45f0",
+        "color.status.info.content": "cb8c55d640fdde509569ba5d8ab21e1d0816d35b",
+        "color.status.info.bg": "ac5f83fdc97200cd683ef7c3a5b75b2813361bc3",
+        "color.status.warning.bg": "35b7417b5e4cf7036cbad7f0f0786b896ca0e8d1",
+        "color.status.success.bg": "2a707097d1ff7c7df3cc9bed781fb50888938a06",
+        "color.status.error.content": "8e03c3b7e68b9aeac9808a35b2aa038a1b864e8a",
+        "color.status.error.bg": "38710bc6ccd6529f1e19d4bf070cd62fecb1802e",
+        "color.status.success.content": "49792e38e4a07271a1fa123cf6a7e80e4933d12a",
+        "color.status.warning.content": "577e944f83a6656803f533ea1f86fa98de56821f",
+        "borderWidth.btn": "f961469d81b126a07e4cbc68b511c31cf1555d23",
+        "borderWidth.tab": "5648e4177029bd45ea34f1d1320d16aa59c9f822",
+        "borderRadius.box": "0baace52f1eb244a7bacc82edc82c28176d02b47",
+        "borderRadius.btn": "24ffce5a76b06421f2c66f7df76e22bfbcf151d9",
+        "color.semantic.primary.bg": "aa76b79fcaba37f05bac0a988bb38c8fd8647d7e",
+        "borderRadius.badge": "ea08bb0a61c53b34cb1be1c334c6273173d8e4a4",
+        "borderRadius.tab": "5e652d6f77527f6eca3e7934be0ae3fdf2b1b0d6",
+        "fontFamily.primary": "100b31966035a6f76ea5a148b9bcecb45b561f46",
+        "fontFamily.code": "7413fb45d9d42bca7f6a56edcacfa2f7875880d1",
+        "color.semantic.secondary.bg": "36fff29360b2b07907d9d500234141d93812247f",
+        "themeName": "0966312b2e00983638bdb371d138b8dfea36361b",
+        "borderRadius.join": "35774395ea1425a47b57c926e48b1cfe8fe4a3be"
+      }
+    },
+    {
+      "id": "27ae75f72ade0b2e1894c19db29ba2d50858939d",
+      "name": "aqua",
+      "$figmaStyleReferences": {},
+      "selectedTokenSets": {
+        "aqua": "enabled"
+      },
+      "$figmaCollectionId": "VariableCollectionId:5061:70",
+      "$figmaModeId": "5061:1",
+      "$figmaVariableReferences": {
+        "color.base.content": "ca83df0b3be6e40b40fff4a1ae9768fce2691a72",
+        "color.semantic.primary.content": "7dc458cf65e75292388f9c314f6d0338e7a8738b",
+        "color.semantic.neutral.bg": "fddd0e38cb18bfadd20952c098181971cff2bb98",
+        "color.semantic.accent.bg": "f7ed2eabdb022b61ef1d458d091ee2d5c4a25e77",
+        "color.semantic.secondary.content": "5732061b91959f2beb3ef52bf2a690150cbc7761",
+        "color.semantic.neutral.content": "902c6bcb2b0bf49c057c5a94e017b65cc12e5918",
+        "color.semantic.accent.content": "00df9bfdcfbb391dc7c2a381df0cd2e07e7245c4",
+        "color.base.100": "3a395acc0f825370c68ffb125df87d5e66b10150",
+        "color.base.200": "49ab73d280dabff19b1eef99fa5b21c03fec7663",
+        "color.base.300": "43adce8a49014100fe8531c0e5d449ed1ce8cef3",
+        "color.status.info.content": "206175ea0609f1f3c89f2e7a40bb899b811e7079",
+        "color.status.info.bg": "1bf8c49f1ae02bd0f5e124888d049958ec474b08",
+        "color.status.warning.bg": "bc72d1d461da82b262ced667908a7484dcb18424",
+        "color.status.success.bg": "626814b2923d37e672363e7ce1e40cb0c3fb582a",
+        "color.status.error.content": "461f9bccd25af7565db9fe9e8452696eba64904e",
+        "color.status.error.bg": "c05801b4b5fb91f930bc81e8a0916370cbd69a29",
+        "color.status.success.content": "289a6b50d746cf861ba74a1add53cd617b9e75b0",
+        "color.status.warning.content": "1af5f9eea236f79eb9fdc5d701134cc3fc65ead3",
+        "borderWidth.btn": "a95b7369a7f6ff568d24879a5fa85ecfe576b077",
+        "borderWidth.tab": "1bf2b6db480b2269aaf97226ab84a77d1b0ccdeb",
+        "borderRadius.box": "c6ab8fec7710eef7aa47ba0cc21bff5e085dd743",
+        "borderRadius.btn": "98b1dfeca5499f3825fa941c65c646aef4c86766",
+        "color.semantic.primary.bg": "06412dc3c1b982094f5cb1c7b6cc275f51266ba7",
+        "borderRadius.badge": "9b2599417043cad4629244d7effc29c4ddf7ae1e",
+        "borderRadius.tab": "2f5a2ef080e89f6c3a8f30e6a5f74bd21b40333b",
+        "fontFamily.primary": "8be3591eb91068f341d5787010cef9f728194ca2",
+        "fontFamily.code": "5dc8c56c3607c09478b8703a69a2fdfa045f9c61",
+        "color.semantic.secondary.bg": "441992652bb41990c1246e0c59bbd569b2a408b5",
+        "themeName": "0eb321dd12c66f85368c9f20096bb50167a27373",
+        "borderRadius.join": "8cbb44b111941837b34e92a95eb0a8c637f4ad69"
+      }
+    },
+    {
+      "id": "12f62ebfb08d914b51d68e8892b074cf04fff2bb",
+      "name": "autumn",
+      "$figmaStyleReferences": {},
+      "selectedTokenSets": {
+        "autumn": "enabled"
+      },
+      "$figmaCollectionId": "VariableCollectionId:5061:71",
+      "$figmaModeId": "5061:2",
+      "$figmaVariableReferences": {
+        "color.base.content": "6f96f8612379b52114c1b5ae64dde0dd4a420930",
+        "color.semantic.primary.content": "7d8dbc81f14d3ab411b120244eb8cf57eecc62ab",
+        "color.semantic.neutral.bg": "4543538ce7a097119709258e85ba9bb5affef0bf",
+        "color.semantic.accent.bg": "42e821f817b95c2596f1ee3f5e43edd2ccdeddca",
+        "color.semantic.secondary.content": "eb39eaf138d24b624bd83e397dd4be93f5b30b75",
+        "color.semantic.neutral.content": "c8a1fed145a91a7813324b59b3b4e3a770300a8e",
+        "color.semantic.accent.content": "6b527ca085263b4b37aef9993b53b4b00cb97366",
+        "color.base.100": "43b35bc0a7adb219bd6d3d6ddbeffc1b15c5618a",
+        "color.base.200": "6cb4ad93600d9e18c01cb8db78fb392fc2f9454f",
+        "color.base.300": "2b853607dcf71a343d749fc96cc90d2984e60bef",
+        "color.status.info.content": "18fab1fcfc8ede5dff025c8f0da97efbe1729159",
+        "color.status.info.bg": "1764bb96afaa061d9fed413b4fb7389cc84a9e94",
+        "color.status.warning.bg": "092363c8303f82ecea07ed997bbc8fb0a9e0032a",
+        "color.status.success.bg": "144c6a22a4d74f67c1f25ce8d6f38942ef08258b",
+        "color.status.error.content": "a8e949e15723bdcffd9765b7ae3820402e8c22c7",
+        "color.status.error.bg": "8ea4a161ff30376c377eb67fb8b6872c2c3c24bf",
+        "color.status.success.content": "2ca2faa075ace689b9c0d90f5c24e8c68a713c0e",
+        "color.status.warning.content": "668a70dde099759e1bd5a1c58d08188386ff302a",
+        "borderWidth.btn": "44f58ef18e164f3ebf48a1a850e35d371798c683",
+        "borderWidth.tab": "dc5b386f90dcfddf94f8d707a8e38f9633e1f9ee",
+        "borderRadius.box": "f7ed2f772264fe29b4cb4340772ef804a43ff5cd",
+        "borderRadius.btn": "0aeee9e2c5ff4e6239122e45586e092c331ab493",
+        "color.semantic.primary.bg": "6317bee44602cdbe995e3fd4a52ad8e06bc90e23",
+        "borderRadius.badge": "e06b5ff112578a67b97fe1b807f692eef9e87161",
+        "borderRadius.tab": "fd8c931f5ae951c8d0e2f4e33668079a986f27fd",
+        "fontFamily.primary": "c74ce53ada555cd55bdc95cb860860fd7f0776f6",
+        "fontFamily.code": "dbe501bd4d434ff6d7b3af5ceecba8fb1d8a90a7",
+        "color.semantic.secondary.bg": "cee0e9cad87e5c7d23e5f65c3180af74f9f7b5f6",
+        "themeName": "af52c13bb02315975a507cc4162aadd25c113cd1",
+        "borderRadius.join": "8bdbd6f2929edd8939fa3cf18c05fc1bbb44bfd3"
+      }
+    },
+    {
+      "id": "0cb8809031736703558eeda6e00a2e937a0ab7b7",
+      "name": "black",
+      "$figmaStyleReferences": {},
+      "selectedTokenSets": {
+        "black": "enabled"
+      },
+      "$figmaCollectionId": "VariableCollectionId:5061:166",
+      "$figmaModeId": "5061:3",
+      "$figmaVariableReferences": {
+        "color.base.content": "1eacb7a551a9f75dda92f3487228894c39febe64",
+        "color.semantic.primary.content": "718c84a9dff788a88241ef5ada6c139b2f71fdc5",
+        "color.semantic.neutral.bg": "97b4b33728c28d2ea05ce5b74f53a6bf9fd20a31",
+        "color.semantic.accent.bg": "c5ba541f8a44b5826a04c626468626f4ae96e858",
+        "color.semantic.secondary.content": "cfa005bf59cc7ba15c087f842ad42008255a7065",
+        "color.semantic.neutral.content": "607d4b64d5898cd15442c11f8f8be2d361997a0f",
+        "color.semantic.accent.content": "f66088daa7d866822676c6a86b2cd31ecdacb175",
+        "color.base.100": "4dd5121f263ca68e25868e3185969a08006059db",
+        "color.base.200": "c8f6863651476276677b358a6ee60bc6bf923970",
+        "color.base.300": "e7f9db8ab94fe41a50ece0c52de706b827156b68",
+        "color.status.info.content": "5653e4d9ce45d7ad9bc140fc0f027a0c30d0afe2",
+        "color.status.info.bg": "a99a038da74fa8f1ed8d92f1f17e966126a82381",
+        "color.status.warning.bg": "8655bc5c8be212271bb55401bb3db268a6262ef5",
+        "color.status.success.bg": "2c8f5803b24d8e9c1716c79904c28b93f3b1408f",
+        "color.status.error.content": "49c029ca05bcd350cdb9ac7ac892999da8ea61b4",
+        "color.status.error.bg": "2548cd79218eaafb1c5bf524d9374954d72d103c",
+        "color.status.success.content": "7c6efe69311878ece22d3113d2edf50188716b62",
+        "color.status.warning.content": "92cbb947bd25a6b2079084ef256b094bc98dbffa",
+        "borderWidth.btn": "66e0d4918ea4053673f4db763cda73aacd53b204",
+        "borderWidth.tab": "aa7f5e5c48ac7743ccceb8c1df00ad2e9c4dd983",
+        "borderRadius.box": "226929d376846d6c493020273a38728e0d096600",
+        "borderRadius.btn": "b7d24a972aaed9e27b674c1e637dde6f8ceb18a1",
+        "color.semantic.primary.bg": "75fbf0d0c6f86212e5348e3519e0737fca51c0e8",
+        "borderRadius.badge": "2d3d37bb0dd46894b413eb837cd8a7eb741663cc",
+        "borderRadius.tab": "25620aee8f2cf1bb9bb7a20ad524cc887ed260a8",
+        "fontFamily.primary": "59464831e87fe3203a69163f3d8f9f742e932c5d",
+        "fontFamily.code": "ed5f3207f20c74d0bfcb1c5dc2ebd10804109a9f",
+        "color.semantic.secondary.bg": "bd3eea2debde09b54b7f14e58b5026bf189a76c1",
+        "themeName": "3f4968e0bb813160c40cdb9ad94c600655fd7aae",
+        "borderRadius.join": "66bc0ba1ec1394eb8594e56bf52cf9555e41d73e"
+      }
+    },
+    {
+      "id": "aecd596f4a3ac48939972e6c7446c42c0092af01",
+      "name": "bumblebee",
+      "$figmaStyleReferences": {},
+      "selectedTokenSets": {
+        "bumblebee": "enabled"
+      },
+      "$figmaCollectionId": "VariableCollectionId:5061:167",
+      "$figmaModeId": "5061:4",
+      "$figmaVariableReferences": {
+        "color.base.content": "ebb74e3797080cbc8f2c2779074201eda96269f2",
+        "color.semantic.primary.content": "2e794c27867ad89a242ffdfb985b1dd33a41fdbc",
+        "color.semantic.neutral.bg": "03ecad23ccd090e5e8f19c86a219885c8f71841f",
+        "color.semantic.accent.bg": "1621377e04b3d7bd318d22e1bad7ee060a632bc6",
+        "color.semantic.secondary.content": "44f2e9544169d24bac300d0e49fa1fcf53cbff0e",
+        "color.semantic.neutral.content": "4929b3b851fbae8fab97671ae3f77a9b5ae48a9f",
+        "color.semantic.accent.content": "d5592a3c1651a5494a9951371c0703dbb5e781f3",
+        "color.base.100": "4e0956aed3a11263a7636f3645b30869332abba7",
+        "color.base.200": "a78f7923688635db16577421c8ad27813a12531a",
+        "color.base.300": "9f3c62bcdc70c64d0e0b92366350fd9ea20aafdb",
+        "color.status.info.content": "1c1c23188f75ac4c48b610f90e1bcb83bc0db501",
+        "color.status.info.bg": "7e407fd7c7d0ee20c8d38a3c495989ce36731aa9",
+        "color.status.warning.bg": "7735a8c9ef21c30ea91a1f8f040db057d80bb8ef",
+        "color.status.success.bg": "461b56fc154f716cf5471bef0c17d2e4e103f350",
+        "color.status.error.content": "89a83c0b1459fac1558947d435ffb5cc7650e550",
+        "color.status.error.bg": "c7ecb5c1a6f64171222d2d3d0c068ad6ff97e24a",
+        "color.status.success.content": "822c06bda827fec00948196847ccd7ea620749a8",
+        "color.status.warning.content": "783e720e99bee3ddfaf6b406115b3e51ed40a7b8",
+        "borderWidth.btn": "7ba2b82d32b460a2d20da6246c32a6e16d8f582a",
+        "borderWidth.tab": "0cf6b1f92998ca3e112e898e07b2a3ab3f2373c2",
+        "borderRadius.box": "6a9f5fcf7854b2ecfbd22182e8e20933d2740ea4",
+        "borderRadius.btn": "16c5cda0a15f0aa7a3bf18e5616fc6aeed1ff8da",
+        "color.semantic.primary.bg": "06f0f06b91fbd0bd5978794514b4ddeb0b8f6801",
+        "borderRadius.badge": "047c29377e35bdfea209a965ebdc9e3282a5cd55",
+        "borderRadius.tab": "f7f4a0340c60a6e4a7617c146f6950d7eb5154cb",
+        "fontFamily.primary": "4a178a618fddff6ff8d784e44635f3e726b954b2",
+        "fontFamily.code": "d9f9d33f8ac7f1076d14af9e9d6727836ce36037",
+        "color.semantic.secondary.bg": "e2e3e350ae58d2696d9b48246d3b150d41df5eda",
+        "themeName": "1a4367756981fd45746b96d2fc59a2f95e1d6d58",
+        "borderRadius.join": "ae3967cb20c9e01ed9d434e75466f0b50f5ee702"
+      }
+    },
+    {
+      "id": "40f8b5ab0eb306555720d5b628f89d57348987bc",
+      "name": "business",
+      "$figmaStyleReferences": {},
+      "selectedTokenSets": {
+        "business": "enabled"
+      },
+      "$figmaCollectionId": "VariableCollectionId:5061:168",
+      "$figmaModeId": "5061:5",
+      "$figmaVariableReferences": {
+        "color.base.content": "14f4edc9fbe258d6d7be1e3967e7e4fefc08e1c0",
+        "color.semantic.primary.content": "08465db4ff54d623d5e49f4f654014fcfbfb9e0b",
+        "color.semantic.neutral.bg": "b7df2d035c1afe79ae35bdfeb96ad4c888231a51",
+        "color.semantic.accent.bg": "84693e5e87aa30808412e4128c151f8791828e22",
+        "color.semantic.secondary.content": "d44eff688d1f641a881eca470037943b1b69e1ef",
+        "color.semantic.neutral.content": "36a319d3d161b5028ca6997bcfdae8db645620dd",
+        "color.semantic.accent.content": "a58ef494ada3fad01b640c53dbae494ab6802da2",
+        "color.base.100": "daa24acd6c2db5537de4f5711503cda17f6356dd",
+        "color.base.200": "0ae735a6a89321333dd421ff8a616b78b6ac472a",
+        "color.base.300": "b079a54f62ed3cb50bb9684afc8aec04b3ecd17f",
+        "color.status.info.content": "f4e9a1bf6cc2ff7e9547d1f14ab5e65aa03bc653",
+        "color.status.info.bg": "475a030fff49f1ef713a2295590d9a6c661d8e85",
+        "color.status.warning.bg": "65becd5c8b6a9693b6370b55f71a0265ddda2091",
+        "color.status.success.bg": "0f8b30b16066fcd46ba39a3a6ac5be875a60f702",
+        "color.status.error.content": "89d7155b77b70cb450e115c738e0d741c6cefa74",
+        "color.status.error.bg": "0c7e0cf3d50d0565a1b5a51b9490d8bdad090347",
+        "color.status.success.content": "da8180904655080e1c1b9fd14fcebe80a16f0ced",
+        "color.status.warning.content": "55045b763f052cde490f0fa70e5de05ade2e0eae",
+        "borderWidth.btn": "441a6a75503119080ac708782a5309767fa443f1",
+        "borderWidth.tab": "347f3981939d848d416a1be2248c83624a28d8f4",
+        "borderRadius.box": "1d1cb2b153d9869fe02193b7969028754d8ab2c9",
+        "borderRadius.btn": "65b1baa2a36aded2998205d35c38d2ee3a380cdf",
+        "color.semantic.primary.bg": "6c20b3e86b5d190d95023b1c34dfa6f09185b0aa",
+        "borderRadius.badge": "2596ff4b70bc08917089f29e9e2dc8b600698a3c",
+        "borderRadius.tab": "0c3ec34809a4aef3b2b8f454f5a02c95fd650249",
+        "fontFamily.primary": "a4490d1ac1215b4ac1449845bb7cf9a1e4e352ce",
+        "fontFamily.code": "9c022d0b42f10bc51b713d7ed4b30b061d92ca06",
+        "color.semantic.secondary.bg": "0cfb57071a629eca5e6f318e85ae14851992459d",
+        "themeName": "39bb0013ea981f655733a53e93adf2bfe46f4447",
+        "borderRadius.join": "38ea78b245aac2fd74144dbe041ce2b3f8c66b82"
+      }
+    },
+    {
+      "id": "934728c5327bc4af3bac6cd1f5ec56fcd1afe20b",
+      "name": "cmyk",
+      "$figmaStyleReferences": {},
+      "selectedTokenSets": {
+        "cmyk": "enabled"
+      },
+      "$figmaCollectionId": "VariableCollectionId:5061:5589",
+      "$figmaModeId": "5061:6",
+      "$figmaVariableReferences": {
+        "color.base.content": "9f28f3ddfd4baf9bc33118e7927e226864183a0d",
+        "color.semantic.primary.content": "4ea4c6527e529ab2687a5fe27483768836555b85",
+        "color.semantic.neutral.bg": "fd789013e610599553a9b052f766bff5af26f81a",
+        "color.semantic.accent.bg": "8bc644b851d6a716806036bd5400acda1da4c873",
+        "color.semantic.secondary.content": "ca689b9bcae916d62886199dee3644bfdc703710",
+        "color.semantic.neutral.content": "aae28365a0f9bde56172dd0dcb401895f5e7a3b0",
+        "color.semantic.accent.content": "995ae96cfb3266c8724f2cb62901f36bbb2b0568",
+        "color.base.100": "51a7c850c75c6b8e760889818d863e7c6f282667",
+        "color.base.200": "e72bdc91b195fa9eb017a519da74fb9da1a21cf8",
+        "color.base.300": "6b639dc27046b77d8cb9fa1ff79f70163966cb73",
+        "color.status.info.content": "b381b44888e8fb5040584014df8d78d810e7f6a4",
+        "color.status.info.bg": "35abde0d195829229272430e8c4bf6ddc7b6b0f3",
+        "color.status.warning.bg": "936365598ecf9fb2b2826043421861e1de5bf9f4",
+        "color.status.success.bg": "671950f0fd94c57f61596fc22602907bf21350a8",
+        "color.status.error.content": "eab2960173b7fd2ff50accdd32b2706f1c7540af",
+        "color.status.error.bg": "be019a4f6f16ac10a2b455fb8f28d4754667875e",
+        "color.status.success.content": "2ecd4bef81e2e2e722c3c816c9aaf3f03cf4b9f4",
+        "color.status.warning.content": "f0938d7fdb765f0ea553eea801697a8395f23d65",
+        "borderWidth.btn": "98a8a8e86b344602f83633d890a6781329bd471f",
+        "borderWidth.tab": "6a04e8702469d70df9a245bd3aaef91485dc5275",
+        "borderRadius.box": "89a0520376cd6d8f9bb9d4398b81bed839e6b07f",
+        "borderRadius.btn": "d716a4dfef099b9f5a63154e7258e5bb783fca4a",
+        "color.semantic.primary.bg": "3578da08598a0177522b3da064f7a65f375176d6",
+        "borderRadius.badge": "2c0baea14bbccbd8f9256af2a30517e0067f2d68",
+        "borderRadius.tab": "d3f5b4206de3490f6919c35bd3f6d5b987de2de4",
+        "fontFamily.primary": "3e118156eda15655949258f002b0227c3b4a1e79",
+        "fontFamily.code": "d1e0d33d9557bf5bb7281f317d6ed9eeaf0a2932",
+        "color.semantic.secondary.bg": "6223cf57948c15876a62e567040d4c0a5eb32da5",
+        "themeName": "421812bc96cf912e1201474de449d61d7b82679b",
+        "borderRadius.join": "0c69aaf071df3af652cc235a074cda9527440e5d"
+      }
+    },
+    {
+      "id": "06a81724ab06d0e5196ff8f441758ec5008f7068",
+      "name": "coffee",
+      "$figmaStyleReferences": {},
+      "selectedTokenSets": {
+        "coffee": "enabled"
+      },
+      "$figmaCollectionId": "VariableCollectionId:5061:5590",
+      "$figmaModeId": "5061:7",
+      "$figmaVariableReferences": {
+        "color.base.content": "721d52484d051712e188efab978ad425b9ab448b",
+        "color.semantic.primary.content": "dcb8c4b25924db48083c32c61b5308d1542102d7",
+        "color.semantic.neutral.bg": "95fe39e4e0c6dbe809451d964ae7a45f3d19d492",
+        "color.semantic.accent.bg": "8e7eceea9e47ccec8bcc2a95b3948f36a970fe46",
+        "color.semantic.secondary.content": "8d08e1af096ba6e0fc5dd2681587e6462fb7338b",
+        "color.semantic.neutral.content": "37ebc165375df2c97d217149f6da0cc7694be818",
+        "color.semantic.accent.content": "aa6a22c2ef1da62d3b2e2e8e0c0b2d8d40b16998",
+        "color.base.100": "771428accd4da0f68246eae12a2a1ae7aa5ee56a",
+        "color.base.200": "b035a1e3feebdfd10fd1b0a9ab43c93134ca9907",
+        "color.base.300": "554ae2128851a2d0ea25d633bc180c456905189a",
+        "color.status.info.content": "b8a83b205f63d14d959e5f28a1e2b9f8d93ac492",
+        "color.status.info.bg": "55d5bda58ff91a9100501d7c3c5a4bfda8ac2b15",
+        "color.status.warning.bg": "4ec1fe02efe72d966945f776a95dec855fd4edf9",
+        "color.status.success.bg": "5a9bdc37b4554bbffd29018bb517208647c9c9f1",
+        "color.status.error.content": "497a72103c1d76f0ba8c19bc8d5fe643e9056bc3",
+        "color.status.error.bg": "3bca7eafd8c47534cf16b0489baa28bdfa003915",
+        "color.status.success.content": "6a8d77beef63edaadfa273b5ea8b5f5b4374f152",
+        "color.status.warning.content": "165d22d3457ca299e4fc6c08abc946e79c6e5ac0",
+        "borderWidth.btn": "bc540941257d3fbb866c7219f635e3cdbf54ae64",
+        "borderWidth.tab": "2eed26b45366526a3298dd6832179ba8bd49ab8c",
+        "borderRadius.box": "a50c12e953d6c6e532836f5efd160be4801a92f8",
+        "borderRadius.btn": "b753c61abe83f9bcf824f30d7276d2a9134100ac",
+        "color.semantic.primary.bg": "d2648b939d7944601008ffdc8998b361442156ad",
+        "borderRadius.badge": "f2915b646791a44fc3ac5771661bc1c987dc1cc3",
+        "borderRadius.tab": "612f1022e8819c4a23978a9f886b415d72099635",
+        "fontFamily.primary": "749c590d099092ce20365d96e27e227f9ab320ba",
+        "fontFamily.code": "e274be1820c89e67e6a1899218581a2ad1e4b240",
+        "color.semantic.secondary.bg": "29c8d2f51296ddf7339a92d37a185fac5b982c5c",
+        "themeName": "8c4819dd965b336dd056efe6084628f916607547",
+        "borderRadius.join": "8f557954d83ba598808c86533976623ddf8f8f0b"
+      }
+    },
+    {
+      "id": "ebac4d9f9aa341c788d8412a07ff7a9fa524190c",
+      "name": "corporate",
+      "$figmaStyleReferences": {},
+      "selectedTokenSets": {
+        "coporate": "enabled"
+      },
+      "$figmaCollectionId": "VariableCollectionId:5061:5591",
+      "$figmaModeId": "5061:8",
+      "$figmaVariableReferences": {
+        "color.base.content": "ed08bb14967798838a2a074a8a6ba10027a19c7b",
+        "color.semantic.primary.content": "1d9866df5a838dc82e2253f00d0f8222aad4b520",
+        "color.semantic.neutral.bg": "7863d4aa9ec377c1d1ebf367b2760c0f57705829",
+        "color.semantic.accent.bg": "6014bc8334224f29afb195d9fbe5ece6af8e31e5",
+        "color.semantic.secondary.content": "0d29d354910af4f1fd807709afec551bfcd398f8",
+        "color.semantic.neutral.content": "e9addfb455daea6008e49099672dc60ef369f098",
+        "color.semantic.accent.content": "e87bdfdfc6648b640cb1acb1a0f0a93ab3344e82",
+        "color.base.100": "bfd974f5d6d097fad12b43320330e258c14ef2a1",
+        "color.base.200": "59a9e608a604441758612a5e260bcffdd265ae9e",
+        "color.base.300": "4fa785061431a1eede26a4df20cab1f73dc69d70",
+        "color.status.info.content": "cfff514441788140d2703a48356cca345f61703d",
+        "color.status.info.bg": "8e097b076db13a0c83fcdbda535df805515f31cb",
+        "color.status.warning.bg": "86760d60f80fa8bfc8573d30d2f594eeeba73a02",
+        "color.status.success.bg": "01e9a97134ffc2fd2a0af02873fd91c88191e853",
+        "color.status.error.content": "233fe804cf4131dfaa5f41a47cd3e0a258e67080",
+        "color.status.error.bg": "18846f510154f2cbf4e2163f2784b0b898b67a99",
+        "color.status.success.content": "4c1ddbe3d6cfb2aad759518ccc0cb7d57753a4c1",
+        "color.status.warning.content": "c07bf945efe114498d9aa3d46ce51c558fb00aa9",
+        "borderWidth.btn": "fc77daa6e8f4fc3d44403154c6a2665ed325b046",
+        "borderWidth.tab": "4a8dcb0f360ce07dbb0cbe181156290548d4d953",
+        "borderRadius.box": "4328c03b8e3a2852e7985ab6c73fc0b16dd0bb52",
+        "borderRadius.btn": "33f9b14a3e6a0c05608ad479c92e432395d23492",
+        "color.semantic.primary.bg": "3aea79d8768a708f88554b01896044371a5aa786",
+        "borderRadius.badge": "255b7a0818cb168871fe26e3a42ad24fa0a88103",
+        "borderRadius.tab": "152d249a89e8ba30b349881550b62a20caf39d2f",
+        "fontFamily.primary": "0de30e18b2d9077a0c40276737611dc7e543aa92",
+        "fontFamily.code": "8e763f3bf8193cdac0a5ab7c2785f019f67c5dd4",
+        "color.semantic.secondary.bg": "9fabbdc0628ec0a6be3fc43c53952fdfb88924f3",
+        "themeName": "3f40eebd09349e94bbc534db8ffd2be23a2eeb28",
+        "borderRadius.join": "c809289fa967e0ee913c1462a42786c00dd68a39"
+      }
+    },
+    {
+      "id": "a4dec2443459c1694dcfe640f92f363d7308f06b",
+      "name": "cupcake",
+      "$figmaStyleReferences": {},
+      "selectedTokenSets": {
+        "cupcake": "enabled"
+      },
+      "$figmaCollectionId": "VariableCollectionId:5061:5592",
+      "$figmaModeId": "5061:9",
+      "$figmaVariableReferences": {
+        "color.base.content": "30b03e147f4c4128e72b1add9a2df843b76bf2f7",
+        "color.semantic.primary.content": "7ab2f75f44e2726f3e1f3663b432f5bb24f1d12d",
+        "color.semantic.neutral.bg": "6b4d26f4a811acba1e1f5fc70d16dcafcd218e3a",
+        "color.semantic.accent.bg": "e845ba71beb3a57ebf30e37b06e38b8858cf18d2",
+        "color.semantic.secondary.content": "f33e94d64d34e50353f312e4ce7b42a250901766",
+        "color.semantic.neutral.content": "2317ac702e760b665067d9eedf697bdb6492a200",
+        "color.semantic.accent.content": "ce6b3794f8a3c20e887c603a4c4d53562c6221fe",
+        "color.base.100": "17c257ff4b1a5c46a9b2c95c627bf514bfeaf4cb",
+        "color.base.200": "8c13d74bb8aafab635a1141c608077be3c0ace56",
+        "color.base.300": "8fa5bb50b68e67e890ffcf7466196430a7f7dd8b",
+        "color.status.info.content": "30e5cf7d7b41b2eec3a56efe27d96fb90114eade",
+        "color.status.info.bg": "4e2733caddff1bcbddfc1f859657c491411fa8b3",
+        "color.status.warning.bg": "237637c95ce3673fcb7ae89ce5228e80232cbd98",
+        "color.status.success.bg": "fa88a244fa51c3b263b54a9f57066ca9410b627f",
+        "color.status.error.content": "317e708c5406772ada316a00124d262f98c52cfd",
+        "color.status.error.bg": "14adc52f8af5a20e07a129e19b4dbb0081cc3156",
+        "color.status.success.content": "ec43e6af1be7207dacd00f8d88d16121cf4073ec",
+        "color.status.warning.content": "a5fe0be3b02885f82f020d0e044831c6ba9647ad",
+        "borderWidth.btn": "e61d28b6fa547d01440a095df56aa3af7b433521",
+        "borderWidth.tab": "cd5b2e3fbd804d7ac1bb243b009f53e1f0dbe508",
+        "borderRadius.box": "f2acec34721b73a84f1f4120f9f0f3049b729faf",
+        "borderRadius.btn": "c326a1da802e77cbda29ddf693c491ac3c47f057",
+        "color.semantic.primary.bg": "30f4d80b20255f05b30aa706200c4943bbe11063",
+        "borderRadius.badge": "01cc678b5b376fae73387333cdd031d55f09b979",
+        "borderRadius.tab": "4c74326b1a695e6b1c0a16da5560e4712ddc7a1b",
+        "fontFamily.primary": "95a5171c3a32c1ed23f5af40174ec3b15b3b16a3",
+        "fontFamily.code": "c4f7a17472f4e06edc9b7ec82b35e84af97609b0",
+        "color.semantic.secondary.bg": "f8ef37abfc401e235ac65abf2042eff63e78721e",
+        "themeName": "e074d05084cac591518156ebe87731a80d6decbf",
+        "borderRadius.join": "8afaa7154c209e4b3c262bdd1703fad1e30e027d"
+      }
+    },
+    {
+      "id": "21a1c6b1939d86cb9e6965a3ff857b99336d0a20",
+      "name": "dim",
+      "$figmaStyleReferences": {},
+      "selectedTokenSets": {
+        "dim": "enabled"
+      },
+      "$figmaCollectionId": "VariableCollectionId:5062:8384",
+      "$figmaModeId": "5062:10",
+      "$figmaVariableReferences": {
+        "color.base.content": "f60df04ea0112ab19fa21ad19d11e01c72857867",
+        "color.semantic.primary.content": "8281da2a28fc192f9bdad3a730b9d32f7e010120",
+        "color.semantic.neutral.bg": "2e29980ae02afc88124d0b9cea1e280e37eaa7de",
+        "color.semantic.accent.bg": "9acd6bf9f2b78e0101dfaa52d063ad61270f05f8",
+        "color.semantic.secondary.content": "76247a001a2670276b5f147428af97087b878c13",
+        "color.semantic.neutral.content": "a605c34a44076d27b3e003655290aa3191572030",
+        "color.semantic.accent.content": "e89e0fd8e0c3d4b8a60dc08322eab3cd03aa7d75",
+        "color.base.100": "6d83663da2039aeb4e9ddaf61841dbfd1124723e",
+        "color.base.200": "e7e3fe33513915b6c5f68fe7f028ce113f9b7585",
+        "color.base.300": "ce3697a408667dd15b2c04573f8f819228924374",
+        "color.status.info.content": "6d20b14d8369ede5dd7f4e2c5f0b2acfc6a9f13e",
+        "color.status.info.bg": "ec3b567c3f2e175bb32f41e5222ba524ed8b2679",
+        "color.status.warning.bg": "60df8a9ef5ac856a977de154c098ff1c7e68263e",
+        "color.status.success.bg": "e2cc859d987a087557a65b8e21802e39a14cb8bd",
+        "color.status.error.content": "e42bcdeeacbec82a0aae2b4c9ffc413f964e9fb4",
+        "color.status.error.bg": "945c3cb8c8fc5fa2a2cce765981ed70bcad75e1e",
+        "color.status.success.content": "b5dfc682bd957636d9694f43ba7ed1550618a57b",
+        "color.status.warning.content": "0b112113e2fa1155d41e295683f9c71d3fa66b07",
+        "borderWidth.btn": "788327a955a6f06b25fcd7372c0cdaf3e174fd87",
+        "borderWidth.tab": "2d5295db81103a46d3627fa04b9c41766522c051",
+        "borderRadius.box": "48b1ce4855c6d21c5a2f89dd5a5b2918b2c40da2",
+        "borderRadius.btn": "07b22ecdd8e3d647b2714b8edfb4b139d032eb73",
+        "color.semantic.primary.bg": "2081dcd6152aed88d4344ed8d20f6b653bd09fe7",
+        "borderRadius.badge": "a177bc121c339854eb17a343d8a3e929b5c4caeb",
+        "borderRadius.tab": "8c42afdafcf5c0a6f9f0b739dae0514f368e6119",
+        "fontFamily.primary": "75b675ecbf8e4a3a603e724c2e20096bfbaf2029",
+        "fontFamily.code": "9beb7c2bbfd9ee6d916a887c66eb139b1bbc03d4",
+        "color.semantic.secondary.bg": "5dc9b0cc1590618e4ecdce768f6c0be504826d6b",
+        "themeName": "5cb256ceb46e5ac0b0e848b7e7c7d27bf87e71f6",
+        "borderRadius.join": "5f8653ecfb7c170af6d19bd6b48c2e4651dc7b10"
+      }
+    },
+    {
+      "id": "981542c6b46f199c52e42822fd2f4ea10f0d6dd9",
+      "name": "dracula",
+      "$figmaStyleReferences": {},
+      "selectedTokenSets": {
+        "dracula": "enabled"
+      },
+      "$figmaCollectionId": "VariableCollectionId:5062:8385",
+      "$figmaModeId": "5062:11",
+      "$figmaVariableReferences": {
+        "color.base.content": "5e485dfc223229118fe5f8050ad707ca7ff6357b",
+        "color.semantic.primary.content": "fc5ebc5a072c8872ddce64168841699859bf4eb0",
+        "color.semantic.neutral.bg": "8bfe7902d4c25781b6ecd554046263bc769cf6f9",
+        "color.semantic.accent.bg": "4213be46a7aa4570ecb409ac23909dd12e5ade64",
+        "color.semantic.secondary.content": "2c7a81e64eccc99c9cf51c6d63f84558e4552182",
+        "color.semantic.neutral.content": "2435acf09583b0766ac269361bcbd408fc219e9f",
+        "color.semantic.accent.content": "c7b3a3991b3bb5fb80ae4aca62f9d5848489f6e5",
+        "color.base.100": "b6644d6cc3586285c37466d2350ef8e6148843b6",
+        "color.base.200": "f1fd5fb491f9076a4d5377756b0ca25338da7254",
+        "color.base.300": "8a7decb831af34d9180abde0df494e7ace099a19",
+        "color.status.info.content": "e5b9aefddc03580c648283afed0eda8d5e895e17",
+        "color.status.info.bg": "f4cc541173ca856be6c3118d4fe127d000210988",
+        "color.status.warning.bg": "f7a5a060d24432ec151e691069195d4055de7112",
+        "color.status.success.bg": "783e08a50b561002b639e65bccb794f66d62c018",
+        "color.status.error.content": "8261c871eefdb2cc2fe98d7eb82a5b477145abfa",
+        "color.status.error.bg": "2df512b1c8a977b5849eed21a53feecf26fa73cd",
+        "color.status.success.content": "e098f48bf59eb622c78234e11068e4a543defc9d",
+        "color.status.warning.content": "3d4626b7733fb77d4852428336f08c571e3cbefe",
+        "borderWidth.btn": "64dbc700bcd45499b2890091cafcc499fe07c78e",
+        "borderWidth.tab": "4c8d0c53a574cd6250081e6509427779ab1c48ac",
+        "borderRadius.box": "0959e38222389c441884a9057eeb0e4ef7e59652",
+        "borderRadius.btn": "14e9cf462dd08cb86bb99d536070da06445c8745",
+        "color.semantic.primary.bg": "28262cc3b080f346d3ac73810afe533683aec180",
+        "borderRadius.badge": "e82e4d2722c0d9c0cf304627ddc8400d73b89711",
+        "borderRadius.tab": "ec2c51caff2c712a052902a1c767aa7c21593060",
+        "fontFamily.primary": "4d2fa7508d9f1a52d49aa6380047a384fad33a7e",
+        "fontFamily.code": "5d569658ef8a1504fb6e509ad0dbe7327dc4f587",
+        "color.semantic.secondary.bg": "e860bceabe90ed8cdd75f88e722ef4df7649f7e8",
+        "themeName": "146413e7dfcb59b00244b2f7c98a3f57c253c5dd",
+        "borderRadius.join": "80df6b13474390ef1e4caf2241b60ce082975b38"
+      }
+    },
+    {
+      "id": "c0ae8f39b1083d2788236971ac4876cb9dd84ace",
+      "name": "emerald",
+      "$figmaStyleReferences": {},
+      "selectedTokenSets": {
+        "emerald": "enabled"
+      },
+      "$figmaCollectionId": "VariableCollectionId:5062:8386",
+      "$figmaModeId": "5062:12",
+      "$figmaVariableReferences": {
+        "color.base.content": "144818430deec4f16792efa5f5b099be692cc713",
+        "color.semantic.primary.content": "b69516c05da4198b8ef50f0b1823689cb62870de",
+        "color.semantic.neutral.bg": "62df095911baf99a470656f28667e9c02aa299b9",
+        "color.semantic.accent.bg": "a373a8c35afd027c62149f67a37eedee88be45aa",
+        "color.semantic.secondary.content": "a658fa989cb30797555f9ba6c60960732c0e4050",
+        "color.semantic.neutral.content": "ca8ae813df05a3b8575961adb408aec25ed05d1b",
+        "color.semantic.accent.content": "f26149d28f6588287f42b99b0ba250d64de9ac8f",
+        "color.base.100": "cdb3c8ed39f2714c28786b70b33b7ea099bbdf3f",
+        "color.base.200": "a0f2f75068ed04d99d5e649651e05459ab11fd6f",
+        "color.base.300": "4d7c53b43fcbe95d23e48f2c3d8104f848eb7248",
+        "color.status.info.content": "4bcf9b27ace0ede2fb1f8623cc441e6adc36875c",
+        "color.status.info.bg": "d2ffe88f38c756c871476eec5c04cda27f0e0f74",
+        "color.status.warning.bg": "675cfc2ac4a3405e2a643fb96afd38dc3d861e57",
+        "color.status.success.bg": "2e6667ecae4e8db9b220230ac39893443e3e47c9",
+        "color.status.error.content": "51a97c88a7923851830a121eea5c83e91e2fe35d",
+        "color.status.error.bg": "a8aee2b7f7b38124c3196c382e9c307e70ddaebf",
+        "color.status.success.content": "df2e33c578f2fcb5b39a2e93fa3fc8adc5f72689",
+        "color.status.warning.content": "b3f4ac6b9975389acdba851447c9e2cfa8b863b6",
+        "borderWidth.btn": "4c3bd7b528bfec62bd924c0af7114719009c6a48",
+        "borderWidth.tab": "ab7ecfbde57a4ce56fe6cd8dcc982eb481dd4200",
+        "borderRadius.box": "f77eb65c324e9eccce11b1f9b1bcdbe167ea24f7",
+        "borderRadius.btn": "2773b79c1b54acbeae0f88fd680d9839eb3e82d4",
+        "color.semantic.primary.bg": "188d0b61da67ef252bd1029613ad25104e9ad0b0",
+        "borderRadius.badge": "c3a6d2dd35e111bb6b7458ced27a9abbd9978654",
+        "borderRadius.tab": "b48d2460c7057e2d3f6a41411efa7ed595b0d86d",
+        "fontFamily.primary": "b59f65086fa453851b5c5a62593ef669f69ae89d",
+        "fontFamily.code": "41c3404f8d610f752c1bc7ec987e134c454ad303",
+        "color.semantic.secondary.bg": "56c2bd8e085acda7891738d401937858b5ee1c44",
+        "themeName": "17760beb2b09b6a6613055e3af3b8a5f605ee936",
+        "borderRadius.join": "80f9a3a19959a78101f05904c39fac0b8807b151"
+      }
+    },
+    {
+      "id": "ee204ae8831ba0d1161b3ca48cfd03419877a89a",
+      "name": "fantasy",
+      "$figmaStyleReferences": {},
+      "selectedTokenSets": {
+        "fantasy": "enabled"
+      },
+      "$figmaCollectionId": "VariableCollectionId:5062:8477",
+      "$figmaModeId": "5062:13",
+      "$figmaVariableReferences": {
+        "color.base.content": "9c7c661ec24139a91c8a8be9db2d0173f768c085",
+        "color.semantic.primary.content": "47ed17236d1f8315c62206400885468b921fb5b3",
+        "color.semantic.neutral.bg": "6dafdaf515df3f81cdaabc3463d6274fc68ab8f6",
+        "color.semantic.accent.bg": "12b52a815005f0e2287c7f19c519fe92edbea1fe",
+        "color.semantic.secondary.content": "a7eca5ed4f4a0cc15fdd8a374d6942afe7eb7870",
+        "color.semantic.neutral.content": "fbf170b277109747f7a8872d5a4fb9abf0d2cccf",
+        "color.semantic.accent.content": "dd5b21d1cfcfb5dd1108bec1eb8756a13551d6a1",
+        "color.base.100": "ffbbd52c6a396b7eb086edd605b7ffaec690ecf0",
+        "color.base.200": "2e0aaf01e23d6630261c9f5bcf36abb1e79843bc",
+        "color.base.300": "d6431af4e8001557962a0fcbcf42fe43e2e65a3a",
+        "color.status.info.content": "2c422ba71a570340b25536448e289639d21dd571",
+        "color.status.info.bg": "dc82fdafce7313eae27133402925331b1beb142e",
+        "color.status.warning.bg": "46074b96eed45210b6b0897dfa499a4202e3eef5",
+        "color.status.success.bg": "440a3cc7a867be174a90b5a516477d67db418ea2",
+        "color.status.error.content": "1ad1e0b47cfc2076300592fdfd25bdfdfb5a3c9e",
+        "color.status.error.bg": "b0fd4b63097a57c092acc8e07a1b9e1ff87f00e5",
+        "color.status.success.content": "6d107818df861daefaf68da7ccc21d8dd4c25a44",
+        "color.status.warning.content": "c54e40e2e47ab90f32fe796631d739765e145eac",
+        "borderWidth.btn": "a10baa2c5f063de88e65b7bebb9a28635a3fe737",
+        "borderWidth.tab": "be3378ebae991c69662b5cf93d0b69bbb8eafd19",
+        "borderRadius.box": "45df29125906267b534810eda211e275e5e05ebe",
+        "borderRadius.btn": "dc8121a5f4f5a1286101c129e480948114126cf9",
+        "color.semantic.primary.bg": "05f5260c33aec6d706c6ecd7ac6648df6bdeb468",
+        "borderRadius.badge": "5bd269a193ef541798958c9fc650ade8f996db5f",
+        "borderRadius.tab": "cc58b8bd633165e492fd9ea327700f437f5aa373",
+        "fontFamily.primary": "9dd1b3fe0ca6d6a33f3289358bf5f1aa7d59d9c4",
+        "fontFamily.code": "f3c025ce92ccc8ec93f80c2627d302595878af50",
+        "color.semantic.secondary.bg": "09931a1718fdd19f614f01504a5a1ee484c96db8",
+        "themeName": "dfc1970b517af026eafa4ae13c9b73dd1e0be02a",
+        "borderRadius.join": "7f87b1cfadff2ac668f7d8d87d36b5765553348c"
+      }
+    },
+    {
+      "id": "2a6c5b8d238a2a2f5ad916ab01618fcf8f4fc3ce",
+      "name": "forest",
+      "$figmaStyleReferences": {},
+      "selectedTokenSets": {
+        "forest": "enabled"
+      },
+      "$figmaCollectionId": "VariableCollectionId:5062:8478",
+      "$figmaModeId": "5062:14",
+      "$figmaVariableReferences": {
+        "color.base.content": "2b8be5050d33d16272ec595344c3810c3684b75f",
+        "color.semantic.primary.content": "8eaa7965c45bd5edb3ac6c3ae7674cbf7c1ccccb",
+        "color.semantic.neutral.bg": "d6fa69040d9df52e63d027f1e81a0856fe136971",
+        "color.semantic.accent.bg": "205cea6b0aed9b07b55365dfff829e203309879f",
+        "color.semantic.secondary.content": "ae106c9fd589f7343df5b695b5d023c9534edcae",
+        "color.semantic.neutral.content": "cc5a15e24d95d1c18725c7ed761484ad9cba54ab",
+        "color.semantic.accent.content": "969e6a9a685441ee62eb9c4f9995e570b5fe802c",
+        "color.base.100": "fb91379db936500986f44ff1bb8e1c3efb40298d",
+        "color.base.200": "f0fd7c6608c69cbcb2b1b7d91b185cd9e9259404",
+        "color.base.300": "200678586542fdd96732af14e6537853e5c0b0d1",
+        "color.status.info.content": "0bb087fd83fe77ebf50712ee34030160e423723c",
+        "color.status.info.bg": "c6935bad43c07a3f1b2b9fbb327b6f7b0944e0ff",
+        "color.status.warning.bg": "84b08f05b0685fd035a55238effc0824f618eb5e",
+        "color.status.success.bg": "9c41f6b3f8707c81edac02d7b9ada160636459c3",
+        "color.status.error.content": "b47e4b4b1e4e0c9b0c1a5ea1ea5b209afbfabbe6",
+        "color.status.error.bg": "611ec5a4ac7aeef9c3d0af9dd5f21a31abd0ce54",
+        "color.status.success.content": "443de451a84edb1d178ca8499419b66118de1766",
+        "color.status.warning.content": "2230345ac5aa390bf4379b5a85ec590961e7c126",
+        "borderWidth.btn": "435e6607d46df88d1a2f57f8d484b0677dbbe902",
+        "borderWidth.tab": "a9b9f70c5cf3bf5da70b99ca140404cb0f9e04eb",
+        "borderRadius.box": "1d3a30dac953d5e815baba210217e87195b9afdd",
+        "borderRadius.btn": "b31b4a26c64ebe872e1606ba5f36961683e51055",
+        "color.semantic.primary.bg": "4ed4d18670eb8a9288227c74c8c25b764758303c",
+        "borderRadius.badge": "4d546895b4c039c58bdeeed9f91da1b9fccd9b0d",
+        "borderRadius.tab": "0a1c8dba26a164ffbb66ab9c4f62220ccd04d60b",
+        "fontFamily.primary": "016ad62f01f37ceae3059ebb39bd1f082ba0d4a3",
+        "fontFamily.code": "60ad941b280f7b48c24beec10c1ffbb5df9f0226",
+        "color.semantic.secondary.bg": "0d397d29198640ea1997e585b2c081fa3714a259",
+        "themeName": "771fc284e867f13e3d04d8cff79fff1852c9a33d",
+        "borderRadius.join": "b1bb1da1152647a0f02eec9ff027a362ed871a05"
+      }
+    },
+    {
+      "id": "faa8737362d7e4f0ac6fbc08c339e55ce88bbab1",
+      "name": "garden",
+      "$figmaStyleReferences": {},
+      "selectedTokenSets": {
+        "garden": "enabled"
+      },
+      "$figmaCollectionId": "VariableCollectionId:5062:8479",
+      "$figmaModeId": "5062:15",
+      "$figmaVariableReferences": {
+        "color.base.content": "f4998ff9a89b5a72b18893e6203a87ebf62ced4d",
+        "color.semantic.primary.content": "2e3218e501f1ca4f25dbffbf3127313a42b546e8",
+        "color.semantic.neutral.bg": "181b8b92a192a12fc01a36bcd9e90fe66676d715",
+        "color.semantic.accent.bg": "6f0c26859c22c4abc3601d4d0e731389b6d47072",
+        "color.semantic.secondary.content": "88b0a303d7e925773e67e510429425f2bb5c3214",
+        "color.semantic.neutral.content": "2c8e51695a99fca41a378c898762abc38e53735d",
+        "color.semantic.accent.content": "8bf9f801333205c6f9925a1d65bc20e46d7504fa",
+        "color.base.100": "7374cb1817078e79348560a527d19fc7fdecb6af",
+        "color.base.200": "9755aae20075b9a32ac18b89332c661838761487",
+        "color.base.300": "2d8c1cb1b8a1af7dbc4c81db40e0b8dfa58e9408",
+        "color.status.info.content": "7ed304f08ff317efd88c7f6830921b8925d0551c",
+        "color.status.info.bg": "d10cd98dc547f68b28cb68d1d347243658a65d73",
+        "color.status.warning.bg": "8bd51c79cb29d7550d6a66261964f1107876f722",
+        "color.status.success.bg": "ddc4f333b2e7f0f0b21dd7a0b4d287fe0c8549bb",
+        "color.status.error.content": "a0cb268455b0bad901f6bf968189a83fd8103c7b",
+        "color.status.error.bg": "3e8e63f275b39af1152765dc6a42aee6369aa5f1",
+        "color.status.success.content": "1ad0216826ce9a1495c043f43b6b225983041d98",
+        "color.status.warning.content": "b3e7f1d1b846dc6c535b28d85b609f6926e23a4c",
+        "borderWidth.btn": "1a497b76e401a7b020004756a7bf9c8d178f5a76",
+        "borderWidth.tab": "537ad2da11588cd7d6ac28e7493e803376715512",
+        "borderRadius.box": "c41e9d87f1ff8a2c119cae7768fc2d0fca806fc0",
+        "borderRadius.btn": "1496900c01092add00cf389d9e1e7669251d76cf",
+        "color.semantic.primary.bg": "e9fe3d59add28145bf563149273ee88a863993d3",
+        "borderRadius.badge": "e8604fc9eb54131900463725ade58b1adf3ba4c6",
+        "borderRadius.tab": "fbd0ba0856dfd4077d03b9908177eaadd4c31ea0",
+        "fontFamily.primary": "603fd7d0b8e6f4c52ac8a6d91ae2fc5a3490a15e",
+        "fontFamily.code": "fd21c737c123494c1f5898d4755cd5909b18193b",
+        "color.semantic.secondary.bg": "2209021dc14c673187e98d4ce8bb33a00a11fdec",
+        "themeName": "c4cf6fc8d9c368c9ec9f41b3dd9fe28aca657df2",
+        "borderRadius.join": "31a7a2e18c3f81e7579901ea12604f137cc269f2"
+      }
+    },
+    {
+      "id": "03834ca519e54aea4e37a6eb70748b5e5a831c8f",
+      "name": "halloween",
+      "$figmaStyleReferences": {},
+      "selectedTokenSets": {
+        "halloween": "enabled"
+      },
+      "$figmaCollectionId": "VariableCollectionId:5062:8480",
+      "$figmaModeId": "5062:16",
+      "$figmaVariableReferences": {
+        "color.base.content": "c67e5050f20de67f03fad04f15e7a5357c1c73dd",
+        "color.semantic.primary.content": "41e6a76f82c0362cfc7ddf6bc05639fb43fbcd0d",
+        "color.semantic.neutral.bg": "bb7a8acc1fbdece3d30404ea7bdb158e397fd7e3",
+        "color.semantic.accent.bg": "1ff9f4705c3701f070a04c6566e0b6e7cd3d0d04",
+        "color.semantic.secondary.content": "7b460fd237f6455791b23d814650aca3ab5f69dc",
+        "color.semantic.neutral.content": "8f1396926d09fcabb36766bdfe4844c42c005675",
+        "color.semantic.accent.content": "c0e44fb1fbe30684bf81e90cb19ab30e99ad89e8",
+        "color.base.100": "9a507cf9f6a90bb4a98cff59d47ac59de3c8f5b8",
+        "color.base.200": "c79ce25a7a7f64b5a093c38dbcdc9b55068785ca",
+        "color.base.300": "4d8765eb38d3d74594e1910fa467f2fd55ad15d5",
+        "color.status.info.content": "72d2515878dcbbc2ba3f8e80ef8d21b5ec84b111",
+        "color.status.info.bg": "f04944182499dfa7fa2248d546e3dad24b51ec67",
+        "color.status.warning.bg": "7d4912509f6bf8857ba9042ad45a1b3e2816bac5",
+        "color.status.success.bg": "4a72cf1670edd5881ba9fa2c4987bc13b229d0ee",
+        "color.status.error.content": "c138135d4ede2ab22a2d6750ca9975b63fbf82bd",
+        "color.status.error.bg": "9fbbf1a647315f10b1459a7751f33550e9357895",
+        "color.status.success.content": "5fe2b87b114a54bdcccd18d8d1d480e9cad05aa7",
+        "color.status.warning.content": "14a5a217db6d07b5cde01217cc2675e2da8b7570",
+        "borderWidth.btn": "e3ec38e73d138740f9c148ea8671a49efc64a0c4",
+        "borderWidth.tab": "36d1e817bdd2a912118ebf2ba342114dd2236b79",
+        "borderRadius.box": "64f67a5185ff31726f048d42e2da64c910bb12ac",
+        "borderRadius.btn": "280a7d7d163c5d4921a052e197d61534d7c9796d",
+        "color.semantic.primary.bg": "59684522d7aea094a9fc4e860383286e34b757e9",
+        "borderRadius.badge": "d3d891841e1115e2b5e1af9e0507d6c1d9442168",
+        "borderRadius.tab": "c9a834c15745791939713ae2970d60702d2dccf1",
+        "fontFamily.primary": "d870bf485083e854a24c5486686d9955e7c82005",
+        "fontFamily.code": "be06956eda81a08770ab8148c996784bfcee8366",
+        "color.semantic.secondary.bg": "1977c2b69bd05ca8e9c4470c22915200f52c120f",
+        "themeName": "5aa4b87283afbcfce35c3163371a243577f5f2a4",
+        "borderRadius.join": "5817d0cc750c3b928c829b1d6afe9bdab5d4111e"
+      }
+    },
+    {
+      "id": "b301b6b199b45e2a50b8908afc8523901e81cdd3",
+      "name": "lemonade",
+      "$figmaStyleReferences": {},
+      "selectedTokenSets": {
+        "lemonade": "enabled"
+      },
+      "$figmaCollectionId": "VariableCollectionId:5062:8481",
+      "$figmaModeId": "5062:17",
+      "$figmaVariableReferences": {
+        "color.base.content": "8e1d743160499c39cf9122bff8ba7dfbda41379d",
+        "color.semantic.primary.content": "ae26619ac98a986ba308f0ddc943e89d6a06a7b8",
+        "color.semantic.neutral.bg": "5e34d7c38e5b8aec95e299b43f596cfcfb702056",
+        "color.semantic.accent.bg": "d37f50842a9acfc6b1e1e037de7d91ba8b43d79b",
+        "color.semantic.secondary.content": "9c82af354e34c8a98cb0b4caf2c32a91452cc243",
+        "color.semantic.neutral.content": "5c447de27e4e9316c7bb01d745484e1f0249ea68",
+        "color.semantic.accent.content": "6658c100378647af34143fbb6b601cfde2839859",
+        "color.base.100": "c0856df9937ae86aa7edfc9c6f81f687400e3ebe",
+        "color.base.200": "32ff83bc539aeebf4d6287f7e9adc39b24179e99",
+        "color.base.300": "8335e2bb0eb008ba8ffa332ab13564da93941cd6",
+        "color.status.info.content": "6b7ff25e9028aa2865614cd0213ab5670ad15b2c",
+        "color.status.info.bg": "d4dec52446c412930d685b3a4668d696682cdea5",
+        "color.status.warning.bg": "a645e774deee088dc525bb2b47aff79fc9cbc918",
+        "color.status.success.bg": "779f60e5b902d8a0f86209248b6f6964c47c3946",
+        "color.status.error.content": "dbed29fb931ced1cd267bd3b375327592a5e1722",
+        "color.status.error.bg": "25faeb9fee2e8f23b2ff62fdbb4e6c3b9eece042",
+        "color.status.success.content": "3d23660159d18375005482e6083fa446359af743",
+        "color.status.warning.content": "65c22c40b3bf6c22f5424689254e1b41882ad22d",
+        "borderWidth.btn": "5c9020f73949bea2c7057dd7d1445b44312a7d4e",
+        "borderWidth.tab": "eb4022314d534cc1108e43efb8a15dd6683ca9f5",
+        "borderRadius.box": "093c0716eac3c26a9a7fbab15adc9e84c8f64258",
+        "borderRadius.btn": "7c33c64786b0849a3ca7e59103bd9139a4e3039e",
+        "color.semantic.primary.bg": "5df77f9897e564cd84fc90f10a37530a0cc1acf2",
+        "borderRadius.badge": "f1101828570988246278e5fb424383192ca57ae1",
+        "borderRadius.tab": "20a1ff6204c1b3337f295e86e8b1f0d1f4e3df45",
+        "fontFamily.primary": "407c1644ffca13ccb262307529fb36143ccdd346",
+        "fontFamily.code": "1faecbd691325d49468ed79a3d944f38717ec556",
+        "color.semantic.secondary.bg": "f45c6fe18443de109fea79a192fc203c12401778",
+        "themeName": "09fea3cee2533f9d8558d04e4dc68f9ecdbd3e8d",
+        "borderRadius.join": "eb912d4d38b730aca7253400b3d99705d912e9d2"
+      }
+    },
+    {
+      "id": "fd506e22a7c328926e1bfe9c18697c2c9a930b99",
+      "name": "lofi",
+      "$figmaStyleReferences": {},
+      "selectedTokenSets": {
+        "lofi": "enabled"
+      },
+      "$figmaCollectionId": "VariableCollectionId:5062:8482",
+      "$figmaModeId": "5062:18",
+      "$figmaVariableReferences": {
+        "color.base.content": "e5d038d514a892d1ae2a74d24a3e1b340710cb99",
+        "color.semantic.primary.content": "c86671361c67423f9f1d9c4f59fd4734da8b5ac9",
+        "color.semantic.neutral.bg": "a475f61aeb4451d4711e4b7469d777c91533780b",
+        "color.semantic.accent.bg": "68402d5b8a0ae1d0451b8d7b54116fc90c9556fe",
+        "color.semantic.secondary.content": "e4ef006a0f29f007aeba5439bb104a9e23a9f710",
+        "color.semantic.neutral.content": "6f5eb424e14f5c9ff7e0b2daf565409fc7f0c9f3",
+        "color.semantic.accent.content": "890441dec68d37b574e0ac82e26e1c0187b11bc4",
+        "color.base.100": "8c67e43015b7fd3edaeeac1ca4c83f92a6e31f0b",
+        "color.base.200": "4badbee8ca321562d299752598c5c364c3cd449e",
+        "color.base.300": "e2d93a3ed4fade357f8cf14604ae19180e8d025b",
+        "color.status.info.content": "bf4441ef7e11f9b7da68d995466eaa5e6c709caf",
+        "color.status.info.bg": "73919af91d93dab2719046f4f93351fbbf00c4c5",
+        "color.status.warning.bg": "c4594c0e6af9ae506f5e40e73ee0fe14242d92d6",
+        "color.status.success.bg": "d2fad3ffb7268da84db8bf24bb1b34c389172885",
+        "color.status.error.content": "fe553bafb099d0487b2f16f3826119c9a42a63f0",
+        "color.status.error.bg": "659a5da13473c40b8017efba53bd1c3de6eacfe9",
+        "color.status.success.content": "695f14274e56f4df022ec7981df21b124ec3a390",
+        "color.status.warning.content": "ee04b2e0fa568098c92ff2debb4312910c8c5713",
+        "borderWidth.btn": "8975a4c86eec5e97e4b0e2a616e230de8adb1217",
+        "borderWidth.tab": "cd2313ffe0d7c20acaeaac497199741751eb4b85",
+        "borderRadius.box": "9c06839d62d009b1060b02695351d7a8ace28da2",
+        "borderRadius.btn": "8e093ed5ccec8bff8d0c6d7127b2a00a1a4d1a2e",
+        "color.semantic.primary.bg": "8eaaa638eec58d1edff24e7501f7b98551509ec3",
+        "borderRadius.badge": "90ba5e2e76f6b26cbac6610fb91aca46e1fa756a",
+        "borderRadius.tab": "8ad1698216e02c3d3494077bf2e060ba483e44db",
+        "fontFamily.primary": "7b89bef2002f1db9c2b596de9453b69e66e1f793",
+        "fontFamily.code": "7aad4ee0880c3d60eb115dde31e46f32a02a449c",
+        "color.semantic.secondary.bg": "74f57a715e217d6038fba0a91622c1b69308dbee",
+        "themeName": "1629836543293765514476a7474006c3fdac25f6",
+        "borderRadius.join": "8d04ddb25d9244e5e10a30e6d4c0256d323aa6f8"
+      }
+    },
+    {
+      "id": "f41c501d9a1fce8376d9ac287d97f0bc90836772",
+      "name": "luxury",
+      "$figmaStyleReferences": {},
+      "selectedTokenSets": {
+        "luxury": "enabled"
+      },
+      "$figmaCollectionId": "VariableCollectionId:5062:8483",
+      "$figmaModeId": "5062:19",
+      "$figmaVariableReferences": {
+        "color.base.content": "ee0d057d922e5013bdc4f74827d22cf363bb5b65",
+        "color.semantic.primary.content": "30486036725211e81347eea8d903fc92858546ca",
+        "color.semantic.neutral.bg": "dad99d6a87fc4d4e3bb8e2a40049b773bce4cf21",
+        "color.semantic.accent.bg": "6e07dcccd63d686a90e9c114a1bdea5e15510c93",
+        "color.semantic.secondary.content": "de1f69180dd78597b9dfa6df159bbe237f91181a",
+        "color.semantic.neutral.content": "cc6a9fabb2850518b099fd33e79715149ff04bc7",
+        "color.semantic.accent.content": "282423e9bf3304c7884c598df3e24aa0a3f9d40b",
+        "color.base.100": "e7fe6835258cfbe9ca32d5d1179aebef28a11be7",
+        "color.base.200": "06b78ee0f893dce4af52da292cc5539c9bed8e48",
+        "color.base.300": "c7f98295b6d0a50c5987145db5ac5ac381f4e236",
+        "color.status.info.content": "612bd81f4f61a833cb576c9954a9f243cf557093",
+        "color.status.info.bg": "f173378f342ff4209ae1b4a2a1ff91adf6ff6530",
+        "color.status.warning.bg": "2f03e90ee8268a78c3bd20deac6585bf65101bb6",
+        "color.status.success.bg": "2c0cbcd9ba090d28f19b67e1f032d8f17c78f906",
+        "color.status.error.content": "e83c6f24289b5d018da96255588ef0925164e521",
+        "color.status.error.bg": "ee1a23fc63ff34072923c07f02f019a16c9aa281",
+        "color.status.success.content": "063472756535c6365512e07841a0ecb12b67bc7b",
+        "color.status.warning.content": "274aa6ab324f491ad3c2a5e80575266667bba50b",
+        "borderWidth.btn": "8ad11cf090149876e87c342dce4fe4f8653d7bc1",
+        "borderWidth.tab": "7e79c1e7f35061886c208bc88de58b516ab5e079",
+        "borderRadius.box": "2617f851efce167fc7a8b14c1897d5d7c1406c7d",
+        "borderRadius.btn": "ae156a36cf083d10b3518bb159e2a0cf27d1407b",
+        "color.semantic.primary.bg": "92e523715d4eb49de7dd687284b08d848bf88313",
+        "borderRadius.badge": "687b55d100fc751935d4ad73925f07184e1d7c72",
+        "borderRadius.tab": "cb364367043ede490521c710d86bf6ba2656f566",
+        "fontFamily.primary": "62d5e0b4966612d7ff1c53da5299831b210948e5",
+        "fontFamily.code": "118d7018292876d631c492ec56a4f3d1716e5a71",
+        "color.semantic.secondary.bg": "7d8783139604ecebd79a14a127d65303137480a0",
+        "themeName": "c68d5d575e9ef98068430016a3d8e1169c828afa",
+        "borderRadius.join": "7afd905701d5c25b6cbf13cbeb39631a4839d65f"
+      }
+    },
+    {
+      "id": "18e36c9ea464483cdf4470a107bb7ea836ec979e",
+      "name": "night",
+      "$figmaStyleReferences": {},
+      "selectedTokenSets": {
+        "night": "enabled"
+      },
+      "$figmaCollectionId": "VariableCollectionId:5062:8484",
+      "$figmaModeId": "5062:20",
+      "$figmaVariableReferences": {
+        "color.base.content": "93e4653a200ed4c93f0adfaa591641c2e18697bf",
+        "color.semantic.primary.content": "1370664d311cadf0a9146ea93126869785c89d19",
+        "color.semantic.neutral.bg": "2fc7f715d614f9bb6c0430310ddee878e3851cce",
+        "color.semantic.accent.bg": "9160a2914dc17ff079b86f15551882ba1a8477e3",
+        "color.semantic.secondary.content": "fc6781e8c0a8942f0192dd59663f0f93f7b64fe5",
+        "color.semantic.neutral.content": "28127ba512ab46d016e9b2d1544f7e5571d3a9a1",
+        "color.semantic.accent.content": "da869131f5f4abdfa8c287302119c2b2161a6abd",
+        "color.base.100": "64ff05e6a0614beb46a58c5c21f97b505f38e35d",
+        "color.base.200": "dabfbb5599327b45fb268c0e21392abdb9e15249",
+        "color.base.300": "3fe953f14eebd0f1fb0b3be54d05db80f3f3c813",
+        "color.status.info.content": "a1fc6f688a66908f4763942c30f24e0db8029fb1",
+        "color.status.info.bg": "cce3f3ae8af5818074ecd89739e3dca35fe77e45",
+        "color.status.warning.bg": "ba20c2f1ff7cf2b49c14584fe3c6cb5fb07c37ec",
+        "color.status.success.bg": "435ba47ed8307bbc7c5fd4e8242920dcece7665b",
+        "color.status.error.content": "511d666a841aeba0de078ff963c7000d4e7d7e72",
+        "color.status.error.bg": "f6451da38c21ae0b2df75f588b71ba09d8c3fc99",
+        "color.status.success.content": "f0381268a46d3030ffa9528341624e83c1687dee",
+        "color.status.warning.content": "24ed88d7e4d70a0be2b34068c1a150f3b0dd17db",
+        "borderWidth.btn": "58ebff941833560ac9f59de8a49227f52e1924a4",
+        "borderWidth.tab": "355276816de44f7416108de9e818e4c433e5f8ad",
+        "borderRadius.box": "4f8ce2a4eff93732659ab8a165225dcbf3a0b13d",
+        "borderRadius.btn": "dd2b9e31c105a512391b5bca594b3602b42cae51",
+        "color.semantic.primary.bg": "5884fc584600e2626aeaa4ca206f0d8af862561d",
+        "borderRadius.badge": "d82e1a4714c915f2ce8338d47519378011d24b29",
+        "borderRadius.tab": "e56628c2b5370b8bd96e0ef4e783e8347be1c11a",
+        "fontFamily.primary": "d6ecefff5b5e5e3f6bf63a14ec2a9aa3ebda764d",
+        "fontFamily.code": "f121eb71db22be670b7e07452129b1459f778009",
+        "color.semantic.secondary.bg": "a26d7f6c628b09b0a5e0654e3ea0ec2087133abe",
+        "themeName": "c5d4d03bd1c5a2c576eebafd700adfd7d92bef1a",
+        "borderRadius.join": "729345ce0ebb64016edede139b40a3aa7310ea37"
+      }
+    },
+    {
+      "id": "b1e1f4ea7dff8d5f4cdcc08d4526b97b270f49be",
+      "name": "nord",
+      "$figmaStyleReferences": {},
+      "selectedTokenSets": {
+        "nord": "enabled"
+      },
+      "$figmaCollectionId": "VariableCollectionId:5062:8485",
+      "$figmaModeId": "5062:21",
+      "$figmaVariableReferences": {
+        "color.base.content": "556f862e1a11bf5fb159b0531c457a90d0d041af",
+        "color.semantic.primary.content": "3d5af496b5848eec2e744cc6bf19e6313eba8e36",
+        "color.semantic.neutral.bg": "fc9c83d718a1feadf6e3901d20a225973106f676",
+        "color.semantic.accent.bg": "d3f7707f21ac3ecc8d643029cd3236ab2a3271cd",
+        "color.semantic.secondary.content": "698f89a054bb998f365cafa8aa1142a0a46f5788",
+        "color.semantic.neutral.content": "f43f955df3eddd92a10f467b6c99cc9d59f529b1",
+        "color.semantic.accent.content": "591bb169fa4d123343e00ed07bfcba80c64b7662",
+        "color.base.100": "0857481c41d6891e0618bd78c516502a27999e06",
+        "color.base.200": "30cbda5b5be3abf057943d9b1ea1958acb1929d3",
+        "color.base.300": "7555a916b248c531880d968066cc7994061fbf27",
+        "color.status.info.content": "30a4eb81c169e100159d99f63971b1dac754834d",
+        "color.status.info.bg": "8ae914d780211fc0508b18c9ac408073964dd50d",
+        "color.status.warning.bg": "5f3a0cd0e909f73e4a3355c02ec988a5a9659b67",
+        "color.status.success.bg": "5ce110ab5486ca7ac574fa3a45994bc20df91d35",
+        "color.status.error.content": "a6f498285888df67f499e36c500f23e64e8939e7",
+        "color.status.error.bg": "46a2991d13f801809838e9d68a8a7b0ee7b206c5",
+        "color.status.success.content": "165f06aa504e9d4bc97fe03562ef26f8064c4769",
+        "color.status.warning.content": "0dca1dfa1817b1aabde7ce0ebb16259fd64408f0",
+        "borderWidth.btn": "5b901e8c89e51a0be10566d6a617bb1f0be490c4",
+        "borderWidth.tab": "4a80cc3eebaedf5bc0faedb290c7883ebe638fd4",
+        "borderRadius.box": "9651649de6f95a83efb04ad5c589c581f2474b88",
+        "borderRadius.btn": "cd4593f7483928657ee4f97e60f5a3e2bda5f065",
+        "color.semantic.primary.bg": "0c332da966715a55276ff8dfbfbdbad3857a8730",
+        "borderRadius.badge": "c30b21c79e7ab4cb31f2bcc63f777cd430668c62",
+        "borderRadius.tab": "27bf3c633266c05ae35ce1fedc252fe306bfc128",
+        "fontFamily.primary": "b9ca645c02fcaeccd217100da90b796c57d12d31",
+        "fontFamily.code": "1a874fca3cadb23066c8faace0461988b977fb9f",
+        "color.semantic.secondary.bg": "94b9687d7a226d3a6bdffe6bf9d206fdd216313d",
+        "themeName": "c297897e83a541b34eaf7f1c8278c89877e6bb72",
+        "borderRadius.join": "1202f3d6c330391e816d0caac9e99f5e9932d4be"
+      }
+    },
+    {
+      "id": "b4111718052aac17200a2423e3c3167af3ff106d",
+      "name": "pastel",
+      "$figmaStyleReferences": {},
+      "selectedTokenSets": {
+        "pastel": "enabled"
+      },
+      "$figmaCollectionId": "VariableCollectionId:5062:8486",
+      "$figmaModeId": "5062:22",
+      "$figmaVariableReferences": {
+        "color.base.content": "316f935cd714da7213f341e2fc72c7dc5d985a9d",
+        "color.semantic.primary.content": "1d6af790d9f26581468b2ec13826c636423241c6",
+        "color.semantic.neutral.bg": "8c8cdb506ef42da8cac071f39362a4336ce1f213",
+        "color.semantic.accent.bg": "d6a99d9e85448959dd4c14fa59655235af045b08",
+        "color.semantic.secondary.content": "d63668932525e4350a467918a0b4c0c8ee4d312b",
+        "color.semantic.neutral.content": "4761fec5c1baaa20f9fd1ecf99d1522c32db3f3b",
+        "color.semantic.accent.content": "afdd12eaf6a8738aec3ae6afea3ba252f5c78a2a",
+        "color.base.100": "c8595b5641bcddab6a4ed87693b13ad5ee9fde3a",
+        "color.base.200": "472c62de31a358b4173d96e2f70cff84e0cbaf1a",
+        "color.base.300": "4694233687382833d7623792c07c6bf2aff3166b",
+        "color.status.info.content": "877d04b11b58cdbf20361fce6b20d5ffe08cd124",
+        "color.status.info.bg": "5c1c54d46772063d93c7896b01609914f9d142fd",
+        "color.status.warning.bg": "e1cad190dcb6efd348d21d78c2e1ac75a4143891",
+        "color.status.success.bg": "f11abd9b3e1fe1366bee7e14a1c65bf061822634",
+        "color.status.error.content": "dac1f8e7d8aa121adb429cdd50182a8df93a1434",
+        "color.status.error.bg": "094323d9e3afd06b4d4d43845e8241b3a263eedd",
+        "color.status.success.content": "ee9af5f77b609a0967695010b7d8e3f1eb7122cb",
+        "color.status.warning.content": "3c93ce7f3cbfa7b9f827043b8770a395ca27dcaf",
+        "borderWidth.btn": "2f146650eb41b49ab099b9b966532dcec3a430de",
+        "borderWidth.tab": "543f28185c664cca9c87c7bcf550525e6255cd37",
+        "borderRadius.box": "a2ac19d92f4d040245a37af1ba9d2d3960e2811b",
+        "borderRadius.btn": "329d25a4a1fca8ef1890e287072df0c98895b782",
+        "color.semantic.primary.bg": "82751fe4a42edaefcff986387f39095e18d656a1",
+        "borderRadius.badge": "183a4c4cc746955231b616f4625b611ef61f6300",
+        "borderRadius.tab": "a4223e0d01e49f8386fa98fdb42f1f3afbf2e73b",
+        "fontFamily.primary": "9a2b6a1dbe9ae5d7481553b883391ffc0cebacdb",
+        "fontFamily.code": "f4c10d4c8e8f5ad9b202c5d31ec38617ccbb4819",
+        "color.semantic.secondary.bg": "14087d5ffd323c070fc3a1b3bf5049e50f324f0a",
+        "themeName": "1b86517d81bcf50c5066ffb43e23b16c78adadd5",
+        "borderRadius.join": "be16c394f8d0abbc8bc1a09d097b7c1716c02c6d"
+      }
+    },
+    {
+      "id": "42f23d8c0353b10d8f10321477bcc075d642a66e",
+      "name": "retro",
+      "$figmaStyleReferences": {},
+      "selectedTokenSets": {
+        "retro": "enabled"
+      },
+      "$figmaCollectionId": "VariableCollectionId:5062:8487",
+      "$figmaModeId": "5062:23",
+      "$figmaVariableReferences": {
+        "color.base.content": "003465dd3419a2816eab78159ffeee4a12b0acf0",
+        "color.semantic.primary.content": "1e1cce1a1567096cc4ab6c1318fd8bacda9816b7",
+        "color.semantic.neutral.bg": "a565e0e4b9846b511e1d9ba1e0f0e181126ec36d",
+        "color.semantic.accent.bg": "32ba3607e0aeb0a8a69dfc2c42be0d223f3f7a8c",
+        "color.semantic.secondary.content": "dea215f668ba3e0e6236641281550d1411087590",
+        "color.semantic.neutral.content": "a6a1205ad22972096b67ba59f6096d6e7163cf24",
+        "color.semantic.accent.content": "bda4d1a0b81efb4d87a13478e720d1aa285b3f35",
+        "color.base.100": "5ed93fcdfc12f23f38a070d2d02cb599a2cf6560",
+        "color.base.200": "ab29ca425e797c4283166226fba07cddc73cbd21",
+        "color.base.300": "bf076082a94f0a5377c31ff7f54300163291e176",
+        "color.status.info.content": "eef292826f9f2f8767f96407ad090fb50f8982b2",
+        "color.status.info.bg": "fd88e6776aa8de8f104d2b01a913e23fd35623e4",
+        "color.status.warning.bg": "b609466d15634cbd5ba7d7e24dbcdfb1b60380a4",
+        "color.status.success.bg": "e4f6173debdec3ef9f51f88e6bee8190e2bd9e6d",
+        "color.status.error.content": "f2a033d1a0fd2b262e5b3111b7a648520c354fea",
+        "color.status.error.bg": "936d5b0f1c93c60e759290dea1ed39b1645eceae",
+        "color.status.success.content": "46d3e939f2a8013baab2e1c78f7ab737726d5773",
+        "color.status.warning.content": "805a3a99d075a045da5d41d135af4020381530cc",
+        "borderWidth.btn": "3b3d80177686e673063632cbcfdabcf586eaab87",
+        "borderWidth.tab": "a2f0ca1f486432d3cbf3046116ce0041f5168cdc",
+        "borderRadius.box": "53455c58f05722aeddf31ce5401aecf45804553b",
+        "borderRadius.btn": "0ca626bd3cbc6e4f57d55499c62c8001114b4fc6",
+        "color.semantic.primary.bg": "0a1eb4491fae22d32674d269fa02e03abe766755",
+        "borderRadius.badge": "7bf62cb040e54f776a8e1b6a6d171c8c97a08a98",
+        "borderRadius.tab": "6011d0ab4359503ecbe18a2cc35b418c22b1f0c1",
+        "fontFamily.primary": "75b45a1787fd9af67d11e1af04153d9e6a790f26",
+        "fontFamily.code": "3c1d9e9a37710ac4195bbe7ac94746d433b7bed3",
+        "color.semantic.secondary.bg": "a357f7246149437a1e75b476b534832528a1f129",
+        "themeName": "f06c8578444b282658a48a2804e9504fa9cde158",
+        "borderRadius.join": "511db77ac6942ebf46b018342e7b6bf4927c0ca2"
+      }
+    },
+    {
+      "id": "6d0fb276de3dbed39996b7a572d5fadca4527115",
+      "name": "sunset",
+      "$figmaStyleReferences": {},
+      "selectedTokenSets": {
+        "sunset": "enabled"
+      },
+      "$figmaCollectionId": "VariableCollectionId:5065:13381",
+      "$figmaModeId": "5065:0",
+      "$figmaVariableReferences": {
+        "color.base.content": "91c98406250fe262292863f1d636d07aa65f05f1",
+        "color.semantic.primary.content": "f4f3f0c2c3937ebfa488da60dcdef32d4ea460fe",
+        "color.semantic.neutral.bg": "fda8555d9bb4d49e39966ffb76c4887d237030c2",
+        "color.semantic.accent.bg": "90d8a66d4c5929218a88591558a349052cb49e0a",
+        "color.semantic.secondary.content": "68ba593401fb2ae38973431011660b3220e1feac",
+        "color.semantic.neutral.content": "761cd218380c713e52a3e0234601dc008c51c2df",
+        "color.semantic.accent.content": "1c7dc96de7d7a51d66bbbe919a1065b5b59d059b",
+        "color.base.100": "b4ee000de8cecd65effa20f8adca74776c705b06",
+        "color.base.200": "ed5fee12f97e109748adcb4fdf5fb7264dd81a5e",
+        "color.base.300": "e234a135ef4e2716b8d532f33ea9f974277b2980",
+        "color.status.info.content": "44ae6cf2a24e3d174b07874fb45071533b38a9ca",
+        "color.status.info.bg": "f85b86312a541f1ea5eebe6eb94be67c2dd64620",
+        "color.status.warning.bg": "a71c1add54dffd76fc6237aa1266b9b1dd0b6935",
+        "color.status.success.bg": "d78a0c95771faee932b5cbe249a27119b51f3ee1",
+        "color.status.error.content": "17915e9f732f84fe1d78e7e695f57dee8aa328e7",
+        "color.status.error.bg": "56becccaa198e769ff25a700181d4e6356a56c78",
+        "color.status.success.content": "ee74444e7b6b215f839ae92da2131a01c96d39fd",
+        "color.status.warning.content": "3512abda47d22420a669218d3f9c1646185bd9f9",
+        "borderWidth.btn": "1ebb0e413e83d0eaeb8c444dc6aea963e2a0b025",
+        "borderWidth.tab": "30a03ee21907a06874f6aa0f459b0e4abda5bea0",
+        "borderRadius.box": "b31d25125df876a4fdb5b2f2cb161cb77f6b0c41",
+        "borderRadius.btn": "8cee9cfa8224610875a7e7f2a80de7301411bd11",
+        "color.semantic.primary.bg": "d4003c3e2831e1a05c2a7278524a0c8e502b4d27",
+        "borderRadius.badge": "c6f2bece3fa2768fa140082718df723bd17ba893",
+        "borderRadius.tab": "fa25868fce60d8df8cab5208b973fdbc1dc7a8d1",
+        "fontFamily.primary": "7aa77fc90782cb4c4bb6b9501b7fa2893544040d",
+        "fontFamily.code": "f2ad9aad199fc57c5a13ac5dfc035ddf405cb380",
+        "color.semantic.secondary.bg": "021fbc5e4f939843fca4002c047ca34f3a8b5474",
+        "themeName": "0fd94d01b76d579b8e93985ab02bdba6381f9565",
+        "borderRadius.join": "c3e7a52f37530622f56504a0fd9bdcf3e11f5825"
+      }
+    },
+    {
+      "id": "57aa1c875d7e42b385fa1118b73d5dddcdc6d215",
+      "name": "synthwave",
+      "$figmaStyleReferences": {},
+      "selectedTokenSets": {
+        "synthwave": "enabled"
+      },
+      "$figmaCollectionId": "VariableCollectionId:5065:13382",
+      "$figmaModeId": "5065:1",
+      "$figmaVariableReferences": {
+        "color.base.content": "62b6ccf63fbf6c8ef029ca027674caeebf53e847",
+        "color.semantic.primary.content": "80824bb44e3f4eea235b133b5e433910f144f905",
+        "color.semantic.neutral.bg": "1d4c8645f28583e21a68570aa823ab889893c58f",
+        "color.semantic.accent.bg": "15a669297d09fb5a5918289230e44d6c927e2cf2",
+        "color.semantic.secondary.content": "655fef0e5afa9624b81b69edcab2e77a7816abee",
+        "color.semantic.neutral.content": "2ed9b506cbb832208b8164f99ad7dd263c0ee512",
+        "color.semantic.accent.content": "456eaaf8df895beb068441dc3d7335678afb8eaa",
+        "color.base.100": "dd87912f2d5231815a2d47753a0ab189c07da7c3",
+        "color.base.200": "5ddee6bd6cc0f07f056944afde450ff1b655b457",
+        "color.base.300": "0b5b0b242a942aafa6d26a6092ff817e9d753a3e",
+        "color.status.info.content": "1be57b2dab1107c4171184d9c80dabaf0dbcdccf",
+        "color.status.info.bg": "496e10cc4980448ae0dbf9f15f5dda5b68e37649",
+        "color.status.warning.bg": "10236a628922eba3c8e9b2fe6418eebd29bf2bfb",
+        "color.status.success.bg": "14466ddb1345b6c7909683a1d1ef2e3ad7349faa",
+        "color.status.error.content": "239dd3a1e39ac35321ffe6261572240df6888c01",
+        "color.status.error.bg": "4380e0a8f010c45a8f664141a15770fa83e6c594",
+        "color.status.success.content": "90115e768bbfeca6c275a0fe338982fb0b820be1",
+        "color.status.warning.content": "4e41cfa4860d84237bdfab431ae6aa4c6820234a",
+        "borderWidth.btn": "2727e5f9028d1f0070c4b1b785b481d8642353aa",
+        "borderWidth.tab": "ec4d606528001be76aebec957897b9bbc8e68e02",
+        "borderRadius.box": "a457bd4b77530faae22258cbca9823c5c40a8a84",
+        "borderRadius.btn": "822f8d655a44e94061ceffa0287462a45b21f0d6",
+        "color.semantic.primary.bg": "31b370effda76917b2b2f3cc594d6d334e93c042",
+        "borderRadius.badge": "5c3dd376c2df6d75ecb7c8554bed59ab813b317b",
+        "borderRadius.tab": "aa407ecdce3aca8f00fed365c3d34c177d200f23",
+        "fontFamily.primary": "050b60991d974b3d19228aa2716646a82685715a",
+        "fontFamily.code": "6d08fb5bdebd3e364bc3e3e3d1588afc73e11d86",
+        "color.semantic.secondary.bg": "ee9d8231e03ef4e5c8d4b86bb08e0fe9e41fbe04",
+        "themeName": "0957e23f32ef02b080e08012796a83cd4b0f34c7",
+        "borderRadius.join": "07e24c7f4082d16e36424a16ab00b109e9b666fd"
+      }
+    },
+    {
+      "id": "b870a4586b5137a8258240d2b9cf99df4fe4efd3",
+      "name": "winter",
+      "$figmaStyleReferences": {},
+      "selectedTokenSets": {
+        "winter": "enabled"
+      },
+      "$figmaCollectionId": "VariableCollectionId:5065:13383",
+      "$figmaModeId": "5065:2",
+      "$figmaVariableReferences": {
+        "color.base.content": "45e6323b1afc595227e76108f1c3880325614a89",
+        "color.semantic.primary.content": "d1cd1a24e9b1fdcf509233712a4123b13d77f87e",
+        "color.semantic.neutral.bg": "5d8127eb992ac3cd500fdbf939d081973ff6bc90",
+        "color.semantic.accent.bg": "8ed9725ae42d07e7be87566e7e6deac23fb9bf42",
+        "color.semantic.secondary.content": "80c83bb1044f176a32b1e405c8faa25d6c8ad894",
+        "color.semantic.neutral.content": "07fb11b72fa0c9e4d0646883a3801bdbf01e8482",
+        "color.semantic.accent.content": "a82760d30a59e3179f4163adaaf3577fd3444327",
+        "color.base.100": "6c1e1c681276b41b1c0f52c0658633b9091d04de",
+        "color.base.200": "fd2ea1b81e9bff586f3515a95c21b53942ab7202",
+        "color.base.300": "cfaada25bbd6e68d7eab999018e4274cc71d4fba",
+        "color.status.info.content": "75100e5c27162d1d8f97bd0862b4f12d0d098fd1",
+        "color.status.info.bg": "378e1fef27b3f41b44a77163515e95f4b6c8a913",
+        "color.status.warning.bg": "dfb0e75e1454ba29c3ef0953b8a8890698a7cc5a",
+        "color.status.success.bg": "d84ee43a98f0c85ea2eee66b1b9d20aa9b0159f4",
+        "color.status.error.content": "ddfc5943e52fc28a9515b4c10f873b4781fb207b",
+        "color.status.error.bg": "d6a80408005bfc5a362a135a5325b239963861b3",
+        "color.status.success.content": "f1ce963ecd695e55665453349bb40764adab534d",
+        "color.status.warning.content": "ccd47d339e3f41cedc8fae99180e79fe3be588a0",
+        "borderWidth.btn": "39887833392607b5459d11d2e257cc1a033c2a67",
+        "borderWidth.tab": "1d2404df449d8fda06b57806e8905b5b9de786f8",
+        "borderRadius.box": "23343a0c79b7aebe3707404438ddce2ff74100ca",
+        "borderRadius.btn": "c67f2097b9b98ea7664ca61dd70e051da3e7c223",
+        "color.semantic.primary.bg": "ed9d22e15bc9642e6289ef9758e34b34e33e5849",
+        "borderRadius.badge": "55bc5df75bdcc59b40014ec7f3ad035315b03e5f",
+        "borderRadius.tab": "01e2c06ba43d6e9d71d74b8ca90cfe30bca80c9d",
+        "fontFamily.primary": "0160c2c7c7a0bd72584954d32a5006addd46189c",
+        "fontFamily.code": "c48fe08962fa7e8b7991e04c571479388292eaf0",
+        "color.semantic.secondary.bg": "ad40116f3c22d74e2d265c8bb12e8ac7a990c38d",
+        "themeName": "9f3c22045e0388f1c437bce83c8f307800a93cca",
+        "borderRadius.join": "ce28459e1ea39dd3824207311a2dd556e634bba7"
+      }
+    },
+    {
+      "id": "32251a4f837b6e5d08843e4bf623052c404f2f0a",
+      "name": "wireframe",
+      "$figmaStyleReferences": {},
+      "selectedTokenSets": {
+        "wireframe": "enabled"
+      },
+      "$figmaCollectionId": "VariableCollectionId:5065:13384",
+      "$figmaModeId": "5065:3",
+      "$figmaVariableReferences": {
+        "color.base.content": "022ad9a2ea4908bab35c9c6fbf32830f1641b505",
+        "color.semantic.primary.content": "f1848a32c86870f5458808bb2878d92d7f81a174",
+        "color.semantic.neutral.bg": "039fbe1886d8c33f4cd5494e2efaa76419109490",
+        "color.semantic.accent.bg": "8f6e629627d8faf5d7085864a24d190a2d4507bb",
+        "color.semantic.secondary.content": "6c5ec23f95fc9b459481c8ccf07b630c5bcd2d79",
+        "color.semantic.neutral.content": "fb74599347594ed23706419560ee6ac7c7f1c3aa",
+        "color.semantic.accent.content": "f19d89f87ef08e8c0e3c7015699c7f9f97423533",
+        "color.base.100": "1009de10d38f963aab36b1c093526c3988cf9386",
+        "color.base.200": "d19f0cdeeb6c73923c81f86a95ee885ece60a579",
+        "color.base.300": "82c3b417fe261d1e3ac47af32b31054b932a81fd",
+        "color.status.info.content": "a27f5e45d432aca63225162ce5c8c8b9551e3384",
+        "color.status.info.bg": "947b5e6aad99b46203fc18f7c713628b025774a5",
+        "color.status.warning.bg": "604d296d3ee958a727900a1a6f603591090b93f1",
+        "color.status.success.bg": "a826767feab81ce1f599330abe26b25fe737ba27",
+        "color.status.error.content": "0f64f8b087dc79fee14953cf2b28556225d05836",
+        "color.status.error.bg": "e57b844589532ec935cf9e217d2de82a9027c603",
+        "color.status.success.content": "55214e6d1d9ef8539d377dce55e5befbe13df224",
+        "color.status.warning.content": "35adb4d7fecbebc9b456274b57ad0d8cbb17ff91",
+        "borderWidth.btn": "76d7afa0dbe40df7dec535322f6804c7d828ae56",
+        "borderWidth.tab": "6873985d450d91bd26aeba42018639080e3bd11a",
+        "borderRadius.box": "c48a51c8f11ec16d18fcd5a7dcdda1f6ac822e03",
+        "borderRadius.btn": "32dd287dbfbbf903b3ccdcc9763abbc1c0f54bf9",
+        "color.semantic.primary.bg": "c8cbabf7fddca5ab660e2d796fb1affe1475ccb7",
+        "borderRadius.badge": "c683f406da6f2738f8eb653c74186f80b4ffc6ea",
+        "borderRadius.tab": "9f6a0f18b1ed2b91e7424fc33cffab31449d45b6",
+        "fontFamily.primary": "94078e6b7374ae2984b78611a477ec7d35dd20a5",
+        "fontFamily.code": "702212b35edb98c7e72bef1610e8a3c4b3ad5b36",
+        "color.semantic.secondary.bg": "e1649646ea8fe4888e8f1d0c9785c1e2073819ca",
+        "themeName": "15ce34df87ab30ba206f8a305672944b61493322",
+        "borderRadius.join": "4a8d183062cc10a2ac8dfdce2f58f8bce078e8a9"
+      }
+    }
+  ],
+  "$metadata": {
+    "tokenSetOrder": [
+      "light",
+      "dark",
+      "valentine",
+      "cyberpunk",
+      "acid",
+      "aqua",
+      "autumn",
+      "black",
+      "bumblebee",
+      "business",
+      "cmyk",
+      "coffee",
+      "coporate",
+      "cupcake",
+      "dim",
+      "dracula",
+      "emerald",
+      "fantasy",
+      "forest",
+      "garden",
+      "halloween",
+      "lemonade",
+      "lofi",
+      "luxury",
+      "night",
+      "nord",
+      "pastel",
+      "retro",
+      "sunset",
+      "synthwave",
+      "winter",
+      "wireframe"
+    ]
+  }
+}
