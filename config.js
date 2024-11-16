@@ -16,6 +16,6 @@ export const config = {
   ],
   logFiles: ["./source/142623.js", "./source/144550.js", "./source/351127.js"],
   serverId: "1204154732978118716",
-  channelId: "1204197126775504926",
+  channelId: "1307311967526191195",
   storeId: "10640",
 };
