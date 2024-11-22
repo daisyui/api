@@ -1,4 +1,4 @@
-import { writeFileSync } from "bun:fs";
+import { readFileSync, writeFileSync } from "bun:fs";
 import { postToDiscord } from "./post_to_discord.js";
 import { config } from "./config.js";
 import {
@@ -7,6 +7,24 @@ import {
   addMinutesToIsoTime,
   expiresIn,
 } from "./functions.js";
+
+const discountSpecialPath = "./docs/api/discount_special.json";
+let skipRequest = false;
+
+try {
+  const discountSpecialData = JSON.parse(
+    readFileSync(discountSpecialPath, "utf-8"),
+  );
+  const expiresAt = new Date(discountSpecialData.data.attributes.expires_at);
+  const now = new Date();
+
+  if (expiresAt > now) {
+    console.log("Special discount exists. Skipping...");
+    skipRequest = true;
+  }
+} catch (error) {
+  console.error("Error reading discount_special.json:", error);
+}
 
 const data = {
   data: {
@@ -31,7 +49,7 @@ const data = {
   },
 };
 
-if (Math.random() < config.chanceToRun) {
+if (!skipRequest && Math.random() < config.chanceToRun) {
   fetch("https://api.lemonsqueezy.com/v1/discounts", {
     method: "POST",
     headers: {
