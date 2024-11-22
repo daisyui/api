@@ -31,8 +31,7 @@
     "components": {
       "accordion": true,
       "alert": true,
-      "form-control": false,
-      "artboard": false,
+      "fieldset": true,
       "avatar": true,
       "badge": true,
       "bottom-navigation": true,
@@ -87,7 +86,7 @@
       "tooltip": true
     },
     "new features": {
-      "replace rounded-box,button,badge with 1 automatic radius": false,
+      "replace rounded-button,rounded-badge with rounded-field, rounded-selector": true,
       "status": true,
       "shimmer/aura: wrapper div for gradient border or glow animation": false,
       "tag": false,
@@ -114,8 +113,8 @@
     },
     "tests": {
       "framworks": false,
-      "esm": false,
-      "cdn": false,
+      "esm": true,
+      "cdn": true,
       "fallback": false,
       "backward compatibility": false,
       "test on all browsers": false,
@@ -134,7 +133,7 @@
     "docs": {
       "migrate svelte5": true,
       "update docs": false,
-      "theme generator": false,
+      "theme generator": true,
       "update examples": false,
       "migration guide": false,
       "update demos": false,
@@ -153,7 +152,7 @@
       "check": false
     },
     "release": {
-      "public alpha": false,
+      "public alpha": true,
       "public beta": false,
       "stable": false
     }
