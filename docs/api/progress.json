@@ -9,7 +9,7 @@
       "build pipeline": true,
       "formatter": true,
       "generate tw config for components": true,
-      "remove old files": false,
+      "remove old files": true,
       "prefix": true
     },
     "cdn": {
@@ -43,7 +43,7 @@
       "checkbox": true,
       "collapse": true,
       "countdown": true,
-      "diff": false,
+      "diff": true,
       "divider": true,
       "drawer": true,
       "dropdown": true,
@@ -94,13 +94,13 @@
       "banner": false,
       "dash variants": true,
       "soft variants": true,
-      "bottom-sheet": false,
-      "stack in other directions": false,
-      "segmented control": false,
+      "bottom-sheet": true,
+      "stack in other directions": true,
+      "segmented control": true,
       "animated tab": false
     },
     "refactor": {
-      "diff": false,
+      "diff": true,
       "alert": true,
       "tab": true
     },
@@ -112,6 +112,7 @@
       "toggle": true
     },
     "tests": {
+      "test functions": true,
       "framworks": false,
       "esm": true,
       "cdn": true,
@@ -144,12 +145,12 @@
     },
     "performance": {
       "optimize file size": true,
-      "remove unused styles": false,
-      "optimize build speed": false,
-      "Improve CSS specificity": false
+      "remove unused styles": true,
+      "optimize build speed": true,
+      "Improve CSS specificity": true
     },
     "accessibility": {
-      "check": false
+      "check": true
     },
     "release": {
       "public alpha": true,
