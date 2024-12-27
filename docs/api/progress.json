@@ -89,7 +89,6 @@
       "replace rounded-button,rounded-badge with rounded-field, rounded-selector": true,
       "status": true,
       "shimmer/aura: wrapper div for gradient border or glow animation": false,
-      "tag": false,
       "list": true,
       "fieldset": true,
       "label": true,
@@ -97,13 +96,11 @@
       "calendar": true,
       "validator": true,
       "dock": true,
-      "banner": false,
       "dash variants": true,
       "soft variants": true,
       "bottom-sheet": true,
       "stack in other directions": true,
-      "segmented control": true,
-      "animated tab": false
+      "segmented control": true
     },
     "refactor": {
       "diff": true,
@@ -118,6 +115,7 @@
       "toggle": true
     },
     "tests": {
+      "RTL": true,
       "test functions": true,
       "framworks": false,
       "esm": true,
@@ -125,7 +123,7 @@
       "fallback": false,
       "backward compatibility": false,
       "test on all browsers": false,
-      "test on vite": false,
+      "test on vite": true,
       "test on nextjs": false,
       "test on nuxtjs": false,
       "test on react": false,
@@ -139,14 +137,14 @@
     },
     "docs": {
       "migrate svelte5": true,
-      "update docs": false,
+      "update docs": true,
       "theme generator": true,
-      "update examples": false,
+      "update examples": true,
       "migration guide": false,
       "update demos": false,
-      "changelog": false,
+      "changelog": true,
       "i18n": false,
-      "more input examples": false,
+      "more input examples": true,
       "new homepage": false
     },
     "performance": {
