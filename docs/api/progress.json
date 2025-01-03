@@ -88,7 +88,7 @@
     "new features": {
       "replace rounded-button,rounded-badge with rounded-field, rounded-selector": true,
       "status": true,
-      "shimmer/aura: wrapper div for gradient border or glow animation": false,
+      "shimmer/aura: wrapper div for gradient border or glow animation - pushed for future": true,
       "list": true,
       "fieldset": true,
       "label": true,
@@ -124,8 +124,8 @@
       "backward compatibility": false,
       "test on all browsers": false,
       "test on vite": true,
-      "test on nextjs": false,
-      "test on nuxtjs": false,
+      "test on nextjs": true,
+      "test on nuxtjs": true,
       "test on react": false,
       "test on vue": false,
       "test on svelte": false,
@@ -133,7 +133,7 @@
       "test on postcss": false,
       "test on old browsers": false,
       "test on mobile": false,
-      "test on no-build stacks": false
+      "test on no-build stacks": true
     },
     "docs": {
       "migrate svelte5": true,
@@ -141,11 +141,11 @@
       "theme generator": true,
       "update examples": true,
       "migration guide": false,
-      "update demos": false,
+      "update demos - stackblitz not supporting TW4": true,
       "changelog": true,
       "i18n": false,
       "more input examples": true,
-      "new homepage": false
+      "new homepage - later": true
     },
     "performance": {
       "optimize file size": true,
@@ -158,7 +158,7 @@
     },
     "release": {
       "public alpha": true,
-      "public beta": false,
+      "public beta": true,
       "stable": false
     }
   }
