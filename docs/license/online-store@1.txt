@@ -1,0 +1,39 @@
+Copyright (c) 2025 daisyUI
+
+SOLO LICENSE:
+
+By purchasing a Solo License and obtaining a valid receipt from daisyUI's official store at https://daisyui.com, you are granted the following permissions:
+
+1. Private use of the Software is allowed.
+2. Commercial use of the Software is allowed.
+3. Modification of the Software is allowed.
+
+Conditions for Solo License:
+1. Usage is limited to a single developer.
+2. Usage is limited to one personal or commercial project.
+3. This license is only valid with proof of purchase from daisyUI's official store.
+
+TEAM LICENSE:
+
+By purchasing a Team License and obtaining a valid receipt from daisyUI's official store at https://daisyui.com, you are granted the following permissions:
+
+1. Private use of the Software is allowed.
+2. Commercial use of the Software is allowed.
+3. Distribution within the organization is allowed.
+4. Modification of the Software is allowed.
+
+Conditions for Team License:
+1. Usage extends to all developers within the purchasing organization.
+2. Usage allowed in multiple personal and commercial projects.
+3. If purchased by a school, usage extends to all teachers and students.
+4. If purchased by a freelancer, usage extends to all clients' projects.
+5. This license is only valid with proof of purchase from daisyUI's official store.
+
+General Limitations:
+
+The following limitations apply to both license tiers:
+
+1. Reselling or free distribution of the software package is not allowed.
+2. The Software is only authorized to be purchased from the official website at https://daisyui.com.
+
+THE SOFTWARE IS PROVIDED "AS IS," WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NONINFRINGEMENT. IN NO EVENT SHALL DAISYUI, POUYA SAADEGHI, THE AUTHORS, OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT, OR OTHERWISE, ARISING FROM, OUT OF, OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
