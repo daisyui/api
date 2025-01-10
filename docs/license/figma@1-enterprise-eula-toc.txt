@@ -1,6 +1,8 @@
 Copyright (c) 2025 daisyUI
 
-## End user license agreement - PRO version
+# daisyUI Figma Library - PRO License
+
+## End user license agreement
 
 By purchasing or using the daisyUI Figma Library v1.x PRO version ("Software") with PRO license from daisyui.com/store, you agree to this license agreement:
 
@@ -37,7 +39,7 @@ The Software is provided "as is" without warranties. daisyUI is not liable for a
 
 ---
 
-## Terms and Conditions - daisyUI Figma Library v1.x PRO version
+## Terms and Conditions
 
 By purchasing or using the daisyUI Figma Library v1.x PRO version ("Software"), you agree to these terms and conditions:
 
