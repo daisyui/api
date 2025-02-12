@@ -1,0 +1,54 @@
+{
+  "jsonapi": {
+    "version": "1.0"
+  },
+  "links": {
+    "self": "https://api.lemonsqueezy.com/v1/discounts/214113"
+  },
+  "data": {
+    "type": "discounts",
+    "id": "214113",
+    "attributes": {
+      "store_id": 10640,
+      "name": "Black Friday",
+      "code": "BLACKFRIDAY2024",
+      "amount": 30,
+      "amount_type": "percent",
+      "is_limited_to_products": false,
+      "is_limited_redemptions": false,
+      "max_redemptions": 0,
+      "starts_at": null,
+      "expires_at": "2024-12-01T10:27:14.000000Z",
+      "duration": "once",
+      "duration_in_months": 1,
+      "status": "published",
+      "status_formatted": "Published",
+      "created_at": "2024-11-22T10:27:14.000000Z",
+      "updated_at": "2024-11-22T10:27:14.000000Z",
+      "test_mode": false
+    },
+    "relationships": {
+      "store": {
+        "links": {
+          "related": "https://api.lemonsqueezy.com/v1/discounts/214113/store",
+          "self": "https://api.lemonsqueezy.com/v1/discounts/214113/relationships/store"
+        }
+      },
+      "variants": {
+        "links": {
+          "related": "https://api.lemonsqueezy.com/v1/discounts/214113/variants",
+          "self": "https://api.lemonsqueezy.com/v1/discounts/214113/relationships/variants"
+        }
+      },
+      "discount-redemptions": {
+        "links": {
+          "related": "https://api.lemonsqueezy.com/v1/discounts/214113/discount-redemptions",
+          "self": "https://api.lemonsqueezy.com/v1/discounts/214113/relationships/discount-redemptions"
+        }
+      }
+    },
+    "links": {
+      "self": "https://api.lemonsqueezy.com/v1/discounts/214113"
+    }
+  }
+}

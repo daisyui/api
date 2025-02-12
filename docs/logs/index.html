@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Logs</title>
+    <script
+      src="https://cdn.jsdelivr.net/npm/alpinejs@3.12.2/dist/cdn.min.js"
+      defer
+    ></script>
+    <script src="https://cdn.jsdelivr.net/npm/moment@2.29.4/min/moment.min.js"></script>
+    <link
+      href="https://cdn.jsdelivr.net/npm/daisyui@4.12.10/dist/full.min.css"
+      rel="stylesheet"
+      type="text/css"
+    />
+    <script src="https://cdn.tailwindcss.com"></script>
+    <meta name="robots" content="noindex">
+  </head>
+
+  <body>
+    <div class="container mx-auto" x-data="fetchData()" x-init="init()">
+      <table class="table">
+        <thead>
+          <tr>
+            <th>
+              Last API fetch:
+              <span x-text="moment(cached_at).fromNow()"></span>
+            </th>
+          </tr>
+        </thead>
+        <tbody>
+          <template
+            x-for="item in data"
+            :key="item.attributes.created_at"
+          >
+            <tr :class="{
+                    'bg-orange-50 text-orange-950 border-orange-100' : isToday(item.attributes.created_at),
+                    'line-through': item.attributes.refunded === true
+                }">
+              <td>
+                <span
+                  class="text-xs"
+                  x-text="new Date(item.attributes.created_at).toLocaleString(
+                          'en-US',
+                          {
+                            month: 'short',
+                            day: 'numeric',
+                            hour: 'numeric',
+                          }
+                        )"
+                ></span>
+              </td>
+              <td>
+                <span
+                  x-text="item.attributes.first_order_item.product_name"
+                ></span>
+                <span
+                  x-show="item.attributes.first_order_item.variant_name !== 'Default'"
+                  class="badge badge-sm font-semibold"
+                  x-text="item.attributes.first_order_item.variant_name"
+                ></span>
+              </td>
+              <td>
+                $<span
+                  x-text="((item.attributes.subtotal_usd-item.attributes.discount_total_usd)/100).toFixed(0)"
+                ></span>
+                <span class="badge badge-sm font-semibold" x-show="item.attributes.discount_total_usd !== 0">discount</span>
+                <span class="badge badge-sm font-semibold" x-show="item.attributes.refunded !== false">refunded</span>
+              </td>
+            </tr>
+          </template>
+        </tbody>
+      </table>
+    </div>
+
+    <script>
+      function fetchData() {
+        return {
+          data: [],
+          cached_at: undefined,
+          init() {
+            const urlParams = new URLSearchParams(window.location.search);
+            const jsonFile = urlParams.get("id");
+            fetch(`../api/${jsonFile}.json`)
+              .then((response) => response.json())
+              .then((json) => {
+                this.cached_at = json.cached_at;
+                this.data = json.data;
+              });
+          },
+          formatDistanceToNow(date) {
+            return fp.dateFns.formatDistanceToNow(date, { addSuffix: true });
+          },
+          isToday(dateString) {
+            const date = moment(dateString);
+            return date.isSame(new Date(), 'day');
+          }
+        };
+      }
+    </script>
+  </body>
+</html>

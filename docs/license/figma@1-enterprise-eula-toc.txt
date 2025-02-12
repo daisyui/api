@@ -1,0 +1,79 @@
+Copyright (c) 2025 daisyUI
+
+# daisyUI Figma Library - PRO License
+
+## End user license agreement
+
+By purchasing or using the daisyUI Figma Library v1.x PRO version ("Software") with PRO license from daisyui.com/store, you agree to this license agreement:
+
+### 1. License Grant - Enterprise/PRO Level
+Upon purchase from daisyui.com/store, you may:
+- Use the Software to create products
+- Publish the Software in your Figma team library
+- Share the files within your organization
+- Use the Software in multiple projects
+- Create commercial and non-commercial products
+
+### 2. Restrictions
+You may not:
+- Share or resell the Software itself
+- Distribute the Software outside your organization
+- Include the Software's design files in your end products
+- Allow end users to extract and use the Software separately
+- Redistribute the Software as part of a template or toolkit
+
+### 3. License Details
+- This is a perpetual license (no expiration)
+- No refunds are provided
+- The license is non-transferable
+- Valid only with proof of purchase from daisyui.com/store
+
+### 4. Intellectual Property Rights
+- The daisyUI name, logo, website (daisyui.com), daisyUI CSS library, and all other daisyUI project properties remain the exclusive property of daisyUI
+- This license for the Figma library does not grant any rights to use daisyUI's name, logo, website, or any other daisyUI property
+- The Figma library is a separate commercial product from the open-source daisyUI project
+- Any misuse of daisyUI's intellectual property will result in immediate license termination
+
+### 5. Liability
+The Software is provided "as is" without warranties. daisyUI is not liable for any damages arising from Software use.
+
+---
+
+## Terms and Conditions
+
+By purchasing or using the daisyUI Figma Library v1.x PRO version ("Software"), you agree to these terms and conditions:
+
+### 1. Definitions
+- "Software" means the daisyUI Figma Library
+- "Organization" means your company and its employees
+- "End product" means any product created using the Software
+- "daisyUI Project" refers to the open-source project and its properties
+
+### 2. Ownership and Intellectual Property
+- The Software remains daisyUI's property
+- This license does not grant any rights to the daisyUI open-source project or its properties
+- The daisyUI name, logo, website, and CSS library are separate properties not included in this license
+- You may not use daisyUI branding without explicit permission
+
+### 3. Usage Terms
+- The Software will work as long as it's compatible with Figma
+- Technical support is not guaranteed
+- Updates may be provided at daisyUI's discretion
+
+### 4. Termination
+- daisyUI may terminate your license if you violate these terms
+- Upon termination, you must stop using the Software
+- Misuse of daisyUI intellectual property constitutes grounds for immediate termination
+
+### 5. General Terms
+- This agreement is governed by applicable laws
+- If any provision is found invalid, the remaining provisions remain in effect
+- These terms constitute the entire agreement regarding Software use
+- Any disputes will be resolved in daisyUI's jurisdiction
+- Official notices must be sent in writing to the address provided by daisyUI
+
+### 6. Amendments
+daisyUI reserves the right to modify these terms with reasonable notice to licensees.
+
+### 7. Force Majeure
+Neither party shall be liable for failures caused by circumstances beyond reasonable control.

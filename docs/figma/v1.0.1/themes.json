@@ -1,0 +1,4930 @@
+{
+  "acid": {
+    "theme": {
+      "color": {
+        "semantic": {
+          "primary": {
+            "bg": {
+              "value": "#ff00ff",
+              "type": "color"
+            },
+            "content": {
+              "value": "#190017",
+              "type": "color"
+            }
+          },
+          "secondary": {
+            "bg": {
+              "value": "#ff6e00",
+              "type": "color"
+            },
+            "content": {
+              "value": "#190400",
+              "type": "color"
+            }
+          },
+          "accent": {
+            "bg": {
+              "value": "#c8ff00",
+              "type": "color"
+            },
+            "content": {
+              "value": "#0f1600",
+              "type": "color"
+            }
+          },
+          "neutral": {
+            "bg": {
+              "value": "#140151",
+              "type": "color"
+            },
+            "content": {
+              "value": "#c7cadc",
+              "type": "color"
+            }
+          }
+        },
+        "base": {
+          "100": {
+            "value": "#fafafa",
+            "type": "color"
+          },
+          "200": {
+            "value": "#e3e3e3",
+            "type": "color"
+          },
+          "300": {
+            "value": "#cdcdcd",
+            "type": "color"
+          },
+          "content": {
+            "value": "#151515",
+            "type": "color"
+          }
+        },
+        "status": {
+          "info": {
+            "bg": {
+              "value": "#007fff",
+              "type": "color"
+            },
+            "content": {
+              "value": "#000617",
+              "type": "color"
+            }
+          },
+          "success": {
+            "bg": {
+              "value": "#00ff8a",
+              "type": "color"
+            },
+            "content": {
+              "value": "#001607",
+              "type": "color"
+            }
+          },
+          "warning": {
+            "bg": {
+              "value": "#ffe200",
+              "type": "color"
+            },
+            "content": {
+              "value": "#161200",
+              "type": "color"
+            }
+          },
+          "error": {
+            "bg": {
+              "value": "#ff0000",
+              "type": "color"
+            },
+            "content": {
+              "value": "#190000",
+              "type": "color"
+            }
+          }
+        }
+      },
+      "borderWidth": {
+        "btn": {
+          "value": "1px",
+          "type": "dimension"
+        },
+        "tab": {
+          "value": "1px",
+          "type": "dimension"
+        }
+      },
+      "borderRadius": {
+        "box": {
+          "value": "20px",
+          "type": "dimension"
+        },
+        "btn": {
+          "value": "16px",
+          "type": "dimension"
+        },
+        "badge": {
+          "value": "16px",
+          "type": "dimension"
+        },
+        "tab": {
+          "value": "11.2px",
+          "type": "dimension"
+        },
+        "join": {
+          "value": "0px",
+          "type": "dimension"
+        }
+      },
+      "fontFamily": {
+        "primary": {
+          "value": "Inter",
+          "type": "fontFamilies"
+        },
+        "code": {
+          "value": "Menlo",
+          "type": "fontFamilies"
+        }
+      },
+      "themeName": {
+        "value": "acid",
+        "type": "text"
+      }
+    }
+  },
+  "aqua": {
+    "theme": {
+      "color": {
+        "semantic": {
+          "primary": {
+            "bg": {
+              "value": "#09ecf3",
+              "type": "color"
+            },
+            "content": {
+              "value": "#005355",
+              "type": "color"
+            }
+          },
+          "secondary": {
+            "bg": {
+              "value": "#966fb3",
+              "type": "color"
+            },
+            "content": {
+              "value": "#08040c",
+              "type": "color"
+            }
+          },
+          "accent": {
+            "bg": {
+              "value": "#ffe999",
+              "type": "color"
+            },
+            "content": {
+              "value": "#161308",
+              "type": "color"
+            }
+          },
+          "neutral": {
+            "bg": {
+              "value": "#3b8ac4",
+              "type": "color"
+            },
+            "content": {
+              "value": "#01070e",
+              "type": "color"
+            }
+          }
+        },
+        "base": {
+          "100": {
+            "value": "#345da7",
+            "type": "color"
+          },
+          "200": {
+            "value": "#2e5497",
+            "type": "color"
+          },
+          "300": {
+            "value": "#294b88",
+            "type": "color"
+          },
+          "content": {
+            "value": "#d4deef",
+            "type": "color"
+          }
+        },
+        "status": {
+          "info": {
+            "bg": {
+              "value": "#2563eb",
+              "type": "color"
+            },
+            "content": {
+              "value": "#d2e2ff",
+              "type": "color"
+            }
+          },
+          "success": {
+            "bg": {
+              "value": "#16a34a",
+              "type": "color"
+            },
+            "content": {
+              "value": "#000a02",
+              "type": "color"
+            }
+          },
+          "warning": {
+            "bg": {
+              "value": "#d97706",
+              "type": "color"
+            },
+            "content": {
+              "value": "#110500",
+              "type": "color"
+            }
+          },
+          "error": {
+            "bg": {
+              "value": "#ff7265",
+              "type": "color"
+            },
+            "content": {
+              "value": "#180403",
+              "type": "color"
+            }
+          }
+        }
+      },
+      "borderWidth": {
+        "btn": {
+          "value": "1px",
+          "type": "dimension"
+        },
+        "tab": {
+          "value": "1px",
+          "type": "dimension"
+        }
+      },
+      "borderRadius": {
+        "box": {
+          "value": "16px",
+          "type": "dimension"
+        },
+        "btn": {
+          "value": "8px",
+          "type": "dimension"
+        },
+        "badge": {
+          "value": "30.4px",
+          "type": "dimension"
+        },
+        "tab": {
+          "value": "8px",
+          "type": "dimension"
+        },
+        "join": {
+          "value": "0px",
+          "type": "dimension"
+        }
+      },
+      "fontFamily": {
+        "primary": {
+          "value": "Inter",
+          "type": "fontFamilies"
+        },
+        "code": {
+          "value": "Menlo",
+          "type": "fontFamilies"
+        }
+      },
+      "themeName": {
+        "value": "aqua",
+        "type": "text"
+      }
+    }
+  },
+  "autumn": {
+    "theme": {
+      "color": {
+        "semantic": {
+          "primary": {
+            "bg": {
+              "value": "#8c0327",
+              "type": "color"
+            },
+            "content": {
+              "value": "#edd0d0",
+              "type": "color"
+            }
+          },
+          "secondary": {
+            "bg": {
+              "value": "#d85251",
+              "type": "color"
+            },
+            "content": {
+              "value": "#110202",
+              "type": "color"
+            }
+          },
+          "accent": {
+            "bg": {
+              "value": "#d59b6a",
+              "type": "color"
+            },
+            "content": {
+              "value": "#100904",
+              "type": "color"
+            }
+          },
+          "neutral": {
+            "bg": {
+              "value": "#826a5c",
+              "type": "color"
+            },
+            "content": {
+              "value": "#e5e0dc",
+              "type": "color"
+            }
+          }
+        },
+        "base": {
+          "100": {
+            "value": "#f1f1f1",
+            "type": "color"
+          },
+          "200": {
+            "value": "#dbdbdb",
+            "type": "color"
+          },
+          "300": {
+            "value": "#c5c5c5",
+            "type": "color"
+          },
+          "content": {
+            "value": "#141414",
+            "type": "color"
+          }
+        },
+        "status": {
+          "info": {
+            "bg": {
+              "value": "#42adbb",
+              "type": "color"
+            },
+            "content": {
+              "value": "#010b0d",
+              "type": "color"
+            }
+          },
+          "success": {
+            "bg": {
+              "value": "#499380",
+              "type": "color"
+            },
+            "content": {
+              "value": "#020806",
+              "type": "color"
+            }
+          },
+          "warning": {
+            "bg": {
+              "value": "#e97f14",
+              "type": "color"
+            },
+            "content": {
+              "value": "#130600",
+              "type": "color"
+            }
+          },
+          "error": {
+            "bg": {
+              "value": "#d40014",
+              "type": "color"
+            },
+            "content": {
+              "value": "#ffd4d1",
+              "type": "color"
+            }
+          }
+        }
+      },
+      "borderWidth": {
+        "btn": {
+          "value": "1px",
+          "type": "dimension"
+        },
+        "tab": {
+          "value": "1px",
+          "type": "dimension"
+        }
+      },
+      "borderRadius": {
+        "box": {
+          "value": "16px",
+          "type": "dimension"
+        },
+        "btn": {
+          "value": "8px",
+          "type": "dimension"
+        },
+        "badge": {
+          "value": "30.4px",
+          "type": "dimension"
+        },
+        "tab": {
+          "value": "8px",
+          "type": "dimension"
+        },
+        "join": {
+          "value": "0px",
+          "type": "dimension"
+        }
+      },
+      "fontFamily": {
+        "primary": {
+          "value": "Inter",
+          "type": "fontFamilies"
+        },
+        "code": {
+          "value": "Menlo",
+          "type": "fontFamilies"
+        }
+      },
+      "themeName": {
+        "value": "autumn",
+        "type": "text"
+      }
+    }
+  },
+  "black": {
+    "theme": {
+      "color": {
+        "semantic": {
+          "primary": {
+            "bg": {
+              "value": "#373737",
+              "type": "color"
+            },
+            "content": {
+              "value": "#d3d3d3",
+              "type": "color"
+            }
+          },
+          "secondary": {
+            "bg": {
+              "value": "#373737",
+              "type": "color"
+            },
+            "content": {
+              "value": "#d3d3d3",
+              "type": "color"
+            }
+          },
+          "accent": {
+            "bg": {
+              "value": "#373737",
+              "type": "color"
+            },
+            "content": {
+              "value": "#d3d3d3",
+              "type": "color"
+            }
+          },
+          "neutral": {
+            "bg": {
+              "value": "#373737",
+              "type": "color"
+            },
+            "content": {
+              "value": "#d3d3d3",
+              "type": "color"
+            }
+          }
+        },
+        "base": {
+          "100": {
+            "value": "#000000",
+            "type": "color"
+          },
+          "200": {
+            "value": "#141414",
+            "type": "color"
+          },
+          "300": {
+            "value": "#262626",
+            "type": "color"
+          },
+          "content": {
+            "value": "#d6d6d6",
+            "type": "color"
+          }
+        },
+        "status": {
+          "info": {
+            "bg": {
+              "value": "#0000ff",
+              "type": "color"
+            },
+            "content": {
+              "value": "#c6dbff",
+              "type": "color"
+            }
+          },
+          "success": {
+            "bg": {
+              "value": "#008000",
+              "type": "color"
+            },
+            "content": {
+              "value": "#d2e6d0",
+              "type": "color"
+            }
+          },
+          "warning": {
+            "bg": {
+              "value": "#ffff00",
+              "type": "color"
+            },
+            "content": {
+              "value": "#161600",
+              "type": "color"
+            }
+          },
+          "error": {
+            "bg": {
+              "value": "#ff0000",
+              "type": "color"
+            },
+            "content": {
+              "value": "#160000",
+              "type": "color"
+            }
+          }
+        }
+      },
+      "borderWidth": {
+        "btn": {
+          "value": "1px",
+          "type": "dimension"
+        },
+        "tab": {
+          "value": "1px",
+          "type": "dimension"
+        }
+      },
+      "borderRadius": {
+        "box": {
+          "value": "0px",
+          "type": "dimension"
+        },
+        "btn": {
+          "value": "0px",
+          "type": "dimension"
+        },
+        "badge": {
+          "value": "0px",
+          "type": "dimension"
+        },
+        "tab": {
+          "value": "NaNpx",
+          "type": "dimension"
+        },
+        "join": {
+          "value": "0px",
+          "type": "dimension"
+        }
+      },
+      "fontFamily": {
+        "primary": {
+          "value": "Inter",
+          "type": "fontFamilies"
+        },
+        "code": {
+          "value": "Menlo",
+          "type": "fontFamilies"
+        }
+      },
+      "themeName": {
+        "value": "black",
+        "type": "text"
+      }
+    }
+  },
+  "bumblebee": {
+    "theme": {
+      "color": {
+        "semantic": {
+          "primary": {
+            "bg": {
+              "value": "#ffd900",
+              "type": "color"
+            },
+            "content": {
+              "value": "#4c4528",
+              "type": "color"
+            }
+          },
+          "secondary": {
+            "bg": {
+              "value": "#ffa400",
+              "type": "color"
+            },
+            "content": {
+              "value": "#5d3f18",
+              "type": "color"
+            }
+          },
+          "accent": {
+            "bg": {
+              "value": "#ffa551",
+              "type": "color"
+            },
+            "content": {
+              "value": "#180a02",
+              "type": "color"
+            }
+          },
+          "neutral": {
+            "bg": {
+              "value": "#060023",
+              "type": "color"
+            },
+            "content": {
+              "value": "#c4c5d0",
+              "type": "color"
+            }
+          }
+        },
+        "base": {
+          "100": {
+            "value": "#ffffff",
+            "type": "color"
+          },
+          "200": {
+            "value": "#e8e8e8",
+            "type": "color"
+          },
+          "300": {
+            "value": "#d1d1d1",
+            "type": "color"
+          },
+          "content": {
+            "value": "#161616",
+            "type": "color"
+          }
+        },
+        "status": {
+          "info": {
+            "bg": {
+              "value": "#00b5ff",
+              "type": "color"
+            },
+            "content": {
+              "value": "#000000",
+              "type": "color"
+            }
+          },
+          "success": {
+            "bg": {
+              "value": "#00a96e",
+              "type": "color"
+            },
+            "content": {
+              "value": "#000000",
+              "type": "color"
+            }
+          },
+          "warning": {
+            "bg": {
+              "value": "#ffbe00",
+              "type": "color"
+            },
+            "content": {
+              "value": "#000000",
+              "type": "color"
+            }
+          },
+          "error": {
+            "bg": {
+              "value": "#ff5861",
+              "type": "color"
+            },
+            "content": {
+              "value": "#000000",
+              "type": "color"
+            }
+          }
+        }
+      },
+      "borderWidth": {
+        "btn": {
+          "value": "1px",
+          "type": "dimension"
+        },
+        "tab": {
+          "value": "1px",
+          "type": "dimension"
+        }
+      },
+      "borderRadius": {
+        "box": {
+          "value": "16px",
+          "type": "dimension"
+        },
+        "btn": {
+          "value": "8px",
+          "type": "dimension"
+        },
+        "badge": {
+          "value": "30.4px",
+          "type": "dimension"
+        },
+        "tab": {
+          "value": "8px",
+          "type": "dimension"
+        },
+        "join": {
+          "value": "0px",
+          "type": "dimension"
+        }
+      },
+      "fontFamily": {
+        "primary": {
+          "value": "Inter",
+          "type": "fontFamilies"
+        },
+        "code": {
+          "value": "Menlo",
+          "type": "fontFamilies"
+        }
+      },
+      "themeName": {
+        "value": "bumblebee",
+        "type": "text"
+      }
+    }
+  },
+  "business": {
+    "theme": {
+      "color": {
+        "semantic": {
+          "primary": {
+            "bg": {
+              "value": "#1c4e80",
+              "type": "color"
+            },
+            "content": {
+              "value": "#cfdae6",
+              "type": "color"
+            }
+          },
+          "secondary": {
+            "bg": {
+              "value": "#7c909a",
+              "type": "color"
+            },
+            "content": {
+              "value": "#050709",
+              "type": "color"
+            }
+          },
+          "accent": {
+            "bg": {
+              "value": "#ea6947",
+              "type": "color"
+            },
+            "content": {
+              "value": "#130402",
+              "type": "color"
+            }
+          },
+          "neutral": {
+            "bg": {
+              "value": "#23282e",
+              "type": "color"
+            },
+            "content": {
+              "value": "#cecfd1",
+              "type": "color"
+            }
+          }
+        },
+        "base": {
+          "100": {
+            "value": "#202020",
+            "type": "color"
+          },
+          "200": {
+            "value": "#1c1c1c",
+            "type": "color"
+          },
+          "300": {
+            "value": "#181818",
+            "type": "color"
+          },
+          "content": {
+            "value": "#cdcdcd",
+            "type": "color"
+          }
+        },
+        "status": {
+          "info": {
+            "bg": {
+              "value": "#0091d5",
+              "type": "color"
+            },
+            "content": {
+              "value": "#000710",
+              "type": "color"
+            }
+          },
+          "success": {
+            "bg": {
+              "value": "#6bb187",
+              "type": "color"
+            },
+            "content": {
+              "value": "#040c06",
+              "type": "color"
+            }
+          },
+          "warning": {
+            "bg": {
+              "value": "#dbae59",
+              "type": "color"
+            },
+            "content": {
+              "value": "#110b03",
+              "type": "color"
+            }
+          },
+          "error": {
+            "bg": {
+              "value": "#ac3e31",
+              "type": "color"
+            },
+            "content": {
+              "value": "#f2d8d4",
+              "type": "color"
+            }
+          }
+        }
+      },
+      "borderWidth": {
+        "btn": {
+          "value": "1px",
+          "type": "dimension"
+        },
+        "tab": {
+          "value": "1px",
+          "type": "dimension"
+        }
+      },
+      "borderRadius": {
+        "box": {
+          "value": "4px",
+          "type": "dimension"
+        },
+        "btn": {
+          "value": "2px",
+          "type": "dimension"
+        },
+        "badge": {
+          "value": "2px",
+          "type": "dimension"
+        },
+        "tab": {
+          "value": "8px",
+          "type": "dimension"
+        },
+        "join": {
+          "value": "0px",
+          "type": "dimension"
+        }
+      },
+      "fontFamily": {
+        "primary": {
+          "value": "Inter",
+          "type": "fontFamilies"
+        },
+        "code": {
+          "value": "Menlo",
+          "type": "fontFamilies"
+        }
+      },
+      "themeName": {
+        "value": "business",
+        "type": "text"
+      }
+    }
+  },
+  "cmyk": {
+    "theme": {
+      "color": {
+        "semantic": {
+          "primary": {
+            "bg": {
+              "value": "#45aeee",
+              "type": "color"
+            },
+            "content": {
+              "value": "#020b14",
+              "type": "color"
+            }
+          },
+          "secondary": {
+            "bg": {
+              "value": "#e8488a",
+              "type": "color"
+            },
+            "content": {
+              "value": "#130207",
+              "type": "color"
+            }
+          },
+          "accent": {
+            "bg": {
+              "value": "#fff232",
+              "type": "color"
+            },
+            "content": {
+              "value": "#161401",
+              "type": "color"
+            }
+          },
+          "neutral": {
+            "bg": {
+              "value": "#1a1a1a",
+              "type": "color"
+            },
+            "content": {
+              "value": "#cbcbcb",
+              "type": "color"
+            }
+          }
+        },
+        "base": {
+          "100": {
+            "value": "#ffffff",
+            "type": "color"
+          },
+          "200": {
+            "value": "#e8e8e8",
+            "type": "color"
+          },
+          "300": {
+            "value": "#d1d1d1",
+            "type": "color"
+          },
+          "content": {
+            "value": "#161616",
+            "type": "color"
+          }
+        },
+        "status": {
+          "info": {
+            "bg": {
+              "value": "#4aa8c0",
+              "type": "color"
+            },
+            "content": {
+              "value": "#020a0e",
+              "type": "color"
+            }
+          },
+          "success": {
+            "bg": {
+              "value": "#823290",
+              "type": "color"
+            },
+            "content": {
+              "value": "#e6d5e9",
+              "type": "color"
+            }
+          },
+          "warning": {
+            "bg": {
+              "value": "#ee8133",
+              "type": "color"
+            },
+            "content": {
+              "value": "#140601",
+              "type": "color"
+            }
+          },
+          "error": {
+            "bg": {
+              "value": "#e93f33",
+              "type": "color"
+            },
+            "content": {
+              "value": "#130101",
+              "type": "color"
+            }
+          }
+        }
+      },
+      "borderWidth": {
+        "btn": {
+          "value": "1px",
+          "type": "dimension"
+        },
+        "tab": {
+          "value": "1px",
+          "type": "dimension"
+        }
+      },
+      "borderRadius": {
+        "box": {
+          "value": "16px",
+          "type": "dimension"
+        },
+        "btn": {
+          "value": "8px",
+          "type": "dimension"
+        },
+        "badge": {
+          "value": "30.4px",
+          "type": "dimension"
+        },
+        "tab": {
+          "value": "8px",
+          "type": "dimension"
+        },
+        "join": {
+          "value": "0px",
+          "type": "dimension"
+        }
+      },
+      "fontFamily": {
+        "primary": {
+          "value": "Inter",
+          "type": "fontFamilies"
+        },
+        "code": {
+          "value": "Menlo",
+          "type": "fontFamilies"
+        }
+      },
+      "themeName": {
+        "value": "cmyk",
+        "type": "text"
+      }
+    }
+  },
+  "coffee": {
+    "theme": {
+      "color": {
+        "semantic": {
+          "primary": {
+            "bg": {
+              "value": "#db924b",
+              "type": "color"
+            },
+            "content": {
+              "value": "#110802",
+              "type": "color"
+            }
+          },
+          "secondary": {
+            "bg": {
+              "value": "#263e3f",
+              "type": "color"
+            },
+            "content": {
+              "value": "#d0d5d5",
+              "type": "color"
+            }
+          },
+          "accent": {
+            "bg": {
+              "value": "#10576d",
+              "type": "color"
+            },
+            "content": {
+              "value": "#cfdce1",
+              "type": "color"
+            }
+          },
+          "neutral": {
+            "bg": {
+              "value": "#120c12",
+              "type": "color"
+            },
+            "content": {
+              "value": "#c9c7c9",
+              "type": "color"
+            }
+          }
+        },
+        "base": {
+          "100": {
+            "value": "#20161f",
+            "type": "color"
+          },
+          "200": {
+            "value": "#1c131b",
+            "type": "color"
+          },
+          "300": {
+            "value": "#181017",
+            "type": "color"
+          },
+          "content": {
+            "value": "#c59f60",
+            "type": "color"
+          }
+        },
+        "status": {
+          "info": {
+            "bg": {
+              "value": "#8dcac1",
+              "type": "color"
+            },
+            "content": {
+              "value": "#070f0e",
+              "type": "color"
+            }
+          },
+          "success": {
+            "bg": {
+              "value": "#9db787",
+              "type": "color"
+            },
+            "content": {
+              "value": "#090c06",
+              "type": "color"
+            }
+          },
+          "warning": {
+            "bg": {
+              "value": "#ffd25f",
+              "type": "color"
+            },
+            "content": {
+              "value": "#161003",
+              "type": "color"
+            }
+          },
+          "error": {
+            "bg": {
+              "value": "#fc9581",
+              "type": "color"
+            },
+            "content": {
+              "value": "#160806",
+              "type": "color"
+            }
+          }
+        }
+      },
+      "borderWidth": {
+        "btn": {
+          "value": "1px",
+          "type": "dimension"
+        },
+        "tab": {
+          "value": "1px",
+          "type": "dimension"
+        }
+      },
+      "borderRadius": {
+        "box": {
+          "value": "16px",
+          "type": "dimension"
+        },
+        "btn": {
+          "value": "8px",
+          "type": "dimension"
+        },
+        "badge": {
+          "value": "30.4px",
+          "type": "dimension"
+        },
+        "tab": {
+          "value": "8px",
+          "type": "dimension"
+        },
+        "join": {
+          "value": "0px",
+          "type": "dimension"
+        }
+      },
+      "fontFamily": {
+        "primary": {
+          "value": "Inter",
+          "type": "fontFamilies"
+        },
+        "code": {
+          "value": "Menlo",
+          "type": "fontFamilies"
+        }
+      },
+      "themeName": {
+        "value": "coffee",
+        "type": "text"
+      }
+    }
+  },
+  "corporate": {
+    "theme": {
+      "color": {
+        "semantic": {
+          "primary": {
+            "bg": {
+              "value": "#4d6eff",
+              "type": "color"
+            },
+            "content": {
+              "value": "#020417",
+              "type": "color"
+            }
+          },
+          "secondary": {
+            "bg": {
+              "value": "#7b92b2",
+              "type": "color"
+            },
+            "content": {
+              "value": "#05080c",
+              "type": "color"
+            }
+          },
+          "accent": {
+            "bg": {
+              "value": "#67cba0",
+              "type": "color"
+            },
+            "content": {
+              "value": "#040f09",
+              "type": "color"
+            }
+          },
+          "neutral": {
+            "bg": {
+              "value": "#181a2a",
+              "type": "color"
+            },
+            "content": {
+              "value": "#edf2f7",
+              "type": "color"
+            }
+          }
+        },
+        "base": {
+          "100": {
+            "value": "#ffffff",
+            "type": "color"
+          },
+          "200": {
+            "value": "#e8e8e8",
+            "type": "color"
+          },
+          "300": {
+            "value": "#d1d1d1",
+            "type": "color"
+          },
+          "content": {
+            "value": "#181a2a",
+            "type": "color"
+          }
+        },
+        "status": {
+          "info": {
+            "bg": {
+              "value": "#00b5ff",
+              "type": "color"
+            },
+            "content": {
+              "value": "#000000",
+              "type": "color"
+            }
+          },
+          "success": {
+            "bg": {
+              "value": "#00a96e",
+              "type": "color"
+            },
+            "content": {
+              "value": "#000000",
+              "type": "color"
+            }
+          },
+          "warning": {
+            "bg": {
+              "value": "#ffbe00",
+              "type": "color"
+            },
+            "content": {
+              "value": "#000000",
+              "type": "color"
+            }
+          },
+          "error": {
+            "bg": {
+              "value": "#ff5861",
+              "type": "color"
+            },
+            "content": {
+              "value": "#000000",
+              "type": "color"
+            }
+          }
+        }
+      },
+      "borderWidth": {
+        "btn": {
+          "value": "1px",
+          "type": "dimension"
+        },
+        "tab": {
+          "value": "1px",
+          "type": "dimension"
+        }
+      },
+      "borderRadius": {
+        "box": {
+          "value": "4px",
+          "type": "dimension"
+        },
+        "btn": {
+          "value": "2px",
+          "type": "dimension"
+        },
+        "badge": {
+          "value": "2px",
+          "type": "dimension"
+        },
+        "tab": {
+          "value": "4px",
+          "type": "dimension"
+        },
+        "join": {
+          "value": "0px",
+          "type": "dimension"
+        }
+      },
+      "fontFamily": {
+        "primary": {
+          "value": "Inter",
+          "type": "fontFamilies"
+        },
+        "code": {
+          "value": "Menlo",
+          "type": "fontFamilies"
+        }
+      },
+      "themeName": {
+        "value": "corporate",
+        "type": "text"
+      }
+    }
+  },
+  "cupcake": {
+    "theme": {
+      "color": {
+        "semantic": {
+          "primary": {
+            "bg": {
+              "value": "#65c3c8",
+              "type": "color"
+            },
+            "content": {
+              "value": "#030e0f",
+              "type": "color"
+            }
+          },
+          "secondary": {
+            "bg": {
+              "value": "#ef9fbc",
+              "type": "color"
+            },
+            "content": {
+              "value": "#14090d",
+              "type": "color"
+            }
+          },
+          "accent": {
+            "bg": {
+              "value": "#eeaf3a",
+              "type": "color"
+            },
+            "content": {
+              "value": "#140b01",
+              "type": "color"
+            }
+          },
+          "neutral": {
+            "bg": {
+              "value": "#291334",
+              "type": "color"
+            },
+            "content": {
+              "value": "#d0cad3",
+              "type": "color"
+            }
+          }
+        },
+        "base": {
+          "100": {
+            "value": "#faf7f5",
+            "type": "color"
+          },
+          "200": {
+            "value": "#efeae6",
+            "type": "color"
+          },
+          "300": {
+            "value": "#e7e2df",
+            "type": "color"
+          },
+          "content": {
+            "value": "#291334",
+            "type": "color"
+          }
+        },
+        "status": {
+          "info": {
+            "bg": {
+              "value": "#00b5ff",
+              "type": "color"
+            },
+            "content": {
+              "value": "#000000",
+              "type": "color"
+            }
+          },
+          "success": {
+            "bg": {
+              "value": "#00a96e",
+              "type": "color"
+            },
+            "content": {
+              "value": "#000000",
+              "type": "color"
+            }
+          },
+          "warning": {
+            "bg": {
+              "value": "#ffbe00",
+              "type": "color"
+            },
+            "content": {
+              "value": "#000000",
+              "type": "color"
+            }
+          },
+          "error": {
+            "bg": {
+              "value": "#ff5861",
+              "type": "color"
+            },
+            "content": {
+              "value": "#000000",
+              "type": "color"
+            }
+          }
+        }
+      },
+      "borderWidth": {
+        "btn": {
+          "value": "1px",
+          "type": "dimension"
+        },
+        "tab": {
+          "value": "2px",
+          "type": "dimension"
+        }
+      },
+      "borderRadius": {
+        "box": {
+          "value": "16px",
+          "type": "dimension"
+        },
+        "btn": {
+          "value": "30.4px",
+          "type": "dimension"
+        },
+        "badge": {
+          "value": "30.4px",
+          "type": "dimension"
+        },
+        "tab": {
+          "value": "11.2px",
+          "type": "dimension"
+        },
+        "join": {
+          "value": "0px",
+          "type": "dimension"
+        }
+      },
+      "fontFamily": {
+        "primary": {
+          "value": "Inter",
+          "type": "fontFamilies"
+        },
+        "code": {
+          "value": "Menlo",
+          "type": "fontFamilies"
+        }
+      },
+      "themeName": {
+        "value": "cupcake",
+        "type": "text"
+      }
+    }
+  },
+  "cyberpunk": {
+    "theme": {
+      "color": {
+        "semantic": {
+          "primary": {
+            "bg": {
+              "value": "#ff6596",
+              "type": "color"
+            },
+            "content": {
+              "value": "#180308",
+              "type": "color"
+            }
+          },
+          "secondary": {
+            "bg": {
+              "value": "#00e8ff",
+              "type": "color"
+            },
+            "content": {
+              "value": "#001316",
+              "type": "color"
+            }
+          },
+          "accent": {
+            "bg": {
+              "value": "#ce74ff",
+              "type": "color"
+            },
+            "content": {
+              "value": "#0f0517",
+              "type": "color"
+            }
+          },
+          "neutral": {
+            "bg": {
+              "value": "#111a3b",
+              "type": "color"
+            },
+            "content": {
+              "value": "#fff248",
+              "type": "color"
+            }
+          }
+        },
+        "base": {
+          "100": {
+            "value": "#fff248",
+            "type": "color"
+          },
+          "200": {
+            "value": "#e9dc41",
+            "type": "color"
+          },
+          "300": {
+            "value": "#d2c639",
+            "type": "color"
+          },
+          "content": {
+            "value": "#161402",
+            "type": "color"
+          }
+        },
+        "status": {
+          "info": {
+            "bg": {
+              "value": "#00b5ff",
+              "type": "color"
+            },
+            "content": {
+              "value": "#000000",
+              "type": "color"
+            }
+          },
+          "success": {
+            "bg": {
+              "value": "#00a96e",
+              "type": "color"
+            },
+            "content": {
+              "value": "#000000",
+              "type": "color"
+            }
+          },
+          "warning": {
+            "bg": {
+              "value": "#ffbe00",
+              "type": "color"
+            },
+            "content": {
+              "value": "#000000",
+              "type": "color"
+            }
+          },
+          "error": {
+            "bg": {
+              "value": "#ff5861",
+              "type": "color"
+            },
+            "content": {
+              "value": "#000000",
+              "type": "color"
+            }
+          }
+        }
+      },
+      "borderWidth": {
+        "btn": {
+          "value": "1px",
+          "type": "dimension"
+        },
+        "tab": {
+          "value": "1px",
+          "type": "dimension"
+        }
+      },
+      "borderRadius": {
+        "box": {
+          "value": "0px",
+          "type": "dimension"
+        },
+        "btn": {
+          "value": "0px",
+          "type": "dimension"
+        },
+        "badge": {
+          "value": "0px",
+          "type": "dimension"
+        },
+        "tab": {
+          "value": "NaNpx",
+          "type": "dimension"
+        },
+        "join": {
+          "value": "0px",
+          "type": "dimension"
+        }
+      },
+      "fontFamily": {
+        "primary": {
+          "value": "Inter",
+          "type": "fontFamilies"
+        },
+        "code": {
+          "value": "Menlo",
+          "type": "fontFamilies"
+        }
+      },
+      "themeName": {
+        "value": "cyberpunk",
+        "type": "text"
+      }
+    }
+  },
+  "dark": {
+    "theme": {
+      "color": {
+        "semantic": {
+          "primary": {
+            "bg": {
+              "value": "#7480ff",
+              "type": "color"
+            },
+            "content": {
+              "value": "#050617",
+              "type": "color"
+            }
+          },
+          "secondary": {
+            "bg": {
+              "value": "#ff52d9",
+              "type": "color"
+            },
+            "content": {
+              "value": "#190211",
+              "type": "color"
+            }
+          },
+          "accent": {
+            "bg": {
+              "value": "#00cdb7",
+              "type": "color"
+            },
+            "content": {
+              "value": "#000f0c",
+              "type": "color"
+            }
+          },
+          "neutral": {
+            "bg": {
+              "value": "#2a323c",
+              "type": "color"
+            },
+            "content": {
+              "value": "#a6adbb",
+              "type": "color"
+            }
+          }
+        },
+        "base": {
+          "100": {
+            "value": "#1d232a",
+            "type": "color"
+          },
+          "200": {
+            "value": "#191e24",
+            "type": "color"
+          },
+          "300": {
+            "value": "#15191e",
+            "type": "color"
+          },
+          "content": {
+            "value": "#a6adbb",
+            "type": "color"
+          }
+        },
+        "status": {
+          "info": {
+            "bg": {
+              "value": "#00b5ff",
+              "type": "color"
+            },
+            "content": {
+              "value": "#000000",
+              "type": "color"
+            }
+          },
+          "success": {
+            "bg": {
+              "value": "#00a96e",
+              "type": "color"
+            },
+            "content": {
+              "value": "#000000",
+              "type": "color"
+            }
+          },
+          "warning": {
+            "bg": {
+              "value": "#ffbe00",
+              "type": "color"
+            },
+            "content": {
+              "value": "#000000",
+              "type": "color"
+            }
+          },
+          "error": {
+            "bg": {
+              "value": "#ff5861",
+              "type": "color"
+            },
+            "content": {
+              "value": "#000000",
+              "type": "color"
+            }
+          }
+        }
+      },
+      "borderWidth": {
+        "btn": {
+          "value": "1px",
+          "type": "dimension"
+        },
+        "tab": {
+          "value": "1px",
+          "type": "dimension"
+        }
+      },
+      "borderRadius": {
+        "box": {
+          "value": "16px",
+          "type": "dimension"
+        },
+        "btn": {
+          "value": "8px",
+          "type": "dimension"
+        },
+        "badge": {
+          "value": "30.4px",
+          "type": "dimension"
+        },
+        "tab": {
+          "value": "8px",
+          "type": "dimension"
+        },
+        "join": {
+          "value": "0px",
+          "type": "dimension"
+        }
+      },
+      "fontFamily": {
+        "primary": {
+          "value": "Inter",
+          "type": "fontFamilies"
+        },
+        "code": {
+          "value": "Menlo",
+          "type": "fontFamilies"
+        }
+      },
+      "themeName": {
+        "value": "dark",
+        "type": "text"
+      }
+    }
+  },
+  "dim": {
+    "theme": {
+      "color": {
+        "semantic": {
+          "primary": {
+            "bg": {
+              "value": "#9fe88d",
+              "type": "color"
+            },
+            "content": {
+              "value": "#091307",
+              "type": "color"
+            }
+          },
+          "secondary": {
+            "bg": {
+              "value": "#ff7d5c",
+              "type": "color"
+            },
+            "content": {
+              "value": "#160503",
+              "type": "color"
+            }
+          },
+          "accent": {
+            "bg": {
+              "value": "#c792e9",
+              "type": "color"
+            },
+            "content": {
+              "value": "#0e0813",
+              "type": "color"
+            }
+          },
+          "neutral": {
+            "bg": {
+              "value": "#1c212b",
+              "type": "color"
+            },
+            "content": {
+              "value": "#b2ccd6",
+              "type": "color"
+            }
+          }
+        },
+        "base": {
+          "100": {
+            "value": "#2a303c",
+            "type": "color"
+          },
+          "200": {
+            "value": "#242933",
+            "type": "color"
+          },
+          "300": {
+            "value": "#20252e",
+            "type": "color"
+          },
+          "content": {
+            "value": "#b2ccd6",
+            "type": "color"
+          }
+        },
+        "status": {
+          "info": {
+            "bg": {
+              "value": "#28ebff",
+              "type": "color"
+            },
+            "content": {
+              "value": "#011316",
+              "type": "color"
+            }
+          },
+          "success": {
+            "bg": {
+              "value": "#62efbd",
+              "type": "color"
+            },
+            "content": {
+              "value": "#03140d",
+              "type": "color"
+            }
+          },
+          "warning": {
+            "bg": {
+              "value": "#efd057",
+              "type": "color"
+            },
+            "content": {
+              "value": "#141003",
+              "type": "color"
+            }
+          },
+          "error": {
+            "bg": {
+              "value": "#ffae9b",
+              "type": "color"
+            },
+            "content": {
+              "value": "#160b09",
+              "type": "color"
+            }
+          }
+        }
+      },
+      "borderWidth": {
+        "btn": {
+          "value": "1px",
+          "type": "dimension"
+        },
+        "tab": {
+          "value": "1px",
+          "type": "dimension"
+        }
+      },
+      "borderRadius": {
+        "box": {
+          "value": "16px",
+          "type": "dimension"
+        },
+        "btn": {
+          "value": "8px",
+          "type": "dimension"
+        },
+        "badge": {
+          "value": "30.4px",
+          "type": "dimension"
+        },
+        "tab": {
+          "value": "8px",
+          "type": "dimension"
+        },
+        "join": {
+          "value": "0px",
+          "type": "dimension"
+        }
+      },
+      "fontFamily": {
+        "primary": {
+          "value": "Inter",
+          "type": "fontFamilies"
+        },
+        "code": {
+          "value": "Menlo",
+          "type": "fontFamilies"
+        }
+      },
+      "themeName": {
+        "value": "dim",
+        "type": "text"
+      }
+    }
+  },
+  "dracula": {
+    "theme": {
+      "color": {
+        "semantic": {
+          "primary": {
+            "bg": {
+              "value": "#ff79c6",
+              "type": "color"
+            },
+            "content": {
+              "value": "#16050e",
+              "type": "color"
+            }
+          },
+          "secondary": {
+            "bg": {
+              "value": "#bd93f9",
+              "type": "color"
+            },
+            "content": {
+              "value": "#0d0815",
+              "type": "color"
+            }
+          },
+          "accent": {
+            "bg": {
+              "value": "#ffb86c",
+              "type": "color"
+            },
+            "content": {
+              "value": "#160c04",
+              "type": "color"
+            }
+          },
+          "neutral": {
+            "bg": {
+              "value": "#414558",
+              "type": "color"
+            },
+            "content": {
+              "value": "#d6d7db",
+              "type": "color"
+            }
+          }
+        },
+        "base": {
+          "100": {
+            "value": "#282a36",
+            "type": "color"
+          },
+          "200": {
+            "value": "#232530",
+            "type": "color"
+          },
+          "300": {
+            "value": "#1f202a",
+            "type": "color"
+          },
+          "content": {
+            "value": "#f8f8f2",
+            "type": "color"
+          }
+        },
+        "status": {
+          "info": {
+            "bg": {
+              "value": "#8be9fd",
+              "type": "color"
+            },
+            "content": {
+              "value": "#071316",
+              "type": "color"
+            }
+          },
+          "success": {
+            "bg": {
+              "value": "#50fa7b",
+              "type": "color"
+            },
+            "content": {
+              "value": "#021505",
+              "type": "color"
+            }
+          },
+          "warning": {
+            "bg": {
+              "value": "#f1fa8c",
+              "type": "color"
+            },
+            "content": {
+              "value": "#141507",
+              "type": "color"
+            }
+          },
+          "error": {
+            "bg": {
+              "value": "#ff5555",
+              "type": "color"
+            },
+            "content": {
+              "value": "#160202",
+              "type": "color"
+            }
+          }
+        }
+      },
+      "borderWidth": {
+        "btn": {
+          "value": "1px",
+          "type": "dimension"
+        },
+        "tab": {
+          "value": "1px",
+          "type": "dimension"
+        }
+      },
+      "borderRadius": {
+        "box": {
+          "value": "16px",
+          "type": "dimension"
+        },
+        "btn": {
+          "value": "8px",
+          "type": "dimension"
+        },
+        "badge": {
+          "value": "30.4px",
+          "type": "dimension"
+        },
+        "tab": {
+          "value": "8px",
+          "type": "dimension"
+        },
+        "join": {
+          "value": "0px",
+          "type": "dimension"
+        }
+      },
+      "fontFamily": {
+        "primary": {
+          "value": "Inter",
+          "type": "fontFamilies"
+        },
+        "code": {
+          "value": "Menlo",
+          "type": "fontFamilies"
+        }
+      },
+      "themeName": {
+        "value": "dracula",
+        "type": "text"
+      }
+    }
+  },
+  "emerald": {
+    "theme": {
+      "color": {
+        "semantic": {
+          "primary": {
+            "bg": {
+              "value": "#66cc8a",
+              "type": "color"
+            },
+            "content": {
+              "value": "#223d30",
+              "type": "color"
+            }
+          },
+          "secondary": {
+            "bg": {
+              "value": "#377cfb",
+              "type": "color"
+            },
+            "content": {
+              "value": "#ffffff",
+              "type": "color"
+            }
+          },
+          "accent": {
+            "bg": {
+              "value": "#f68067",
+              "type": "color"
+            },
+            "content": {
+              "value": "#000000",
+              "type": "color"
+            }
+          },
+          "neutral": {
+            "bg": {
+              "value": "#333c4d",
+              "type": "color"
+            },
+            "content": {
+              "value": "#f9fafb",
+              "type": "color"
+            }
+          }
+        },
+        "base": {
+          "100": {
+            "value": "#ffffff",
+            "type": "color"
+          },
+          "200": {
+            "value": "#e8e8e8",
+            "type": "color"
+          },
+          "300": {
+            "value": "#d1d1d1",
+            "type": "color"
+          },
+          "content": {
+            "value": "#333c4d",
+            "type": "color"
+          }
+        },
+        "status": {
+          "info": {
+            "bg": {
+              "value": "#00b5ff",
+              "type": "color"
+            },
+            "content": {
+              "value": "#000000",
+              "type": "color"
+            }
+          },
+          "success": {
+            "bg": {
+              "value": "#00a96e",
+              "type": "color"
+            },
+            "content": {
+              "value": "#000000",
+              "type": "color"
+            }
+          },
+          "warning": {
+            "bg": {
+              "value": "#ffbe00",
+              "type": "color"
+            },
+            "content": {
+              "value": "#000000",
+              "type": "color"
+            }
+          },
+          "error": {
+            "bg": {
+              "value": "#ff5861",
+              "type": "color"
+            },
+            "content": {
+              "value": "#000000",
+              "type": "color"
+            }
+          }
+        }
+      },
+      "borderWidth": {
+        "btn": {
+          "value": "1px",
+          "type": "dimension"
+        },
+        "tab": {
+          "value": "1px",
+          "type": "dimension"
+        }
+      },
+      "borderRadius": {
+        "box": {
+          "value": "16px",
+          "type": "dimension"
+        },
+        "btn": {
+          "value": "8px",
+          "type": "dimension"
+        },
+        "badge": {
+          "value": "30.4px",
+          "type": "dimension"
+        },
+        "tab": {
+          "value": "8px",
+          "type": "dimension"
+        },
+        "join": {
+          "value": "0px",
+          "type": "dimension"
+        }
+      },
+      "fontFamily": {
+        "primary": {
+          "value": "Inter",
+          "type": "fontFamilies"
+        },
+        "code": {
+          "value": "Menlo",
+          "type": "fontFamilies"
+        }
+      },
+      "themeName": {
+        "value": "emerald",
+        "type": "text"
+      }
+    }
+  },
+  "fantasy": {
+    "theme": {
+      "color": {
+        "semantic": {
+          "primary": {
+            "bg": {
+              "value": "#6d0076",
+              "type": "color"
+            },
+            "content": {
+              "value": "#e3cee4",
+              "type": "color"
+            }
+          },
+          "secondary": {
+            "bg": {
+              "value": "#0075c2",
+              "type": "color"
+            },
+            "content": {
+              "value": "#cee4f5",
+              "type": "color"
+            }
+          },
+          "accent": {
+            "bg": {
+              "value": "#ff8600",
+              "type": "color"
+            },
+            "content": {
+              "value": "#180600",
+              "type": "color"
+            }
+          },
+          "neutral": {
+            "bg": {
+              "value": "#1f2937",
+              "type": "color"
+            },
+            "content": {
+              "value": "#cdd0d3",
+              "type": "color"
+            }
+          }
+        },
+        "base": {
+          "100": {
+            "value": "#ffffff",
+            "type": "color"
+          },
+          "200": {
+            "value": "#e8e8e8",
+            "type": "color"
+          },
+          "300": {
+            "value": "#d1d1d1",
+            "type": "color"
+          },
+          "content": {
+            "value": "#1f2937",
+            "type": "color"
+          }
+        },
+        "status": {
+          "info": {
+            "bg": {
+              "value": "#00b5ff",
+              "type": "color"
+            },
+            "content": {
+              "value": "#000000",
+              "type": "color"
+            }
+          },
+          "success": {
+            "bg": {
+              "value": "#00a96e",
+              "type": "color"
+            },
+            "content": {
+              "value": "#000000",
+              "type": "color"
+            }
+          },
+          "warning": {
+            "bg": {
+              "value": "#ffbe00",
+              "type": "color"
+            },
+            "content": {
+              "value": "#000000",
+              "type": "color"
+            }
+          },
+          "error": {
+            "bg": {
+              "value": "#ff5861",
+              "type": "color"
+            },
+            "content": {
+              "value": "#000000",
+              "type": "color"
+            }
+          }
+        }
+      },
+      "borderWidth": {
+        "btn": {
+          "value": "1px",
+          "type": "dimension"
+        },
+        "tab": {
+          "value": "1px",
+          "type": "dimension"
+        }
+      },
+      "borderRadius": {
+        "box": {
+          "value": "16px",
+          "type": "dimension"
+        },
+        "btn": {
+          "value": "8px",
+          "type": "dimension"
+        },
+        "badge": {
+          "value": "30.4px",
+          "type": "dimension"
+        },
+        "tab": {
+          "value": "8px",
+          "type": "dimension"
+        },
+        "join": {
+          "value": "0px",
+          "type": "dimension"
+        }
+      },
+      "fontFamily": {
+        "primary": {
+          "value": "Inter",
+          "type": "fontFamilies"
+        },
+        "code": {
+          "value": "Menlo",
+          "type": "fontFamilies"
+        }
+      },
+      "themeName": {
+        "value": "fantasy",
+        "type": "text"
+      }
+    }
+  },
+  "forest": {
+    "theme": {
+      "color": {
+        "semantic": {
+          "primary": {
+            "bg": {
+              "value": "#1eb854",
+              "type": "color"
+            },
+            "content": {
+              "value": "#000000",
+              "type": "color"
+            }
+          },
+          "secondary": {
+            "bg": {
+              "value": "#1db88e",
+              "type": "color"
+            },
+            "content": {
+              "value": "#000c07",
+              "type": "color"
+            }
+          },
+          "accent": {
+            "bg": {
+              "value": "#1db8ab",
+              "type": "color"
+            },
+            "content": {
+              "value": "#000c0b",
+              "type": "color"
+            }
+          },
+          "neutral": {
+            "bg": {
+              "value": "#19362d",
+              "type": "color"
+            },
+            "content": {
+              "value": "#cdd3d1",
+              "type": "color"
+            }
+          }
+        },
+        "base": {
+          "100": {
+            "value": "#171212",
+            "type": "color"
+          },
+          "200": {
+            "value": "#140f0f",
+            "type": "color"
+          },
+          "300": {
+            "value": "#110c0c",
+            "type": "color"
+          },
+          "content": {
+            "value": "#cbc9c9",
+            "type": "color"
+          }
+        },
+        "status": {
+          "info": {
+            "bg": {
+              "value": "#00b5ff",
+              "type": "color"
+            },
+            "content": {
+              "value": "#000000",
+              "type": "color"
+            }
+          },
+          "success": {
+            "bg": {
+              "value": "#00a96e",
+              "type": "color"
+            },
+            "content": {
+              "value": "#000000",
+              "type": "color"
+            }
+          },
+          "warning": {
+            "bg": {
+              "value": "#ffbe00",
+              "type": "color"
+            },
+            "content": {
+              "value": "#000000",
+              "type": "color"
+            }
+          },
+          "error": {
+            "bg": {
+              "value": "#ff5861",
+              "type": "color"
+            },
+            "content": {
+              "value": "#000000",
+              "type": "color"
+            }
+          }
+        }
+      },
+      "borderWidth": {
+        "btn": {
+          "value": "1px",
+          "type": "dimension"
+        },
+        "tab": {
+          "value": "1px",
+          "type": "dimension"
+        }
+      },
+      "borderRadius": {
+        "box": {
+          "value": "16px",
+          "type": "dimension"
+        },
+        "btn": {
+          "value": "30.4px",
+          "type": "dimension"
+        },
+        "badge": {
+          "value": "30.4px",
+          "type": "dimension"
+        },
+        "tab": {
+          "value": "8px",
+          "type": "dimension"
+        },
+        "join": {
+          "value": "0px",
+          "type": "dimension"
+        }
+      },
+      "fontFamily": {
+        "primary": {
+          "value": "Inter",
+          "type": "fontFamilies"
+        },
+        "code": {
+          "value": "Menlo",
+          "type": "fontFamilies"
+        }
+      },
+      "themeName": {
+        "value": "forest",
+        "type": "text"
+      }
+    }
+  },
+  "garden": {
+    "theme": {
+      "color": {
+        "semantic": {
+          "primary": {
+            "bg": {
+              "value": "#fe0075",
+              "type": "color"
+            },
+            "content": {
+              "value": "#ffffff",
+              "type": "color"
+            }
+          },
+          "secondary": {
+            "bg": {
+              "value": "#8e4162",
+              "type": "color"
+            },
+            "content": {
+              "value": "#ead7de",
+              "type": "color"
+            }
+          },
+          "accent": {
+            "bg": {
+              "value": "#5c7f67",
+              "type": "color"
+            },
+            "content": {
+              "value": "#030604",
+              "type": "color"
+            }
+          },
+          "neutral": {
+            "bg": {
+              "value": "#291e00",
+              "type": "color"
+            },
+            "content": {
+              "value": "#e9e7e7",
+              "type": "color"
+            }
+          }
+        },
+        "base": {
+          "100": {
+            "value": "#e9e7e7",
+            "type": "color"
+          },
+          "200": {
+            "value": "#d4d2d2",
+            "type": "color"
+          },
+          "300": {
+            "value": "#bfbdbd",
+            "type": "color"
+          },
+          "content": {
+            "value": "#100f0f",
+            "type": "color"
+          }
+        },
+        "status": {
+          "info": {
+            "bg": {
+              "value": "#00b5ff",
+              "type": "color"
+            },
+            "content": {
+              "value": "#000000",
+              "type": "color"
+            }
+          },
+          "success": {
+            "bg": {
+              "value": "#00a96e",
+              "type": "color"
+            },
+            "content": {
+              "value": "#000000",
+              "type": "color"
+            }
+          },
+          "warning": {
+            "bg": {
+              "value": "#ffbe00",
+              "type": "color"
+            },
+            "content": {
+              "value": "#000000",
+              "type": "color"
+            }
+          },
+          "error": {
+            "bg": {
+              "value": "#ff5861",
+              "type": "color"
+            },
+            "content": {
+              "value": "#000000",
+              "type": "color"
+            }
+          }
+        }
+      },
+      "borderWidth": {
+        "btn": {
+          "value": "1px",
+          "type": "dimension"
+        },
+        "tab": {
+          "value": "1px",
+          "type": "dimension"
+        }
+      },
+      "borderRadius": {
+        "box": {
+          "value": "16px",
+          "type": "dimension"
+        },
+        "btn": {
+          "value": "8px",
+          "type": "dimension"
+        },
+        "badge": {
+          "value": "30.4px",
+          "type": "dimension"
+        },
+        "tab": {
+          "value": "8px",
+          "type": "dimension"
+        },
+        "join": {
+          "value": "0px",
+          "type": "dimension"
+        }
+      },
+      "fontFamily": {
+        "primary": {
+          "value": "Inter",
+          "type": "fontFamilies"
+        },
+        "code": {
+          "value": "Menlo",
+          "type": "fontFamilies"
+        }
+      },
+      "themeName": {
+        "value": "garden",
+        "type": "text"
+      }
+    }
+  },
+  "halloween": {
+    "theme": {
+      "color": {
+        "semantic": {
+          "primary": {
+            "bg": {
+              "value": "#ff8f00",
+              "type": "color"
+            },
+            "content": {
+              "value": "#131616",
+              "type": "color"
+            }
+          },
+          "secondary": {
+            "bg": {
+              "value": "#7a00c2",
+              "type": "color"
+            },
+            "content": {
+              "value": "#e3d4f6",
+              "type": "color"
+            }
+          },
+          "accent": {
+            "bg": {
+              "value": "#42aa00",
+              "type": "color"
+            },
+            "content": {
+              "value": "#000000",
+              "type": "color"
+            }
+          },
+          "neutral": {
+            "bg": {
+              "value": "#2f1b05",
+              "type": "color"
+            },
+            "content": {
+              "value": "#d2ccc7",
+              "type": "color"
+            }
+          }
+        },
+        "base": {
+          "100": {
+            "value": "#212121",
+            "type": "color"
+          },
+          "200": {
+            "value": "#1d1d1d",
+            "type": "color"
+          },
+          "300": {
+            "value": "#191919",
+            "type": "color"
+          },
+          "content": {
+            "value": "#cdcdcd",
+            "type": "color"
+          }
+        },
+        "status": {
+          "info": {
+            "bg": {
+              "value": "#2563eb",
+              "type": "color"
+            },
+            "content": {
+              "value": "#d2e2ff",
+              "type": "color"
+            }
+          },
+          "success": {
+            "bg": {
+              "value": "#16a34a",
+              "type": "color"
+            },
+            "content": {
+              "value": "#000a02",
+              "type": "color"
+            }
+          },
+          "warning": {
+            "bg": {
+              "value": "#d97706",
+              "type": "color"
+            },
+            "content": {
+              "value": "#110500",
+              "type": "color"
+            }
+          },
+          "error": {
+            "bg": {
+              "value": "#f35248",
+              "type": "color"
+            },
+            "content": {
+              "value": "#140202",
+              "type": "color"
+            }
+          }
+        }
+      },
+      "borderWidth": {
+        "btn": {
+          "value": "1px",
+          "type": "dimension"
+        },
+        "tab": {
+          "value": "1px",
+          "type": "dimension"
+        }
+      },
+      "borderRadius": {
+        "box": {
+          "value": "16px",
+          "type": "dimension"
+        },
+        "btn": {
+          "value": "8px",
+          "type": "dimension"
+        },
+        "badge": {
+          "value": "30.4px",
+          "type": "dimension"
+        },
+        "tab": {
+          "value": "8px",
+          "type": "dimension"
+        },
+        "join": {
+          "value": "0px",
+          "type": "dimension"
+        }
+      },
+      "fontFamily": {
+        "primary": {
+          "value": "Inter",
+          "type": "fontFamilies"
+        },
+        "code": {
+          "value": "Menlo",
+          "type": "fontFamilies"
+        }
+      },
+      "themeName": {
+        "value": "halloween",
+        "type": "text"
+      }
+    }
+  },
+  "lemonade": {
+    "theme": {
+      "color": {
+        "semantic": {
+          "primary": {
+            "bg": {
+              "value": "#419400",
+              "type": "color"
+            },
+            "content": {
+              "value": "#010800",
+              "type": "color"
+            }
+          },
+          "secondary": {
+            "bg": {
+              "value": "#bdc000",
+              "type": "color"
+            },
+            "content": {
+              "value": "#0d0e00",
+              "type": "color"
+            }
+          },
+          "accent": {
+            "bg": {
+              "value": "#edd000",
+              "type": "color"
+            },
+            "content": {
+              "value": "#141000",
+              "type": "color"
+            }
+          },
+          "neutral": {
+            "bg": {
+              "value": "#343300",
+              "type": "color"
+            },
+            "content": {
+              "value": "#d2d3c7",
+              "type": "color"
+            }
+          }
+        },
+        "base": {
+          "100": {
+            "value": "#f8fdef",
+            "type": "color"
+          },
+          "200": {
+            "value": "#e1e6d9",
+            "type": "color"
+          },
+          "300": {
+            "value": "#cbcfc3",
+            "type": "color"
+          },
+          "content": {
+            "value": "#151614",
+            "type": "color"
+          }
+        },
+        "status": {
+          "info": {
+            "bg": {
+              "value": "#b1d9e9",
+              "type": "color"
+            },
+            "content": {
+              "value": "#0c1113",
+              "type": "color"
+            }
+          },
+          "success": {
+            "bg": {
+              "value": "#b9dbc6",
+              "type": "color"
+            },
+            "content": {
+              "value": "#0d110e",
+              "type": "color"
+            }
+          },
+          "warning": {
+            "bg": {
+              "value": "#d7d3b0",
+              "type": "color"
+            },
+            "content": {
+              "value": "#11100b",
+              "type": "color"
+            }
+          },
+          "error": {
+            "bg": {
+              "value": "#efc6c2",
+              "type": "color"
+            },
+            "content": {
+              "value": "#140e0e",
+              "type": "color"
+            }
+          }
+        }
+      },
+      "borderWidth": {
+        "btn": {
+          "value": "1px",
+          "type": "dimension"
+        },
+        "tab": {
+          "value": "1px",
+          "type": "dimension"
+        }
+      },
+      "borderRadius": {
+        "box": {
+          "value": "16px",
+          "type": "dimension"
+        },
+        "btn": {
+          "value": "8px",
+          "type": "dimension"
+        },
+        "badge": {
+          "value": "30.4px",
+          "type": "dimension"
+        },
+        "tab": {
+          "value": "8px",
+          "type": "dimension"
+        },
+        "join": {
+          "value": "0px",
+          "type": "dimension"
+        }
+      },
+      "fontFamily": {
+        "primary": {
+          "value": "Inter",
+          "type": "fontFamilies"
+        },
+        "code": {
+          "value": "Menlo",
+          "type": "fontFamilies"
+        }
+      },
+      "themeName": {
+        "value": "lemonade",
+        "type": "text"
+      }
+    }
+  },
+  "light": {
+    "theme": {
+      "color": {
+        "semantic": {
+          "primary": {
+            "bg": {
+              "value": "#4a00ff",
+              "type": "color"
+            },
+            "content": {
+              "value": "#d1dbff",
+              "type": "color"
+            }
+          },
+          "secondary": {
+            "bg": {
+              "value": "#ff00d3",
+              "type": "color"
+            },
+            "content": {
+              "value": "#fff8fd",
+              "type": "color"
+            }
+          },
+          "accent": {
+            "bg": {
+              "value": "#00d7c0",
+              "type": "color"
+            },
+            "content": {
+              "value": "#00110e",
+              "type": "color"
+            }
+          },
+          "neutral": {
+            "bg": {
+              "value": "#2b3440",
+              "type": "color"
+            },
+            "content": {
+              "value": "#d7dde4",
+              "type": "color"
+            }
+          }
+        },
+        "base": {
+          "100": {
+            "value": "#ffffff",
+            "type": "color"
+          },
+          "200": {
+            "value": "#f2f2f2",
+            "type": "color"
+          },
+          "300": {
+            "value": "#e5e6e6",
+            "type": "color"
+          },
+          "content": {
+            "value": "#1f2937",
+            "type": "color"
+          }
+        },
+        "status": {
+          "info": {
+            "bg": {
+              "value": "#00b5ff",
+              "type": "color"
+            },
+            "content": {
+              "value": "#000000",
+              "type": "color"
+            }
+          },
+          "success": {
+            "bg": {
+              "value": "#00a96e",
+              "type": "color"
+            },
+            "content": {
+              "value": "#000000",
+              "type": "color"
+            }
+          },
+          "warning": {
+            "bg": {
+              "value": "#ffbe00",
+              "type": "color"
+            },
+            "content": {
+              "value": "#000000",
+              "type": "color"
+            }
+          },
+          "error": {
+            "bg": {
+              "value": "#ff5861",
+              "type": "color"
+            },
+            "content": {
+              "value": "#000000",
+              "type": "color"
+            }
+          }
+        }
+      },
+      "borderWidth": {
+        "btn": {
+          "value": "1px",
+          "type": "dimension"
+        },
+        "tab": {
+          "value": "1px",
+          "type": "dimension"
+        }
+      },
+      "borderRadius": {
+        "box": {
+          "value": "16px",
+          "type": "dimension"
+        },
+        "btn": {
+          "value": "8px",
+          "type": "dimension"
+        },
+        "badge": {
+          "value": "30.4px",
+          "type": "dimension"
+        },
+        "tab": {
+          "value": "8px",
+          "type": "dimension"
+        },
+        "join": {
+          "value": "0px",
+          "type": "dimension"
+        }
+      },
+      "fontFamily": {
+        "primary": {
+          "value": "Inter",
+          "type": "fontFamilies"
+        },
+        "code": {
+          "value": "Menlo",
+          "type": "fontFamilies"
+        }
+      },
+      "themeName": {
+        "value": "light",
+        "type": "text"
+      }
+    }
+  },
+  "lofi": {
+    "theme": {
+      "color": {
+        "semantic": {
+          "primary": {
+            "bg": {
+              "value": "#0d0d0d",
+              "type": "color"
+            },
+            "content": {
+              "value": "#ffffff",
+              "type": "color"
+            }
+          },
+          "secondary": {
+            "bg": {
+              "value": "#1a1919",
+              "type": "color"
+            },
+            "content": {
+              "value": "#ffffff",
+              "type": "color"
+            }
+          },
+          "accent": {
+            "bg": {
+              "value": "#262626",
+              "type": "color"
+            },
+            "content": {
+              "value": "#ffffff",
+              "type": "color"
+            }
+          },
+          "neutral": {
+            "bg": {
+              "value": "#000000",
+              "type": "color"
+            },
+            "content": {
+              "value": "#ffffff",
+              "type": "color"
+            }
+          }
+        },
+        "base": {
+          "100": {
+            "value": "#ffffff",
+            "type": "color"
+          },
+          "200": {
+            "value": "#f2f2f2",
+            "type": "color"
+          },
+          "300": {
+            "value": "#e6e5e5",
+            "type": "color"
+          },
+          "content": {
+            "value": "#000000",
+            "type": "color"
+          }
+        },
+        "status": {
+          "info": {
+            "bg": {
+              "value": "#5fcfdd",
+              "type": "color"
+            },
+            "content": {
+              "value": "#031011",
+              "type": "color"
+            }
+          },
+          "success": {
+            "bg": {
+              "value": "#69fec3",
+              "type": "color"
+            },
+            "content": {
+              "value": "#04160e",
+              "type": "color"
+            }
+          },
+          "warning": {
+            "bg": {
+              "value": "#ffce69",
+              "type": "color"
+            },
+            "content": {
+              "value": "#170f04",
+              "type": "color"
+            }
+          },
+          "error": {
+            "bg": {
+              "value": "#ff9181",
+              "type": "color"
+            },
+            "content": {
+              "value": "#180706",
+              "type": "color"
+            }
+          }
+        }
+      },
+      "borderWidth": {
+        "btn": {
+          "value": "1px",
+          "type": "dimension"
+        },
+        "tab": {
+          "value": "1px",
+          "type": "dimension"
+        }
+      },
+      "borderRadius": {
+        "box": {
+          "value": "4px",
+          "type": "dimension"
+        },
+        "btn": {
+          "value": "2px",
+          "type": "dimension"
+        },
+        "badge": {
+          "value": "2px",
+          "type": "dimension"
+        },
+        "tab": {
+          "value": "2px",
+          "type": "dimension"
+        },
+        "join": {
+          "value": "0px",
+          "type": "dimension"
+        }
+      },
+      "fontFamily": {
+        "primary": {
+          "value": "Inter",
+          "type": "fontFamilies"
+        },
+        "code": {
+          "value": "Menlo",
+          "type": "fontFamilies"
+        }
+      },
+      "themeName": {
+        "value": "lofi",
+        "type": "text"
+      }
+    }
+  },
+  "luxury": {
+    "theme": {
+      "color": {
+        "semantic": {
+          "primary": {
+            "bg": {
+              "value": "#ffffff",
+              "type": "color"
+            },
+            "content": {
+              "value": "#161616",
+              "type": "color"
+            }
+          },
+          "secondary": {
+            "bg": {
+              "value": "#152747",
+              "type": "color"
+            },
+            "content": {
+              "value": "#cbd0d8",
+              "type": "color"
+            }
+          },
+          "accent": {
+            "bg": {
+              "value": "#513448",
+              "type": "color"
+            },
+            "content": {
+              "value": "#dad3d7",
+              "type": "color"
+            }
+          },
+          "neutral": {
+            "bg": {
+              "value": "#331800",
+              "type": "color"
+            },
+            "content": {
+              "value": "#ffe7a3",
+              "type": "color"
+            }
+          }
+        },
+        "base": {
+          "100": {
+            "value": "#09090b",
+            "type": "color"
+          },
+          "200": {
+            "value": "#171618",
+            "type": "color"
+          },
+          "300": {
+            "value": "#2e2d2f",
+            "type": "color"
+          },
+          "content": {
+            "value": "#dca54c",
+            "type": "color"
+          }
+        },
+        "status": {
+          "info": {
+            "bg": {
+              "value": "#66c6ff",
+              "type": "color"
+            },
+            "content": {
+              "value": "#040e16",
+              "type": "color"
+            }
+          },
+          "success": {
+            "bg": {
+              "value": "#87d039",
+              "type": "color"
+            },
+            "content": {
+              "value": "#061001",
+              "type": "color"
+            }
+          },
+          "warning": {
+            "bg": {
+              "value": "#e2d562",
+              "type": "color"
+            },
+            "content": {
+              "value": "#121003",
+              "type": "color"
+            }
+          },
+          "error": {
+            "bg": {
+              "value": "#ff6f6f",
+              "type": "color"
+            },
+            "content": {
+              "value": "#160404",
+              "type": "color"
+            }
+          }
+        }
+      },
+      "borderWidth": {
+        "btn": {
+          "value": "1px",
+          "type": "dimension"
+        },
+        "tab": {
+          "value": "1px",
+          "type": "dimension"
+        }
+      },
+      "borderRadius": {
+        "box": {
+          "value": "16px",
+          "type": "dimension"
+        },
+        "btn": {
+          "value": "8px",
+          "type": "dimension"
+        },
+        "badge": {
+          "value": "30.4px",
+          "type": "dimension"
+        },
+        "tab": {
+          "value": "8px",
+          "type": "dimension"
+        },
+        "join": {
+          "value": "0px",
+          "type": "dimension"
+        }
+      },
+      "fontFamily": {
+        "primary": {
+          "value": "Inter",
+          "type": "fontFamilies"
+        },
+        "code": {
+          "value": "Menlo",
+          "type": "fontFamilies"
+        }
+      },
+      "themeName": {
+        "value": "luxury",
+        "type": "text"
+      }
+    }
+  },
+  "night": {
+    "theme": {
+      "color": {
+        "semantic": {
+          "primary": {
+            "bg": {
+              "value": "#38bdf8",
+              "type": "color"
+            },
+            "content": {
+              "value": "#010d15",
+              "type": "color"
+            }
+          },
+          "secondary": {
+            "bg": {
+              "value": "#818cf8",
+              "type": "color"
+            },
+            "content": {
+              "value": "#060715",
+              "type": "color"
+            }
+          },
+          "accent": {
+            "bg": {
+              "value": "#f471b5",
+              "type": "color"
+            },
+            "content": {
+              "value": "#14040c",
+              "type": "color"
+            }
+          },
+          "neutral": {
+            "bg": {
+              "value": "#1e293b",
+              "type": "color"
+            },
+            "content": {
+              "value": "#cdd0d5",
+              "type": "color"
+            }
+          }
+        },
+        "base": {
+          "100": {
+            "value": "#0f172a",
+            "type": "color"
+          },
+          "200": {
+            "value": "#0c1425",
+            "type": "color"
+          },
+          "300": {
+            "value": "#0a1120",
+            "type": "color"
+          },
+          "content": {
+            "value": "#c8cbd0",
+            "type": "color"
+          }
+        },
+        "status": {
+          "info": {
+            "bg": {
+              "value": "#0ca5e9",
+              "type": "color"
+            },
+            "content": {
+              "value": "#000000",
+              "type": "color"
+            }
+          },
+          "success": {
+            "bg": {
+              "value": "#2dd4bf",
+              "type": "color"
+            },
+            "content": {
+              "value": "#01100d",
+              "type": "color"
+            }
+          },
+          "warning": {
+            "bg": {
+              "value": "#f4bf50",
+              "type": "color"
+            },
+            "content": {
+              "value": "#140d02",
+              "type": "color"
+            }
+          },
+          "error": {
+            "bg": {
+              "value": "#fb7085",
+              "type": "color"
+            },
+            "content": {
+              "value": "#150406",
+              "type": "color"
+            }
+          }
+        }
+      },
+      "borderWidth": {
+        "btn": {
+          "value": "1px",
+          "type": "dimension"
+        },
+        "tab": {
+          "value": "1px",
+          "type": "dimension"
+        }
+      },
+      "borderRadius": {
+        "box": {
+          "value": "16px",
+          "type": "dimension"
+        },
+        "btn": {
+          "value": "8px",
+          "type": "dimension"
+        },
+        "badge": {
+          "value": "30.4px",
+          "type": "dimension"
+        },
+        "tab": {
+          "value": "8px",
+          "type": "dimension"
+        },
+        "join": {
+          "value": "0px",
+          "type": "dimension"
+        }
+      },
+      "fontFamily": {
+        "primary": {
+          "value": "Inter",
+          "type": "fontFamilies"
+        },
+        "code": {
+          "value": "Menlo",
+          "type": "fontFamilies"
+        }
+      },
+      "themeName": {
+        "value": "night",
+        "type": "text"
+      }
+    }
+  },
+  "nord": {
+    "theme": {
+      "color": {
+        "semantic": {
+          "primary": {
+            "bg": {
+              "value": "#5e81ac",
+              "type": "color"
+            },
+            "content": {
+              "value": "#03060b",
+              "type": "color"
+            }
+          },
+          "secondary": {
+            "bg": {
+              "value": "#81a1c1",
+              "type": "color"
+            },
+            "content": {
+              "value": "#06090e",
+              "type": "color"
+            }
+          },
+          "accent": {
+            "bg": {
+              "value": "#88c0d0",
+              "type": "color"
+            },
+            "content": {
+              "value": "#060e10",
+              "type": "color"
+            }
+          },
+          "neutral": {
+            "bg": {
+              "value": "#4c566a",
+              "type": "color"
+            },
+            "content": {
+              "value": "#d8dee9",
+              "type": "color"
+            }
+          }
+        },
+        "base": {
+          "100": {
+            "value": "#eceff4",
+            "type": "color"
+          },
+          "200": {
+            "value": "#e5e9f0",
+            "type": "color"
+          },
+          "300": {
+            "value": "#d8dee9",
+            "type": "color"
+          },
+          "content": {
+            "value": "#2e3440",
+            "type": "color"
+          }
+        },
+        "status": {
+          "info": {
+            "bg": {
+              "value": "#b48ead",
+              "type": "color"
+            },
+            "content": {
+              "value": "#0c070b",
+              "type": "color"
+            }
+          },
+          "success": {
+            "bg": {
+              "value": "#a3be8c",
+              "type": "color"
+            },
+            "content": {
+              "value": "#0a0d07",
+              "type": "color"
+            }
+          },
+          "warning": {
+            "bg": {
+              "value": "#ebcb8b",
+              "type": "color"
+            },
+            "content": {
+              "value": "#130f07",
+              "type": "color"
+            }
+          },
+          "error": {
+            "bg": {
+              "value": "#bf616a",
+              "type": "color"
+            },
+            "content": {
+              "value": "#0d0304",
+              "type": "color"
+            }
+          }
+        }
+      },
+      "borderWidth": {
+        "btn": {
+          "value": "1px",
+          "type": "dimension"
+        },
+        "tab": {
+          "value": "1px",
+          "type": "dimension"
+        }
+      },
+      "borderRadius": {
+        "box": {
+          "value": "6.4px",
+          "type": "dimension"
+        },
+        "btn": {
+          "value": "3.2px",
+          "type": "dimension"
+        },
+        "badge": {
+          "value": "6.4px",
+          "type": "dimension"
+        },
+        "tab": {
+          "value": "3.2px",
+          "type": "dimension"
+        },
+        "join": {
+          "value": "0px",
+          "type": "dimension"
+        }
+      },
+      "fontFamily": {
+        "primary": {
+          "value": "Inter",
+          "type": "fontFamilies"
+        },
+        "code": {
+          "value": "Menlo",
+          "type": "fontFamilies"
+        }
+      },
+      "themeName": {
+        "value": "nord",
+        "type": "text"
+      }
+    }
+  },
+  "pastel": {
+    "theme": {
+      "color": {
+        "semantic": {
+          "primary": {
+            "bg": {
+              "value": "#d1c1d7",
+              "type": "color"
+            },
+            "content": {
+              "value": "#100e11",
+              "type": "color"
+            }
+          },
+          "secondary": {
+            "bg": {
+              "value": "#f6cbd1",
+              "type": "color"
+            },
+            "content": {
+              "value": "#150f10",
+              "type": "color"
+            }
+          },
+          "accent": {
+            "bg": {
+              "value": "#b4e9d6",
+              "type": "color"
+            },
+            "content": {
+              "value": "#0c1310",
+              "type": "color"
+            }
+          },
+          "neutral": {
+            "bg": {
+              "value": "#70acc7",
+              "type": "color"
+            },
+            "content": {
+              "value": "#040b0e",
+              "type": "color"
+            }
+          }
+        },
+        "base": {
+          "100": {
+            "value": "#ffffff",
+            "type": "color"
+          },
+          "200": {
+            "value": "#f9fafb",
+            "type": "color"
+          },
+          "300": {
+            "value": "#d1d5db",
+            "type": "color"
+          },
+          "content": {
+            "value": "#161616",
+            "type": "color"
+          }
+        },
+        "status": {
+          "info": {
+            "bg": {
+              "value": "#00b5ff",
+              "type": "color"
+            },
+            "content": {
+              "value": "#000000",
+              "type": "color"
+            }
+          },
+          "success": {
+            "bg": {
+              "value": "#00a96e",
+              "type": "color"
+            },
+            "content": {
+              "value": "#000000",
+              "type": "color"
+            }
+          },
+          "warning": {
+            "bg": {
+              "value": "#ffbe00",
+              "type": "color"
+            },
+            "content": {
+              "value": "#000000",
+              "type": "color"
+            }
+          },
+          "error": {
+            "bg": {
+              "value": "#ff5861",
+              "type": "color"
+            },
+            "content": {
+              "value": "#000000",
+              "type": "color"
+            }
+          }
+        }
+      },
+      "borderWidth": {
+        "btn": {
+          "value": "1px",
+          "type": "dimension"
+        },
+        "tab": {
+          "value": "1px",
+          "type": "dimension"
+        }
+      },
+      "borderRadius": {
+        "box": {
+          "value": "16px",
+          "type": "dimension"
+        },
+        "btn": {
+          "value": "30.4px",
+          "type": "dimension"
+        },
+        "badge": {
+          "value": "30.4px",
+          "type": "dimension"
+        },
+        "tab": {
+          "value": "11.2px",
+          "type": "dimension"
+        },
+        "join": {
+          "value": "0px",
+          "type": "dimension"
+        }
+      },
+      "fontFamily": {
+        "primary": {
+          "value": "Inter",
+          "type": "fontFamilies"
+        },
+        "code": {
+          "value": "Menlo",
+          "type": "fontFamilies"
+        }
+      },
+      "themeName": {
+        "value": "pastel",
+        "type": "text"
+      }
+    }
+  },
+  "retro": {
+    "theme": {
+      "color": {
+        "semantic": {
+          "primary": {
+            "bg": {
+              "value": "#ef9995",
+              "type": "color"
+            },
+            "content": {
+              "value": "#282425",
+              "type": "color"
+            }
+          },
+          "secondary": {
+            "bg": {
+              "value": "#a4cbb4",
+              "type": "color"
+            },
+            "content": {
+              "value": "#282425",
+              "type": "color"
+            }
+          },
+          "accent": {
+            "bg": {
+              "value": "#dc8850",
+              "type": "color"
+            },
+            "content": {
+              "value": "#282425",
+              "type": "color"
+            }
+          },
+          "neutral": {
+            "bg": {
+              "value": "#2e282a",
+              "type": "color"
+            },
+            "content": {
+              "value": "#ede6d4",
+              "type": "color"
+            }
+          }
+        },
+        "base": {
+          "100": {
+            "value": "#ece3ca",
+            "type": "color"
+          },
+          "200": {
+            "value": "#e4d8b4",
+            "type": "color"
+          },
+          "300": {
+            "value": "#dbca9a",
+            "type": "color"
+          },
+          "content": {
+            "value": "#282425",
+            "type": "color"
+          }
+        },
+        "status": {
+          "info": {
+            "bg": {
+              "value": "#2563eb",
+              "type": "color"
+            },
+            "content": {
+              "value": "#d2e2ff",
+              "type": "color"
+            }
+          },
+          "success": {
+            "bg": {
+              "value": "#16a34a",
+              "type": "color"
+            },
+            "content": {
+              "value": "#000a02",
+              "type": "color"
+            }
+          },
+          "warning": {
+            "bg": {
+              "value": "#d97706",
+              "type": "color"
+            },
+            "content": {
+              "value": "#110500",
+              "type": "color"
+            }
+          },
+          "error": {
+            "bg": {
+              "value": "#f35248",
+              "type": "color"
+            },
+            "content": {
+              "value": "#140202",
+              "type": "color"
+            }
+          }
+        }
+      },
+      "borderWidth": {
+        "btn": {
+          "value": "1px",
+          "type": "dimension"
+        },
+        "tab": {
+          "value": "1px",
+          "type": "dimension"
+        }
+      },
+      "borderRadius": {
+        "box": {
+          "value": "6.4px",
+          "type": "dimension"
+        },
+        "btn": {
+          "value": "6.4px",
+          "type": "dimension"
+        },
+        "badge": {
+          "value": "6.4px",
+          "type": "dimension"
+        },
+        "tab": {
+          "value": "6.4px",
+          "type": "dimension"
+        },
+        "join": {
+          "value": "0px",
+          "type": "dimension"
+        }
+      },
+      "fontFamily": {
+        "primary": {
+          "value": "Inter",
+          "type": "fontFamilies"
+        },
+        "code": {
+          "value": "Menlo",
+          "type": "fontFamilies"
+        }
+      },
+      "themeName": {
+        "value": "retro",
+        "type": "text"
+      }
+    }
+  },
+  "sunset": {
+    "theme": {
+      "color": {
+        "semantic": {
+          "primary": {
+            "bg": {
+              "value": "#ff865b",
+              "type": "color"
+            },
+            "content": {
+              "value": "#160603",
+              "type": "color"
+            }
+          },
+          "secondary": {
+            "bg": {
+              "value": "#fd6f9c",
+              "type": "color"
+            },
+            "content": {
+              "value": "#160409",
+              "type": "color"
+            }
+          },
+          "accent": {
+            "bg": {
+              "value": "#b387fa",
+              "type": "color"
+            },
+            "content": {
+              "value": "#0c0615",
+              "type": "color"
+            }
+          },
+          "neutral": {
+            "bg": {
+              "value": "#1b262c",
+              "type": "color"
+            },
+            "content": {
+              "value": "#94a0a9",
+              "type": "color"
+            }
+          }
+        },
+        "base": {
+          "100": {
+            "value": "#121c22",
+            "type": "color"
+          },
+          "200": {
+            "value": "#0e171e",
+            "type": "color"
+          },
+          "300": {
+            "value": "#091319",
+            "type": "color"
+          },
+          "content": {
+            "value": "#9fb9d0",
+            "type": "color"
+          }
+        },
+        "status": {
+          "info": {
+            "bg": {
+              "value": "#89e0eb",
+              "type": "color"
+            },
+            "content": {
+              "value": "#071213",
+              "type": "color"
+            }
+          },
+          "success": {
+            "bg": {
+              "value": "#addfad",
+              "type": "color"
+            },
+            "content": {
+              "value": "#0b120b",
+              "type": "color"
+            }
+          },
+          "warning": {
+            "bg": {
+              "value": "#f1c891",
+              "type": "color"
+            },
+            "content": {
+              "value": "#140f07",
+              "type": "color"
+            }
+          },
+          "error": {
+            "bg": {
+              "value": "#ffbbbd",
+              "type": "color"
+            },
+            "content": {
+              "value": "#160d0d",
+              "type": "color"
+            }
+          }
+        }
+      },
+      "borderWidth": {
+        "btn": {
+          "value": "1px",
+          "type": "dimension"
+        },
+        "tab": {
+          "value": "1px",
+          "type": "dimension"
+        }
+      },
+      "borderRadius": {
+        "box": {
+          "value": "19.2px",
+          "type": "dimension"
+        },
+        "btn": {
+          "value": "12.8px",
+          "type": "dimension"
+        },
+        "badge": {
+          "value": "6.4px",
+          "type": "dimension"
+        },
+        "tab": {
+          "value": "11.2px",
+          "type": "dimension"
+        },
+        "join": {
+          "value": "0px",
+          "type": "dimension"
+        }
+      },
+      "fontFamily": {
+        "primary": {
+          "value": "Inter",
+          "type": "fontFamilies"
+        },
+        "code": {
+          "value": "Menlo",
+          "type": "fontFamilies"
+        }
+      },
+      "themeName": {
+        "value": "sunset",
+        "type": "text"
+      }
+    }
+  },
+  "synthwave": {
+    "theme": {
+      "color": {
+        "semantic": {
+          "primary": {
+            "bg": {
+              "value": "#e779c1",
+              "type": "color"
+            },
+            "content": {
+              "value": "#13050e",
+              "type": "color"
+            }
+          },
+          "secondary": {
+            "bg": {
+              "value": "#58c7f3",
+              "type": "color"
+            },
+            "content": {
+              "value": "#030e14",
+              "type": "color"
+            }
+          },
+          "accent": {
+            "bg": {
+              "value": "#ffd200",
+              "type": "color"
+            },
+            "content": {
+              "value": "#171000",
+              "type": "color"
+            }
+          },
+          "neutral": {
+            "bg": {
+              "value": "#221551",
+              "type": "color"
+            },
+            "content": {
+              "value": "#f9f7fd",
+              "type": "color"
+            }
+          }
+        },
+        "base": {
+          "100": {
+            "value": "#1a103d",
+            "type": "color"
+          },
+          "200": {
+            "value": "#170d36",
+            "type": "color"
+          },
+          "300": {
+            "value": "#130b30",
+            "type": "color"
+          },
+          "content": {
+            "value": "#f9f7fd",
+            "type": "color"
+          }
+        },
+        "status": {
+          "info": {
+            "bg": {
+              "value": "#53c0f3",
+              "type": "color"
+            },
+            "content": {
+              "value": "#201047",
+              "type": "color"
+            }
+          },
+          "success": {
+            "bg": {
+              "value": "#71ead2",
+              "type": "color"
+            },
+            "content": {
+              "value": "#201047",
+              "type": "color"
+            }
+          },
+          "warning": {
+            "bg": {
+              "value": "#eace6c",
+              "type": "color"
+            },
+            "content": {
+              "value": "#201047",
+              "type": "color"
+            }
+          },
+          "error": {
+            "bg": {
+              "value": "#ec8c78",
+              "type": "color"
+            },
+            "content": {
+              "value": "#201047",
+              "type": "color"
+            }
+          }
+        }
+      },
+      "borderWidth": {
+        "btn": {
+          "value": "1px",
+          "type": "dimension"
+        },
+        "tab": {
+          "value": "1px",
+          "type": "dimension"
+        }
+      },
+      "borderRadius": {
+        "box": {
+          "value": "16px",
+          "type": "dimension"
+        },
+        "btn": {
+          "value": "8px",
+          "type": "dimension"
+        },
+        "badge": {
+          "value": "30.4px",
+          "type": "dimension"
+        },
+        "tab": {
+          "value": "8px",
+          "type": "dimension"
+        },
+        "join": {
+          "value": "0px",
+          "type": "dimension"
+        }
+      },
+      "fontFamily": {
+        "primary": {
+          "value": "Inter",
+          "type": "fontFamilies"
+        },
+        "code": {
+          "value": "Menlo",
+          "type": "fontFamilies"
+        }
+      },
+      "themeName": {
+        "value": "synthwave",
+        "type": "text"
+      }
+    }
+  },
+  "valentine": {
+    "theme": {
+      "color": {
+        "semantic": {
+          "primary": {
+            "bg": {
+              "value": "#e96d7b",
+              "type": "color"
+            },
+            "content": {
+              "value": "#130405",
+              "type": "color"
+            }
+          },
+          "secondary": {
+            "bg": {
+              "value": "#a991f7",
+              "type": "color"
+            },
+            "content": {
+              "value": "#0a0715",
+              "type": "color"
+            }
+          },
+          "accent": {
+            "bg": {
+              "value": "#66b1b3",
+              "type": "color"
+            },
+            "content": {
+              "value": "#040c0c",
+              "type": "color"
+            }
+          },
+          "neutral": {
+            "bg": {
+              "value": "#af4670",
+              "type": "color"
+            },
+            "content": {
+              "value": "#f0d6e8",
+              "type": "color"
+            }
+          }
+        },
+        "base": {
+          "100": {
+            "value": "#fae7f4",
+            "type": "color"
+          },
+          "200": {
+            "value": "#e3d2de",
+            "type": "color"
+          },
+          "300": {
+            "value": "#cdbdc8",
+            "type": "color"
+          },
+          "content": {
+            "value": "#632c3b",
+            "type": "color"
+          }
+        },
+        "status": {
+          "info": {
+            "bg": {
+              "value": "#2563eb",
+              "type": "color"
+            },
+            "content": {
+              "value": "#d2e2ff",
+              "type": "color"
+            }
+          },
+          "success": {
+            "bg": {
+              "value": "#16a34a",
+              "type": "color"
+            },
+            "content": {
+              "value": "#000a02",
+              "type": "color"
+            }
+          },
+          "warning": {
+            "bg": {
+              "value": "#d97706",
+              "type": "color"
+            },
+            "content": {
+              "value": "#110500",
+              "type": "color"
+            }
+          },
+          "error": {
+            "bg": {
+              "value": "#ff675b",
+              "type": "color"
+            },
+            "content": {
+              "value": "#180403",
+              "type": "color"
+            }
+          }
+        }
+      },
+      "borderWidth": {
+        "btn": {
+          "value": "1px",
+          "type": "dimension"
+        },
+        "tab": {
+          "value": "1px",
+          "type": "dimension"
+        }
+      },
+      "borderRadius": {
+        "box": {
+          "value": "16px",
+          "type": "dimension"
+        },
+        "btn": {
+          "value": "30.4px",
+          "type": "dimension"
+        },
+        "badge": {
+          "value": "30.4px",
+          "type": "dimension"
+        },
+        "tab": {
+          "value": "11.2px",
+          "type": "dimension"
+        },
+        "join": {
+          "value": "0px",
+          "type": "dimension"
+        }
+      },
+      "fontFamily": {
+        "primary": {
+          "value": "Inter",
+          "type": "fontFamilies"
+        },
+        "code": {
+          "value": "Menlo",
+          "type": "fontFamilies"
+        }
+      },
+      "themeName": {
+        "value": "valentine",
+        "type": "text"
+      }
+    }
+  },
+  "winter": {
+    "theme": {
+      "color": {
+        "semantic": {
+          "primary": {
+            "bg": {
+              "value": "#0069ff",
+              "type": "color"
+            },
+            "content": {
+              "value": "#cee4ff",
+              "type": "color"
+            }
+          },
+          "secondary": {
+            "bg": {
+              "value": "#463aa2",
+              "type": "color"
+            },
+            "content": {
+              "value": "#d5d7ef",
+              "type": "color"
+            }
+          },
+          "accent": {
+            "bg": {
+              "value": "#c148ac",
+              "type": "color"
+            },
+            "content": {
+              "value": "#0e020b",
+              "type": "color"
+            }
+          },
+          "neutral": {
+            "bg": {
+              "value": "#021431",
+              "type": "color"
+            },
+            "content": {
+              "value": "#c5cbd3",
+              "type": "color"
+            }
+          }
+        },
+        "base": {
+          "100": {
+            "value": "#ffffff",
+            "type": "color"
+          },
+          "200": {
+            "value": "#f2f7ff",
+            "type": "color"
+          },
+          "300": {
+            "value": "#e3e9f4",
+            "type": "color"
+          },
+          "content": {
+            "value": "#394e6a",
+            "type": "color"
+          }
+        },
+        "status": {
+          "info": {
+            "bg": {
+              "value": "#93e7fb",
+              "type": "color"
+            },
+            "content": {
+              "value": "#081315",
+              "type": "color"
+            }
+          },
+          "success": {
+            "bg": {
+              "value": "#81cfd1",
+              "type": "color"
+            },
+            "content": {
+              "value": "#061010",
+              "type": "color"
+            }
+          },
+          "warning": {
+            "bg": {
+              "value": "#efd7bb",
+              "type": "color"
+            },
+            "content": {
+              "value": "#14110d",
+              "type": "color"
+            }
+          },
+          "error": {
+            "bg": {
+              "value": "#e58b8b",
+              "type": "color"
+            },
+            "content": {
+              "value": "#120707",
+              "type": "color"
+            }
+          }
+        }
+      },
+      "borderWidth": {
+        "btn": {
+          "value": "1px",
+          "type": "dimension"
+        },
+        "tab": {
+          "value": "1px",
+          "type": "dimension"
+        }
+      },
+      "borderRadius": {
+        "box": {
+          "value": "16px",
+          "type": "dimension"
+        },
+        "btn": {
+          "value": "8px",
+          "type": "dimension"
+        },
+        "badge": {
+          "value": "30.4px",
+          "type": "dimension"
+        },
+        "tab": {
+          "value": "8px",
+          "type": "dimension"
+        },
+        "join": {
+          "value": "0px",
+          "type": "dimension"
+        }
+      },
+      "fontFamily": {
+        "primary": {
+          "value": "Inter",
+          "type": "fontFamilies"
+        },
+        "code": {
+          "value": "Menlo",
+          "type": "fontFamilies"
+        }
+      },
+      "themeName": {
+        "value": "winter",
+        "type": "text"
+      }
+    }
+  },
+  "wireframe": {
+    "theme": {
+      "color": {
+        "semantic": {
+          "primary": {
+            "bg": {
+              "value": "#b8b8b8",
+              "type": "color"
+            },
+            "content": {
+              "value": "#0c0c0c",
+              "type": "color"
+            }
+          },
+          "secondary": {
+            "bg": {
+              "value": "#b8b8b8",
+              "type": "color"
+            },
+            "content": {
+              "value": "#0c0c0c",
+              "type": "color"
+            }
+          },
+          "accent": {
+            "bg": {
+              "value": "#b8b8b8",
+              "type": "color"
+            },
+            "content": {
+              "value": "#0c0c0c",
+              "type": "color"
+            }
+          },
+          "neutral": {
+            "bg": {
+              "value": "#ebebeb",
+              "type": "color"
+            },
+            "content": {
+              "value": "#131313",
+              "type": "color"
+            }
+          }
+        },
+        "base": {
+          "100": {
+            "value": "#ffffff",
+            "type": "color"
+          },
+          "200": {
+            "value": "#eeeeee",
+            "type": "color"
+          },
+          "300": {
+            "value": "#dddddd",
+            "type": "color"
+          },
+          "content": {
+            "value": "#161616",
+            "type": "color"
+          }
+        },
+        "status": {
+          "info": {
+            "bg": {
+              "value": "#0000ff",
+              "type": "color"
+            },
+            "content": {
+              "value": "#c6dbff",
+              "type": "color"
+            }
+          },
+          "success": {
+            "bg": {
+              "value": "#008000",
+              "type": "color"
+            },
+            "content": {
+              "value": "#d2e6d0",
+              "type": "color"
+            }
+          },
+          "warning": {
+            "bg": {
+              "value": "#a6a659",
+              "type": "color"
+            },
+            "content": {
+              "value": "#0a0a03",
+              "type": "color"
+            }
+          },
+          "error": {
+            "bg": {
+              "value": "#ff0000",
+              "type": "color"
+            },
+            "content": {
+              "value": "#160000",
+              "type": "color"
+            }
+          }
+        }
+      },
+      "borderWidth": {
+        "btn": {
+          "value": "1px",
+          "type": "dimension"
+        },
+        "tab": {
+          "value": "1px",
+          "type": "dimension"
+        }
+      },
+      "borderRadius": {
+        "box": {
+          "value": "3.2px",
+          "type": "dimension"
+        },
+        "btn": {
+          "value": "3.2px",
+          "type": "dimension"
+        },
+        "badge": {
+          "value": "3.2px",
+          "type": "dimension"
+        },
+        "tab": {
+          "value": "3.2px",
+          "type": "dimension"
+        },
+        "join": {
+          "value": "0px",
+          "type": "dimension"
+        }
+      },
+      "fontFamily": {
+        "primary": {
+          "value": "Inter",
+          "type": "fontFamilies"
+        },
+        "code": {
+          "value": "Menlo",
+          "type": "fontFamilies"
+        }
+      },
+      "themeName": {
+        "value": "wireframe",
+        "type": "text"
+      }
+    }
+  }
+}

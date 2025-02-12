@@ -1,0 +1,56 @@
+name: Create Special Discount
+
+on:
+  workflow_dispatch:
+    inputs:
+      discount_percentage:
+        description: 'Percentage'
+        required: true
+        type: string
+      discount_days:
+        description: 'Days'
+        required: true
+        type: string
+      discount_title:
+        description: 'Title'
+        required: true
+        type: string
+      discount_code:
+        description: 'Code'
+        required: false
+        type: string
+
+jobs:
+  run-node-command:
+    runs-on: ubuntu-latest
+    env:
+      LEMONSQUEEZY_API_KEY: ${{ secrets.LEMONSQUEEZY_API_KEY }}
+      DISCORD_BOT_TOKEN: ${{ secrets.DISCORD_BOT_TOKEN }}
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Setup bun
+        uses: oven-sh/setup-bun@v1.2.2
+
+      - name: Build log
+        run: bun build_log.js
+
+      - name: Create Discount
+        run: bun discount_special.js ${{ inputs.discount_percentage }} ${{ inputs.discount_days }} "${{ inputs.discount_title }}" "${{ inputs.discount_code }}"
+
+      - name: Configure Git
+        run: |
+          git config --local user.email "pouya.saadeghi@gmail.com"
+          git config --local user.name "Pouya Saadeghi"
+
+      - name: Commit changes
+        run: |
+          git add .
+          git diff-index --quiet HEAD || git commit -m "Update API data"
+      
+      - name: Push changes
+        uses: ad-m/github-push-action@master
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}

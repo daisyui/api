@@ -1,0 +1,45 @@
+name: Update API data
+
+on:
+  schedule:
+    # Runs at 12:00 AM UTC on Sunday
+    - cron: "0 0 * * 0"
+  workflow_dispatch:
+
+jobs:
+  run-node-command:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Setup bun
+        uses: oven-sh/setup-bun@v1.2.2
+
+      - name: Update stargazers count
+        run: bun get_stargazers_count.js
+
+      - name: Update github dependents count
+        run: bun get_github_dependents_count.js
+
+      - name: Update jsdelivr download count
+        run: bun get_jsdelivr_download_count.js
+
+      - name: Update npm downloads count
+        run: bun get_npm_downloads_count.js
+
+      - name: Configure Git
+        run: |
+          git config --local user.email "pouya.saadeghi@gmail.com"
+          git config --local user.name "Pouya Saadeghi"
+
+      - name: Commit changes
+        run: |
+          git add .
+          git diff-index --quiet HEAD || git commit -m "Update API data"
+
+      - name: Push changes
+        uses: ad-m/github-push-action@master
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
