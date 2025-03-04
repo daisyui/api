@@ -15,8 +15,8 @@
   </head>
 
   <body>
-    <div class="container mx-auto" x-data="fetchData()" x-init="init()">
-      <table class="table">
+    <div class="container py-4 mx-auto" x-data="fetchData()" x-init="init()">
+      <table class="table mb-20">
         <thead>
           <tr>
             <th>
@@ -68,6 +68,32 @@
           </template>
         </tbody>
       </table>
+      <table class="table mb-20">
+        <thead>
+          <tr>
+            <th>Monthly Summary</th>
+            <th></th>
+            <th>Orders</th>
+            <th>Total sale</th>
+            <th>Refund</th>
+            <th>Total revenue</th>
+          </tr>
+        </thead>
+        <tbody>
+          <template x-for="(monthStats, month) in calculateMonthlyProductStats()" :key="month">
+            <template x-for="(stats, product) in monthStats" :key="product">
+              <tr>
+                <td x-text="isCurrentMonth(month) ? month + ' (until now)' : month"></td>
+                <td x-text="product"></td>
+                <td x-text="stats.orderCount"></td>
+                <td>$<span x-text="stats.totalSales.toFixed(2)"></span></td>
+                <td>$<span x-text="stats.refundedAmount.toFixed(2)"></span></td>
+                <td>$<span x-text="(stats.totalSales - stats.refundedAmount).toFixed(2)"></span></td>
+              </tr>
+            </template>
+          </template>
+        </tbody>
+      </table>
     </div>
 
     <script>
@@ -84,6 +110,60 @@
                 this.cached_at = json.cached_at;
                 this.data = json.data;
               });
+          },
+          isCurrentMonth(monthStr) {
+            const current = new Date();
+            const [month, year] = monthStr.split(' ');
+            return current.getFullYear() === parseInt(year) && 
+                    current.toLocaleString('en-US', { month: 'short' }) === month;
+          },
+          calculateMonthlyProductStats() {
+            const monthlyStats = {};
+            
+            // Sort data by date in descending order
+            const sortedData = [...this.data].sort((a, b) => 
+              new Date(b.attributes.created_at) - new Date(a.attributes.created_at)
+            );
+          
+            // Get unique months and sort them
+            const months = [...new Set(sortedData.map(item => {
+              const date = new Date(item.attributes.created_at);
+              return date.toLocaleString('en-US', { month: 'short', year: 'numeric' });
+            }))];
+          
+            // Remove the least recent month
+            months.pop();
+          
+            sortedData.forEach(item => {
+              const date = new Date(item.attributes.created_at);
+              const monthYear = date.toLocaleString('en-US', { month: 'short', year: 'numeric' });
+              const productName = item.attributes.first_order_item.product_name;
+              const amount = (item.attributes.subtotal_usd - item.attributes.discount_total_usd) / 100;
+              
+              // Skip if it's the least recent month
+              if (!months.includes(monthYear)) return;
+              
+              if (!monthlyStats[monthYear]) {
+                monthlyStats[monthYear] = {};
+              }
+              
+              if (!monthlyStats[monthYear][productName]) {
+                monthlyStats[monthYear][productName] = {
+                  orderCount: 0,
+                  totalSales: 0,
+                  refundedAmount: 0
+                };
+              }
+              
+              monthlyStats[monthYear][productName].orderCount++;
+              monthlyStats[monthYear][productName].totalSales += amount;
+              
+              if (item.attributes.refunded) {
+                monthlyStats[monthYear][productName].refundedAmount += amount;
+              }
+            });
+            
+            return monthlyStats;
           },
           formatDistanceToNow(date) {
             return fp.dateFns.formatDistanceToNow(date, { addSuffix: true });
