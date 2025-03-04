@@ -9,12 +9,8 @@
       defer
     ></script>
     <script src="https://cdn.jsdelivr.net/npm/moment@2.29.4/min/moment.min.js"></script>
-    <link
-      href="https://cdn.jsdelivr.net/npm/daisyui@4.12.10/dist/full.min.css"
-      rel="stylesheet"
-      type="text/css"
-    />
-    <script src="https://cdn.tailwindcss.com"></script>
+    <link href="https://cdn.jsdelivr.net/npm/daisyui@5" rel="stylesheet" type="text/css" />
+    <script src="https://cdn.jsdelivr.net/npm/@tailwindcss/browser@4"></script>
     <meta name="robots" content="noindex">
   </head>
 
@@ -63,7 +59,7 @@
               </td>
               <td>
                 $<span
-                  x-text="((item.attributes.subtotal_usd-item.attributes.discount_total_usd)/100).toFixed(0)"
+                  x-text="((item.attributes.subtotal_usd-item.attributes.discount_total_usd)/100)"
                 ></span>
                 <span class="badge badge-sm font-semibold" x-show="item.attributes.discount_total_usd !== 0">discount</span>
                 <span class="badge badge-sm font-semibold" x-show="item.attributes.refunded !== false">refunded</span>
