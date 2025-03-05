@@ -1,6 +1,7 @@
 import https from "node:https";
 import fs from "node:fs";
-import { videoIds } from "./youtube_ids.js";
+const videoIdsData = JSON.parse(fs.readFileSync("./youtube_ids.json", "utf8"));
+const { videoIds } = videoIdsData;
 
 const chunkSize = 50;
 const apiUrl = `https://www.googleapis.com/youtube/v3/videos?part=snippet&part=status&key=${process.env.YOUTUBE_API_KEY}&id=`;

@@ -1,14 +1,17 @@
-name: Update API data
+name: daily
 
 on:
   schedule:
-    # Runs at 12:00 AM UTC on Sunday
-    - cron: "0 0 * * 0"
+    # Runs at 00:00, 06:00, 12:00, and 18:00 UTC every day
+    - cron: "0 */6 * * *"
   workflow_dispatch:
 
 jobs:
   run-node-command:
     runs-on: ubuntu-latest
+    env:
+      LEMONSQUEEZY_API_KEY: ${{ secrets.LEMONSQUEEZY_API_KEY }}
+      DISCORD_BOT_TOKEN: ${{ secrets.DISCORD_BOT_TOKEN }}
 
     steps:
       - name: Checkout repository
@@ -17,17 +20,11 @@ jobs:
       - name: Setup bun
         uses: oven-sh/setup-bun@v1.2.2
 
-      - name: Update stargazers count
-        run: bun get_stargazers_count.js
+      - name: Build log
+        run: bun build_log.js
 
-      - name: Update github dependents count
-        run: bun get_github_dependents_count.js
-
-      - name: Update jsdelivr download count
-        run: bun get_jsdelivr_download_count.js
-
-      - name: Update npm downloads count
-        run: bun get_npm_downloads_count.js
+      - name: Create Discount
+        run: bun discount_shorttime.js
 
       - name: Configure Git
         run: |

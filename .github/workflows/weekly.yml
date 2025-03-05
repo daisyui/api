@@ -1,17 +1,14 @@
-name: Update API data
+name: weekly
 
 on:
   schedule:
-    # Runs at 00:00, 06:00, 12:00, and 18:00 UTC every day
-    - cron: "0 */6 * * *"
+    # Runs at 12:00 AM UTC on Sunday
+    - cron: "0 0 * * 0"
   workflow_dispatch:
 
 jobs:
   run-node-command:
     runs-on: ubuntu-latest
-    env:
-      LEMONSQUEEZY_API_KEY: ${{ secrets.LEMONSQUEEZY_API_KEY }}
-      DISCORD_BOT_TOKEN: ${{ secrets.DISCORD_BOT_TOKEN }}
 
     steps:
       - name: Checkout repository
@@ -20,11 +17,20 @@ jobs:
       - name: Setup bun
         uses: oven-sh/setup-bun@v1.2.2
 
-      - name: Build log
-        run: bun build_log.js
+      - name: Update stargazers count
+        run: bun get_stargazers_count.js
 
-      - name: Create Discount
-        run: bun discount_shorttime.js
+      - name: Update github dependents count
+        run: bun get_github_dependents_count.js
+
+      - name: Update jsdelivr download count
+        run: bun get_jsdelivr_download_count.js
+
+      - name: Update npm downloads count
+        run: bun get_npm_downloads_count.js
+
+      - name: Update youtube data
+        run: bun get_youtube.js
 
       - name: Configure Git
         run: |
@@ -35,7 +41,7 @@ jobs:
         run: |
           git add .
           git diff-index --quiet HEAD || git commit -m "Update API data"
-      
+
       - name: Push changes
         uses: ad-m/github-push-action@master
         with:
