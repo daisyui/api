@@ -2,7 +2,10 @@ productCustomAttributes:
   - id: 475050
     title: Scalo Startup Template
     desc: >-
-      **🎁 Scalo + [Nexus](/store/244268/) bundles are also available! – Save up to $99**
+      **🎁 Use code `SCALO20` at checkout to get 20% discount**
+
+
+      **📦 Scalo + [Nexus](/store/244268/) bundles are also available! – Save up to $99**
 
 
       Scalo is the ultimate startup front-end template
@@ -59,7 +62,7 @@ productCustomAttributes:
       - [Support in Discord, true, true, true]
       - [Updates and bugfixes, true, true, true]
     tech: [html, svelte, react, nextjs]
-    tags: [app, app]
+    tags: [nexus, dashboard]
     badge:
       class: badge-success
       icon: check
@@ -167,7 +170,7 @@ productCustomAttributes:
   - id: 244268
     title: Nexus Dashboard
     desc: >-
-      [**🎁 Nexus + Scalo bundles are also available! – Save up to $99**](/store/475050/)
+      [**📦 Nexus + Scalo bundles are also available! – Save up to $99**](/store/475050/)
 
 
       The ultimate dashboard template
@@ -242,7 +245,7 @@ productCustomAttributes:
       - [Support in Discord, true, true, true]
       - [Updates and bugfixes, true, true, true]
     tech: [html, svelte, react, nextjs]
-    tags: [dashboard]
+    tags: [nexus, dashboard]
     badge:
       class: badge-success
       icon: check
