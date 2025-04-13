@@ -55,7 +55,7 @@
   },
   {
     "kind": "youtube#video",
-    "etag": "tFF16p1zj_YEnap0Z1tIyLl9k5A",
+    "etag": "5Wr1lu18xjDb2U3-Zb7tIuSoJR4",
     "id": "mqe9a7kHUvo",
     "snippet": {
       "publishedAt": "2022-08-01T20:45:30Z",
@@ -249,7 +249,7 @@
   },
   {
     "kind": "youtube#video",
-    "etag": "e58pjeWsyNo_fI3C-qCBtUJyYnU",
+    "etag": "XzicSgexf9ZoQ5SAgXIWu1lQtss",
     "id": "F2813o7AFsw",
     "snippet": {
       "publishedAt": "2023-11-29T16:46:21Z",
@@ -1373,7 +1373,7 @@
       "publishedAt": "2021-09-04T01:49:37Z",
       "channelId": "UCbOO7d0vVo0kIrkd7m32irg",
       "title": "How to use daisyUI in SvelteKit?",
-      "description": "In this video I will be showing you how easy it is to use daisyUI in Sveltekit.\n\nNote: use \"npm install -D daisyui\"\n\ndaisyUI has some fantastic components that can save a lot of time while developing web apps or websites.\n\nPlaylist: https://www.youtube.com/watch?v=wY6unLTuMsU&list=PLm_Qt4aKpfKi7J6Jc2OR7YLz1hEhC_4Mc\n\nCode: https://github.com/sharu725/daisyUI-sveltekit\n\n======================================\n🐦 Follow me - @webjeda\n��� Visit my website - https://webjeda.com\n=======================================\n\n#svelte #sveltejs #daisyUI",
+      "description": "In this video I will be showing you how easy it is to use daisyUI in Sveltekit.\n\nNote: use \"npm install -D daisyui\"\n\ndaisyUI has some fantastic components that can save a lot of time while developing web apps or websites.\n\nPlaylist: https://www.youtube.com/watch?v=wY6unLTuMsU&list=PLm_Qt4aKpfKi7J6Jc2OR7YLz1hEhC_4Mc\n\nCode: https://github.com/sharu725/daisyUI-sveltekit\n\n======================================\n🐦 Follow me - @webjeda\n🌐 Visit my website - https://webjeda.com\n=======================================\n\n#svelte #sveltejs #daisyUI",
       "thumbnails": {
         "default": {
           "url": "https://i.ytimg.com/vi/haKnkk6ds20/default.jpg",
@@ -1567,7 +1567,7 @@
   },
   {
     "kind": "youtube#video",
-    "etag": "LmBuyYfABM7AFq9Xw1paf4x9iPs",
+    "etag": "qoYUhs0GTlt7RBdz9zfbAsKvaIc",
     "id": "th8OswsAq6Q",
     "snippet": {
       "publishedAt": "2023-10-07T01:36:37Z",
@@ -2433,13 +2433,13 @@
   },
   {
     "kind": "youtube#video",
-    "etag": "qjYLqAyHyb5e2p_plUt2RNaIuPo",
+    "etag": "EyvitwdsR2cYYTBFOAHcTHiP8Vs",
     "id": "1HzFYpmx_zs",
     "snippet": {
       "publishedAt": "2023-04-08T05:39:48Z",
       "channelId": "UCnZjNOUcQKFMtXGmYeApPdg",
       "title": "One Page E-commerce Shop | NextJS + TailwindCSS + DaisyUI + Strapi + Vercel + Railway",
-      "description": "🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟\n🌟      FOLLOW ME ON TWITTER (X) 👉 https://x.com/souhail_dev         🌟\n🌟      BUY ME A COFFEE  👉 https://ko-fi.com/souhaildev                        🌟         \n🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟\n\n\n\n⬛️ Github Repo 👉 github.com/benlhachemi/onepage-ecommerce-shop.git",
+      "description": "FOLLOW ME ON TWITTER (X) 👉 https://x.com/souhail4dev\n\n\n\n⬛️ Github Repo 👉 github.com/souhail4dev/onepage-ecommerce-shop.git",
       "thumbnails": {
         "default": {
           "url": "https://i.ytimg.com/vi/1HzFYpmx_zs/default.jpg",
@@ -2467,7 +2467,7 @@
           "height": 720
         }
       },
-      "channelTitle": "Souhail Dev",
+      "channelTitle": "Souhail4Dev",
       "tags": [
         "nextjs",
         "one page ecommerce shop",
@@ -2486,7 +2486,7 @@
       "liveBroadcastContent": "none",
       "localized": {
         "title": "One Page E-commerce Shop | NextJS + TailwindCSS + DaisyUI + Strapi + Vercel + Railway",
-        "description": "🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟\n🌟      FOLLOW ME ON TWITTER (X) 👉 https://x.com/souhail_dev         🌟\n🌟      BUY ME A COFFEE  👉 https://ko-fi.com/souhaildev                        🌟         \n🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟\n\n\n\n⬛️ Github Repo 👉 github.com/benlhachemi/onepage-ecommerce-shop.git"
+        "description": "FOLLOW ME ON TWITTER (X) 👉 https://x.com/souhail4dev\n\n\n\n⬛️ Github Repo 👉 github.com/souhail4dev/onepage-ecommerce-shop.git"
       },
       "defaultAudioLanguage": "en"
     },
@@ -6981,63 +6981,6 @@
   },
   {
     "kind": "youtube#video",
-    "etag": "5VvLU0WpeIF4XGEmbKUaoE_5AYo",
-    "id": "WinTVfAJbAw",
-    "snippet": {
-      "publishedAt": "2024-04-03T15:00:24Z",
-      "channelId": "UCX1Oo4M36jbSrnC9Ui_D2CA",
-      "title": "Golang Search Engine - Add UI with DaisyUI, Tailwind & HTMX - Part 2",
-      "description": "In this video we build a basic UI using DaisyUI, TailwindCSS & Templ. We also handle the form submits on the server and set up our first unit test for this project.\n\nCompleted code can be found here:\nhttps://github.com/TurnCoffeeIntoCode/search-engine/tree/part-2",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/WinTVfAJbAw/default.jpg",
-          "width": 120,
-          "height": 90
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/WinTVfAJbAw/mqdefault.jpg",
-          "width": 320,
-          "height": 180
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/WinTVfAJbAw/hqdefault.jpg",
-          "width": 480,
-          "height": 360
-        },
-        "standard": {
-          "url": "https://i.ytimg.com/vi/WinTVfAJbAw/sddefault.jpg",
-          "width": 640,
-          "height": 480
-        },
-        "maxres": {
-          "url": "https://i.ytimg.com/vi/WinTVfAJbAw/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720
-        }
-      },
-      "channelTitle": "Coffee Into Code",
-      "tags": [
-        "Golang",
-        "Golang tutorial"
-      ],
-      "categoryId": "22",
-      "liveBroadcastContent": "none",
-      "localized": {
-        "title": "Golang Search Engine - Add UI with DaisyUI, Tailwind & HTMX - Part 2",
-        "description": "In this video we build a basic UI using DaisyUI, TailwindCSS & Templ. We also handle the form submits on the server and set up our first unit test for this project.\n\nCompleted code can be found here:\nhttps://github.com/TurnCoffeeIntoCode/search-engine/tree/part-2"
-      }
-    },
-    "status": {
-      "uploadStatus": "processed",
-      "privacyStatus": "public",
-      "license": "youtube",
-      "embeddable": true,
-      "publicStatsViewable": true,
-      "madeForKids": false
-    }
-  },
-  {
-    "kind": "youtube#video",
     "etag": "u5zONn3UPKjz6UJGCuTwH3QOyiE",
     "id": "UfkrWf5jwrA",
     "snippet": {
@@ -7579,7 +7522,7 @@
   },
   {
     "kind": "youtube#video",
-    "etag": "z5ZnFeSo_stGMljZ-fkV16vYjzI",
+    "etag": "vMnnM5zYpJCH4KjrOOCiWuJKSNQ",
     "id": "4QeXfv6gFfk",
     "snippet": {
       "publishedAt": "2025-01-23T17:54:39Z",
