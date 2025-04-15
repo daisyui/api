@@ -85,6 +85,178 @@ data:
         value: 22
         desc: As of April 2025
 
+  tailwindui:
+    name: Tailwind UI
+    logo: |
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 191 41" fill="none">
+        <path d="M61.26 19.12V16h-3.72v-4.2l-3.24.96V16h-2.76v3.12h2.76v7.2c0 3.9 1.98 5.28 6.96 4.68v-2.91c-2.46.12-3.72.15-3.72-1.77v-7.2h3.72zM75.462 16v2.13c-1.14-1.56-2.91-2.52-5.25-2.52-4.08 0-7.47 3.42-7.47 7.89 0 4.44 3.39 7.89 7.47 7.89 2.34 0 4.11-.96 5.25-2.55V31h3.24V16h-3.24zm-4.74 12.3c-2.7 0-4.74-2.01-4.74-4.8s2.04-4.8 4.74-4.8 4.74 2.01 4.74 4.8-2.04 4.8-4.74 4.8zM84.099 13.75c1.14 0 2.07-.96 2.07-2.07 0-1.14-.93-2.07-2.07-2.07-1.14 0-2.07.93-2.07 2.07 0 1.11.93 2.07 2.07 2.07zM82.479 31h3.24V16h-3.24v15zM89.481 31h3.24V9.1h-3.24V31zM113.763 16l-2.94 10.35-3.12-10.35h-3.09l-3.15 10.35L98.553 16h-3.42l4.71 15h3.18l3.15-10.11 3.12 10.11h3.18l4.71-15h-3.42zM121.189 13.75c1.14 0 2.07-.96 2.07-2.07 0-1.14-.93-2.07-2.07-2.07-1.14 0-2.07.93-2.07 2.07 0 1.11.93 2.07 2.07 2.07zM119.569 31h3.24V16h-3.24v15zM134.461 15.61c-2.04 0-3.66.75-4.65 2.31V16h-3.24v15h3.24v-8.04c0-3.06 1.68-4.32 3.81-4.32 2.04 0 3.36 1.2 3.36 3.48V31h3.24v-9.21c0-3.9-2.4-6.18-5.76-6.18zM155.589 10v8.13c-1.14-1.56-2.91-2.52-5.25-2.52-4.08 0-7.47 3.42-7.47 7.89 0 4.44 3.39 7.89 7.47 7.89 2.34 0 4.11-.96 5.25-2.55V31h3.24V10h-3.24zm-4.74 18.3c-2.7 0-4.74-2.01-4.74-4.8s2.04-4.8 4.74-4.8 4.74 2.01 4.74 4.8-2.04 4.8-4.74 4.8z" fill="#2D3748"/>
+        <path fill-rule="evenodd" clip-rule="evenodd" d="M23 10c-5.333 0-8.667 2.667-10 8 2-2.667 4.333-3.667 7-3 1.522.38 2.609 1.484 3.813 2.706C25.773 19.696 28.043 22 33 22c5.333 0 8.667-2.667 10-8-2 2.667-4.333 3.667-7 3-1.521-.38-2.609-1.484-3.813-2.706C30.227 12.304 27.957 10 23 10zM13 22c-5.333 0-8.667 2.667-10 8 2-2.667 4.333-3.667 7-3 1.521.38 2.609 1.484 3.813 2.706C15.773 31.696 18.043 34 23 34c5.333 0 8.667-2.667 10-8-2 2.667-4.333 3.667-7 3-1.521-.38-2.609-1.484-3.813-2.706C20.227 24.304 17.957 22 13 22z" fill="url(#paint0_linear)"/>
+        <path d="M175.064 26.696c2.156 0 3.752-1.288 3.752-3.402V16.7h-1.932v6.44c0 .952-.504 1.666-1.82 1.666s-1.82-.714-1.82-1.666V16.7h-1.918v6.594c0 2.114 1.596 3.402 3.738 3.402zM180.837 16.7v9.8h1.932v-9.8h-1.932z" fill="#2D3748"/>
+        <path fill-rule="evenodd" clip-rule="evenodd" d="M166 16a6 6 0 016-6h10a6 6 0 016 6v10a6 6 0 01-6 6h-10a6 6 0 01-6-6V16zm6-4a4 4 0 00-4 4v10a4 4 0 004 4h10a4 4 0 004-4V16a4 4 0 00-4-4h-10z" fill="#2D3748"/>
+        <defs>
+          <linearGradient id="paint0_linear" x1="1.889" y1="10" x2="43" y2="33.704" gradientUnits="userSpaceOnUse">
+            <stop stop-color="#2298BD"/>
+            <stop offset="1" stop-color="#0ED7B5"/>
+          </linearGradient>
+        </defs>
+      </svg>
+    attributes:
+      License:
+        value: Paid license
+        desc: Closed source paid license
+      Frameworks:
+        value: Only React and Vue*
+        positive: false
+        desc: Some components are only available for React and Vue only, some don't need JS and can be used with any framework
+      Unique components:
+        value: 31
+        desc: Tailwind UI has 93 Components, 31 of them are unique – for example pagination and button group are considered as same. However, Tailwind UI has many variations of the same component, and has Templates which are not included in the component count.
+      Built-in Themes:
+        value: 2
+        desc: Tailwind UI has light and dark themes
+      Supports more than two themes:
+        value: No
+        positive: false
+        desc: Does not support more than 2 themes at the same time
+      JavaScript size:
+        value: 143kB to 201KB
+        positive: false
+        desc: Imported JavaScript bundle size (minified) for Headless UI which is required for Tailwind UI
+      Dependencies:
+        value: 21 to 25
+        positive: false
+        desc: Tailwind UI requires Headless UI which has 21 third-party dependencies for Vue version and 25 third-party dependencies for React version. Using more third-party dependencies increases the risk of security vulnerabilities, compatibility problems, and long-term maintenance headaches from deprecated packages.
+      Dependency size:
+        value: 11MB to 16MB
+        positive: false
+        desc: Tailwind UI requires Headless UI which has 11MB to 16MB of dependencies for Vue version and React version respectively.
+      GitHub stars:
+        value: "?"
+        desc: Can't measure. Closed source project
+      Used by open source projects:
+        value: "?"
+        desc: Can't measure. Closed source project
+      NPM downloads:
+        value: "?"
+        desc: Can't measure.
+      CDN:
+        value: "?"
+        positive: false
+        desc: Can't measure.
+      Global customizations:
+        value: No
+        positive: false
+        desc: Tailwind UI requires changing class names one by one at build time to do any customization
+      works without Node.js:
+        value: No
+        positive: false
+        desc: Many components require React or Vue, which requires a Node.js environment
+      No-build version:
+        value: No
+        positive: false
+        desc: Tailwind UI does not provide micro CSS files for each component
+      P3 colors:
+        value: Yes
+        positive: true
+        desc: Tailwind UI uses wide-gamut P3 colors by default
+      RTL support:
+        value: No
+        positive: false
+        desc: Tailwind UI does not support right-to-left (RTL) layouts
+      Runtime CSS customization:
+        value: No
+        positive: false
+        desc: Tailwind UI customizations requires changing Tailwind CSS class names at build time
+      Native CSS nesting:
+        value: No
+        positive: false
+        desc: Tailwind UI doesn not use native CSS nesting
+      Open GitHub issues:
+        value: "?"
+        positive: false
+        desc: Can't measure. Closed source project
+
+  tailwindplus:
+    name: Tailwind Plus
+    logo: |
+      <svg viewBox="0 0 176 21"><path fill="oklch(74.6% .16 232.661)" d="M17.183 0C12.6 0 9.737 2.291 8.59 6.873c1.719-2.29 3.723-3.15 6.014-2.577 1.307.326 2.242 1.274 3.275 2.324 1.685 1.71 3.635 3.689 7.894 3.689 4.582 0 7.445-2.291 8.591-6.872-1.718 2.29-3.723 3.15-6.013 2.576-1.308-.326-2.243-1.274-3.276-2.324C23.39 1.98 21.44 0 17.183 0ZM8.59 10.309C4.01 10.309 1.145 12.6 0 17.182c1.718-2.291 3.723-3.15 6.013-2.577 1.308.326 2.243 1.274 3.276 2.324 1.685 1.71 3.635 3.689 7.894 3.689 4.582 0 7.445-2.29 8.59-6.872-1.718 2.29-3.722 3.15-6.013 2.577-1.307-.327-2.242-1.276-3.276-2.325-1.684-1.71-3.634-3.689-7.893-3.689Z" clip-rule="evenodd" fill-rule="evenodd"></path><path class="fill-current" d="M51.547 8.688h-3v5.803c0 1.548 1.016 1.524 3 1.427v2.346c-4.015.483-5.611-.629-5.611-3.773V8.688H43.71V6.172h2.225V2.925l2.612-.774v4.021h2.998v2.516Zm11.43-2.516h2.61v12.092h-2.61v-1.741c-.92 1.28-2.346 2.055-4.233 2.055-3.288 0-6.021-2.78-6.021-6.36 0-3.603 2.733-6.36 6.021-6.36 1.886 0 3.313.774 4.233 2.032V6.172Zm-3.821 9.915c2.176 0 3.82-1.62 3.82-3.87 0-2.248-1.644-3.868-3.82-3.868-2.177 0-3.821 1.62-3.821 3.869s1.644 3.87 3.82 3.87ZM69.94 4.36a1.687 1.687 0 0 1-1.668-1.669c.002-.443.179-.868.491-1.18a1.662 1.662 0 0 1 2.354 0c.312.312.49.737.491 1.18 0 .895-.75 1.669-1.668 1.669Zm-1.306 13.905V6.172h2.612v12.092h-2.612Zm5.635 0V.609h2.611v17.654H74.27ZM93.834 6.172h2.757l-3.797 12.092h-2.563l-2.516-8.15-2.539 8.15h-2.563L78.816 6.172h2.757l2.346 8.343 2.54-8.343h2.49l2.514 8.343 2.37-8.343ZM99.83 4.36c-.92 0-1.669-.774-1.669-1.669.002-.443.18-.868.492-1.18a1.661 1.661 0 0 1 2.354 0c.313.312.49.737.492 1.18 0 .895-.75 1.669-1.669 1.669Zm-1.306 13.905V6.172h2.612v12.092h-2.612ZM110.52 5.858c2.708 0 4.643 1.838 4.643 4.982v7.423h-2.612v-7.158c0-1.838-1.064-2.804-2.708-2.804-1.717 0-3.071 1.015-3.071 3.482v6.48h-2.612V6.174h2.612V7.72c.798-1.257 2.103-1.862 3.748-1.862Zm17.024-4.522h2.612v16.927h-2.612v-1.741c-.918 1.282-2.345 2.055-4.231 2.055-3.289 0-6.022-2.78-6.022-6.36 0-3.603 2.733-6.36 6.022-6.36 1.886 0 3.313.774 4.231 2.032V1.336Zm-3.821 14.751c2.177 0 3.821-1.62 3.821-3.87 0-2.248-1.644-3.868-3.821-3.868-2.176 0-3.82 1.62-3.82 3.869s1.644 3.87 3.82 3.87Z" clip-rule="evenodd" fill-rule="evenodd"></path><path fill="oklch(74.6% .16 232.661)" d="M170.982 18.501c-2.467 0-4.088-1.19-4.744-2.984l2.036-1.19c.431 1.121 1.276 1.846 2.777 1.846 1.432 0 1.932-.604 1.932-1.277 0-.897-.811-1.242-2.605-1.76-1.845-.534-3.639-1.31-3.639-3.605 0-2.277 1.897-3.588 3.967-3.588 1.984 0 3.502 1.018 4.313 2.709l-2.001 1.155c-.432-.914-1.087-1.552-2.312-1.552-1 0-1.587.517-1.587 1.207 0 .742.466 1.139 2.294 1.69 1.915.605 3.951 1.243 3.951 3.71 0 2.26-1.812 3.64-4.382 3.64ZM158.711 18.502c-2.639 0-4.606-1.587-4.606-4.192V6.185h2.364v7.935c0 1.173.621 2.053 2.242 2.053 1.622 0 2.243-.88 2.243-2.053V6.185h2.38v8.125c0 2.605-1.966 4.192-4.623 4.192ZM147.056 15.983h4.606v2.277h-6.986V6.185h2.38v9.798ZM137.623 6.185c2.329 0 4.123 1.794 4.123 4.054 0 2.26-1.794 4.054-4.123 4.054h-2.121v3.967h-2.381V6.185h4.502Zm0 5.882c1.018 0 1.76-.793 1.76-1.828 0-1.052-.742-1.829-1.76-1.829h-2.121v3.657h2.121Z"></path></svg>
+    attributes:
+      License:
+        value: Paid license
+        positive: false
+        desc: Closed source paid license
+      Frameworks:
+        value: Only React and Vue*
+        positive: false
+        desc: Some components are only available for React and Vue only, some don't need JS and can be used with any framework
+      Unique components:
+        value: 31
+        desc: Tailwind Plus has 93 Components, 31 of them are unique – for example pagination and button group are considered as same. However, Tailwind Plus has many variations of the same component, and has Templates which are not included in the component count.
+      Built-in Themes:
+        value: 2
+        desc: Tailwind Plus has light and dark themes
+      Supports more than two themes:
+        value: No
+        positive: false
+        desc: Does not support more than 2 themes at the same time
+      JavaScript size:
+        value: 143kB to 201KB
+        positive: false
+        desc: Imported JavaScript bundle size (minified) for Headless UI which is required for Tailwind Plus
+      Dependencies:
+        value: 21 to 25
+        positive: false
+        desc: Tailwind Plus requires Headless UI which has 21 third-party dependencies for Vue version and 25 third-party dependencies for React version. Using more third-party dependencies increases the risk of security vulnerabilities, compatibility problems, and long-term maintenance headaches from deprecated packages.
+      Dependency size:
+        value: 11MB to 16MB
+        positive: false
+        desc: Tailwind Plus requires Headless UI which has 11MB to 16MB of dependencies for Vue version and React version respectively.
+      GitHub stars:
+        value: "?"
+        desc: Can't measure. Closed source project
+      Used by open source projects:
+        value: "?"
+        desc: Can't measure. Closed source project
+      NPM downloads:
+        value: "?"
+        desc: Can't measure.
+      CDN:
+        value: "?"
+        positive: false
+        desc: Can't measure.
+      Global customizations:
+        value: No
+        positive: false
+        desc: Tailwind Plus requires changing class names one by one at build time to do any customization
+      works without Node.js:
+        value: No
+        positive: false
+        desc: Many components require React or Vue, which requires a Node.js environment
+      No-build version:
+        value: No
+        positive: false
+        desc: Tailwind Plus does not provide micro CSS files for each component
+      P3 colors:
+        value: Yes
+        positive: true
+        desc: Tailwind Plus uses wide-gamut P3 colors by default
+      RTL support:
+        value: No
+        positive: false
+        desc: Tailwind Plus does not support right-to-left (RTL) layouts
+      Runtime CSS customization:
+        value: No
+        positive: false
+        desc: Tailwind Plus customizations requires changing Tailwind CSS class names at build time
+      Native CSS nesting:
+        value: No
+        positive: false
+        desc: Tailwind Plus doesn not use native CSS nesting
+      Open GitHub issues:
+        value: "?"
+        positive: false
+        desc: Can't measure. Closed source project
+
   flowbite:
     name: Flowbite
     logo: |
@@ -1044,4 +1216,89 @@ data:
         desc: Radix Themes doesn not use native CSS nesting
       Open GitHub issues:
         value: 104
+        desc: As of April 2025
+
+  flux:
+    name: Flux
+    logo: |
+      <svg stroke="currentColor" stroke-width="2" stroke-linecap="round" viewBox="0 0 18 13" xmlns="http://www.w3.org/2000/svg">
+        <line x1="1" y1="5" x2="1" y2="10"></line>
+        <line x1="5" y1="1" x2="5" y2="8"></line>
+        <line x1="9" y1="5" x2="9" y2="10"></line>
+        <line x1="13" y1="1" x2="13" y2="12"></line>
+        <line x1="17" y1="5" x2="17" y2="10"></line>
+      </svg>
+    attributes:
+      License:
+        value: Paid license
+        desc: Closed source paid license
+      Frameworks:
+        value: Only Laravel
+        positive: false
+        desc: Flux only works Laravel Livewire
+      Unique components:
+        value: 31
+        desc: Flux has 35 components, 31 of them are unique – for example profile and avatar are considered as same.
+      Built-in Themes:
+        value: 2
+        desc: Flux has 2 themes, colors are customizable but either for light or dark themes.
+      Supports more than two themes:
+        value: No
+        positive: false
+        desc: Does not support more than 2 themes at the same time
+      JavaScript size:
+        value: 42kB
+        positive: false
+        desc: Imported JavaScript bundle size (minified) of Livewire which is required for Flux
+      Dependencies:
+        value: 0
+        positive: true
+        desc: Flux has no JS dependencies but it requires Laravel Livewire.
+      Dependency size:
+        value: 0
+        positive: true
+        desc: Flux has no JS dependencies but it requires Laravel Livewire.
+      GitHub stars:
+        value: 690
+        desc:
+      Used by open source projects:
+        value: "?"
+        desc: No data available
+      NPM downloads:
+        value: "?"
+        desc: Flux is not available on NPM but it has 40000 weekly downloads on Packagist
+      CDN:
+        value: No
+        positive: false
+        desc: Flux CSS file is not available on CDN
+      Global customizations:
+        value: No
+        positive: false
+        desc: Flux requires changing props one by one at build time to do design token customization
+      works without Node.js:
+        value: Yes
+        positive: true
+        desc: Flux does not require a Node.js environment.
+      No-build version:
+        value: No
+        positive: false
+        desc: Flux does not provide micro CSS files for each component
+      P3 colors:
+        value: Yes
+        positive: true
+        desc: Flux uses wide-gamut P3 colors
+      RTL support:
+        value: Yes
+        positive: true
+        desc: Flux supports right-to-left (RTL) layouts
+      Runtime CSS customization:
+        value: No
+        positive: false
+        desc: Flux customizations requires changing props at build time
+      Native CSS nesting:
+        value: No
+        positive: false
+        desc: Flux doesn not use native CSS nesting
+      Open GitHub issues:
+        value: 7
         desc: As of April 2025
