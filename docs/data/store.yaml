@@ -1,13 +1,12 @@
 productCustomAttributes:
   - id: 475050
     title: Scalo Startup Template
-    desc: >-
-      **🎁 Use code `SCALO20` at checkout to get 20% discount**
-
-
-      > Looking for a dashboard template too?
+    banner: >-
+      Looking for a dashboard template too?
       <br/>Get Scalo startup template + [Nexus dashboard template](/store/244268/) as a bundle and save up to $99!
       <br/><a target="_blank" rel="noopener noreferrer" href="https://daisyui.com/store/checkout?product=2ec5128f-1abc-4e3c-a55c-529ce31f08aa&aff=Db6q2">Click here for the bundle</a>
+    desc: >-
+      **🎁 Use code `SCALO20` at checkout to get 20% discount**
 
 
       Scalo is the ultimate startup front-end template
@@ -171,12 +170,11 @@ productCustomAttributes:
       text: daisyUI 5.0 update coming soon
   - id: 244268
     title: Nexus Dashboard
-    desc: >-
-      > Looking for a startup template too?
+    banner: >-
+      Looking for a startup template too?
       <br/>Get Nexus dashboard template + [Scalo startup template](/store/475050/) as a bundle and save up to $99!
       <br/><a target="_blank" rel="noopener noreferrer" href="https://daisyui.com/store/checkout?product=2ec5128f-1abc-4e3c-a55c-529ce31f08aa&aff=Db6q2">Click here for the bundle</a>
-
-
+    desc: >-
       The ultimate dashboard template
 
 

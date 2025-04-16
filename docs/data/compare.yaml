@@ -103,6 +103,7 @@ data:
     attributes:
       License:
         value: Paid license
+        positive: false
         desc: Closed source paid license
       Frameworks:
         value: Only React and Vue*
@@ -1231,6 +1232,7 @@ data:
     attributes:
       License:
         value: Paid license
+        positive: false
         desc: Closed source paid license
       Frameworks:
         value: Only Laravel
