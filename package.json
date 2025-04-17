@@ -1,3 +1,6 @@
 {
-	"type": "module"
+	"type": "module",
+	"scripts": {
+		"dev": "bunx -y browser-sync start -s --cors=true --port 4000 --files . --watch --no-open"
+	}
 }
