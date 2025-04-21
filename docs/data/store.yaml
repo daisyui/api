@@ -209,20 +209,17 @@ productCustomAttributes:
         url: https://www.youtube.com/embed/3CX5wfvOfpw?mute=0&autoplay=0&controls=0&rel=0&modestbranding=1&loop=1&playlist=3CX5wfvOfpw
         ratio: 1000/750
       - type: image
-        sm: https://img.daisyui.com/images/store/small/nexus/nexus-main.webp
-        lg: https://img.daisyui.com/images/store/large/nexus/nexus-main.webp
+        sm: https://img.daisyui.com/images/store/small/nexus/nexus-v2.2-1.webp
+        lg: https://img.daisyui.com/images/store/large/nexus/nexus-v2.2-1.webp
       - type: image
-        sm: https://img.daisyui.com/images/store/small/nexus/nexus-v2.1.webp
-        lg: https://img.daisyui.com/images/store/large/nexus/nexus-v2.1.webp
+        sm: https://img.daisyui.com/images/store/small/nexus/nexus-v2.2-2.webp
+        lg: https://img.daisyui.com/images/store/large/nexus/nexus-v2.2-2.webp
       - type: image
-        sm: https://img.daisyui.com/images/store/small/nexus/nexus-06.webp
-        lg: https://img.daisyui.com/images/store/large/nexus/nexus-06.webp
+        sm: https://img.daisyui.com/images/store/small/nexus/nexus-v2.2-3.webp
+        lg: https://img.daisyui.com/images/store/large/nexus/nexus-v2.2-3.webp
       - type: image
-        sm: https://img.daisyui.com/images/store/small/nexus/nexus-07.webp
-        lg: https://img.daisyui.com/images/store/large/nexus/nexus-07.webp
-      - type: image
-        sm: https://img.daisyui.com/images/store/small/nexus/nexus-08.webp
-        lg: https://img.daisyui.com/images/store/large/nexus/nexus-08.webp
+        sm: https://img.daisyui.com/images/store/small/nexus/nexus-v2.2-4.webp
+        lg: https://img.daisyui.com/images/store/large/nexus/nexus-v2.2-4.webp
     quote:
       img: https://img.daisyui.com/images/profile/people/pouya-saadeghi.webp
       name: Pouya
