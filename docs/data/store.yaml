@@ -224,9 +224,10 @@ productCustomAttributes:
       img: https://img.daisyui.com/images/profile/people/pouya-saadeghi.webp
       name: Pouya
       text:
-        - Nexus 2.1 added with Profile settings page, Help and FAQ page, Generative AI pages.
-        - Nexus 2.0 is now available with Tailwind CSS 4.0 and daisyUI 5.0! New design, new pages, more themes, more features, with many improvements and bug fixes.
-        - SvelteKit version added
+        - Nexus 2.2 added with new dashboard layout for Generative-AI apps, New Material Dark theme, calendar examples
+        # - Nexus 2.1 added with Profile settings page, Help and FAQ page, Generative AI pages.
+        # - Nexus 2.0 is now available with Tailwind CSS 4.0 and daisyUI 5.0! New design, new pages, more themes, more features, with many improvements and bug fixes.
+        # - SvelteKit version added
     packages:
       - [null, Solo package, Team package, Enterprise package]
       - [🛠️ Frameworks, null, null, null]
