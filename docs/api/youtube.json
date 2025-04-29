@@ -1,6 +1,284 @@
 [
   {
     "kind": "youtube#video",
+    "etag": "rkm9iDzdon0zGfMnd69V_xaoubc",
+    "id": "DK93dqmJJYg",
+    "snippet": {
+      "publishedAt": "2025-04-29T19:35:50Z",
+      "channelId": "UCyU5wkjgQYGRB0hIHMwm2Sg",
+      "title": "Full Stack App Build | Travel Log w/ Nuxt, Vue, Better Auth, Drizzle, Tailwind, DaisyUI, MapLibre",
+      "description": "In this video, CJ builds a Full Stack application with Nuxt / Vue / TypeScript that allows users to keep track of the places they have visited and view them on a map.\n\nView the LIVE App | https://nuxt-travel-log.vercel.app/\nView the Code | https://github.com/w3cj/nuxt-travel-log\nProject Board Creator Tool | https://github.com/w3cj/travel-log-github-project-creator\nExample Project Board with Issues | https://github.com/users/w3cj/projects/11/views/1\nLinks / Resources | https://gist.github.com/w3cj/3d331e23c17df1dbeaa55342f230f3ee\n\n00:00 intro / overview\n07:27 stack / architecture overview\n12:18 github project board setup\n15:50 project setup\n17:52 github auto deploy with vercel\n19:21 eslint / editor setup\n19:37 nuxt eslint plugin\n21:10 antfu eslint-config\n25:57 pre-commit hooks lint\n30:30 git feature branch worflow\n32:12 lint github action\n38:48 tailwind setup\n41:25 daisy ui setup\n44:38 nuxt/icon setup\n49:25 landing page\n57:44 theme toggle / color mode\n01:05:14 typesafe env with zod\n01:11:54 db setup\n01:13:21 drizzle setup\n01:18:00 turso local development\n01:22:25 db schema\n01:27:45 export tables from schema\n01:28:10 migrating local database\n01:29:07 add ignores to eslint\n01:29:42 set environment variables on vercel and github actions\n01:31:46 auth setup with better-auth\n01:40:00 github oauth setup\n01:47:56 create auth store with pinia\n01:52:31 auth error page\n01:56:31 github oauth production configuration\n01:58:08 turso cloud setup\n01:58:53 run db migrations on production\n02:01:24 auth status display\n02:08:02 sign out page\n02:12:48 protected routes redirect\n02:16:25 SSR Auth Session\n02:25:41 create dashboard sidebar\n02:36:38 collapsible sidebar\n02:47:16 persist sidebar collapse in localStorage\n02:50:05 dashboard nested routes\n02:52:05 create location form\n02:57:20 validate form with vee-validate\n02:58:53 drizzle zod validation schema\n03:03:35 handle location form submit / show validation errors\n03:07:59 re-factor form field component\n03:09:54 eslint rule auto wrap vue template attributes\n03:11:51 re-factor form field component\n03:14:53 show confirmation if unsaved changes in form\n03:18:01 create location API route\n03:19:21 validate location before insert\n03:21:14 display server errors on form\n03:30:06 loading state during create location\n03:33:11 insert location into db\n03:34:19 access logged in user in API route\n03:37:59 insert location into db with userId\n03:39:08 redirect after creating new location\n03:41:12 csrf protection\n03:46:54 validate unique location slug and name\n03:50:22 generating slug during location insert\n03:57:19 unique location name per user database constraint\n03:59:35 oops - reset entire db / migrations\n04:01:41 show unique location name error\n04:04:10 consolidate location table db queries\n04:12:23 show form errors in production\n04:13:29 list locations in dashboard\n04:16:41 create authenticated event handler util\n04:22:46 list locations API route\n04:24:17 list locations in dashboard\n04:34:21 list locations in sidebar\n04:52:06 map setup\n04:54:50 set up nuxt-maplibre\n04:59:39 map styles setup\n05:05:55 list locations on map\n05:17:09 center map on location bounds\n05:29:53 map popups\n05:32:48 override maplibre popup styles\n05:37:20 set selected location on hover\n05:48:22 zoom to map point on hover\n05:56:27 drag marker to set location coordinates\n06:10:15 center map on draggable marker\n06:15:15 double click map to set location\n06:20:30 places search api options\n06:24:25 place search\n06:25:31 view location page\n06:29:59 typecheck npm script\n06:31:45 view location page continued\n06:41:25 location logs relation / query\n06:41:27 list place search results\n06:46:59 view location by map marker\n06:59:19 location specific sidebar links\n07:05:17 refactor current location into store\n07:11:54 location specific sidebar continued\n07:19:20 update location details form\n07:36:17 fix current location SSR\n07:39:11 update location details form continued\n07:42:39 fixing data loading issues\n07:47:31 update location details form continued\n07:48:46 update location details api\n08:02:28 delete locations\n08:12:45 delete location api\n08:18:35 create location log form\n08:47:38 create location log api\n08:55:03 list location logs\n09:08:03 list location logs in sidebar and on map\n09:16:49 view location log\n09:30:29 edit location log\n09:41:45 delete location log\n09:48:19 minio local s3 storage setup\n10:00:52 s3 image upload flows\n10:04:38 select upload image\n10:12:07 resize / optimize image on client\n10:17:20 create image checksum on client\n10:19:23 create pre-signed post url on server\n10:32:25 get pre-signed post url on client\n10:38:40 upload image to s3 from client\n10:41:59 insert image metadata into db\n10:52:54 list images\n11:08:14 s3 production setup\n11:14:59 delete images\n11:25:33 final fixes\n11:35:19 nuxt sentry setup\n11:39:41 final deployment\n11:40:30 thanks!\n\nView the place search API hidden chapter here: https://www.youtube.com/watch?v=M2iT6DuITLI\n\nBrought to you by Sentry.io",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/DK93dqmJJYg/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/DK93dqmJJYg/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/DK93dqmJJYg/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/DK93dqmJJYg/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/DK93dqmJJYg/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Syntax",
+      "tags": [
+        "tutorials",
+        "cms",
+        "html",
+        "css",
+        "html5",
+        "css3",
+        "education",
+        "free",
+        "lessons",
+        "tuts",
+        "tutorial",
+        "learn",
+        "software",
+        "web development",
+        "web developer",
+        "developer",
+        "web",
+        "website",
+        "javascript",
+        "typescript",
+        "nuxt",
+        "vue",
+        "tailwind",
+        "drizzle",
+        "full stack",
+        "course",
+        "maplibre",
+        "nuxt maps",
+        "vue maps",
+        "libsql",
+        "turso",
+        "better auth",
+        "nuxt better auth",
+        "ts",
+        "zod",
+        "pinia",
+        "nuxt full stack",
+        "vue full stack"
+      ],
+      "categoryId": "28",
+      "liveBroadcastContent": "none",
+      "defaultLanguage": "en",
+      "localized": {
+        "title": "Full Stack App Build | Travel Log w/ Nuxt, Vue, Better Auth, Drizzle, Tailwind, DaisyUI, MapLibre",
+        "description": "In this video, CJ builds a Full Stack application with Nuxt / Vue / TypeScript that allows users to keep track of the places they have visited and view them on a map.\n\nView the LIVE App | https://nuxt-travel-log.vercel.app/\nView the Code | https://github.com/w3cj/nuxt-travel-log\nProject Board Creator Tool | https://github.com/w3cj/travel-log-github-project-creator\nExample Project Board with Issues | https://github.com/users/w3cj/projects/11/views/1\nLinks / Resources | https://gist.github.com/w3cj/3d331e23c17df1dbeaa55342f230f3ee\n\n00:00 intro / overview\n07:27 stack / architecture overview\n12:18 github project board setup\n15:50 project setup\n17:52 github auto deploy with vercel\n19:21 eslint / editor setup\n19:37 nuxt eslint plugin\n21:10 antfu eslint-config\n25:57 pre-commit hooks lint\n30:30 git feature branch worflow\n32:12 lint github action\n38:48 tailwind setup\n41:25 daisy ui setup\n44:38 nuxt/icon setup\n49:25 landing page\n57:44 theme toggle / color mode\n01:05:14 typesafe env with zod\n01:11:54 db setup\n01:13:21 drizzle setup\n01:18:00 turso local development\n01:22:25 db schema\n01:27:45 export tables from schema\n01:28:10 migrating local database\n01:29:07 add ignores to eslint\n01:29:42 set environment variables on vercel and github actions\n01:31:46 auth setup with better-auth\n01:40:00 github oauth setup\n01:47:56 create auth store with pinia\n01:52:31 auth error page\n01:56:31 github oauth production configuration\n01:58:08 turso cloud setup\n01:58:53 run db migrations on production\n02:01:24 auth status display\n02:08:02 sign out page\n02:12:48 protected routes redirect\n02:16:25 SSR Auth Session\n02:25:41 create dashboard sidebar\n02:36:38 collapsible sidebar\n02:47:16 persist sidebar collapse in localStorage\n02:50:05 dashboard nested routes\n02:52:05 create location form\n02:57:20 validate form with vee-validate\n02:58:53 drizzle zod validation schema\n03:03:35 handle location form submit / show validation errors\n03:07:59 re-factor form field component\n03:09:54 eslint rule auto wrap vue template attributes\n03:11:51 re-factor form field component\n03:14:53 show confirmation if unsaved changes in form\n03:18:01 create location API route\n03:19:21 validate location before insert\n03:21:14 display server errors on form\n03:30:06 loading state during create location\n03:33:11 insert location into db\n03:34:19 access logged in user in API route\n03:37:59 insert location into db with userId\n03:39:08 redirect after creating new location\n03:41:12 csrf protection\n03:46:54 validate unique location slug and name\n03:50:22 generating slug during location insert\n03:57:19 unique location name per user database constraint\n03:59:35 oops - reset entire db / migrations\n04:01:41 show unique location name error\n04:04:10 consolidate location table db queries\n04:12:23 show form errors in production\n04:13:29 list locations in dashboard\n04:16:41 create authenticated event handler util\n04:22:46 list locations API route\n04:24:17 list locations in dashboard\n04:34:21 list locations in sidebar\n04:52:06 map setup\n04:54:50 set up nuxt-maplibre\n04:59:39 map styles setup\n05:05:55 list locations on map\n05:17:09 center map on location bounds\n05:29:53 map popups\n05:32:48 override maplibre popup styles\n05:37:20 set selected location on hover\n05:48:22 zoom to map point on hover\n05:56:27 drag marker to set location coordinates\n06:10:15 center map on draggable marker\n06:15:15 double click map to set location\n06:20:30 places search api options\n06:24:25 place search\n06:25:31 view location page\n06:29:59 typecheck npm script\n06:31:45 view location page continued\n06:41:25 location logs relation / query\n06:41:27 list place search results\n06:46:59 view location by map marker\n06:59:19 location specific sidebar links\n07:05:17 refactor current location into store\n07:11:54 location specific sidebar continued\n07:19:20 update location details form\n07:36:17 fix current location SSR\n07:39:11 update location details form continued\n07:42:39 fixing data loading issues\n07:47:31 update location details form continued\n07:48:46 update location details api\n08:02:28 delete locations\n08:12:45 delete location api\n08:18:35 create location log form\n08:47:38 create location log api\n08:55:03 list location logs\n09:08:03 list location logs in sidebar and on map\n09:16:49 view location log\n09:30:29 edit location log\n09:41:45 delete location log\n09:48:19 minio local s3 storage setup\n10:00:52 s3 image upload flows\n10:04:38 select upload image\n10:12:07 resize / optimize image on client\n10:17:20 create image checksum on client\n10:19:23 create pre-signed post url on server\n10:32:25 get pre-signed post url on client\n10:38:40 upload image to s3 from client\n10:41:59 insert image metadata into db\n10:52:54 list images\n11:08:14 s3 production setup\n11:14:59 delete images\n11:25:33 final fixes\n11:35:19 nuxt sentry setup\n11:39:41 final deployment\n11:40:30 thanks!\n\nView the place search API hidden chapter here: https://www.youtube.com/watch?v=M2iT6DuITLI\n\nBrought to you by Sentry.io"
+      },
+      "defaultAudioLanguage": "en"
+    },
+    "status": {
+      "uploadStatus": "processed",
+      "privacyStatus": "public",
+      "license": "youtube",
+      "embeddable": true,
+      "publicStatsViewable": true,
+      "madeForKids": false
+    }
+  },
+  {
+    "kind": "youtube#video",
+    "etag": "QxYT-W6wjXxFr8PkD3cOLVixUBU",
+    "id": "l-CygzPLrwQ",
+    "snippet": {
+      "publishedAt": "2025-04-01T10:15:06Z",
+      "channelId": "UCK5DQ8FJWnI4DMtuoYtXEcg",
+      "title": "Thinking Elixir Podcast 247: Phoenix's DaisyUI Facelift",
+      "description": "News includes Phoenix now including DaisyUI which has sparked mixed reactions, Erlang/OTP 28.0-rc2 release introducing priority process messages, the EEF Security Working Group's roadmap called Aegis, a new LiveViewPortal library for embedding LiveView pages in any website, upcoming improvements in Elixir that will spawn more OS processes for compiling dependencies potentially doubling performance, Sean Moriarity's keynote about designing LLM Native systems, and more!\n\n*Elixir Community News*\n\n- Gigalixir is sponsoring the show, offering 20% off standard tier prices for a year with promo code \"Thinking\". – https://gigalixir.com/thinking\n- Phoenix now comes with DaisyUI, a decision that has sparked mixed reactions in the community. – https://bsky.app/profile/samrat.me/post/3lksxzzjqss2t\n- The GitHub issue discussing the addition of DaisyUI to Phoenix, showing the community's divided opinions. – https://github.com/phoenixframework/phoenix/issues/6121\n- José Valim's explanation of the decision to include DaisyUI in Phoenix. – https://github.com/phoenixframework/phoenix/issues/6121#issuecomment-2739647725\n- EEF Security Working Group released their objectives and roadmap as the Aegis of the ecosystem. – https://security.erlef.org/aegis/\n- Previous podcast episode featuring the Erlang Ecosystem Foundation (EEF). – https://podcast.thinkingelixir.com/245\n- Announcement of Erlang/OTP 28.0-rc2 release. – https://x.com/erlangforums/status/1902297914791358669\n- Forum discussion about the Erlang/OTP 28.0-rc2 release. – https://erlangforums.com/t/erlang-otp-28-0-rc2-released/4599\n- GitHub release page for Erlang/OTP 28.0-rc2, which includes a source Software Bill of Materials (SBOM). – https://github.com/erlang/otp/releases/tag/OTP-28.0-rc2\n- Erlang Enhancement Proposal (EEP) 76 introducing priority messages, a key feature in OTP 28. – https://www.erlang.org/eeps/eep-0076\n- Sean Moriarity's keynote at Code BEAM America 2025 about designing LLM Native systems. – https://www.youtube.com/watch?v=R9JRhIKQmqk\n- Report showing AI project failure rates are on the rise, with 42% of businesses scrapping most AI initiatives. – https://www.cybersecuritydive.com/news/AI-project-fail-data-SPGlobal/742768/\n- Introduction to LiveViewPortal, a JavaScript library for embedding Phoenix LiveView pages into any website. – https://tech.doofinder.com/posts/live-view-portal\n- GitHub repository for LiveViewPortal. – https://github.com/doofinder/live_view_portal\n- Elixir Forum discussion about LiveViewPortal. – https://elixirforum.com/t/liveviewportal-embed-liveviews-in-other-websites/70040\n- Announcement of phoenix_test_playwright v0.6.0 release. – https://bsky.app/profile/ftes.de/post/3lkohiog4uv2b\n- GitHub repository for phoenix_test_playwright with new features like cookie manipulation and browser launch timeout options. – https://github.com/ftes/phoenix_test_playwright\n- Announcement about Elixir's upcoming improvement to spawn more OS processes for compiling dependencies. – https://bsky.app/profile/david.bernheisel.com/post/3lkoe4tvc2s2o\n- Pull request for concurrent dependencies compilation in Elixir, potentially improving performance by 2x. – https://github.com/elixir-lang/elixir/pull/14340\n- Explanation of the name \"Goatmire,\" which is a loose translation of Getakärr, the historical name for Varberg. – https://goatmire.com/\n\nPodcast Episode - http://podcast.thinkingelixir.com/247\n\n*Find us online*\n- Message on Bluesky - https://bsky.app/profile/thinkingelixir.com\n- Message on Twitter/X - https://x.com/ThinkingElixir\n- Email the show - show@thinkingelixir.com\n- Mark Ericksen on Twitter/X - https://x.com/brainlid\n- Mark Ericksen on Bluesky - https://bsky.app/profile/brainlid.bsky.social\n- David Bernheisel on Bluesky - https://bsky.app/profile/david.bernheisel.com\n\n*Like, Subscribe, and Share!* 👍\nSubscribe to stay updated with our latest episodes. Hit the bell icon to get notified. If you found this helpful, please give it a thumbs up and share it with your friends!",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/l-CygzPLrwQ/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/l-CygzPLrwQ/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/l-CygzPLrwQ/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/l-CygzPLrwQ/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/l-CygzPLrwQ/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Mark Ericksen",
+      "categoryId": "28",
+      "liveBroadcastContent": "none",
+      "defaultLanguage": "en",
+      "localized": {
+        "title": "Thinking Elixir Podcast 247: Phoenix's DaisyUI Facelift",
+        "description": "News includes Phoenix now including DaisyUI which has sparked mixed reactions, Erlang/OTP 28.0-rc2 release introducing priority process messages, the EEF Security Working Group's roadmap called Aegis, a new LiveViewPortal library for embedding LiveView pages in any website, upcoming improvements in Elixir that will spawn more OS processes for compiling dependencies potentially doubling performance, Sean Moriarity's keynote about designing LLM Native systems, and more!\n\n*Elixir Community News*\n\n- Gigalixir is sponsoring the show, offering 20% off standard tier prices for a year with promo code \"Thinking\". – https://gigalixir.com/thinking\n- Phoenix now comes with DaisyUI, a decision that has sparked mixed reactions in the community. – https://bsky.app/profile/samrat.me/post/3lksxzzjqss2t\n- The GitHub issue discussing the addition of DaisyUI to Phoenix, showing the community's divided opinions. – https://github.com/phoenixframework/phoenix/issues/6121\n- José Valim's explanation of the decision to include DaisyUI in Phoenix. – https://github.com/phoenixframework/phoenix/issues/6121#issuecomment-2739647725\n- EEF Security Working Group released their objectives and roadmap as the Aegis of the ecosystem. – https://security.erlef.org/aegis/\n- Previous podcast episode featuring the Erlang Ecosystem Foundation (EEF). – https://podcast.thinkingelixir.com/245\n- Announcement of Erlang/OTP 28.0-rc2 release. – https://x.com/erlangforums/status/1902297914791358669\n- Forum discussion about the Erlang/OTP 28.0-rc2 release. – https://erlangforums.com/t/erlang-otp-28-0-rc2-released/4599\n- GitHub release page for Erlang/OTP 28.0-rc2, which includes a source Software Bill of Materials (SBOM). – https://github.com/erlang/otp/releases/tag/OTP-28.0-rc2\n- Erlang Enhancement Proposal (EEP) 76 introducing priority messages, a key feature in OTP 28. – https://www.erlang.org/eeps/eep-0076\n- Sean Moriarity's keynote at Code BEAM America 2025 about designing LLM Native systems. – https://www.youtube.com/watch?v=R9JRhIKQmqk\n- Report showing AI project failure rates are on the rise, with 42% of businesses scrapping most AI initiatives. – https://www.cybersecuritydive.com/news/AI-project-fail-data-SPGlobal/742768/\n- Introduction to LiveViewPortal, a JavaScript library for embedding Phoenix LiveView pages into any website. – https://tech.doofinder.com/posts/live-view-portal\n- GitHub repository for LiveViewPortal. – https://github.com/doofinder/live_view_portal\n- Elixir Forum discussion about LiveViewPortal. – https://elixirforum.com/t/liveviewportal-embed-liveviews-in-other-websites/70040\n- Announcement of phoenix_test_playwright v0.6.0 release. – https://bsky.app/profile/ftes.de/post/3lkohiog4uv2b\n- GitHub repository for phoenix_test_playwright with new features like cookie manipulation and browser launch timeout options. – https://github.com/ftes/phoenix_test_playwright\n- Announcement about Elixir's upcoming improvement to spawn more OS processes for compiling dependencies. – https://bsky.app/profile/david.bernheisel.com/post/3lkoe4tvc2s2o\n- Pull request for concurrent dependencies compilation in Elixir, potentially improving performance by 2x. – https://github.com/elixir-lang/elixir/pull/14340\n- Explanation of the name \"Goatmire,\" which is a loose translation of Getakärr, the historical name for Varberg. – https://goatmire.com/\n\nPodcast Episode - http://podcast.thinkingelixir.com/247\n\n*Find us online*\n- Message on Bluesky - https://bsky.app/profile/thinkingelixir.com\n- Message on Twitter/X - https://x.com/ThinkingElixir\n- Email the show - show@thinkingelixir.com\n- Mark Ericksen on Twitter/X - https://x.com/brainlid\n- Mark Ericksen on Bluesky - https://bsky.app/profile/brainlid.bsky.social\n- David Bernheisel on Bluesky - https://bsky.app/profile/david.bernheisel.com\n\n*Like, Subscribe, and Share!* 👍\nSubscribe to stay updated with our latest episodes. Hit the bell icon to get notified. If you found this helpful, please give it a thumbs up and share it with your friends!"
+      },
+      "defaultAudioLanguage": "en-US"
+    },
+    "status": {
+      "uploadStatus": "processed",
+      "privacyStatus": "public",
+      "license": "youtube",
+      "embeddable": true,
+      "publicStatsViewable": true,
+      "madeForKids": false
+    }
+  },
+  {
+    "kind": "youtube#video",
+    "etag": "xXMjuYGp6Z7nvbp2wnkPZH-4d7s",
+    "id": "ky95s6eoNr4",
+    "snippet": {
+      "publishedAt": "2025-04-28T13:30:44Z",
+      "channelId": "UCj_iGliGCkLcHSZ8eqVNPDQ",
+      "title": "daisyUI m'a réconcilié avec TailwindCSS",
+      "description": "🔗 Article : https://grafikart.fr/tutoriels/daisyui-tailwindcss-2285\n\nAujourd'hui, je vous propose de découvrir daisyUI, un plugin pour TailwindCSS qui va grandement simplifier la création de vos composants d'interface. Si vous en avez marre de multiplier les classes pour un simple bouton, **daisyUI** est fait pour vous.\n\n00:00 Introduction\n00:47 Installation et découverte\n04:38 Thèmes et personnalisation\n09:34 La boutique\n11:00 C'est comme bootstrap ?\n______________________\n\nSoutenir la chaîne :\n⭐ Devenez premium : https://grafikart.fr/premium\n\nRetrouvez Grafikart :\n🐦 Twitter : https://twitter.com/grafikart_fr\n💬 Discord : https://grafikart.fr/tchat",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/ky95s6eoNr4/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/ky95s6eoNr4/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/ky95s6eoNr4/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/ky95s6eoNr4/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/ky95s6eoNr4/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Grafikart.fr",
+      "categoryId": "28",
+      "liveBroadcastContent": "none",
+      "defaultLanguage": "fr",
+      "localized": {
+        "title": "daisyUI m'a réconcilié avec TailwindCSS",
+        "description": "🔗 Article : https://grafikart.fr/tutoriels/daisyui-tailwindcss-2285\n\nAujourd'hui, je vous propose de découvrir daisyUI, un plugin pour TailwindCSS qui va grandement simplifier la création de vos composants d'interface. Si vous en avez marre de multiplier les classes pour un simple bouton, **daisyUI** est fait pour vous.\n\n00:00 Introduction\n00:47 Installation et découverte\n04:38 Thèmes et personnalisation\n09:34 La boutique\n11:00 C'est comme bootstrap ?\n______________________\n\nSoutenir la chaîne :\n⭐ Devenez premium : https://grafikart.fr/premium\n\nRetrouvez Grafikart :\n🐦 Twitter : https://twitter.com/grafikart_fr\n💬 Discord : https://grafikart.fr/tchat"
+      },
+      "defaultAudioLanguage": "fr"
+    },
+    "status": {
+      "uploadStatus": "processed",
+      "privacyStatus": "public",
+      "license": "youtube",
+      "embeddable": true,
+      "publicStatsViewable": false,
+      "madeForKids": false
+    }
+  },
+  {
+    "kind": "youtube#video",
+    "etag": "GSxUhGLi-9C9GmSKidBqvXfVMxQ",
+    "id": "PPXktTJXMPE",
+    "snippet": {
+      "publishedAt": "2025-01-22T00:00:55Z",
+      "channelId": "UCMCcqbJpyL3LAv3PJeYz2bg",
+      "title": "Build a Mobile App Fast! React + Capacitor + Tailwind + DaisyUI",
+      "description": "Build a Mobile App Fast! React + Capacitor + Tailwind + DaisyUI\n#daisyui #tailwindcss #reactjs #capacitorjs \n\n🚀 Build & Deploy a Mobile App with React, Capacitor, TailwindCSS & DaisyUI – Step by Step! 🎨📱\n\nIn this tutorial, I'll guide you through the entire process of setting up a mobile app using React, Capacitor, TailwindCSS, and DaisyUI. Whether you're a beginner or an experienced developer, this step-by-step guide will help you integrate TailwindCSS and DaisyUI seamlessly, giving your app a clean and modern design.\n\nBut that’s not all! I’ll also walk you through the Capacitor JS commands needed to package and deploy your app on iOS and Android—so you can take your project from development to a fully functional mobile app! 🚀\n\n⏱️ Chapters\n=================\n00:00 - Introduction\n01:58 - Step 1 - Create vite react typescript project\n05:46 - Step 2 - Add DaisyUI\n08:17 - Step 3 - Add Capacitor\n11:05 - Step 4 - Deploy on Device\n\nInstallation & Setup Guides\n- Capacitor CLI Commands: https://capacitorjs.com/docs/getting-started\n- Building & Deploying with Capacitor: https://capacitorjs.com/docs/guides/building-your-app\n- Adding TailwindCSS to a Project: https://tailwindcss.com/docs/installation\n- Using DaisyUI Components: https://daisyui.com/components/\n\nMS Code Ionic Plugin\n- https://ionicframework.com/docs/intro/vscode-extension\n\nSource Code\n- https://github.com/aaronksaunders/my-daisyui-capacitor-project\n\n⚡ Looking for help with your project - https://www.clearlyinnovative.com/valued-experience\n\n#React #Capacitor #TailwindCSS #DaisyUI #MobileApp #WebDevelopment #uiux",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/PPXktTJXMPE/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/PPXktTJXMPE/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/PPXktTJXMPE/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/PPXktTJXMPE/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/PPXktTJXMPE/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Aaron Saunders",
+      "tags": [
+        "ionic capacitor",
+        "mobile app development",
+        "ionic framework",
+        "tailwind css",
+        "tailwind mobile app",
+        "tailwind css mobile",
+        "tailwindcss mobile",
+        "reactjs capacitor",
+        "capacitor tutorial",
+        "capacitor daisyui",
+        "capacitor tailwind css",
+        "build mobile app tailwind",
+        "build mobile app daisyui",
+        "ionic tutorial",
+        "capacitor",
+        "hybrid app",
+        "cross platform"
+      ],
+      "categoryId": "27",
+      "liveBroadcastContent": "none",
+      "localized": {
+        "title": "Build a Mobile App Fast! React + Capacitor + Tailwind + DaisyUI",
+        "description": "Build a Mobile App Fast! React + Capacitor + Tailwind + DaisyUI\n#daisyui #tailwindcss #reactjs #capacitorjs \n\n🚀 Build & Deploy a Mobile App with React, Capacitor, TailwindCSS & DaisyUI – Step by Step! 🎨📱\n\nIn this tutorial, I'll guide you through the entire process of setting up a mobile app using React, Capacitor, TailwindCSS, and DaisyUI. Whether you're a beginner or an experienced developer, this step-by-step guide will help you integrate TailwindCSS and DaisyUI seamlessly, giving your app a clean and modern design.\n\nBut that’s not all! I’ll also walk you through the Capacitor JS commands needed to package and deploy your app on iOS and Android—so you can take your project from development to a fully functional mobile app! 🚀\n\n⏱️ Chapters\n=================\n00:00 - Introduction\n01:58 - Step 1 - Create vite react typescript project\n05:46 - Step 2 - Add DaisyUI\n08:17 - Step 3 - Add Capacitor\n11:05 - Step 4 - Deploy on Device\n\nInstallation & Setup Guides\n- Capacitor CLI Commands: https://capacitorjs.com/docs/getting-started\n- Building & Deploying with Capacitor: https://capacitorjs.com/docs/guides/building-your-app\n- Adding TailwindCSS to a Project: https://tailwindcss.com/docs/installation\n- Using DaisyUI Components: https://daisyui.com/components/\n\nMS Code Ionic Plugin\n- https://ionicframework.com/docs/intro/vscode-extension\n\nSource Code\n- https://github.com/aaronksaunders/my-daisyui-capacitor-project\n\n⚡ Looking for help with your project - https://www.clearlyinnovative.com/valued-experience\n\n#React #Capacitor #TailwindCSS #DaisyUI #MobileApp #WebDevelopment #uiux"
+      },
+      "defaultAudioLanguage": "en-US"
+    },
+    "status": {
+      "uploadStatus": "processed",
+      "privacyStatus": "public",
+      "license": "youtube",
+      "embeddable": true,
+      "publicStatsViewable": true,
+      "madeForKids": false
+    }
+  },
+  {
+    "kind": "youtube#video",
     "etag": "ShMVZEOY-j8j9Lo_UabM10nsVyg",
     "id": "tZbOO97urWs",
     "snippet": {
@@ -126,6 +404,101 @@
       "localized": {
         "title": "How to use DaisyUI in Laravel with Vite",
         "description": "In this tutorial, I'm going to show you how to install daisyUI in Laravel with Vite. The new version of Laravel support Vite instead of Mix. To set up daisyUI in Laravel, we need to install TailwindCSS first. Then, we can install daisyUI in Laravel. DaisyUI contain many component UI that you can use in your project without using Tailwind classes. DaisyUI is pretty similar to bootstrap in term of UI components. Components are already designed for you beautifully, so you can use it instantly.  \n\nWe will follow the official documentation of Tailwind and daisyUI to install them in Laravel completely. \nhttps://tailwindcss.com/docs/installation\nhttps://daisyui.com/docs/install/\n\nIn this video, I mention a little bit about how to install Laravel. If you want to learn more about how to install Laravel, watch this video  https://youtu.be/aujB-TLZCDE"
+      },
+      "defaultAudioLanguage": "en"
+    },
+    "status": {
+      "uploadStatus": "processed",
+      "privacyStatus": "public",
+      "license": "youtube",
+      "embeddable": true,
+      "publicStatsViewable": true,
+      "madeForKids": false
+    }
+  },
+  {
+    "kind": "youtube#video",
+    "etag": "z164ePU7Vw50p9nkAHUgtxLsDm4",
+    "id": "g12_6l53uMM",
+    "snippet": {
+      "publishedAt": "2024-09-17T14:00:39Z",
+      "channelId": "UCBaGowNYTUsm3IDaHbLRMYw",
+      "title": "DAISY UI crash course with NEXT.JS | Tailwind CSS | React UI Framework",
+      "description": "Learn Next UI easily with NextJS. Next UI is a UI library for tailwind CSS.\n\nCrash courses: https://www.youtube.com/playlist?list=PLEr-WXao6eSNuG2mQyV_48RQoj5p8WM_q\n\nTimestamp:\n0:00 What is Daisy UI\n3:55 Setup\n5:00 Button\n11:20 Modal\n16:00 Layout & Typography\n17:00 Tailwind typography plugin \n18:00 Theme\n22:25 How to use specific themes\n24:55 Change the theme of the page\n30:35 Customize theme\n32:00 Extend the existing theme\n33:05 Outro\n\n\n\nContacts: \nEmail: thatanjan@gmail.com\nPortfolio: https://thatanjan.vercel.app/\nBlog: https://cules-coding.vercel.app/\nLinkedin: https://linkedin.com/in/thatanjan/\nGithub: https://github.com/thatanjan/\nTwitter: https://twitter.com/thatAnjan\n\nBlogs you might want to read:\nEslint, prettier setup with TypeScript and react: https://www.culescoding.vercel.app/blog/setup-eslint-prettier-with-typescript-and-react\nWhat is Client-Side Rendering?: https://www.culescoding.vercel.app/blog/what-is-client-side-rendering\nWhat is Server Side Rendering?: https://www.culescoding.vercel.app/blog/what-is-server-side-rendering\nEverything you need to know about tree data structure: https://www.culescoding.vercel.app/blog/everything-you-need-to-know-about-tree-data-structure\n13 reasons why you should use Nextjs: https://www.culescoding.vercel.app/blog/13-reasons-why-you-should-use-Nextjs\n\nVideos you might want to watch:\nSetup Eslint Prettier with Typescript and React -Nextjs, Create React App: http://youtu.be/T-n0mrssDiw\nSetup and deploy fullstack application on Vercel and Render: https://youtu.be/ME3tMy5Q2qo\nAuth0 basics with Next.JS: https://youtu.be/FqxtDabMUEQ\nUpload images from React and Node: https://youtu.be/hHCabCNLmPk\nChakra-UI crash course: https://youtu.be/hJ873mLhmFQ\nNext auth crash course: https://youtu.be/tgrvKGPmI04\nBuild a small search engine with MongoDB: https://youtu.be/C6VytdSDNSk\n\nPlaylists you might like:\nNext.Js tutorials: https://youtube.com/playlist?list=PLEr-WXao6eSPCSujdESIOcDePkTL91FfQ\nBuild a blog using JAMstack: https://www.youtube.com/watch?v=KYLBb1W1ZBA&list=PLEr-WXao6eSPQzQAlkYpNLfcSm6pTiTpd\nQuick tricks: https://www.youtube.com/watch?v=RECwLOZdiR4&list=PLEr-WXao6eSPspqYqDd0ISbLdDbBAIPNR\nCrash course: https://www.youtube.com/watch?v=rSa8sUC8m_4&list=PLEr-WXao6eSNuG2mQyV_48RQoj5p8WM_q\nHow-to videos: https://www.youtube.com/watch?v=T-n0mrssDiw&list=PLEr-WXao6eSOVI5LSBn23tsqCp-pCAwiu\nClone Blue Origin Landing Page: https://youtube.com/playlist?list=PLEr-WXao6eSNuEn9uP_BYinHKcukMbX8L\n\nStay safe and good bye.",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/g12_6l53uMM/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/g12_6l53uMM/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/g12_6l53uMM/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/g12_6l53uMM/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/g12_6l53uMM/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Cules Coding",
+      "tags": [
+        "coding",
+        "programming",
+        "trailer",
+        "webdevelopment",
+        "developer",
+        "material-ui",
+        "programmer",
+        "nextjs",
+        "reactjs",
+        "javscript",
+        "html",
+        "css",
+        "framework",
+        "web",
+        "jamstack",
+        "server side rendering",
+        "client side rendering",
+        "ssg",
+        "ssr",
+        "csr",
+        "mongodb",
+        "ReactComponents",
+        "UIFramework",
+        "WebDevelopment",
+        "ReactDevelopment",
+        "CrashCourse",
+        "UserInterfaceDesign",
+        "FrontEndDevelopment",
+        "JavaScript",
+        "ResponsiveDesign",
+        "Accessibility",
+        "WebDesign",
+        "ComponentLibrary",
+        "WebDevelopmentTutorial",
+        "UIComponents",
+        "NextUI",
+        "tailwind framework",
+        "material mantaine chakra",
+        "ui library"
+      ],
+      "categoryId": "27",
+      "liveBroadcastContent": "none",
+      "localized": {
+        "title": "DAISY UI crash course with NEXT.JS | Tailwind CSS | React UI Framework",
+        "description": "Learn Next UI easily with NextJS. Next UI is a UI library for tailwind CSS.\n\nCrash courses: https://www.youtube.com/playlist?list=PLEr-WXao6eSNuG2mQyV_48RQoj5p8WM_q\n\nTimestamp:\n0:00 What is Daisy UI\n3:55 Setup\n5:00 Button\n11:20 Modal\n16:00 Layout & Typography\n17:00 Tailwind typography plugin \n18:00 Theme\n22:25 How to use specific themes\n24:55 Change the theme of the page\n30:35 Customize theme\n32:00 Extend the existing theme\n33:05 Outro\n\n\n\nContacts: \nEmail: thatanjan@gmail.com\nPortfolio: https://thatanjan.vercel.app/\nBlog: https://cules-coding.vercel.app/\nLinkedin: https://linkedin.com/in/thatanjan/\nGithub: https://github.com/thatanjan/\nTwitter: https://twitter.com/thatAnjan\n\nBlogs you might want to read:\nEslint, prettier setup with TypeScript and react: https://www.culescoding.vercel.app/blog/setup-eslint-prettier-with-typescript-and-react\nWhat is Client-Side Rendering?: https://www.culescoding.vercel.app/blog/what-is-client-side-rendering\nWhat is Server Side Rendering?: https://www.culescoding.vercel.app/blog/what-is-server-side-rendering\nEverything you need to know about tree data structure: https://www.culescoding.vercel.app/blog/everything-you-need-to-know-about-tree-data-structure\n13 reasons why you should use Nextjs: https://www.culescoding.vercel.app/blog/13-reasons-why-you-should-use-Nextjs\n\nVideos you might want to watch:\nSetup Eslint Prettier with Typescript and React -Nextjs, Create React App: http://youtu.be/T-n0mrssDiw\nSetup and deploy fullstack application on Vercel and Render: https://youtu.be/ME3tMy5Q2qo\nAuth0 basics with Next.JS: https://youtu.be/FqxtDabMUEQ\nUpload images from React and Node: https://youtu.be/hHCabCNLmPk\nChakra-UI crash course: https://youtu.be/hJ873mLhmFQ\nNext auth crash course: https://youtu.be/tgrvKGPmI04\nBuild a small search engine with MongoDB: https://youtu.be/C6VytdSDNSk\n\nPlaylists you might like:\nNext.Js tutorials: https://youtube.com/playlist?list=PLEr-WXao6eSPCSujdESIOcDePkTL91FfQ\nBuild a blog using JAMstack: https://www.youtube.com/watch?v=KYLBb1W1ZBA&list=PLEr-WXao6eSPQzQAlkYpNLfcSm6pTiTpd\nQuick tricks: https://www.youtube.com/watch?v=RECwLOZdiR4&list=PLEr-WXao6eSPspqYqDd0ISbLdDbBAIPNR\nCrash course: https://www.youtube.com/watch?v=rSa8sUC8m_4&list=PLEr-WXao6eSNuG2mQyV_48RQoj5p8WM_q\nHow-to videos: https://www.youtube.com/watch?v=T-n0mrssDiw&list=PLEr-WXao6eSOVI5LSBn23tsqCp-pCAwiu\nClone Blue Origin Landing Page: https://youtube.com/playlist?list=PLEr-WXao6eSNuEn9uP_BYinHKcukMbX8L\n\nStay safe and good bye."
       },
       "defaultAudioLanguage": "en"
     },
@@ -416,7 +789,7 @@
       "liveBroadcastContent": "none",
       "localized": {
         "title": "Django, HTMX and DaisyUI Components - Building a To-Do List App",
-        "description": "In this video, we'll build a to-do list app with Django, HTMX and DaisyUI.\n\nStarter Code: https://github.com/bugbytes-io/htmx-django-daisyui\n\nWe'll walk through adding the model and form classes, as well as styling page elements with DaisyUI component classes.\n\nWe'll then learn how to submit data using HTMX, and how to update the DOM in response to those requests, again with DaisyUI components responsible for the styles. We will see how to mark to-dos as completed, and how to remove them from the database and front-end (with help from custom HTMX events).\n\n📌 𝗖𝗵𝗮𝗽𝘁𝗲𝗿𝘀:\n00:00 Intro\n00:43 DaisyUI\n02:12 Creating Todo Django model class\n04:06 Fetching and Displaying Todos\n06:57 Adding TailwindCSS & DaisyUI\n10:12 Adding DaisyUI Table component\n11:21 Create Todo form class\n13:29 Improving form styles with django-widget-tweaks\n16:42 Adding HTMX to project\n20:49 Creating partial template with django-template-partials\n29:05 Marking to-do complete with HTMX\n33:54 Deleting Todo with HTMX\n\n☕️ 𝗕𝘂𝘆 𝗺𝗲 𝗮 𝗰𝗼𝗳𝗳𝗲𝗲:\nTo support the channel and encourage new videos, please consider buying me a coffee here:\nhttps://ko-fi.com/bugbytes\n\n▶️ Full Playlist:\nhttps://www.youtube.com/playlist?list=PL-2EBeDYMIbRByZ8GXhcnQSuv2dog4JxY\n\n𝗦𝗼𝗰𝗶𝗮𝗹 𝗠𝗲𝗱𝗶𝗮:\n📖 Blog: https://bugbytes.io/posts/\n👾 Github: https://github.com/bugbytes-io/htmx-django-daisyui\n🐦 Twitter: https://twitter.com/bugbytesio\n\n📚 𝗙𝘂𝗿𝘁𝗵𝗲𝗿 𝗿𝗲𝗮𝗱𝗶𝗻𝗴 𝗮𝗻𝗱 𝗶𝗻𝗳𝗼𝗿𝗺𝗮𝘁𝗶𝗼𝗻:\nStarter Code: https://github.com/bugbytes-io/htmx-django-daisyui\nDaisyUI: https://daisyui.com/\nDaisyUI Install: https://daisyui.com/docs/cdn/\nDaisyUI Button: https://daisyui.com/components/button/\nDaisyUI Table: https://daisyui.com/components/table/\ndjango-widget-tweaks: https://pypi.org/project/django-widget-tweaks/\nHTMX: https://htmx.org/docs/#installing\nDjango-template-partials: https://github.com/carltongibson/django-template-partials\nAdding CSRF Token to HTMX Request: https://django-htmx.readthedocs.io/en/latest/tips.html\n \n#python #django #webdevelopment #htmx"
+        "description": "In this video, we'll build a to-do list app with Django, HTMX and DaisyUI.\n\nStarter Code: https://github.com/bugbytes-io/htmx-django-daisyui\n\nWe'll walk through adding the model and form classes, as well as styling page elements with DaisyUI component classes.\n\nWe'll then learn how to submit data using HTMX, and how to update the DOM in response to those requests, again with DaisyUI components responsible for the styles. We will see how to mark to-dos as completed, and how to remove them from the database and front-end (with help from custom HTMX events).\n\n📌 𝗖𝗵𝗮𝗽𝘁𝗲𝗿𝘀:\n00:00 Intro\n00:43 DaisyUI\n02:12 Creating Todo Django model class\n04:06 Fetching and Displaying Todos\n06:57 Adding TailwindCSS & DaisyUI\n10:12 Adding DaisyUI Table component\n11:21 Create Todo form class\n13:29 Improving form styles with django-widget-tweaks\n16:42 Adding HTMX to project\n20:49 Creating partial template with django-template-partials\n29:05 Marking to-do complete with HTMX\n33:54 Deleting Todo with HTMX\n\n☕️ 𝗕𝘂𝘆 𝗺𝗲 𝗮 𝗰𝗼𝗳𝗳𝗲𝗲:\nTo support the channel and encourage new videos, please consider buying me a coffee here:\nhttps://ko-fi.com/bugbytes\n\n▶️ Full Playlist:\nhttps://www.youtube.com/playlist?list=PL-2EBeDYMIbRByZ8GXhcnQSuv2dog4JxY\n\n𝗦𝗼𝗰𝗶𝗮𝗹 𝗠𝗲𝗱𝗶𝗮:\n📖 Blog: https://bugbytes.io/posts/\n👾 Github: https://github.com/bugbytes-io/htmx-django-daisyui\n🐦 Twitter: https://twitter.com/bugbytesio\n\n📚 𝗙𝘂𝗿𝘁𝗵𝗲𝗿 𝗿𝗲𝗮𝗱𝗶��𝗴 𝗮𝗻𝗱 𝗶𝗻𝗳𝗼𝗿𝗺𝗮𝘁𝗶𝗼𝗻:\nStarter Code: https://github.com/bugbytes-io/htmx-django-daisyui\nDaisyUI: https://daisyui.com/\nDaisyUI Install: https://daisyui.com/docs/cdn/\nDaisyUI Button: https://daisyui.com/components/button/\nDaisyUI Table: https://daisyui.com/components/table/\ndjango-widget-tweaks: https://pypi.org/project/django-widget-tweaks/\nHTMX: https://htmx.org/docs/#installing\nDjango-template-partials: https://github.com/carltongibson/django-template-partials\nAdding CSRF Token to HTMX Request: https://django-htmx.readthedocs.io/en/latest/tips.html\n \n#python #django #webdevelopment #htmx"
       },
       "defaultAudioLanguage": "en-GB"
     },
@@ -1039,7 +1412,7 @@
   },
   {
     "kind": "youtube#video",
-    "etag": "E-tWGb760xeNtm3C8B-63zCT-QE",
+    "etag": "zowjFdJK485BYcm-X5YA2riCdco",
     "id": "X6Yp9FXNpvU",
     "snippet": {
       "publishedAt": "2024-06-22T13:25:58Z",
@@ -2197,7 +2570,7 @@
   },
   {
     "kind": "youtube#video",
-    "etag": "90K5778Mxnf2cw1uGfv3WCaF1As",
+    "etag": "cblTvEtValgdhdGdGsxF9e5_K4E",
     "id": "Kd6n3B0JRO8",
     "snippet": {
       "publishedAt": "2023-05-11T09:07:51Z",
@@ -4120,7 +4493,7 @@
       "publishedAt": "2023-07-22T03:00:34Z",
       "channelId": "UCDSn4Ql7fuyjxsSNOws81iQ",
       "title": "เขียน TailwindCSS ให้สั้นลงด้วย DaisyUI",
-      "description": "ใครที่ใช้ TailwindCSS ไปซักพักแล้วรู้สึกว่าเอ๊ะ Class ที่เราเขียนมันยาววว ซะเหลือเกิน กว่าจะอ่านให้เก็ทแต่ละทีเล่นซะหัวหมุน มาลองรู้จักกับ DaisyUI ที่จะทำให้เพื่อนๆ เขียน TailwindCSS ให้มันสั้นลงกันเถอะ!\n\nลิงก์สอน  TailwindCSS  https://www.youtube.com/watch?v=dDf_fNbqUYM&t=21s\n\nลิงก์ DaisyUI https://daisyui.com/\n\nมาแบ่งปันความรู้ แชร์ประสบการณ์ใน Community borntoDev ได้ที่ https://discord.com/invite/wam6MYrfND\nเข้าร่วมกลุ่ม Facebook Community ได้ที่ https://www.facebook.com/groups/24251... \nสนใจจัดอบรมออฟไลน์ ดูรายละเอียดได้ที่นี่ https://www.borntodev.com/borntodev-f... \n\n▲ ติดตามช่องของเราได้ที่ : https://bit.ly/SubBorntoDev\n▲ Facebook : https://www.facebook.com/borntodev\n▲ Website : http://www.borntodev.com/\n\n🦖BorntoDev Channel คือ ช่องยูทูปที่เน้นสาระด้านเทคโนโลยี การพัฒนาโปรแกรม ไปพร้อมกับความสนุกสนาน และ รอยยิ้มเข้าไว้ด้วยกันทั้งในรูปแบบบทเรียน และ vlog เพื่อการเปลี่ยนรูปแบบการเรียนรู้ด้านการพัฒนาโปรแกรม และ เทคโนโลยีแบบเดิม ๆ ที่เป็นเรื่องเฉพาะกลุ่มให้เข้าถึง เข้าใจได้ง่ายยิ่งขึ้น โดยพัฒนาเน้นไปที่รูปแบบการนำเสนอใหม่ ๆ ที่เป็นมิตรกับทุกคน\n\n▲ กิจกรรมใน Channel BorntoDev เป็นส่วนหนึ่งในการดำเนินงานของ บริษัท บอร์นทูเดฟ จำกัด ที่เปิดรับ Partners ที่สนใจร่วมเปลี่ยนแปลงให้สังคมไทยเป็นสังคมด้านวิทยาศาสตร์ และ เทคโนโลยีมากยิ่งขึ้น หากคุณสนใจสนับสนุน และ ก้าวไปพร้อมกัน สามารถติดต่อร่วมงานได้แล้ววันนี้\n\n▲ ติดต่อโฆษณา สนับสนุน และ ร่วมงานได้ที่: support@borntoDev.com",
+      "description": "ใครที่ใช้ TailwindCSS ไปซักพักแล้วรู้สึกว่าเอ๊ะ Class ที่เราเขียนมันยาววว ซะเหลือเกิน กว่าจะอ่านให้เก็ทแต่ละทีเล่นซะหัวหมุน มาลองรู้จักกับ DaisyUI ที่จะทำให้เพื่อนๆ เขียน TailwindCSS ให้มันสั้นลงกันเถอะ!\n\nลิงก์สอน  TailwindCSS  https://www.youtube.com/watch?v=dDf_fNbqUYM&t=21s\n\nลิงก์ DaisyUI https://daisyui.com/\n\nมาแบ่งปันความรู้ แชร์ประสบการณ์ใน Community borntoDev ได้ที่ https://discord.com/invite/wam6MYrfND\nเข้าร่วมกลุ่ม Facebook Community ได้ที่ https://www.facebook.com/groups/24251... \nสนใจจัดอบรมออฟไลน์ ดูรายละเอียดได้ที่นี่ https://www.borntodev.com/borntodev-f... \n\n▲ ติดตามช่องของเราได้ที่ : https://bit.ly/SubBorntoDev\n▲ Facebook : https://www.facebook.com/borntodev\n▲ Website : http://www.borntodev.com/\n\n🦖BorntoDev Channel คือ ช่องยูทูปที่เน้นสาระด้านเทคโนโลยี การพัฒนาโปรแกรม ไปพร้อมกับความสนุกสนาน และ รอยยิ้มเข้าไว้ด้วยกันทั้งในรูปแบบบทเรียน และ vlog เพื่อการเปลี่ยนรูปแบบการเรียนรู้ด้านการพัฒนาโปรแกรม และ เทคโนโลยีแบบเดิม ๆ ที่เป็นเรื่องเฉพาะกลุ่มให้เข้าถึง เข้าใจได้ง่ายยิ่งขึ้น โดยพัฒนาเน้นไปที่รูปแบบการนำเสนอใหม่ ๆ ที่เป็นมิตรกับทุกคน\n\n▲ กิจกรรมใน Channel BorntoDev เป็นส่วนหนึ่งในการดำเนินงานของ บริษัท บอร์นทูเดฟ จำกัด ที่เปิดรับ Partners ที่สนใจร่วมเปลี่ยนแปลงให้สังคมไทยเป็นสังคมด้านวิทยาศาสตร์ และ เทคโนโลย���มากยิ่งขึ้น หากคุณสนใจสนับสนุน และ ก้าวไปพร้อมกัน สามารถติดต่อร่วมงานได้แล้ววันนี้\n\n▲ ติดต่อโฆษณา สนับสนุน และ ร่วมงานได้ที่: support@borntoDev.com",
       "thumbnails": {
         "default": {
           "url": "https://i.ytimg.com/vi/uK5fEIiFEAI/default.jpg",
@@ -7248,7 +7621,7 @@
   },
   {
     "kind": "youtube#video",
-    "etag": "VCLurssvLAq4gq7TW8_x_QgEeKg",
+    "etag": "ctzrzme9EyStuEhtbdg-65Ltitg",
     "id": "qq8McH9sxOk",
     "snippet": {
       "publishedAt": "2025-01-15T17:24:24Z",
@@ -7918,6 +8291,71 @@
       "localized": {
         "title": "Get Started FAST with This Mobile App Template: Vue + Capacitor + DaisyUI and Supabase",
         "description": "Vue + Supabase + Capacitor + DaisyUI Drawer: A Mobile App Starter Template\n\nThis video covers walking through a mobile application template using Vue.js, Capacitor, Supabase, Tailwind CSS, and DaisyUI, with a specific focus on implementing a functional and responsive drawer navigation. \n\nWhat Covered:\n* Initial Setup: Project setup, including necessary libraries (Vue Router, Pinia, Supabase) and environment variables.\n* Authentication: Implementing user authentication with Supabase, including sign-in, sign-up, and handling authentication state.\n* Drawer Component: Building the drawer using daisyUI components, managing its open/close state, and handling routing.\n* Composables: Using a Vue.js composable (useDrawer) to centralize drawer state management.\n* Navigation: Setting up routes using Vue Router, linking drawer items to specific pages, and handling back button behavior.\n* Deployment: Building and deploying the application to an iOS device using Capacitor.\n\n\n⏱️ Chapters\n=================\n00:00 Introduction and project overview\n00:40 Demo of the app's drawer navigation\n01:40 Installing daisyUI and Tailwind.\n01:58 Exploring the daisyUI drawer component documentation\n04:37 Walkthrough of main.ts: initializing the app, setting up authentication with Supabase.\n05:53 Walkthrough of authStore.ts: managing authentication state with Pinia.\n06:25 App.vue -  How I am Using the Drawer Component\n07:12 useDrawer Composable\n07:57 Walkthrough of DrawerComponent.vue:\n    Handling drawer open/close state.\n    Using drawer-toggle, drawer-content, drawer-side, drawer-overlay.\n    Rendering drawer content using slot.\n    Using v-for to create menu items.\n    handleLinkClick function for navigation.\n    watch for changes in props.\n13:35 Navbar component and the back button.\n14:58 Creating the routes.\n17:40 Building and deploying the app to an iOS device using Capacitor\n\n\n🔗 Helpful Links\n=================\n- How To Create A Mobile App Using Vite, Vue, and Ionic Capacitor In 8 Minutes Including Explanation - https://youtu.be/K_OwSHPxT-A\n- Setting Up Vue with Capacitor - https://youtu.be/K_OwSHPxT-A\n- Ionic MS Code Extension: https://ionicframework.com/docs/intro/vscode-extension#:\n- daisyUI: https://daisyui.com/\n- Vue.js: https://vuejs.org/\n- Capacitor: https://capacitorjs.com/\n- Tailwind: https://tailwindcss.com/\n- Supabase: https://supabase.com/\n- Pinia:https://pinia.vuejs.org/\n- Vue Router: https://router.vuejs.org/\n\n🖥️ Source Code\n=================\nhttps://github.com/aaronksaunders/daisyui-vue-drawer-2025\n\n#vitejs #vuejs #capacitor #tailwindcss #daisyui #supabase #authentication #pinia #mobileappdevelopment #mobileapps  \nvue mobile app creation with vue js"
+      },
+      "defaultAudioLanguage": "en-US"
+    },
+    "status": {
+      "uploadStatus": "processed",
+      "privacyStatus": "public",
+      "license": "youtube",
+      "embeddable": true,
+      "publicStatsViewable": true,
+      "madeForKids": false
+    }
+  },
+  {
+    "kind": "youtube#video",
+    "etag": "VaggQXQZkJ69C2QKdEp2oY146UY",
+    "id": "56jFcoT_TwE",
+    "snippet": {
+      "publishedAt": "2025-04-28T22:59:42Z",
+      "channelId": "UC3AZ61zr6I4rLAUmLNa3pRA",
+      "title": "Excel to WebApp - Creating a Collectables Tracker with TailwindCSS & DaisyUI - Part 2",
+      "description": "#daisyui5 #tailwindcss4 #webdevelopment #web #design #b4x #banano #dragndrop website design\n\nHere we journey into creating a collectibles tracker with SithasoDaisy. We take an existing Excel Spreadsheet and convert in into a WebApp.\n\nSithasoDaisy5 uses the latest version of DaisyUI5 and TailwindCSS 4. \n\nHere is the GitHub Link\n\nhttps://github.com/Mashiane/SithasoDaisy5\n\nExplore on Vercel\n\nhttps://sithaso-daisy5.vercel.app/\n\nB4x Thread\nhttps://www.b4x.com/android/forum/threads/web-beginning-webapp-website-development-with-sithasodaisy5.166741/\n\nThis project is based on Excel for Freelances Templates developed by Randy (Used with Permission)\n\nhttps://youtu.be/lS-1cbiNbYg?si=sF3dsEnhBkla_9Wl",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/56jFcoT_TwE/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/56jFcoT_TwE/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/56jFcoT_TwE/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/56jFcoT_TwE/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/56jFcoT_TwE/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Anele Mbanga",
+      "tags": [
+        "#sithasodaisy",
+        "#daisyui",
+        "#tailwindcss",
+        "#javascript",
+        "#banano",
+        "#b4x",
+        "#wireframes",
+        "#sithasodaisy wireframes"
+      ],
+      "categoryId": "28",
+      "liveBroadcastContent": "none",
+      "defaultLanguage": "en-US",
+      "localized": {
+        "title": "Excel to WebApp - Creating a Collectables Tracker with TailwindCSS & DaisyUI - Part 2",
+        "description": "#daisyui5 #tailwindcss4 #webdevelopment #web #design #b4x #banano #dragndrop website design\n\nHere we journey into creating a collectibles tracker with SithasoDaisy. We take an existing Excel Spreadsheet and convert in into a WebApp.\n\nSithasoDaisy5 uses the latest version of DaisyUI5 and TailwindCSS 4. \n\nHere is the GitHub Link\n\nhttps://github.com/Mashiane/SithasoDaisy5\n\nExplore on Vercel\n\nhttps://sithaso-daisy5.vercel.app/\n\nB4x Thread\nhttps://www.b4x.com/android/forum/threads/web-beginning-webapp-website-development-with-sithasodaisy5.166741/\n\nThis project is based on Excel for Freelances Templates developed by Randy (Used with Permission)\n\nhttps://youtu.be/lS-1cbiNbYg?si=sF3dsEnhBkla_9Wl"
       },
       "defaultAudioLanguage": "en-US"
     },
