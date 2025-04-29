@@ -212,13 +212,11 @@
     - title: New Theme generator
       done: true
     - title: New logo
-      done: false
+      done: true
     - title: Add share feautre to Theme Generator
-      done: false
+      done: true
     - title: Improve llms.txt
-      done: false
-    - title: Experimental MCP server
-      done: false
+      done: true
     - title: Add OpenProps setup guide
       done: false
     - title: Homepage redesign
