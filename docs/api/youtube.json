@@ -1,13 +1,13 @@
 [
   {
     "kind": "youtube#video",
-    "etag": "rkm9iDzdon0zGfMnd69V_xaoubc",
+    "etag": "JT07L8aFOOhCNAJaXdAby-PgYlo",
     "id": "DK93dqmJJYg",
     "snippet": {
       "publishedAt": "2025-04-29T19:35:50Z",
       "channelId": "UCyU5wkjgQYGRB0hIHMwm2Sg",
       "title": "Full Stack App Build | Travel Log w/ Nuxt, Vue, Better Auth, Drizzle, Tailwind, DaisyUI, MapLibre",
-      "description": "In this video, CJ builds a Full Stack application with Nuxt / Vue / TypeScript that allows users to keep track of the places they have visited and view them on a map.\n\nView the LIVE App | https://nuxt-travel-log.vercel.app/\nView the Code | https://github.com/w3cj/nuxt-travel-log\nProject Board Creator Tool | https://github.com/w3cj/travel-log-github-project-creator\nExample Project Board with Issues | https://github.com/users/w3cj/projects/11/views/1\nLinks / Resources | https://gist.github.com/w3cj/3d331e23c17df1dbeaa55342f230f3ee\n\n00:00 intro / overview\n07:27 stack / architecture overview\n12:18 github project board setup\n15:50 project setup\n17:52 github auto deploy with vercel\n19:21 eslint / editor setup\n19:37 nuxt eslint plugin\n21:10 antfu eslint-config\n25:57 pre-commit hooks lint\n30:30 git feature branch worflow\n32:12 lint github action\n38:48 tailwind setup\n41:25 daisy ui setup\n44:38 nuxt/icon setup\n49:25 landing page\n57:44 theme toggle / color mode\n01:05:14 typesafe env with zod\n01:11:54 db setup\n01:13:21 drizzle setup\n01:18:00 turso local development\n01:22:25 db schema\n01:27:45 export tables from schema\n01:28:10 migrating local database\n01:29:07 add ignores to eslint\n01:29:42 set environment variables on vercel and github actions\n01:31:46 auth setup with better-auth\n01:40:00 github oauth setup\n01:47:56 create auth store with pinia\n01:52:31 auth error page\n01:56:31 github oauth production configuration\n01:58:08 turso cloud setup\n01:58:53 run db migrations on production\n02:01:24 auth status display\n02:08:02 sign out page\n02:12:48 protected routes redirect\n02:16:25 SSR Auth Session\n02:25:41 create dashboard sidebar\n02:36:38 collapsible sidebar\n02:47:16 persist sidebar collapse in localStorage\n02:50:05 dashboard nested routes\n02:52:05 create location form\n02:57:20 validate form with vee-validate\n02:58:53 drizzle zod validation schema\n03:03:35 handle location form submit / show validation errors\n03:07:59 re-factor form field component\n03:09:54 eslint rule auto wrap vue template attributes\n03:11:51 re-factor form field component\n03:14:53 show confirmation if unsaved changes in form\n03:18:01 create location API route\n03:19:21 validate location before insert\n03:21:14 display server errors on form\n03:30:06 loading state during create location\n03:33:11 insert location into db\n03:34:19 access logged in user in API route\n03:37:59 insert location into db with userId\n03:39:08 redirect after creating new location\n03:41:12 csrf protection\n03:46:54 validate unique location slug and name\n03:50:22 generating slug during location insert\n03:57:19 unique location name per user database constraint\n03:59:35 oops - reset entire db / migrations\n04:01:41 show unique location name error\n04:04:10 consolidate location table db queries\n04:12:23 show form errors in production\n04:13:29 list locations in dashboard\n04:16:41 create authenticated event handler util\n04:22:46 list locations API route\n04:24:17 list locations in dashboard\n04:34:21 list locations in sidebar\n04:52:06 map setup\n04:54:50 set up nuxt-maplibre\n04:59:39 map styles setup\n05:05:55 list locations on map\n05:17:09 center map on location bounds\n05:29:53 map popups\n05:32:48 override maplibre popup styles\n05:37:20 set selected location on hover\n05:48:22 zoom to map point on hover\n05:56:27 drag marker to set location coordinates\n06:10:15 center map on draggable marker\n06:15:15 double click map to set location\n06:20:30 places search api options\n06:24:25 place search\n06:25:31 view location page\n06:29:59 typecheck npm script\n06:31:45 view location page continued\n06:41:25 location logs relation / query\n06:41:27 list place search results\n06:46:59 view location by map marker\n06:59:19 location specific sidebar links\n07:05:17 refactor current location into store\n07:11:54 location specific sidebar continued\n07:19:20 update location details form\n07:36:17 fix current location SSR\n07:39:11 update location details form continued\n07:42:39 fixing data loading issues\n07:47:31 update location details form continued\n07:48:46 update location details api\n08:02:28 delete locations\n08:12:45 delete location api\n08:18:35 create location log form\n08:47:38 create location log api\n08:55:03 list location logs\n09:08:03 list location logs in sidebar and on map\n09:16:49 view location log\n09:30:29 edit location log\n09:41:45 delete location log\n09:48:19 minio local s3 storage setup\n10:00:52 s3 image upload flows\n10:04:38 select upload image\n10:12:07 resize / optimize image on client\n10:17:20 create image checksum on client\n10:19:23 create pre-signed post url on server\n10:32:25 get pre-signed post url on client\n10:38:40 upload image to s3 from client\n10:41:59 insert image metadata into db\n10:52:54 list images\n11:08:14 s3 production setup\n11:14:59 delete images\n11:25:33 final fixes\n11:35:19 nuxt sentry setup\n11:39:41 final deployment\n11:40:30 thanks!\n\nView the place search API hidden chapter here: https://www.youtube.com/watch?v=M2iT6DuITLI\n\nBrought to you by Sentry.io",
+      "description": "In this video, CJ builds a Full Stack application with Nuxt / Vue / TypeScript that allows users to keep track of the places they have visited and view them on a map.\n\nView the LIVE App | https://nuxt-travel-log.vercel.app/\nView the Code | https://github.com/w3cj/nuxt-travel-log\nProject Board Creator Tool | https://github.com/w3cj/travel-log-github-project-creator\nExample Project Board with Issues | https://github.com/users/w3cj/projects/11/views/1\nLinks / Resources | https://gist.github.com/w3cj/3d331e23c17df1dbeaa55342f230f3ee\nVue Crash Course | https://www.youtube.com/watch?v=5oKpoqmUj64\nNuxt Crash Course | https://www.youtube.com/watch?v=RhZZ0whiuT8\n\n00:00:00 intro / overview\n00:07:27 stack / architecture overview\n00:12:18 github project board setup\n00:15:50 project setup\n00:17:52 github auto deploy with vercel\n00:19:21 eslint / editor setup\n00:21:10 antfu eslint-config\n00:25:57 pre-commit hooks lint\n00:30:30 git feature branch worflow\n00:32:12 lint github action\n00:38:48 tailwind setup\n00:41:25 daisy ui setup\n00:44:38 nuxt/icon setup\n00:49:25 landing page\n00:57:44 theme toggle / color mode\n01:05:14 typesafe env with zod\n01:11:54 db setup\n01:13:21 drizzle setup\n01:18:00 turso local development\n01:22:25 db schema\n01:29:42 set environment variables on vercel and github actions\n01:31:46 auth setup with better-auth\n01:40:00 github oauth setup\n01:47:56 create auth store with pinia\n01:52:31 auth error page\n01:56:31 github oauth production configuration\n01:58:08 turso cloud setup\n01:58:53 run db migrations on production\n02:01:24 auth status display\n02:08:02 sign out page\n02:12:48 protected routes redirect\n02:16:25 SSR Auth Session\n02:25:41 create dashboard sidebar\n02:36:38 collapsible sidebar\n02:47:16 persist sidebar collapse in localStorage\n02:50:05 dashboard nested routes\n02:52:05 create location form\n02:57:20 validate form with vee-validate\n02:58:53 drizzle zod validation schema\n03:03:35 handle location form submit / show validation errors\n03:07:59 re-factor form field component\n03:14:53 show confirmation if unsaved changes in form\n03:18:01 create location API route\n03:19:21 validate location before insert\n03:21:14 display server errors on form\n03:30:06 loading state during create location\n03:33:11 insert location into db\n03:34:19 access logged in user in API route\n03:37:59 insert location into db with userId\n03:39:08 redirect after creating new location\n03:41:12 csrf protection\n03:46:54 validate unique location slug and name\n03:50:22 generating slug during location insert\n03:57:19 unique location name per user database constraint\n03:59:35 oops - reset entire db / migrations\n04:01:41 show unique location name error\n04:04:10 consolidate location table db queries\n04:12:23 show form errors in production\n04:13:29 list locations in dashboard\n04:16:41 create authenticated event handler util\n04:22:46 list locations API route\n04:24:17 list locations in dashboard\n04:34:21 list locations in sidebar\n04:52:06 map setup\n04:54:50 set up nuxt-maplibre\n04:59:39 map styles setup\n05:05:55 list locations on map\n05:17:09 center map on location bounds\n05:29:53 map popups\n05:32:48 override maplibre popup styles\n05:37:20 set selected location on hover\n05:48:22 zoom to map point on hover\n05:56:27 drag marker to set location coordinates\n06:10:15 center map on draggable marker\n06:15:15 double click map to set location\n06:20:30 places search api options\n06:24:25 place search\n06:25:31 view location page\n06:29:59 typecheck npm script\n06:31:45 view location page continued\n06:41:25 location logs relation / query\n06:46:59 view location by map marker\n06:59:19 location specific sidebar links\n07:05:17 refactor current location into store\n07:11:54 location specific sidebar continued\n07:19:20 update location details form\n07:36:17 fix current location SSR\n07:39:11 update location details form continued\n07:42:39 fixing data loading issues\n07:47:31 update location details form continued\n07:48:46 update location details api\n08:02:28 delete locations\n08:12:45 delete location api\n08:18:35 create location log form\n08:47:38 create location log api\n08:55:03 list location logs\n09:08:03 list location logs in sidebar and on map\n09:16:49 view location log\n09:30:29 edit location log\n09:41:45 delete location log\n09:48:19 minio local s3 storage setup\n10:00:52 s3 image upload flows\n10:04:38 select upload image\n10:12:07 resize / optimize image on client\n10:17:20 create image checksum on client\n10:19:23 create pre-signed post url on server\n10:32:25 get pre-signed post url on client\n10:38:40 upload image to s3 from client\n10:41:59 insert image metadata into db\n10:52:54 list images\n11:08:14 s3 production setup\n11:14:59 delete images\n11:25:33 final fixes\n11:35:19 nuxt sentry setup\n11:39:41 final deployment\n11:40:30 thanks!\n\nView the place search API hidden chapter here: https://www.youtube.com/watch?v=M2iT6DuITLI\n\nBrought to you by Sentry.io",
       "thumbnails": {
         "default": {
           "url": "https://i.ytimg.com/vi/DK93dqmJJYg/default.jpg",
@@ -81,7 +81,7 @@
       "defaultLanguage": "en",
       "localized": {
         "title": "Full Stack App Build | Travel Log w/ Nuxt, Vue, Better Auth, Drizzle, Tailwind, DaisyUI, MapLibre",
-        "description": "In this video, CJ builds a Full Stack application with Nuxt / Vue / TypeScript that allows users to keep track of the places they have visited and view them on a map.\n\nView the LIVE App | https://nuxt-travel-log.vercel.app/\nView the Code | https://github.com/w3cj/nuxt-travel-log\nProject Board Creator Tool | https://github.com/w3cj/travel-log-github-project-creator\nExample Project Board with Issues | https://github.com/users/w3cj/projects/11/views/1\nLinks / Resources | https://gist.github.com/w3cj/3d331e23c17df1dbeaa55342f230f3ee\n\n00:00 intro / overview\n07:27 stack / architecture overview\n12:18 github project board setup\n15:50 project setup\n17:52 github auto deploy with vercel\n19:21 eslint / editor setup\n19:37 nuxt eslint plugin\n21:10 antfu eslint-config\n25:57 pre-commit hooks lint\n30:30 git feature branch worflow\n32:12 lint github action\n38:48 tailwind setup\n41:25 daisy ui setup\n44:38 nuxt/icon setup\n49:25 landing page\n57:44 theme toggle / color mode\n01:05:14 typesafe env with zod\n01:11:54 db setup\n01:13:21 drizzle setup\n01:18:00 turso local development\n01:22:25 db schema\n01:27:45 export tables from schema\n01:28:10 migrating local database\n01:29:07 add ignores to eslint\n01:29:42 set environment variables on vercel and github actions\n01:31:46 auth setup with better-auth\n01:40:00 github oauth setup\n01:47:56 create auth store with pinia\n01:52:31 auth error page\n01:56:31 github oauth production configuration\n01:58:08 turso cloud setup\n01:58:53 run db migrations on production\n02:01:24 auth status display\n02:08:02 sign out page\n02:12:48 protected routes redirect\n02:16:25 SSR Auth Session\n02:25:41 create dashboard sidebar\n02:36:38 collapsible sidebar\n02:47:16 persist sidebar collapse in localStorage\n02:50:05 dashboard nested routes\n02:52:05 create location form\n02:57:20 validate form with vee-validate\n02:58:53 drizzle zod validation schema\n03:03:35 handle location form submit / show validation errors\n03:07:59 re-factor form field component\n03:09:54 eslint rule auto wrap vue template attributes\n03:11:51 re-factor form field component\n03:14:53 show confirmation if unsaved changes in form\n03:18:01 create location API route\n03:19:21 validate location before insert\n03:21:14 display server errors on form\n03:30:06 loading state during create location\n03:33:11 insert location into db\n03:34:19 access logged in user in API route\n03:37:59 insert location into db with userId\n03:39:08 redirect after creating new location\n03:41:12 csrf protection\n03:46:54 validate unique location slug and name\n03:50:22 generating slug during location insert\n03:57:19 unique location name per user database constraint\n03:59:35 oops - reset entire db / migrations\n04:01:41 show unique location name error\n04:04:10 consolidate location table db queries\n04:12:23 show form errors in production\n04:13:29 list locations in dashboard\n04:16:41 create authenticated event handler util\n04:22:46 list locations API route\n04:24:17 list locations in dashboard\n04:34:21 list locations in sidebar\n04:52:06 map setup\n04:54:50 set up nuxt-maplibre\n04:59:39 map styles setup\n05:05:55 list locations on map\n05:17:09 center map on location bounds\n05:29:53 map popups\n05:32:48 override maplibre popup styles\n05:37:20 set selected location on hover\n05:48:22 zoom to map point on hover\n05:56:27 drag marker to set location coordinates\n06:10:15 center map on draggable marker\n06:15:15 double click map to set location\n06:20:30 places search api options\n06:24:25 place search\n06:25:31 view location page\n06:29:59 typecheck npm script\n06:31:45 view location page continued\n06:41:25 location logs relation / query\n06:41:27 list place search results\n06:46:59 view location by map marker\n06:59:19 location specific sidebar links\n07:05:17 refactor current location into store\n07:11:54 location specific sidebar continued\n07:19:20 update location details form\n07:36:17 fix current location SSR\n07:39:11 update location details form continued\n07:42:39 fixing data loading issues\n07:47:31 update location details form continued\n07:48:46 update location details api\n08:02:28 delete locations\n08:12:45 delete location api\n08:18:35 create location log form\n08:47:38 create location log api\n08:55:03 list location logs\n09:08:03 list location logs in sidebar and on map\n09:16:49 view location log\n09:30:29 edit location log\n09:41:45 delete location log\n09:48:19 minio local s3 storage setup\n10:00:52 s3 image upload flows\n10:04:38 select upload image\n10:12:07 resize / optimize image on client\n10:17:20 create image checksum on client\n10:19:23 create pre-signed post url on server\n10:32:25 get pre-signed post url on client\n10:38:40 upload image to s3 from client\n10:41:59 insert image metadata into db\n10:52:54 list images\n11:08:14 s3 production setup\n11:14:59 delete images\n11:25:33 final fixes\n11:35:19 nuxt sentry setup\n11:39:41 final deployment\n11:40:30 thanks!\n\nView the place search API hidden chapter here: https://www.youtube.com/watch?v=M2iT6DuITLI\n\nBrought to you by Sentry.io"
+        "description": "In this video, CJ builds a Full Stack application with Nuxt / Vue / TypeScript that allows users to keep track of the places they have visited and view them on a map.\n\nView the LIVE App | https://nuxt-travel-log.vercel.app/\nView the Code | https://github.com/w3cj/nuxt-travel-log\nProject Board Creator Tool | https://github.com/w3cj/travel-log-github-project-creator\nExample Project Board with Issues | https://github.com/users/w3cj/projects/11/views/1\nLinks / Resources | https://gist.github.com/w3cj/3d331e23c17df1dbeaa55342f230f3ee\nVue Crash Course | https://www.youtube.com/watch?v=5oKpoqmUj64\nNuxt Crash Course | https://www.youtube.com/watch?v=RhZZ0whiuT8\n\n00:00:00 intro / overview\n00:07:27 stack / architecture overview\n00:12:18 github project board setup\n00:15:50 project setup\n00:17:52 github auto deploy with vercel\n00:19:21 eslint / editor setup\n00:21:10 antfu eslint-config\n00:25:57 pre-commit hooks lint\n00:30:30 git feature branch worflow\n00:32:12 lint github action\n00:38:48 tailwind setup\n00:41:25 daisy ui setup\n00:44:38 nuxt/icon setup\n00:49:25 landing page\n00:57:44 theme toggle / color mode\n01:05:14 typesafe env with zod\n01:11:54 db setup\n01:13:21 drizzle setup\n01:18:00 turso local development\n01:22:25 db schema\n01:29:42 set environment variables on vercel and github actions\n01:31:46 auth setup with better-auth\n01:40:00 github oauth setup\n01:47:56 create auth store with pinia\n01:52:31 auth error page\n01:56:31 github oauth production configuration\n01:58:08 turso cloud setup\n01:58:53 run db migrations on production\n02:01:24 auth status display\n02:08:02 sign out page\n02:12:48 protected routes redirect\n02:16:25 SSR Auth Session\n02:25:41 create dashboard sidebar\n02:36:38 collapsible sidebar\n02:47:16 persist sidebar collapse in localStorage\n02:50:05 dashboard nested routes\n02:52:05 create location form\n02:57:20 validate form with vee-validate\n02:58:53 drizzle zod validation schema\n03:03:35 handle location form submit / show validation errors\n03:07:59 re-factor form field component\n03:14:53 show confirmation if unsaved changes in form\n03:18:01 create location API route\n03:19:21 validate location before insert\n03:21:14 display server errors on form\n03:30:06 loading state during create location\n03:33:11 insert location into db\n03:34:19 access logged in user in API route\n03:37:59 insert location into db with userId\n03:39:08 redirect after creating new location\n03:41:12 csrf protection\n03:46:54 validate unique location slug and name\n03:50:22 generating slug during location insert\n03:57:19 unique location name per user database constraint\n03:59:35 oops - reset entire db / migrations\n04:01:41 show unique location name error\n04:04:10 consolidate location table db queries\n04:12:23 show form errors in production\n04:13:29 list locations in dashboard\n04:16:41 create authenticated event handler util\n04:22:46 list locations API route\n04:24:17 list locations in dashboard\n04:34:21 list locations in sidebar\n04:52:06 map setup\n04:54:50 set up nuxt-maplibre\n04:59:39 map styles setup\n05:05:55 list locations on map\n05:17:09 center map on location bounds\n05:29:53 map popups\n05:32:48 override maplibre popup styles\n05:37:20 set selected location on hover\n05:48:22 zoom to map point on hover\n05:56:27 drag marker to set location coordinates\n06:10:15 center map on draggable marker\n06:15:15 double click map to set location\n06:20:30 places search api options\n06:24:25 place search\n06:25:31 view location page\n06:29:59 typecheck npm script\n06:31:45 view location page continued\n06:41:25 location logs relation / query\n06:46:59 view location by map marker\n06:59:19 location specific sidebar links\n07:05:17 refactor current location into store\n07:11:54 location specific sidebar continued\n07:19:20 update location details form\n07:36:17 fix current location SSR\n07:39:11 update location details form continued\n07:42:39 fixing data loading issues\n07:47:31 update location details form continued\n07:48:46 update location details api\n08:02:28 delete locations\n08:12:45 delete location api\n08:18:35 create location log form\n08:47:38 create location log api\n08:55:03 list location logs\n09:08:03 list location logs in sidebar and on map\n09:16:49 view location log\n09:30:29 edit location log\n09:41:45 delete location log\n09:48:19 minio local s3 storage setup\n10:00:52 s3 image upload flows\n10:04:38 select upload image\n10:12:07 resize / optimize image on client\n10:17:20 create image checksum on client\n10:19:23 create pre-signed post url on server\n10:32:25 get pre-signed post url on client\n10:38:40 upload image to s3 from client\n10:41:59 insert image metadata into db\n10:52:54 list images\n11:08:14 s3 production setup\n11:14:59 delete images\n11:25:33 final fixes\n11:35:19 nuxt sentry setup\n11:39:41 final deployment\n11:40:30 thanks!\n\nView the place search API hidden chapter here: https://www.youtube.com/watch?v=M2iT6DuITLI\n\nBrought to you by Sentry.io"
       },
       "defaultAudioLanguage": "en"
     },
@@ -96,7 +96,7 @@
   },
   {
     "kind": "youtube#video",
-    "etag": "QxYT-W6wjXxFr8PkD3cOLVixUBU",
+    "etag": "Wo78d7hgX3FlKGo89weZtofgKMg",
     "id": "l-CygzPLrwQ",
     "snippet": {
       "publishedAt": "2025-04-01T10:15:06Z",
@@ -151,7 +151,7 @@
   },
   {
     "kind": "youtube#video",
-    "etag": "xXMjuYGp6Z7nvbp2wnkPZH-4d7s",
+    "etag": "zSu8Ppb-oo1ScgTRA6vvxELuyY4",
     "id": "ky95s6eoNr4",
     "snippet": {
       "publishedAt": "2025-04-28T13:30:44Z",
@@ -321,6 +321,167 @@
         "description": "A quick look at Daisy UI - a UI library built on top of Tailwind CSS.\n\n💬 Topics:\n- Pros and cons of Tailwind CSS;\n- Styling modern web apps;\n- Atomic CSS and utility classes;\n- Best component libraries;\n- Working with Daisy UI."
       },
       "defaultAudioLanguage": "en-US"
+    },
+    "status": {
+      "uploadStatus": "processed",
+      "privacyStatus": "public",
+      "license": "youtube",
+      "embeddable": true,
+      "publicStatsViewable": true,
+      "madeForKids": false
+    }
+  },
+  {
+    "kind": "youtube#video",
+    "etag": "PEj4eW44HPe6iEznv99Q7e638Qk",
+    "id": "X5L6LSj6eKw",
+    "snippet": {
+      "publishedAt": "2025-05-01T12:00:56Z",
+      "channelId": "UCaX3quWHd8mghpYkFHoRg2w",
+      "title": "Fast & Beautiful UIs = Angular + daisyUI",
+      "description": "💡 Want to build beautiful, responsive Angular apps without writing endless CSS? \nIn this video, I show you how to combine Angular with DaisyUI — a Tailwind CSS plugin that will bring powerful pre-built components to your projects.\nI’ll demonstrate a simple example of what can be done with a few daisyUI components!\n\n🔗 Resources Mentioned:\n• DaisyUI Docs: https://daisyui.com/\n• GitHub Starter Repo: https://github.com/tretyakovalex/Angular-DaisyUI-Template\n\n🕒 Timestamps:\n0:00 – Project Outcome\n0:10 – Setting up Angular\n0:23 – Installing Tailwind CSS and daisyUI\n0:49 – Adding daisyUI components\n2:55 – Installing and adding confetti\n3:52 – Demo and outro\n\n🔔 If you found this helpful, leave a like 👍, comment what you want to see next 💬, and subscribe for more 🔥 — it means a lot!\n#Angular #DaisyUI #TailwindCSS #WebDevelopment #UIUX",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/X5L6LSj6eKw/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/X5L6LSj6eKw/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/X5L6LSj6eKw/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/X5L6LSj6eKw/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/X5L6LSj6eKw/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Karlembeast",
+      "categoryId": "20",
+      "liveBroadcastContent": "none",
+      "localized": {
+        "title": "Fast & Beautiful UIs = Angular + daisyUI",
+        "description": "💡 Want to build beautiful, responsive Angular apps without writing endless CSS? \nIn this video, I show you how to combine Angular with DaisyUI — a Tailwind CSS plugin that will bring powerful pre-built components to your projects.\nI’ll demonstrate a simple example of what can be done with a few daisyUI components!\n\n🔗 Resources Mentioned:\n• DaisyUI Docs: https://daisyui.com/\n• GitHub Starter Repo: https://github.com/tretyakovalex/Angular-DaisyUI-Template\n\n🕒 Timestamps:\n0:00 – Project Outcome\n0:10 – Setting up Angular\n0:23 – Installing Tailwind CSS and daisyUI\n0:49 – Adding daisyUI components\n2:55 – Installing and adding confetti\n3:52 – Demo and outro\n\n🔔 If you found this helpful, leave a like 👍, comment what you want to see next 💬, and subscribe for more 🔥 — it means a lot!\n#Angular #DaisyUI #TailwindCSS #WebDevelopment #UIUX"
+      },
+      "defaultAudioLanguage": "en-GB"
+    },
+    "status": {
+      "uploadStatus": "processed",
+      "privacyStatus": "public",
+      "license": "youtube",
+      "embeddable": true,
+      "publicStatsViewable": true,
+      "madeForKids": false
+    }
+  },
+  {
+    "kind": "youtube#video",
+    "etag": "b3yaWSPL0fe8kECr9SHkYgzoFJQ",
+    "id": "40cerDJS1V0",
+    "snippet": {
+      "publishedAt": "2025-04-11T08:07:50Z",
+      "channelId": "UCkwiOoCZhWh9oHaozA-o7uw",
+      "title": "Build Apps 10x Faster: DaisyUI vs MUI vs Shadcn (Ultimate React UI Comparison)",
+      "description": "Want to accelerate your React app development with the ultimate UI library? 🚀 In this step-by-step comparison video, I'm breaking down DaisyUI, Material UI (MUI), and Shadcn UI to help you choose the best tool to supercharge your React workflow! ✨\n\nWhether you're rapidly prototyping, building enterprise-level applications, or crafting fully customizable user interfaces, selecting the right UI library is crucial for productivity and scalability—and today, you'll learn exactly how these three popular solutions stack up.\n\n📌 Timecodes:\n0:00 - Intro\n0:29 - UI Libraries overview\n3:34 - DaisyUI Explained\n5:50 - Understanding MUI\n8:37 - Shadcn UI Explained\n12:06 - Side-by-side comparison\n13:48 - Final Thoughts & Conclusion\n\nIf this video helps you out, don't forget to LIKE, SUBSCRIBE for more React insights, and let me know in the comments—what's your favorite React UI library? I'd love to know! 🚀💡\n\n#React #DaisyUI #MaterialUI #ShadcnUI #FrontendDevelopment #ReactTutorial #WebDevelopment #UIDesign",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/40cerDJS1V0/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/40cerDJS1V0/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/40cerDJS1V0/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/40cerDJS1V0/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/40cerDJS1V0/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "MaksDevInsights",
+      "categoryId": "28",
+      "liveBroadcastContent": "none",
+      "localized": {
+        "title": "Build Apps 10x Faster: DaisyUI vs MUI vs Shadcn (Ultimate React UI Comparison)",
+        "description": "Want to accelerate your React app development with the ultimate UI library? 🚀 In this step-by-step comparison video, I'm breaking down DaisyUI, Material UI (MUI), and Shadcn UI to help you choose the best tool to supercharge your React workflow! ✨\n\nWhether you're rapidly prototyping, building enterprise-level applications, or crafting fully customizable user interfaces, selecting the right UI library is crucial for productivity and scalability—and today, you'll learn exactly how these three popular solutions stack up.\n\n📌 Timecodes:\n0:00 - Intro\n0:29 - UI Libraries overview\n3:34 - DaisyUI Explained\n5:50 - Understanding MUI\n8:37 - Shadcn UI Explained\n12:06 - Side-by-side comparison\n13:48 - Final Thoughts & Conclusion\n\nIf this video helps you out, don't forget to LIKE, SUBSCRIBE for more React insights, and let me know in the comments—what's your favorite React UI library? I'd love to know! 🚀💡\n\n#React #DaisyUI #MaterialUI #ShadcnUI #FrontendDevelopment #ReactTutorial #WebDevelopment #UIDesign"
+      }
+    },
+    "status": {
+      "uploadStatus": "processed",
+      "privacyStatus": "public",
+      "license": "youtube",
+      "embeddable": true,
+      "publicStatsViewable": true,
+      "madeForKids": false
+    }
+  },
+  {
+    "kind": "youtube#video",
+    "etag": "ZACf5RwZ7D8qtTexYW-O_JaGLxU",
+    "id": "2pmFuqyXQCA",
+    "snippet": {
+      "publishedAt": "2025-04-14T05:00:02Z",
+      "channelId": "UCTuplgOBi6tJIlesIboymGA",
+      "title": "Livewire Starter Kit: Flux to DaisyUI or MaryUI",
+      "description": "Two alternatives to the Livewire Flux in the default Laravel 12 starter kit.\n\nLinks mentioned in the video:\n- Livewire Starter Kit: Switch Flux to Flowbite https://www.youtube.com/watch?v=sZhGXtEfT58\n- daisyUI homepage: https://daisyui.com/\n- Mary UI homepage: https://mary-ui.com/\n- My course \"Livewire 3 for Beginners with Laravel 12 Starter Kit\" https://laraveldaily.com/course/livewire-beginners?mtm_campaign=youtube-daisy-mary\n\nSupport the channel by checking out my products:\n- My Laravel courses: https://laraveldaily.com/courses\n- Filament examples: https://filamentexamples.com\n- Livewire Kit Components: https://livewirekit.com\n\nOther places to follow:\n- My weekly Laravel newsletter: https://us11.campaign-archive.com/home/?u=a459401212599a54203d036ee&id=91c1337873\n- My personal Twitter: https://twitter.com/povilaskorop",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/2pmFuqyXQCA/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/2pmFuqyXQCA/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/2pmFuqyXQCA/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/2pmFuqyXQCA/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/2pmFuqyXQCA/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Laravel Daily",
+      "categoryId": "26",
+      "liveBroadcastContent": "none",
+      "localized": {
+        "title": "Livewire Starter Kit: Flux to DaisyUI or MaryUI",
+        "description": "Two alternatives to the Livewire Flux in the default Laravel 12 starter kit.\n\nLinks mentioned in the video:\n- Livewire Starter Kit: Switch Flux to Flowbite https://www.youtube.com/watch?v=sZhGXtEfT58\n- daisyUI homepage: https://daisyui.com/\n- Mary UI homepage: https://mary-ui.com/\n- My course \"Livewire 3 for Beginners with Laravel 12 Starter Kit\" https://laraveldaily.com/course/livewire-beginners?mtm_campaign=youtube-daisy-mary\n\nSupport the channel by checking out my products:\n- My Laravel courses: https://laraveldaily.com/courses\n- Filament examples: https://filamentexamples.com\n- Livewire Kit Components: https://livewirekit.com\n\nOther places to follow:\n- My weekly Laravel newsletter: https://us11.campaign-archive.com/home/?u=a459401212599a54203d036ee&id=91c1337873\n- My personal Twitter: https://twitter.com/povilaskorop"
+      },
+      "defaultAudioLanguage": "en-GB"
     },
     "status": {
       "uploadStatus": "processed",
@@ -568,6 +729,443 @@
   },
   {
     "kind": "youtube#video",
+    "etag": "6N_0joqmAdsEn3dy_24_uOPpRrM",
+    "id": "SfGK7vn-wjw",
+    "snippet": {
+      "publishedAt": "2025-04-06T06:20:02Z",
+      "channelId": "UCTqRqI5w_uB10Z-IBT-A_gA",
+      "title": "Building an open source marketplace with my followers! using Ruby on Rails, DaisyUI | Part 1",
+      "description": "Hey everyone I'm excited to go live and connect with my followers. I want to build some cool apps using ruby on rails and hangout and connect with my followers. Thanks for watching.\nStarted building the Marketplace at 1:09:20\n\nIf you want to work with me I just launched my website check it out now https://indigotechtutorials.com\n\nFollow me on twitch to help me get affiliate there so I can earn money from streaming https://www.twitch.tv/indigotechtutorials\n\n#rubyonrails #webdevelopment #hotwire #ruby",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/SfGK7vn-wjw/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/SfGK7vn-wjw/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/SfGK7vn-wjw/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/SfGK7vn-wjw/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/SfGK7vn-wjw/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Indigo Tech Tutorials",
+      "categoryId": "28",
+      "liveBroadcastContent": "none",
+      "localized": {
+        "title": "Building an open source marketplace with my followers! using Ruby on Rails, DaisyUI | Part 1",
+        "description": "Hey everyone I'm excited to go live and connect with my followers. I want to build some cool apps using ruby on rails and hangout and connect with my followers. Thanks for watching.\nStarted building the Marketplace at 1:09:20\n\nIf you want to work with me I just launched my website check it out now https://indigotechtutorials.com\n\nFollow me on twitch to help me get affiliate there so I can earn money from streaming https://www.twitch.tv/indigotechtutorials\n\n#rubyonrails #webdevelopment #hotwire #ruby"
+      },
+      "defaultAudioLanguage": "en-US"
+    },
+    "status": {
+      "uploadStatus": "processed",
+      "privacyStatus": "public",
+      "license": "creativeCommon",
+      "embeddable": true,
+      "publicStatsViewable": true,
+      "madeForKids": false
+    }
+  },
+  {
+    "kind": "youtube#video",
+    "etag": "LGHwVeH9Gb46wR8ZvOxRmFmVLzc",
+    "id": "aQA4O3Njb0w",
+    "snippet": {
+      "publishedAt": "2025-04-02T12:59:12Z",
+      "channelId": "UCTqRqI5w_uB10Z-IBT-A_gA",
+      "title": "How To Build a Social Media App With Ruby on Rails & DaisyUI",
+      "description": "In this video I show you how to build a social media app using Ruby on Rails and the DaisyUI library for frontend components. This was a really fun video to make and I hope this helps someone. Overall DaisyUI was cool but the carousels where not great.. Let me know if you want to see a part 2 and I will continue on building more functionality in this app!\n\nDownload the source code for this video 100% free on Github\nhttps://github.com/indigotechtutorials/Daisy-Social\n\n#rubyonrails #learnrubyonrails .\n\nContact me now on my personal website. Easily purchase services from me via my web app. Get custom 1on1 mentoring sessions, consulting for your company and more! all available at https://indigotechtutorials.com/",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/aQA4O3Njb0w/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/aQA4O3Njb0w/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/aQA4O3Njb0w/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/aQA4O3Njb0w/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/aQA4O3Njb0w/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Indigo Tech Tutorials",
+      "tags": [
+        "Web development",
+        "coding",
+        "learn to code",
+        "Ruby on Rails",
+        "fast coding",
+        "websites",
+        "mobile app development",
+        "coding tutorial",
+        "simple coding",
+        "easy coding tutorial",
+        "javascript",
+        "full stack",
+        "developers"
+      ],
+      "categoryId": "28",
+      "liveBroadcastContent": "none",
+      "localized": {
+        "title": "How To Build a Social Media App With Ruby on Rails & DaisyUI",
+        "description": "In this video I show you how to build a social media app using Ruby on Rails and the DaisyUI library for frontend components. This was a really fun video to make and I hope this helps someone. Overall DaisyUI was cool but the carousels where not great.. Let me know if you want to see a part 2 and I will continue on building more functionality in this app!\n\nDownload the source code for this video 100% free on Github\nhttps://github.com/indigotechtutorials/Daisy-Social\n\n#rubyonrails #learnrubyonrails .\n\nContact me now on my personal website. Easily purchase services from me via my web app. Get custom 1on1 mentoring sessions, consulting for your company and more! all available at https://indigotechtutorials.com/"
+      }
+    },
+    "status": {
+      "uploadStatus": "processed",
+      "privacyStatus": "public",
+      "license": "creativeCommon",
+      "embeddable": true,
+      "publicStatsViewable": true,
+      "madeForKids": false
+    }
+  },
+  {
+    "kind": "youtube#video",
+    "etag": "TU-A6r3Coj6rE2L_koklo5O5HA0",
+    "id": "N7g9rs3w1Ec",
+    "snippet": {
+      "publishedAt": "2025-03-31T04:00:17Z",
+      "channelId": "UCPBY44jxP7gOMkUsP5rlGnw",
+      "title": "Build Tailwind v4 + Daisy UI with Dotnet + Docker",
+      "description": "In this video we explore how to use Tailwind V4 and Daisy UI to style your dotnet apps, using Docker as our build tool.\n\nOriginal blog post with all code and links: https://hamy.xyz/blog/2025-03_dotnet-docker-tailwind-v4\n\nCTA: Join Haminions to get full access to the project files - https://hamy.xyz/blog/haminions\n* Full source code: https://github.com/HAMY-LABS/hamy-labs-code-examples/tree/main/fsharp/2025-03_fsharp-dotnet-tailwind-v4\n\nChapters\n\n00:50 - Project Overview\n03:10 - Tailwind v4 with Dotnet and Docker\n08:15 - Styling Dotnet Frontends with Tailwind v4\n\nLinks:\n\n- Build a Single-File Web API with F# + Falco - https://www.youtube.com/watch?v=SJCHBqrc3sE&ab_channel=HAMYLABS\n- Build a Fullstack Webapp with F# + Falco - https://www.youtube.com/watch?v=ELPdHdtEIY8&ab_channel=HAMYLABS\n- How to run an F# + Falco Webapp in a Docker Container - https://www.youtube.com/watch?v=B7MJZrdc6dk&ab_channel=HAMYLABS\n\nAbout me: I'm Hamilton - a Technomancer. I build Simple Scalable Systems to make the world 1% better.\n\nConnect with me:\n\n- Website: https://hamy.xyz\n- Twitter: @SIRHAMY - https://twitter.com/SIRHAMY\n\n# Support \n\nIf you liked this and would like to see more, consider becoming a supporter: https://hamy.xyz/labs/haminions\n\nSupporters get:\n* Full source code access from courses / tutorials\n* Exclusive discounts on products / courses\n\nPlus you help me to keep experimenting / sharing!\n\nFor Sponsorship info: https://hamy.xyz/labs/sponsors",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/N7g9rs3w1Ec/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/N7g9rs3w1Ec/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/N7g9rs3w1Ec/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/N7g9rs3w1Ec/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/N7g9rs3w1Ec/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "HAMY LABS",
+      "tags": [
+        "hamy"
+      ],
+      "categoryId": "28",
+      "liveBroadcastContent": "none",
+      "localized": {
+        "title": "Build Tailwind v4 + Daisy UI with Dotnet + Docker",
+        "description": "In this video we explore how to use Tailwind V4 and Daisy UI to style your dotnet apps, using Docker as our build tool.\n\nOriginal blog post with all code and links: https://hamy.xyz/blog/2025-03_dotnet-docker-tailwind-v4\n\nCTA: Join Haminions to get full access to the project files - https://hamy.xyz/blog/haminions\n* Full source code: https://github.com/HAMY-LABS/hamy-labs-code-examples/tree/main/fsharp/2025-03_fsharp-dotnet-tailwind-v4\n\nChapters\n\n00:50 - Project Overview\n03:10 - Tailwind v4 with Dotnet and Docker\n08:15 - Styling Dotnet Frontends with Tailwind v4\n\nLinks:\n\n- Build a Single-File Web API with F# + Falco - https://www.youtube.com/watch?v=SJCHBqrc3sE&ab_channel=HAMYLABS\n- Build a Fullstack Webapp with F# + Falco - https://www.youtube.com/watch?v=ELPdHdtEIY8&ab_channel=HAMYLABS\n- How to run an F# + Falco Webapp in a Docker Container - https://www.youtube.com/watch?v=B7MJZrdc6dk&ab_channel=HAMYLABS\n\nAbout me: I'm Hamilton - a Technomancer. I build Simple Scalable Systems to make the world 1% better.\n\nConnect with me:\n\n- Website: https://hamy.xyz\n- Twitter: @SIRHAMY - https://twitter.com/SIRHAMY\n\n# Support \n\nIf you liked this and would like to see more, consider becoming a supporter: https://hamy.xyz/labs/haminions\n\nSupporters get:\n* Full source code access from courses / tutorials\n* Exclusive discounts on products / courses\n\nPlus you help me to keep experimenting / sharing!\n\nFor Sponsorship info: https://hamy.xyz/labs/sponsors"
+      }
+    },
+    "status": {
+      "uploadStatus": "processed",
+      "privacyStatus": "public",
+      "license": "youtube",
+      "embeddable": true,
+      "publicStatsViewable": true,
+      "madeForKids": false
+    }
+  },
+  {
+    "kind": "youtube#video",
+    "etag": "ty3FZDiq_zH_nl5dgKYJ6a2rJxE",
+    "id": "uI9gZ0TtTAs",
+    "snippet": {
+      "publishedAt": "2025-03-29T18:40:06Z",
+      "channelId": "UCLnKIFX8FPWxWdnWRFpw2Xw",
+      "title": "How to Install DaisyUI v5 in React with Vite | Integrating DaisyUI & TailwindCSS v4 Using Vite",
+      "description": "In this video, I’ll walk you through the fastest and most efficient way to install the latest versions of TailwindCSS 4.0 and DaisyUI 5.0.0. We’ll be creating a React project using Vite and integrating Tailwind CSS as a Vite plugin, streamlining the entire process.\n------------------------------------------------------------------------------------------------------------------\nFollow me on technology updates\nCourses                  ► https://nstinfotech.com/courses\nFacebook Group ► https://www.facebook.com/groups/nstinfotech\nLinkedIn Group        ► https://www.linkedin.com/groups/10446653/\nFacebook        ► https://www.facebook.com/nstinfotechindia\nTwitter             ► https://twitter.com/nstinfotech\n------------------------------------------------------------------------------------------------------------------\n☆  If you enjoyed this video, give it a like.\n\n☍  If you know someone who might like it, share it.\n\n☝  Share your thoughts below with a comment.\n\n@install #daisyUI @React \n-------------------------------------------------------------------------------------------------------------------",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/uI9gZ0TtTAs/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/uI9gZ0TtTAs/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/uI9gZ0TtTAs/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/uI9gZ0TtTAs/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        }
+      },
+      "channelTitle": "NST Infotech",
+      "tags": [
+        "install daisyui v5",
+        "how to install tailwind css version 4.0",
+        "how to install and use daisy ui in react js app",
+        "tailwind css",
+        "frontend development",
+        "programming",
+        "daisyui tutorial",
+        "real estate website react",
+        "personal portfolio website",
+        "daisyui",
+        "tailwind ui",
+        "daisyui tailwind",
+        "daisy ui vs tailwind ui",
+        "daisy ui theme",
+        "daisyui tailwind tutorial",
+        "set up tailwind",
+        "install tailwind css",
+        "set up tailwind project",
+        "install daisyui in react using vite",
+        "daisyui 5",
+        "use daisyui in react"
+      ],
+      "categoryId": "27",
+      "liveBroadcastContent": "none",
+      "localized": {
+        "title": "How to Install DaisyUI v5 in React with Vite | Integrating DaisyUI & TailwindCSS v4 Using Vite",
+        "description": "In this video, I’ll walk you through the fastest and most efficient way to install the latest versions of TailwindCSS 4.0 and DaisyUI 5.0.0. We’ll be creating a React project using Vite and integrating Tailwind CSS as a Vite plugin, streamlining the entire process.\n------------------------------------------------------------------------------------------------------------------\nFollow me on technology updates\nCourses                  ► https://nstinfotech.com/courses\nFacebook Group ► https://www.facebook.com/groups/nstinfotech\nLinkedIn Group        ► https://www.linkedin.com/groups/10446653/\nFacebook        ► https://www.facebook.com/nstinfotechindia\nTwitter             ► https://twitter.com/nstinfotech\n------------------------------------------------------------------------------------------------------------------\n☆  If you enjoyed this video, give it a like.\n\n☍  If you know someone who might like it, share it.\n\n☝  Share your thoughts below with a comment.\n\n@install #daisyUI @React \n-------------------------------------------------------------------------------------------------------------------"
+      },
+      "defaultAudioLanguage": "en-IN"
+    },
+    "status": {
+      "uploadStatus": "processed",
+      "privacyStatus": "public",
+      "license": "youtube",
+      "embeddable": true,
+      "publicStatsViewable": true,
+      "madeForKids": false
+    }
+  },
+  {
+    "kind": "youtube#video",
+    "etag": "dncGL6mEiyRk72_nMPZshFtWyco",
+    "id": "RkSnBpPh12o",
+    "snippet": {
+      "publishedAt": "2025-03-28T11:28:13Z",
+      "channelId": "UCTwxaBjziKfy6y_uWu30orA",
+      "title": "django-vite - HTMX, Alpine.js and TailwindCSS Plugin Installation",
+      "description": "☕️ 𝗕𝘂𝘆 𝗺𝗲 𝗮 𝗰𝗼𝗳𝗳𝗲𝗲:\nTo support the channel and encourage new videos, please consider buying me a coffee here:\nhttps://ko-fi.com/bugbytes\n\nIn this video, we'll expand on the previous video and setup django-vite with TailwindCSS Plugins, HTMX and Alpine.js. The method presented will be extendable to any JS client-side package.\n \n📌 𝗖𝗵𝗮𝗽𝘁𝗲𝗿𝘀:\n00:00 Intro\n00:39 Adding DaisyUI plugin to django-vite setup\n03:30 Adding Flowbite plugin to django-vite setup\n05:22 Adding HTMX to django-vite setup\n09:35 Adding Alpine.js to django-vite setup\n\n𝗦𝗼𝗰𝗶𝗮𝗹 𝗠𝗲𝗱𝗶𝗮:\n📖 Blog: https://bugbytes.io/posts/\n👾 Github: https://github.com/bugbytes-io/\n\n📚 𝗙𝘂𝗿𝘁𝗵𝗲𝗿 𝗿𝗲𝗮𝗱𝗶𝗻𝗴 𝗮𝗻𝗱 𝗶𝗻𝗳𝗼𝗿𝗺𝗮𝘁𝗶𝗼𝗻:\nDjango-vite: https://github.com/MrBin99/django-vite\nVite: https://vite.dev/\nHTMX: https://htmx.org/docs/#installing \nAlpineJS: https://alpinejs.dev/essentials/installation \nDaisyUI: https://daisyui.com/docs/install/\nFlowbite: https://flowbite.com/docs/getting-started/quickstart/#getting-started\n\n#python #django #tailwindcss #vitejs #htmx",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/RkSnBpPh12o/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/RkSnBpPh12o/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/RkSnBpPh12o/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/RkSnBpPh12o/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/RkSnBpPh12o/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "BugBytes",
+      "categoryId": "22",
+      "liveBroadcastContent": "none",
+      "localized": {
+        "title": "django-vite - HTMX, Alpine.js and TailwindCSS Plugin Installation",
+        "description": "☕️ 𝗕𝘂𝘆 𝗺𝗲 𝗮 𝗰𝗼𝗳𝗳𝗲𝗲:\nTo support the channel and encourage new videos, please consider buying me a coffee here:\nhttps://ko-fi.com/bugbytes\n\nIn this video, we'll expand on the previous video and setup django-vite with TailwindCSS Plugins, HTMX and Alpine.js. The method presented will be extendable to any JS client-side package.\n \n📌 𝗖𝗵𝗮𝗽𝘁𝗲𝗿𝘀:\n00:00 Intro\n00:39 Adding DaisyUI plugin to django-vite setup\n03:30 Adding Flowbite plugin to django-vite setup\n05:22 Adding HTMX to django-vite setup\n09:35 Adding Alpine.js to django-vite setup\n\n𝗦𝗼𝗰𝗶𝗮𝗹 𝗠𝗲𝗱𝗶𝗮:\n📖 Blog: https://bugbytes.io/posts/\n👾 Github: https://github.com/bugbytes-io/\n\n📚 𝗙𝘂𝗿𝘁𝗵𝗲𝗿 𝗿𝗲𝗮𝗱𝗶𝗻𝗴 𝗮𝗻𝗱 𝗶𝗻𝗳𝗼𝗿𝗺𝗮𝘁𝗶𝗼𝗻:\nDjango-vite: https://github.com/MrBin99/django-vite\nVite: https://vite.dev/\nHTMX: https://htmx.org/docs/#installing \nAlpineJS: https://alpinejs.dev/essentials/installation \nDaisyUI: https://daisyui.com/docs/install/\nFlowbite: https://flowbite.com/docs/getting-started/quickstart/#getting-started\n\n#python #django #tailwindcss #vitejs #htmx"
+      },
+      "defaultAudioLanguage": "en-GB"
+    },
+    "status": {
+      "uploadStatus": "processed",
+      "privacyStatus": "public",
+      "license": "youtube",
+      "embeddable": true,
+      "publicStatsViewable": true,
+      "madeForKids": false
+    }
+  },
+  {
+    "kind": "youtube#video",
+    "etag": "wbtXp1Ssgx6LWja5LmKINOIqIcQ",
+    "id": "2ZLfgQE4NZk",
+    "snippet": {
+      "publishedAt": "2025-03-29T09:54:27Z",
+      "channelId": "UC_-Sg3dW0yIathaX7-RtJMQ",
+      "title": "🚀 DaisyUI | Build Stunning UIs for web| Tamil Video (🔥)",
+      "description": "Want to master Tailwind CSS and DaisyUI to build stunning UI components? In this tutorial, we’ll explore how to use DaisyUI 5.9.0 with React and JavaScript to create beautiful, responsive web designs effortlessly!\n\nThis video is perfect for beginners and developers looking to improve their frontend skills using Tailwind CSS, DaisyUI, and React. If you're a Tamil-speaking developer looking for a clear, step-by-step explanation, you're in the right place!\n\nWhat You'll Learn:\n✅ Tailwind CSS fundamentals & utility-first styling\n✅ DaisyUI Components – Faster UI development\n✅ React + Tailwind best practices\n✅ Responsive, modern design techniques\n✅ Real-world hands-on coding examples\n\n📌 Why Tailwind & DaisyUI?\n🚀 Speeds up frontend development\n🎨 Pre-designed UI components for quick styling\n⚡ Highly customizable & lightweight\n\n💡 Whether you’re a beginner learning JavaScript and React or an experienced developer improving your UI skills, this tutorial will help you!\n\n🔥 Watch, Learn & Build! Don’t forget to subscribe for more Tamil coding tutorials on React, JavaScript, Web Development, and UI/UX design!\n\nLet me know if you need any more tweaks! 🚀😃",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/2ZLfgQE4NZk/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/2ZLfgQE4NZk/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/2ZLfgQE4NZk/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/2ZLfgQE4NZk/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/2ZLfgQE4NZk/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "My Coding Diary",
+      "tags": [
+        "frontend",
+        "coding",
+        "programming",
+        "python",
+        "learn coding in tamil",
+        "frontend developer",
+        "web development",
+        "learn web development",
+        "tamil web development",
+        "tamil coding",
+        "coding in tamil",
+        "learn coding in tamil tutorial",
+        "tamil tutorial",
+        "tamil web development tutorial",
+        "tamil css tutorial",
+        "software development",
+        "programming in tamil",
+        "learn coding in tamil for free",
+        "app development in tamil",
+        "web development in tamil",
+        "python in tamil",
+        "javascript in tamil",
+        "java in tamil"
+      ],
+      "categoryId": "27",
+      "liveBroadcastContent": "none",
+      "localized": {
+        "title": "🚀 DaisyUI | Build Stunning UIs for web| Tamil Video (🔥)",
+        "description": "Want to master Tailwind CSS and DaisyUI to build stunning UI components? In this tutorial, we’ll explore how to use DaisyUI 5.9.0 with React and JavaScript to create beautiful, responsive web designs effortlessly!\n\nThis video is perfect for beginners and developers looking to improve their frontend skills using Tailwind CSS, DaisyUI, and React. If you're a Tamil-speaking developer looking for a clear, step-by-step explanation, you're in the right place!\n\nWhat You'll Learn:\n✅ Tailwind CSS fundamentals & utility-first styling\n✅ DaisyUI Components – Faster UI development\n✅ React + Tailwind best practices\n✅ Responsive, modern design techniques\n✅ Real-world hands-on coding examples\n\n📌 Why Tailwind & DaisyUI?\n🚀 Speeds up frontend development\n🎨 Pre-designed UI components for quick styling\n⚡ Highly customizable & lightweight\n\n💡 Whether you’re a beginner learning JavaScript and React or an experienced developer improving your UI skills, this tutorial will help you!\n\n🔥 Watch, Learn & Build! Don’t forget to subscribe for more Tamil coding tutorials on React, JavaScript, Web Development, and UI/UX design!\n\nLet me know if you need any more tweaks! 🚀😃"
+      }
+    },
+    "status": {
+      "uploadStatus": "processed",
+      "privacyStatus": "public",
+      "license": "youtube",
+      "embeddable": true,
+      "publicStatsViewable": true,
+      "madeForKids": false
+    }
+  },
+  {
+    "kind": "youtube#video",
+    "etag": "RrfgvHSNXzBJXVSgvGD-vG2T7bs",
+    "id": "XKC5ezVPQFA",
+    "snippet": {
+      "publishedAt": "2025-03-12T10:15:04Z",
+      "channelId": "UCuKbfMTv-wkGG0nEdSuw1DA",
+      "title": "DaisyUI + Tailwind: Build Stunning UIs Fast!",
+      "description": "🚀 Learn how to build beautiful and responsive UIs using DaisyUI and Tailwind CSS! DaisyUI is a powerful UI library that extends Tailwind CSS, making component styling easier and more efficient. In this tutorial, we’ll cover:\n\n✅ Installing DaisyUI with Tailwind CSS\n✅ Exploring DaisyUI components\n✅ Customizing themes and styles\n✅ Implementing a real-world UI example\n\n💻 Whether you're a beginner or an experienced developer, this video will help you create stunning designs effortlessly!\n\n🔔 Subscribe to CodeWithSamir for more web development tutorials!",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/XKC5ezVPQFA/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/XKC5ezVPQFA/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/XKC5ezVPQFA/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/XKC5ezVPQFA/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/XKC5ezVPQFA/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "CodeWithSamir",
+      "categoryId": "27",
+      "liveBroadcastContent": "none",
+      "defaultLanguage": "en",
+      "localized": {
+        "title": "DaisyUI + Tailwind: Build Stunning UIs Fast!",
+        "description": "🚀 Learn how to build beautiful and responsive UIs using DaisyUI and Tailwind CSS! DaisyUI is a powerful UI library that extends Tailwind CSS, making component styling easier and more efficient. In this tutorial, we’ll cover:\n\n✅ Installing DaisyUI with Tailwind CSS\n✅ Exploring DaisyUI components\n✅ Customizing themes and styles\n✅ Implementing a real-world UI example\n\n💻 Whether you're a beginner or an experienced developer, this video will help you create stunning designs effortlessly!\n\n🔔 Subscribe to CodeWithSamir for more web development tutorials!"
+      },
+      "defaultAudioLanguage": "hi"
+    },
+    "status": {
+      "uploadStatus": "processed",
+      "privacyStatus": "public",
+      "license": "youtube",
+      "embeddable": true,
+      "publicStatsViewable": true,
+      "madeForKids": false
+    }
+  },
+  {
+    "kind": "youtube#video",
     "etag": "jwr2L852fwiwgQpXhUvI0Gjez-Y",
     "id": "wOKO_tgFrnI",
     "snippet": {
@@ -789,7 +1387,7 @@
       "liveBroadcastContent": "none",
       "localized": {
         "title": "Django, HTMX and DaisyUI Components - Building a To-Do List App",
-        "description": "In this video, we'll build a to-do list app with Django, HTMX and DaisyUI.\n\nStarter Code: https://github.com/bugbytes-io/htmx-django-daisyui\n\nWe'll walk through adding the model and form classes, as well as styling page elements with DaisyUI component classes.\n\nWe'll then learn how to submit data using HTMX, and how to update the DOM in response to those requests, again with DaisyUI components responsible for the styles. We will see how to mark to-dos as completed, and how to remove them from the database and front-end (with help from custom HTMX events).\n\n📌 𝗖𝗵𝗮𝗽𝘁𝗲𝗿𝘀:\n00:00 Intro\n00:43 DaisyUI\n02:12 Creating Todo Django model class\n04:06 Fetching and Displaying Todos\n06:57 Adding TailwindCSS & DaisyUI\n10:12 Adding DaisyUI Table component\n11:21 Create Todo form class\n13:29 Improving form styles with django-widget-tweaks\n16:42 Adding HTMX to project\n20:49 Creating partial template with django-template-partials\n29:05 Marking to-do complete with HTMX\n33:54 Deleting Todo with HTMX\n\n☕️ 𝗕𝘂𝘆 𝗺𝗲 𝗮 𝗰𝗼𝗳𝗳𝗲𝗲:\nTo support the channel and encourage new videos, please consider buying me a coffee here:\nhttps://ko-fi.com/bugbytes\n\n▶️ Full Playlist:\nhttps://www.youtube.com/playlist?list=PL-2EBeDYMIbRByZ8GXhcnQSuv2dog4JxY\n\n𝗦𝗼𝗰𝗶𝗮𝗹 𝗠𝗲𝗱𝗶𝗮:\n📖 Blog: https://bugbytes.io/posts/\n👾 Github: https://github.com/bugbytes-io/htmx-django-daisyui\n🐦 Twitter: https://twitter.com/bugbytesio\n\n📚 𝗙𝘂𝗿𝘁𝗵𝗲𝗿 𝗿𝗲𝗮𝗱𝗶��𝗴 𝗮𝗻𝗱 𝗶𝗻𝗳𝗼𝗿𝗺𝗮𝘁𝗶𝗼𝗻:\nStarter Code: https://github.com/bugbytes-io/htmx-django-daisyui\nDaisyUI: https://daisyui.com/\nDaisyUI Install: https://daisyui.com/docs/cdn/\nDaisyUI Button: https://daisyui.com/components/button/\nDaisyUI Table: https://daisyui.com/components/table/\ndjango-widget-tweaks: https://pypi.org/project/django-widget-tweaks/\nHTMX: https://htmx.org/docs/#installing\nDjango-template-partials: https://github.com/carltongibson/django-template-partials\nAdding CSRF Token to HTMX Request: https://django-htmx.readthedocs.io/en/latest/tips.html\n \n#python #django #webdevelopment #htmx"
+        "description": "In this video, we'll build a to-do list app with Django, HTMX and DaisyUI.\n\nStarter Code: https://github.com/bugbytes-io/htmx-django-daisyui\n\nWe'll walk through adding the model and form classes, as well as styling page elements with DaisyUI component classes.\n\nWe'll then learn how to submit data using HTMX, and how to update the DOM in response to those requests, again with DaisyUI components responsible for the styles. We will see how to mark to-dos as completed, and how to remove them from the database and front-end (with help from custom HTMX events).\n\n📌 𝗖𝗵𝗮𝗽𝘁𝗲𝗿𝘀:\n00:00 Intro\n00:43 DaisyUI\n02:12 Creating Todo Django model class\n04:06 Fetching and Displaying Todos\n06:57 Adding TailwindCSS & DaisyUI\n10:12 Adding DaisyUI Table component\n11:21 Create Todo form class\n13:29 Improving form styles with django-widget-tweaks\n16:42 Adding HTMX to project\n20:49 Creating partial template with django-template-partials\n29:05 Marking to-do complete with HTMX\n33:54 Deleting Todo with HTMX\n\n☕️ 𝗕𝘂𝘆 𝗺𝗲 𝗮 𝗰𝗼𝗳𝗳𝗲𝗲:\nTo support the channel and encourage new videos, please consider buying me a coffee here:\nhttps://ko-fi.com/bugbytes\n\n▶️ Full Playlist:\nhttps://www.youtube.com/playlist?list=PL-2EBeDYMIbRByZ8GXhcnQSuv2dog4JxY\n\n𝗦𝗼𝗰𝗶𝗮𝗹 𝗠𝗲𝗱𝗶𝗮:\n📖 Blog: https://bugbytes.io/posts/\n👾 Github: https://github.com/bugbytes-io/htmx-django-daisyui\n🐦 Twitter: https://twitter.com/bugbytesio\n\n📚 𝗙𝘂𝗿𝘁𝗵𝗲𝗿 𝗿𝗲𝗮𝗱𝗶𝗻𝗴 𝗮𝗻𝗱 𝗶𝗻𝗳𝗼𝗿𝗺𝗮𝘁𝗶𝗼𝗻:\nStarter Code: https://github.com/bugbytes-io/htmx-django-daisyui\nDaisyUI: https://daisyui.com/\nDaisyUI Install: https://daisyui.com/docs/cdn/\nDaisyUI Button: https://daisyui.com/components/button/\nDaisyUI Table: https://daisyui.com/components/table/\ndjango-widget-tweaks: https://pypi.org/project/django-widget-tweaks/\nHTMX: https://htmx.org/docs/#installing\nDjango-template-partials: https://github.com/carltongibson/django-template-partials\nAdding CSRF Token to HTMX Request: https://django-htmx.readthedocs.io/en/latest/tips.html\n \n#python #django #webdevelopment #htmx"
       },
       "defaultAudioLanguage": "en-GB"
     },
@@ -3899,7 +4497,7 @@
         "hooks",
         "جافاسكريبت",
         "شات",
-        "شات بوت",
+        "��ات بوت",
         "ذكاء اصطناعي",
         "شات جي بي تي",
         "لانجتشين",
@@ -4493,7 +5091,7 @@
       "publishedAt": "2023-07-22T03:00:34Z",
       "channelId": "UCDSn4Ql7fuyjxsSNOws81iQ",
       "title": "เขียน TailwindCSS ให้สั้นลงด้วย DaisyUI",
-      "description": "ใครที่ใช้ TailwindCSS ไปซักพักแล้วรู้สึกว่าเอ๊ะ Class ที่เราเขียนมันยาววว ซะเหลือเกิน กว่าจะอ่านให้เก็ทแต่ละทีเล่นซะหัวหมุน มาลองรู้จักกับ DaisyUI ที่จะทำให้เพื่อนๆ เขียน TailwindCSS ให้มันสั้นลงกันเถอะ!\n\nลิงก์สอน  TailwindCSS  https://www.youtube.com/watch?v=dDf_fNbqUYM&t=21s\n\nลิงก์ DaisyUI https://daisyui.com/\n\nมาแบ่งปันความรู้ แชร์ประสบการณ์ใน Community borntoDev ได้ที่ https://discord.com/invite/wam6MYrfND\nเข้าร่วมกลุ่ม Facebook Community ได้ที่ https://www.facebook.com/groups/24251... \nสนใจจัดอบรมออฟไลน์ ดูรายละเอียดได้ที่นี่ https://www.borntodev.com/borntodev-f... \n\n▲ ติดตามช่องของเราได้ที่ : https://bit.ly/SubBorntoDev\n▲ Facebook : https://www.facebook.com/borntodev\n▲ Website : http://www.borntodev.com/\n\n🦖BorntoDev Channel คือ ช่องยูทูปที่เน้นสาระด้านเทคโนโลยี การพัฒนาโปรแกรม ไปพร้อมกับความสนุกสนาน และ รอยยิ้มเข้าไว้ด้วยกันทั้งในรูปแบบบทเรียน และ vlog เพื่อการเปลี่ยนรูปแบบการเรียนรู้ด้านการพัฒนาโปรแกรม และ เทคโนโลยีแบบเดิม ๆ ที่เป็นเรื่องเฉพาะกลุ่มให้เข้าถึง เข้าใจได้ง่ายยิ่งขึ้น โดยพัฒนาเน้นไปที่รูปแบบการนำเสนอใหม่ ๆ ที่เป็นมิตรกับทุกคน\n\n▲ กิจกรรมใน Channel BorntoDev เป็นส่วนหนึ่งในการดำเนินงานของ บริษัท บอร์นทูเดฟ จำกัด ที่เปิดรับ Partners ที่สนใจร่วมเปลี่ยนแปลงให้สังคมไทยเป็นสังคมด้านวิทยาศาสตร์ และ เทคโนโลย���มากยิ่งขึ้น หากคุณสนใจสนับสนุน และ ก้าวไปพร้อมกัน สามารถติดต่อร่วมงานได้แล้ววันนี้\n\n▲ ติดต่อโฆษณา สนับสนุน และ ร่วมงานได้ที่: support@borntoDev.com",
+      "description": "ใครที่ใช้ TailwindCSS ไปซักพักแล้วรู้สึกว่าเอ๊ะ Class ที่เราเขียนมันยาววว ซะเหลือเกิน กว่าจะอ่านให้เก็ทแต่ละทีเล่นซะหัวหมุน มาลองรู้จักกับ DaisyUI ที่จะทำให้เพื่อนๆ เขียน TailwindCSS ให้มันสั้นลงกันเถอะ!\n\nลิงก์สอน  TailwindCSS  https://www.youtube.com/watch?v=dDf_fNbqUYM&t=21s\n\nลิงก์ DaisyUI https://daisyui.com/\n\nมาแบ่งปันความรู้ แชร์ประสบการณ์ใน Community borntoDev ได้ที่ https://discord.com/invite/wam6MYrfND\nเข้าร่วมกลุ่ม Facebook Community ได้ที่ https://www.facebook.com/groups/24251... \nสนใจจัดอบรมออฟไลน์ ดูรายละเอียดได้ที่นี่ https://www.borntodev.com/borntodev-f... \n\n▲ ติดตามช่องของเราได้ที่ : https://bit.ly/SubBorntoDev\n▲ Facebook : https://www.facebook.com/borntodev\n▲ Website : http://www.borntodev.com/\n\n🦖BorntoDev Channel คือ ช่องยูทูปที่เน้นสาระด้านเทคโนโลยี การพัฒนาโปรแกรม ไปพร้อมกับความสนุกสนาน และ รอยยิ้มเข้าไว้ด้วยกันทั้งในรูปแบบบทเรียน และ vlog เพื่อการเปลี่ยนรูปแบบการเรียนรู้ด้านการพัฒนาโปรแกรม และ เทคโนโลยีแบบเดิม ๆ ที่เป็นเรื่องเฉพาะกลุ่มให้เข้าถึง เข้าใจได้ง่ายยิ่งขึ้น โดยพัฒนาเน้นไปที่รูปแบบการนำเสนอใหม่ ๆ ที่เป็นมิตรกับทุกคน\n\n▲ กิจกรรมใน Channel BorntoDev เป็นส่วนหนึ่งในการดำเนินงานของ บริษัท บอร์นทูเดฟ จำกัด ที่เปิดรับ Partners ที่สนใจร่วมเปลี่ยนแปลงให้สังคมไทยเป็นสังคมด้านวิทยาศาสตร์ และ เทคโนโลยีมากยิ่งขึ้น หากคุณสนใจสนับสนุน และ ก้าวไปพร้อมกัน สามารถติดต่อร่วมงานได้แล้ววันนี้\n\n▲ ติดต่อโฆษณา สนับสนุน และ ร่วมงานได้ที่: support@borntoDev.com",
       "thumbnails": {
         "default": {
           "url": "https://i.ytimg.com/vi/uK5fEIiFEAI/default.jpg",
@@ -8293,6 +8891,86 @@
         "description": "Vue + Supabase + Capacitor + DaisyUI Drawer: A Mobile App Starter Template\n\nThis video covers walking through a mobile application template using Vue.js, Capacitor, Supabase, Tailwind CSS, and DaisyUI, with a specific focus on implementing a functional and responsive drawer navigation. \n\nWhat Covered:\n* Initial Setup: Project setup, including necessary libraries (Vue Router, Pinia, Supabase) and environment variables.\n* Authentication: Implementing user authentication with Supabase, including sign-in, sign-up, and handling authentication state.\n* Drawer Component: Building the drawer using daisyUI components, managing its open/close state, and handling routing.\n* Composables: Using a Vue.js composable (useDrawer) to centralize drawer state management.\n* Navigation: Setting up routes using Vue Router, linking drawer items to specific pages, and handling back button behavior.\n* Deployment: Building and deploying the application to an iOS device using Capacitor.\n\n\n⏱️ Chapters\n=================\n00:00 Introduction and project overview\n00:40 Demo of the app's drawer navigation\n01:40 Installing daisyUI and Tailwind.\n01:58 Exploring the daisyUI drawer component documentation\n04:37 Walkthrough of main.ts: initializing the app, setting up authentication with Supabase.\n05:53 Walkthrough of authStore.ts: managing authentication state with Pinia.\n06:25 App.vue -  How I am Using the Drawer Component\n07:12 useDrawer Composable\n07:57 Walkthrough of DrawerComponent.vue:\n    Handling drawer open/close state.\n    Using drawer-toggle, drawer-content, drawer-side, drawer-overlay.\n    Rendering drawer content using slot.\n    Using v-for to create menu items.\n    handleLinkClick function for navigation.\n    watch for changes in props.\n13:35 Navbar component and the back button.\n14:58 Creating the routes.\n17:40 Building and deploying the app to an iOS device using Capacitor\n\n\n🔗 Helpful Links\n=================\n- How To Create A Mobile App Using Vite, Vue, and Ionic Capacitor In 8 Minutes Including Explanation - https://youtu.be/K_OwSHPxT-A\n- Setting Up Vue with Capacitor - https://youtu.be/K_OwSHPxT-A\n- Ionic MS Code Extension: https://ionicframework.com/docs/intro/vscode-extension#:\n- daisyUI: https://daisyui.com/\n- Vue.js: https://vuejs.org/\n- Capacitor: https://capacitorjs.com/\n- Tailwind: https://tailwindcss.com/\n- Supabase: https://supabase.com/\n- Pinia:https://pinia.vuejs.org/\n- Vue Router: https://router.vuejs.org/\n\n🖥️ Source Code\n=================\nhttps://github.com/aaronksaunders/daisyui-vue-drawer-2025\n\n#vitejs #vuejs #capacitor #tailwindcss #daisyui #supabase #authentication #pinia #mobileappdevelopment #mobileapps  \nvue mobile app creation with vue js"
       },
       "defaultAudioLanguage": "en-US"
+    },
+    "status": {
+      "uploadStatus": "processed",
+      "privacyStatus": "public",
+      "license": "youtube",
+      "embeddable": true,
+      "publicStatsViewable": true,
+      "madeForKids": false
+    }
+  },
+  {
+    "kind": "youtube#video",
+    "etag": "RpEcp_e8osGLXtgsIUvNzKGbcX8",
+    "id": "cnBUkbTcMak",
+    "snippet": {
+      "publishedAt": "2025-04-04T16:39:11Z",
+      "channelId": "UCA2Pi4938l8S5LFlLpXh9Pw",
+      "title": "Master Class Vue 3 2025 -  (Vite, Tailwind e DaisyUI 5)",
+      "description": "Bem-vindo à Master Class Vue 3 2025! Se você está começando no mundo do desenvolvimento front-end ou deseja aprimorar suas habilidades com o Vue.js, este curso é para você. Neste vídeo, você aprenderá o básico do framework Vue 3, uma das ferramentas mais poderosas e populares para criação de interfaces interativas e dinâmicas.\n\nCapítulos:\n\n00:00 - Início\n03:25 - Criando e instalando dependências do Vue.js\n10:30 - DaisyUI\n15:45 - Temas no DaisyUI\n17:19  - Template Syntax\n20:47 - Reatividade (ref)\n27:12 - Propriedades Computadas(computed)\n30:51 - Classes e Styles\n44:30 - Renderização Condicional(v-if,  v-else, v-show)\n48:48 - Renderização de Listas(v-for)\n01:08:55 - Form Input Binds(v-model)\n01:26:16 - Watchers\n01:34:56 - Subindo para o github\n01:37:31 - Deploy Netlify\n\nO que você vai aprender:\n\nFundamentos do Vue 3: Entenda como o Vue funciona e como estruturar sua aplicação.\n\nConfiguração do Vite: Aprenda a configurar e otimizar seu ambiente de desenvolvimento com o Vite, uma ferramenta moderna e super rápida.\n\nDesign com Tailwind CSS: Crie layouts modernos e responsivos de forma fácil e flexível com o Tailwind.\n\nEstilos com DaisyUI 5: Descubra como usar o DaisyUI 5, uma biblioteca de componentes prontos, para dar um toque elegante e funcional ao seu projeto.\n\nAo final desta Master Class, você terá uma base sólida para começar a criar suas próprias aplicações Vue 3 de maneira eficiente, rápida e com um design incrível. Então, prepare-se para mergulhar no Vue 3 com Vite, Tailwind e DaisyUI 5 e dê o primeiro passo para se tornar um especialista no desenvolvimento front-end!\n\n🔔 Não se esqueça de se inscrever no canal e ativar as notificações para mais conteúdos como este. Deixe seu like e comente suas dúvidas, vamos crescer juntos na jornada do desenvolvimento!\n\nRepositório: https://github.com/patrickmonteiro/master-class-vue3-2025\n\n#Vue3 #Vite #TailwindCSS #DaisyUI #FrontEnd #DesenvolvimentoWeb #MasterClass #CursoVue3 #Desenvolvimento #Programação #Tecnologia #2025",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/cnBUkbTcMak/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/cnBUkbTcMak/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/cnBUkbTcMak/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/cnBUkbTcMak/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/cnBUkbTcMak/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Patrick Monteiro",
+      "tags": [
+        "vue",
+        "vue 3",
+        "quasar",
+        "quasar framework",
+        "tutorial quasar framework",
+        "curso quasar framework",
+        "curso",
+        "curso vue 3",
+        "composition api vue 3",
+        "pwa",
+        "front-end",
+        "html",
+        "css",
+        "javascript",
+        "react crud",
+        "vue crud",
+        "quasar vue 3",
+        "quasar tutorial",
+        "quasar vue",
+        "vuetify",
+        "vuetify 3",
+        "vuetify tutorial",
+        "firebase"
+      ],
+      "categoryId": "28",
+      "liveBroadcastContent": "none",
+      "defaultLanguage": "pt",
+      "localized": {
+        "title": "Master Class Vue 3 2025 -  (Vite, Tailwind e DaisyUI 5)",
+        "description": "Bem-vindo à Master Class Vue 3 2025! Se você está começando no mundo do desenvolvimento front-end ou deseja aprimorar suas habilidades com o Vue.js, este curso é para você. Neste vídeo, você aprenderá o básico do framework Vue 3, uma das ferramentas mais poderosas e populares para criação de interfaces interativas e dinâmicas.\n\nCapítulos:\n\n00:00 - Início\n03:25 - Criando e instalando dependências do Vue.js\n10:30 - DaisyUI\n15:45 - Temas no DaisyUI\n17:19  - Template Syntax\n20:47 - Reatividade (ref)\n27:12 - Propriedades Computadas(computed)\n30:51 - Classes e Styles\n44:30 - Renderização Condicional(v-if,  v-else, v-show)\n48:48 - Renderização de Listas(v-for)\n01:08:55 - Form Input Binds(v-model)\n01:26:16 - Watchers\n01:34:56 - Subindo para o github\n01:37:31 - Deploy Netlify\n\nO que você vai aprender:\n\nFundamentos do Vue 3: Entenda como o Vue funciona e como estruturar sua aplicação.\n\nConfiguração do Vite: Aprenda a configurar e otimizar seu ambiente de desenvolvimento com o Vite, uma ferramenta moderna e super rápida.\n\nDesign com Tailwind CSS: Crie layouts modernos e responsivos de forma fácil e flexível com o Tailwind.\n\nEstilos com DaisyUI 5: Descubra como usar o DaisyUI 5, uma biblioteca de componentes prontos, para dar um toque elegante e funcional ao seu projeto.\n\nAo final desta Master Class, você terá uma base sólida para começar a criar suas próprias aplicações Vue 3 de maneira eficiente, rápida e com um design incrível. Então, prepare-se para mergulhar no Vue 3 com Vite, Tailwind e DaisyUI 5 e dê o primeiro passo para se tornar um especialista no desenvolvimento front-end!\n\n🔔 Não se esqueça de se inscrever no canal e ativar as notificações para mais conteúdos como este. Deixe seu like e comente suas dúvidas, vamos crescer juntos na jornada do desenvolvimento!\n\nRepositório: https://github.com/patrickmonteiro/master-class-vue3-2025\n\n#Vue3 #Vite #TailwindCSS #DaisyUI #FrontEnd #DesenvolvimentoWeb #MasterClass #CursoVue3 #Desenvolvimento #Programação #Tecnologia #2025"
+      },
+      "defaultAudioLanguage": "pt"
     },
     "status": {
       "uploadStatus": "processed",
