@@ -59,7 +59,7 @@ productCustomAttributes:
       - [🛟 Support, null, null, null]
       - [Support in Discord, true, true, true]
       - [Updates and bugfixes, true, true, true]
-    tech: [html, svelte, react, nextjs, vue]
+    tech: [html, svelte, react, nextjs]
     tags: [nexus, dashboard]
     badge:
       class: badge-success
@@ -239,7 +239,7 @@ productCustomAttributes:
       - [🛟 Support, null, null, null]
       - [Support in Discord, true, true, true]
       - [Updates and bugfixes, true, true, true]
-    tech: [html, svelte, react, nextjs]
+    tech: [html, svelte, react, nextjs, vue]
     tags: [nexus, dashboard]
     badge:
       class: badge-success
