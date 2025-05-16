@@ -9,7 +9,7 @@ productCustomAttributes:
       Scalo is the ultimate startup front-end template
 
 
-      Made with Tailwind CSS 4.0 and daisyUI 5.0
+      Made with Tailwind CSS 4.1 and daisyUI 5.0
 
 
       Including:
@@ -30,7 +30,7 @@ productCustomAttributes:
 
 
       Team and Enterprise license:
-        - includes HTML, React, Next.js and SvelteKit versions
+        - includes HTML, React, Next.js, SvelteKit and 🆕 Nuxt versions
         - For unlimited developers
         - For unlimited projects (Enterprise only)
     media:
@@ -59,7 +59,7 @@ productCustomAttributes:
       - [🛟 Support, null, null, null]
       - [Support in Discord, true, true, true]
       - [Updates and bugfixes, true, true, true]
-    tech: [html, svelte, react, nextjs]
+    tech: [html, svelte, react, nextjs, vue]
     tags: [nexus, dashboard]
     badge:
       class: badge-success
@@ -210,13 +210,10 @@ productCustomAttributes:
         ratio: 1000/750
       - type: image
         sm: https://img.daisyui.com/images/store/small/nexus/nexus-v2.2-1.webp
-        lg: https://img.daisyui.com/images/store/large/nexus/nexus-v2.2-1.webp
+        lg: https://img.daisyui.com/images/store/large/nexus/nexus-v2.webp
       - type: image
         sm: https://img.daisyui.com/images/store/small/nexus/nexus-v2.2-2.webp
         lg: https://img.daisyui.com/images/store/large/nexus/nexus-v2.2-2.webp
-      - type: image
-        sm: https://img.daisyui.com/images/store/small/nexus/nexus-v2.2-3.webp
-        lg: https://img.daisyui.com/images/store/large/nexus/nexus-v2.2-3.webp
       - type: image
         sm: https://img.daisyui.com/images/store/small/nexus/nexus-v2.2-4.webp
         lg: https://img.daisyui.com/images/store/large/nexus/nexus-v2.2-4.webp
@@ -224,6 +221,7 @@ productCustomAttributes:
       img: https://img.daisyui.com/images/profile/people/pouya-saadeghi.webp
       name: Pouya
       text:
+        - Nexus 2.3 added with new latest dependencies + Nuxt (Vue) version!
         - Nexus 2.2 added with new dashboard layout for Generative-AI apps, New Material Dark theme, calendar examples
         # - Nexus 2.1 added with Profile settings page, Help and FAQ page, Generative AI pages.
         # - Nexus 2.0 is now available with Tailwind CSS 4.0 and daisyUI 5.0! New design, new pages, more themes, more features, with many improvements and bug fixes.
