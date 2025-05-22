@@ -1,170 +1,4 @@
 productCustomAttributes:
-  - id: 475050
-    title: Scalo Startup Template
-    banner: >-
-      Looking for a dashboard template too?
-      <br/>Get Scalo startup template + [Nexus dashboard template](/store/244268/) as a bundle and save up to $99!
-      <br/><a target="_blank" rel="noopener noreferrer" href="https://daisyui.com/store/checkout?product=2ec5128f-1abc-4e3c-a55c-529ce31f08aa&aff=Db6q2">Click here for the bundle</a>
-    desc: >-
-      Scalo is the ultimate startup front-end template
-
-
-      Made with Tailwind CSS 4 and daisyUI 5
-
-
-      Including:
-        - 20 pages
-        - 2 Landings (Automation and developer)
-        - 4 Pricing sections (Lifetime, Subscription, User-based & comparison)
-        - Auth pages (Login, Register, 2 Factor, Forgot & Reset Password)
-        - Settings (Profile, Account, Notification & Manage plans)
-        - Testimonial Sections (Simple & Swiper)
-        - FAQs & Contact Us pages
-        - Included with light & dark theme
-        - Compatible with all daisyUI themes
-
-
-      Solo license:
-        - Includes HTML version
-        - For one developer, one project
-
-
-      Team and Enterprise license:
-        - includes HTML, React, Next.js, SvelteKit and 🆕 Nuxt versions
-        - For unlimited developers
-        - For unlimited projects (Enterprise only)
-    media:
-      - type: image
-        sm: https://img.daisyui.com/images/store/small/scalo/tailwind-template-scalo-scalo-1.webp
-        lg: https://img.daisyui.com/images/store/large/scalo/tailwind-template-scalo-scalo-1.webp
-      - type: image
-        sm: https://img.daisyui.com/images/store/small/scalo/tailwind-template-scalo-scalo-2.webp
-        lg: https://img.daisyui.com/images/store/large/scalo/tailwind-template-scalo-scalo-2.webp
-      - type: image
-        sm: https://img.daisyui.com/images/store/small/scalo/tailwind-template-scalo-scalo-3.webp
-        lg: https://img.daisyui.com/images/store/large/scalo/tailwind-template-scalo-scalo-3.webp
-      - type: image
-        sm: https://img.daisyui.com/images/store/small/scalo/tailwind-template-scalo-scalo-4.webp
-        lg: https://img.daisyui.com/images/store/large/scalo/tailwind-template-scalo-scalo-4.webp
-    packages:
-      - [null, Solo package, Team package, Enterprise package]
-      - [🛠️ Frameworks, null, null, null]
-      - [HTML version, true, true, true]
-      - [React version, false, true, true]
-      - [Next.js version, false, true, true]
-      - [SvelteKit version, false, true, true]
-      - [⚖️ License, null, null, null]
-      - [Developer seats, 1, Unlimited, Unlimited]
-      - [Projects limit, 1, 1, Unlimited]
-      - [🛟 Support, null, null, null]
-      - [Support in Discord, true, true, true]
-      - [Updates and bugfixes, true, true, true]
-    tech: [html, svelte, react, nextjs]
-    tags: [nexus, dashboard]
-    badge:
-      class: badge-success
-      icon: check
-      text: Updated to daisyUI 5.0
-    links:
-      license: https://api.daisyui.com/license/scalo@1.txt
-      screenshot: https://img.daisyui.com/images/store/screenshots/scalo.webp
-      preview: https://scalo.daisyui.com/
-    ref: Db6q2
-
-  - id: 479479
-    title: Blink template
-    desc: >-
-      Blink is a template for agencies, companies, startups, or small businesses
-      <br/>Available for React and Svelte
-
-
-      Features:
-        - Made with Tailwind CSS and daisyUI
-        - Compatible with all daisyUI themes
-        - Clean, responsive, easy to customize
-        - Dark and light theme switch button
-
-      Including:
-        - Landing page
-        - Pricing page and pricing table
-        - Projects (portfolio) page
-        - About page
-        - Contact form
-    media:
-      - type: image
-        sm: https://img.daisyui.com/images/store/small/blink/blink-08.webp
-        lg: https://img.daisyui.com/images/store/large/blink/blink-08.webp
-      - type: image
-        sm: https://img.daisyui.com/images/store/small/blink/blink-01.webp
-        lg: https://img.daisyui.com/images/store/large/blink/blink-01.webp
-      - type: image
-        sm: https://img.daisyui.com/images/store/small/blink/blink-03.webp
-        lg: https://img.daisyui.com/images/store/large/blink/blink-03.webp
-      - type: image
-        sm: https://img.daisyui.com/images/store/small/blink/blink-06.webp
-        lg: https://img.daisyui.com/images/store/large/blink/blink-06.webp
-      - type: image
-        sm: https://img.daisyui.com/images/store/small/blink/blink-05.webp
-        lg: https://img.daisyui.com/images/store/large/blink/blink-05.webp
-      - type: image
-        sm: https://img.daisyui.com/images/store/small/blink/blink-04.webp
-        lg: https://img.daisyui.com/images/store/large/blink/blink-04.webp
-      - type: image
-        sm: https://img.daisyui.com/images/store/small/blink/blink-07.webp
-        lg: https://img.daisyui.com/images/store/large/blink/blink-07.webp
-    links:
-      license: https://api.daisyui.com/license/blink@1.txt
-      screenshot: https://img.daisyui.com/images/store/screenshots/blink.webp
-    tech: [react, svelte, vite]
-    tags: [landing]
-    badge:
-      class: badge-success
-      icon: check
-      text: Updated to daisyUI 5.0
-  - id: 426780
-    title: Online Store template
-    desc: >-
-      **Fully functional LemonSqueezy store template made with daisyUI**
-
-
-      Made with daisyUI and Next.js 15
-
-
-      Add your **LemonSqueezy API key** to the env file, add custom data for your products and your online store will be ready in **less than 5 minutes**!
-
-
-      This template receives your simple list of products coming from the LemonSqueezy API, adds your custom data and attributes to the products and generates a functional online store with all the standard online store capabilities you need.
-
-
-      Including Homepage, collections page with filter and sort, product page with image gallery, zoom, custom attributes, variant links, related product suggestions and more.
-    faq:
-      - Q: Can I use this template without Lemon Squeezy?
-        A: If the Lemon Squeezy API key is not provided, the data will come from the local JSON file. So you can use the template without Lemon Squeezy, using a static JSON file, and for checkout and payment you can use your own solution.
-    media:
-      - type: image
-        sm: https://img.daisyui.com/images/store/small/online-store/online-store-01.webp
-        lg: https://img.daisyui.com/images/store/large/online-store/online-store-01.webp
-      - type: image
-        sm: https://img.daisyui.com/images/store/small/online-store/online-store-02.webp
-        lg: https://img.daisyui.com/images/store/large/online-store/online-store-02.webp
-      - type: image
-        sm: https://img.daisyui.com/images/store/small/online-store/online-store-03.webp
-        lg: https://img.daisyui.com/images/store/large/online-store/online-store-03.webp
-      - type: image
-        sm: https://img.daisyui.com/images/store/small/online-store/online-store-04.webp
-        lg: https://img.daisyui.com/images/store/large/online-store/online-store-04.webp
-      - type: image
-        sm: https://img.daisyui.com/images/store/small/online-store/online-store-05.webp
-        lg: https://img.daisyui.com/images/store/large/online-store/online-store-05.webp
-    links:
-      license: https://api.daisyui.com/license/online-store@1.txt
-      screenshot: https://img.daisyui.com/images/store/screenshots/online-store.webp
-    tech: [nextjs, react]
-    tags: [ecommerce, app]
-    badge:
-      class: badge-info
-      icon: wait
-      text: daisyUI 5.0 update coming soon
   - id: 244268
     title: Nexus Dashboard 2.3
     banner: >-
@@ -250,6 +84,79 @@ productCustomAttributes:
       screenshot: https://img.daisyui.com/images/store/screenshots/nexus-2.webp
       preview: https://nexus.daisyui.com/
     ref: Db6q2
+
+  - id: 475050
+    title: Scalo Startup Template
+    banner: >-
+      Looking for a dashboard template too?
+      <br/>Get Scalo startup template + [Nexus dashboard template](/store/244268/) as a bundle and save up to $99!
+      <br/><a target="_blank" rel="noopener noreferrer" href="https://daisyui.com/store/checkout?product=2ec5128f-1abc-4e3c-a55c-529ce31f08aa&aff=Db6q2">Click here for the bundle</a>
+    desc: >-
+      Scalo is the ultimate startup front-end template
+
+
+      Made with Tailwind CSS 4 and daisyUI 5
+
+
+      Including:
+        - 20 pages
+        - 2 Landings (Automation and developer)
+        - 4 Pricing sections (Lifetime, Subscription, User-based & comparison)
+        - Auth pages (Login, Register, 2 Factor, Forgot & Reset Password)
+        - Settings (Profile, Account, Notification & Manage plans)
+        - Testimonial Sections (Simple & Swiper)
+        - FAQs & Contact Us pages
+        - Included with light & dark theme
+        - Compatible with all daisyUI themes
+
+
+      Solo license:
+        - Includes HTML version
+        - For one developer, one project
+
+
+      Team and Enterprise license:
+        - includes HTML, React, Next.js, SvelteKit and 🆕 Nuxt versions
+        - For unlimited developers
+        - For unlimited projects (Enterprise only)
+    media:
+      - type: image
+        sm: https://img.daisyui.com/images/store/small/scalo/tailwind-template-scalo-scalo-1.webp
+        lg: https://img.daisyui.com/images/store/large/scalo/tailwind-template-scalo-scalo-1.webp
+      - type: image
+        sm: https://img.daisyui.com/images/store/small/scalo/tailwind-template-scalo-scalo-2.webp
+        lg: https://img.daisyui.com/images/store/large/scalo/tailwind-template-scalo-scalo-2.webp
+      - type: image
+        sm: https://img.daisyui.com/images/store/small/scalo/tailwind-template-scalo-scalo-3.webp
+        lg: https://img.daisyui.com/images/store/large/scalo/tailwind-template-scalo-scalo-3.webp
+      - type: image
+        sm: https://img.daisyui.com/images/store/small/scalo/tailwind-template-scalo-scalo-4.webp
+        lg: https://img.daisyui.com/images/store/large/scalo/tailwind-template-scalo-scalo-4.webp
+    packages:
+      - [null, Solo package, Team package, Enterprise package]
+      - [🛠️ Frameworks, null, null, null]
+      - [HTML version, true, true, true]
+      - [React version, false, true, true]
+      - [Next.js version, false, true, true]
+      - [SvelteKit version, false, true, true]
+      - [⚖️ License, null, null, null]
+      - [Developer seats, 1, Unlimited, Unlimited]
+      - [Projects limit, 1, 1, Unlimited]
+      - [🛟 Support, null, null, null]
+      - [Support in Discord, true, true, true]
+      - [Updates and bugfixes, true, true, true]
+    tech: [html, svelte, react, nextjs]
+    tags: [nexus, dashboard]
+    badge:
+      class: badge-success
+      icon: check
+      text: Updated to daisyUI 5.0
+    links:
+      license: https://api.daisyui.com/license/scalo@1.txt
+      screenshot: https://img.daisyui.com/images/store/screenshots/scalo.webp
+      preview: https://scalo.daisyui.com/
+    ref: Db6q2
+
   - id: 351127
     title: Official daisyUI Figma Library
     desc: >-
@@ -350,7 +257,104 @@ productCustomAttributes:
     badge:
       class: badge-info
       icon: wait
-      text: daisyUI 5.0 update in development
+      text: daisyUI 5 update will be available this July
+
+  - id: 479479
+    title: Blink template
+    desc: >-
+      Blink is a template for agencies, companies, startups, or small businesses
+      <br/>Available for React and Svelte
+
+
+      Features:
+        - Made with Tailwind CSS and daisyUI
+        - Compatible with all daisyUI themes
+        - Clean, responsive, easy to customize
+        - Dark and light theme switch button
+
+      Including:
+        - Landing page
+        - Pricing page and pricing table
+        - Projects (portfolio) page
+        - About page
+        - Contact form
+    media:
+      - type: image
+        sm: https://img.daisyui.com/images/store/small/blink/blink-08.webp
+        lg: https://img.daisyui.com/images/store/large/blink/blink-08.webp
+      - type: image
+        sm: https://img.daisyui.com/images/store/small/blink/blink-01.webp
+        lg: https://img.daisyui.com/images/store/large/blink/blink-01.webp
+      - type: image
+        sm: https://img.daisyui.com/images/store/small/blink/blink-03.webp
+        lg: https://img.daisyui.com/images/store/large/blink/blink-03.webp
+      - type: image
+        sm: https://img.daisyui.com/images/store/small/blink/blink-06.webp
+        lg: https://img.daisyui.com/images/store/large/blink/blink-06.webp
+      - type: image
+        sm: https://img.daisyui.com/images/store/small/blink/blink-05.webp
+        lg: https://img.daisyui.com/images/store/large/blink/blink-05.webp
+      - type: image
+        sm: https://img.daisyui.com/images/store/small/blink/blink-04.webp
+        lg: https://img.daisyui.com/images/store/large/blink/blink-04.webp
+      - type: image
+        sm: https://img.daisyui.com/images/store/small/blink/blink-07.webp
+        lg: https://img.daisyui.com/images/store/large/blink/blink-07.webp
+    links:
+      license: https://api.daisyui.com/license/blink@1.txt
+      screenshot: https://img.daisyui.com/images/store/screenshots/blink.webp
+    tech: [react, svelte, vite]
+    tags: [landing]
+    badge:
+      class: badge-success
+      icon: check
+      text: Updated to daisyUI 5.0
+
+  - id: 426780
+    title: Online Store template
+    desc: >-
+      **Fully functional LemonSqueezy store template made with daisyUI**
+
+
+      Made with daisyUI and Next.js 15
+
+
+      Add your **LemonSqueezy API key** to the env file, add custom data for your products and your online store will be ready in **less than 5 minutes**!
+
+
+      This template receives your simple list of products coming from the LemonSqueezy API, adds your custom data and attributes to the products and generates a functional online store with all the standard online store capabilities you need.
+
+
+      Including Homepage, collections page with filter and sort, product page with image gallery, zoom, custom attributes, variant links, related product suggestions and more.
+    faq:
+      - Q: Can I use this template without Lemon Squeezy?
+        A: If the Lemon Squeezy API key is not provided, the data will come from the local JSON file. So you can use the template without Lemon Squeezy, using a static JSON file, and for checkout and payment you can use your own solution.
+    media:
+      - type: image
+        sm: https://img.daisyui.com/images/store/small/online-store/online-store-01.webp
+        lg: https://img.daisyui.com/images/store/large/online-store/online-store-01.webp
+      - type: image
+        sm: https://img.daisyui.com/images/store/small/online-store/online-store-02.webp
+        lg: https://img.daisyui.com/images/store/large/online-store/online-store-02.webp
+      - type: image
+        sm: https://img.daisyui.com/images/store/small/online-store/online-store-03.webp
+        lg: https://img.daisyui.com/images/store/large/online-store/online-store-03.webp
+      - type: image
+        sm: https://img.daisyui.com/images/store/small/online-store/online-store-04.webp
+        lg: https://img.daisyui.com/images/store/large/online-store/online-store-04.webp
+      - type: image
+        sm: https://img.daisyui.com/images/store/small/online-store/online-store-05.webp
+        lg: https://img.daisyui.com/images/store/large/online-store/online-store-05.webp
+    links:
+      license: https://api.daisyui.com/license/online-store@1.txt
+      screenshot: https://img.daisyui.com/images/store/screenshots/online-store.webp
+    tech: [nextjs, react]
+    tags: [ecommerce, app]
+    badge:
+      class: badge-info
+      icon: wait
+      text: daisyUI 5.0 update coming soon
+
   - id: 284327
     title: Documentation template
     desc: >-
@@ -397,6 +401,7 @@ productCustomAttributes:
       class: badge-success
       icon: check
       text: Updated to daisyUI 5.0
+
   - id: 142623
     title: SaaS landing page
     desc: >-
@@ -458,6 +463,7 @@ productCustomAttributes:
       class: badge-success
       icon: check
       text: Updated to daisyUI 5.0
+
   - id: 208203
     title: Blog template
     desc: >-
@@ -497,6 +503,7 @@ productCustomAttributes:
       class: badge-success
       icon: check
       text: Updated to daisyUI 5.0
+
   - id: 185227
     title: Mobile app landing page
     desc: >-
@@ -547,6 +554,7 @@ productCustomAttributes:
       class: badge-success
       icon: check
       text: Updated to daisyUI 5.0
+
   - id: 130237
     title: Auth template
     desc: >-
@@ -594,6 +602,7 @@ productCustomAttributes:
       class: badge-success
       icon: check
       text: Updated to daisyUI 5.0
+
   - id: 120591
     title: HTML Dashboard template
     desc: >-
