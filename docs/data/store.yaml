@@ -55,7 +55,7 @@ productCustomAttributes:
       img: https://img.daisyui.com/images/profile/people/pouya-saadeghi.webp
       name: Pouya
       text:
-        - Nexus 2.3 added with new latest dependencies + Nuxt (Vue) version!
+        - Nexus 2.3 added with latest dependencies + Nuxt (Vue) version!
         - Nexus 2.2 added with new dashboard layout for Generative-AI apps, New Material Dark theme, calendar examples
         # - Nexus 2.1 added with Profile settings page, Help and FAQ page, Generative AI pages.
         # - Nexus 2.0 is now available with Tailwind CSS 4.0 and daisyUI 5.0! New design, new pages, more themes, more features, with many improvements and bug fixes.
@@ -86,7 +86,7 @@ productCustomAttributes:
     ref: Db6q2
 
   - id: 475050
-    title: Scalo Startup Template
+    title: Scalo Startup Template 2.0
     banner: >-
       Looking for a dashboard template too?
       <br/>Get Scalo startup template + [Nexus dashboard template](/store/244268/) as a bundle and save up to $99!
@@ -132,6 +132,11 @@ productCustomAttributes:
       - type: image
         sm: https://img.daisyui.com/images/store/small/scalo/tailwind-template-scalo-scalo-4.webp
         lg: https://img.daisyui.com/images/store/large/scalo/tailwind-template-scalo-scalo-4.webp
+    quote:
+      img: https://img.daisyui.com/images/profile/people/pouya-saadeghi.webp
+      name: Pouya
+      text:
+        - Scalo 2.0 added with latest dependencies + new pages and sections!
     packages:
       - [null, Solo package, Team package, Enterprise package]
       - [🛠️ Frameworks, null, null, null]
