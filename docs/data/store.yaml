@@ -99,14 +99,16 @@ productCustomAttributes:
 
 
       Including:
-        - 20 pages
+        - 36 Pages
         - 2 Landings (Automation and developer)
-        - 4 Pricing sections (Lifetime, Subscription, User-based & comparison)
-        - Auth pages (Login, Register, 2 Factor, Forgot & Reset Password)
+        - 7 Pricing sections (Lifetime, Subscription, User-based & comparison-based)
+        - 6 Auth pages (Login, Register, 2FA, Forgot password, Reset password, Verify)
         - Settings (Profile, Account, Notification & Manage plans)
-        - Testimonial Sections (Simple & Swiper)
-        - FAQs & Contact Us pages
-        - Included with light & dark theme
+        - Company pages (Team, Careers, Blogs, Timeline, Privacy & more)
+        - Extra pages (Coming soon page, Maintenance page, Notify & Error pages)
+        - Testimonial Sections (Simple + Swiper)
+        - FAQs + Contact Us pages
+        - Included with light & dark themes
         - Compatible with all daisyUI themes
 
 
@@ -136,7 +138,7 @@ productCustomAttributes:
       img: https://img.daisyui.com/images/profile/people/pouya-saadeghi.webp
       name: Pouya
       text:
-        - Scalo 2.0 added with latest dependencies + new pages and sections!
+        - Scalo 2.0 added with latest dependencies + new pages and sections + Nuxt version!
     packages:
       - [null, Solo package, Team package, Enterprise package]
       - [🛠️ Frameworks, null, null, null]
