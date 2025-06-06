@@ -41,7 +41,7 @@ productCustomAttributes:
         - Gumroad API support added
         - Updated to daisyUI 5.0
     links:
-      license: https://api.daisyui.com/license/online-store@1.txt
+      license: https://api.daisyui.com/license/online-store@2.txt
       screenshot: https://img.daisyui.com/images/store/screenshots/online-store.webp?
     tech: [nextjs, react]
     tags: [ecommerce, app]
