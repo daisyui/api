@@ -49,6 +49,7 @@ productCustomAttributes:
       class: badge-success
       icon: check
       text: Updated to daisyUI 5.0
+    ref: 1ORz2E
 
   - id: 244268
     title: Nexus Dashboard 2.3
@@ -367,6 +368,7 @@ productCustomAttributes:
       class: badge-success
       icon: check
       text: Updated to daisyUI 5.0
+    ref: 1ORz2E
 
   - id: 284327
     title: Documentation template
@@ -414,6 +416,7 @@ productCustomAttributes:
       class: badge-success
       icon: check
       text: Updated to daisyUI 5.0
+    ref: 1ORz2E
 
   - id: 142623
     title: SaaS landing page
@@ -516,6 +519,7 @@ productCustomAttributes:
       class: badge-success
       icon: check
       text: Updated to daisyUI 5.0
+    ref: 1ORz2E
 
   - id: 185227
     title: Mobile app landing page
