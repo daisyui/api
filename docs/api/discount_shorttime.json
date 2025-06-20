@@ -3,52 +3,52 @@
     "version": "1.0"
   },
   "links": {
-    "self": "https://api.lemonsqueezy.com/v1/discounts/776696"
+    "self": "https://api.lemonsqueezy.com/v1/discounts/776912"
   },
   "data": {
     "type": "discounts",
-    "id": "776696",
+    "id": "776912",
     "attributes": {
       "store_id": 10640,
       "name": "Limited time discount code!",
-      "code": "LTDWNLW4BEE5",
+      "code": "LTD9J69GPCPX",
       "amount": 10,
       "amount_type": "percent",
       "is_limited_to_products": false,
       "is_limited_redemptions": false,
       "max_redemptions": 0,
       "starts_at": null,
-      "expires_at": "2025-06-19T21:21:23.000000Z",
+      "expires_at": "2025-06-20T11:23:44.000000Z",
       "duration": "once",
       "duration_in_months": 1,
       "status": "published",
       "status_formatted": "Published",
-      "created_at": "2025-06-19T18:21:24.000000Z",
-      "updated_at": "2025-06-19T18:21:24.000000Z",
+      "created_at": "2025-06-20T06:23:44.000000Z",
+      "updated_at": "2025-06-20T06:23:44.000000Z",
       "test_mode": false
     },
     "relationships": {
       "store": {
         "links": {
-          "related": "https://api.lemonsqueezy.com/v1/discounts/776696/store",
-          "self": "https://api.lemonsqueezy.com/v1/discounts/776696/relationships/store"
+          "related": "https://api.lemonsqueezy.com/v1/discounts/776912/store",
+          "self": "https://api.lemonsqueezy.com/v1/discounts/776912/relationships/store"
         }
       },
       "variants": {
         "links": {
-          "related": "https://api.lemonsqueezy.com/v1/discounts/776696/variants",
-          "self": "https://api.lemonsqueezy.com/v1/discounts/776696/relationships/variants"
+          "related": "https://api.lemonsqueezy.com/v1/discounts/776912/variants",
+          "self": "https://api.lemonsqueezy.com/v1/discounts/776912/relationships/variants"
         }
       },
       "discount-redemptions": {
         "links": {
-          "related": "https://api.lemonsqueezy.com/v1/discounts/776696/discount-redemptions",
-          "self": "https://api.lemonsqueezy.com/v1/discounts/776696/relationships/discount-redemptions"
+          "related": "https://api.lemonsqueezy.com/v1/discounts/776912/discount-redemptions",
+          "self": "https://api.lemonsqueezy.com/v1/discounts/776912/relationships/discount-redemptions"
         }
       }
     },
     "links": {
-      "self": "https://api.lemonsqueezy.com/v1/discounts/776696"
+      "self": "https://api.lemonsqueezy.com/v1/discounts/776912"
     }
   }
 }
