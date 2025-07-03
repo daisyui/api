@@ -316,7 +316,7 @@ productCustomAttributes:
     badge:
       class: badge-info
       icon: wait
-      text: daisyUI 5 update will be available this July
+      text: daisyUI 5 update will be available soon
 
   - id: 479479
     title: Blink template
