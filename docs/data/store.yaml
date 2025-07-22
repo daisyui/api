@@ -219,47 +219,41 @@ productCustomAttributes:
   - id: 351127
     title: Official daisyUI Figma Library
     desc: >-
+      🎉 New version is available for Pro plan. Will be available for all plans next week.
+
+
       **Available in 3 plans**, Including:
         - Documentation and step by step tutorial for everything
-        - All components (56+)
-        - All variants (2472+)
+        - All daisyUI components (61+)
+        - All daisyUI variants (2500+)
         - All properties
-        - daisyUI themes
+        - Variables for all colors of all 35 daisyUI themes
         - Variables for everything (colors, border-radius, typography, spacing, etc)
-        - Variable modes (Quickly switch between daisyUI themes)
+        - 16 simultaneous themes (Quickly switch between daisyUI themes)
         - Examples for Dashboard and forms
-        - Access to Discord channel for priority support
-
-      After purchase you will receive:
-        1. Instant access to the downloadable Figma file (.fig file)
-           - This is useful for Figma paid subscribers
-           - Allows you to customize the library and share it to your team
-        2. An invitation to the Official Figma file
-           - For Starter and Standard plans
-           - This is useful for free Figma users who can't share a library file
-           - Invitation will be sent to your purchase email within 48 hours
+        - Access to exclusive Discord channel for priority support
     media:
       - type: video
         url: https://www.youtube.com/embed/ebWEkM4AvjU?mute=1&autoplay=1&controls=0&rel=0&modestbranding=1&loop=1&playlist=ebWEkM4AvjU
         ratio: 620/360
       - type: image
         sm: https://img.daisyui.com/images/store/small/daisyui-figma-file/features.webp
-        lg: https://img.daisyui.com/images/store/large/daisyui-figma-file/features.webp
+        lg: https://img.daisyui.com/images/store/large/daisyui-figma-file/features@2.webp
       - type: image
         sm: https://img.daisyui.com/images/store/small/daisyui-figma-file/components.webp
-        lg: https://img.daisyui.com/images/store/large/daisyui-figma-file/components.webp
+        lg: https://img.daisyui.com/images/store/large/daisyui-figma-file/components@2.webp
       - type: image
         sm: https://img.daisyui.com/images/store/small/daisyui-figma-file/variants.webp
-        lg: https://img.daisyui.com/images/store/large/daisyui-figma-file/variants.webp
+        lg: https://img.daisyui.com/images/store/large/daisyui-figma-file/variants@2.webp
       - type: image
         sm: https://img.daisyui.com/images/store/small/daisyui-figma-file/colors.webp
-        lg: https://img.daisyui.com/images/store/large/daisyui-figma-file/colors.webp
+        lg: https://img.daisyui.com/images/store/large/daisyui-figma-file/colors@2.webp
       - type: image
         sm: https://img.daisyui.com/images/store/small/daisyui-figma-file/variable-modes.webp
-        lg: https://img.daisyui.com/images/store/large/daisyui-figma-file/variable-modes.webp
+        lg: https://img.daisyui.com/images/store/large/daisyui-figma-file/variable-modes@2.webp
       - type: image
         sm: https://img.daisyui.com/images/store/small/daisyui-figma-file/figma-file.webp
-        lg: https://img.daisyui.com/images/store/large/daisyui-figma-file/figma-file.webp
+        lg: https://img.daisyui.com/images/store/large/daisyui-figma-file/figma-file@2.webp
     quote:
       img: https://img.daisyui.com/images/profile/people/pouya-saadeghi.webp
       name: Pouya
@@ -281,15 +275,15 @@ productCustomAttributes:
           Not needed,
         ]
       - [Customizable .fig file (for paid Figma subscribers), true, true, true]
-      - [All components (56), true, true, true]
-      - [All variants (2472+), true, true, true]
+      - [All components (61), true, true, true]
+      - [All variants (2500+), true, true, true]
       - ["All properties (booleans, nested instances, etc)", true, true, true]
       - ["Documentation (properties, specs, etc)", true, true, true]
       - [Icons, true, true, true]
       - [Basic variables, true, true, true]
       - ["Advanced variables (Typography, Aliases, etc)", false, true, true]
-      - [All theme variables included, false, 32, 32]
-      - [Variable modes (Quickly switch themes), false, 4, 32]
+      - [All theme variables included, false, 35, 35]
+      - [Simultaneous themes (Quick theme switch), false, 4, 16]
       - [Theme tester, false, true, true]
       - ["Templates (Login, Dashboard, Forms, etc)", false, true, true]
       - [
@@ -299,14 +293,13 @@ productCustomAttributes:
           Unlimited users,
         ]
       - [Unlimited projects and clients, true, true, true]
-      - [Latest Figma features (2024 Q4), true, true, true]
+      - [Latest Figma features (2025 3), true, true, true]
       - [Updates and bug fixes, true, true, true]
       - [Basic How tos, true, true, true]
       - [Advanced How tos and tutorials, false, true, true]
       - [Priority to daisyUI updates, false, true, true]
       - [Priority to Figma updates, false, true, true]
-      - [Direct support, false, true, true]
-      - [Customization, false, false, true]
+      - [Discord support, false, true, true]
       - [One-on-one setup session, false, false, true]
       - [Organization plan Figma features, false, false, true]
       - [Advanced token management using Token Studio, false, false, true]
@@ -314,9 +307,11 @@ productCustomAttributes:
     ref: 8XWm0
     params: desc=0
     badge:
-      class: badge-info
-      icon: wait
-      text: daisyUI 5 update will be available soon
+      # class: badge-info
+      # icon: wait
+      class: badge-success
+      icon: check
+      text: Updated to daisyUI 5.0 for Pro plan
 
   - id: 479479
     title: Blink template
