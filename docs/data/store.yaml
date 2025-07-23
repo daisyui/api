@@ -293,7 +293,7 @@ productCustomAttributes:
           Unlimited users,
         ]
       - [Unlimited projects and clients, true, true, true]
-      - [Latest Figma features (2025 3), true, true, true]
+      - [Latest Figma features (2025), true, true, true]
       - [Updates and bug fixes, true, true, true]
       - [Basic How tos, true, true, true]
       - [Advanced How tos and tutorials, false, true, true]
@@ -301,8 +301,6 @@ productCustomAttributes:
       - [Priority to Figma updates, false, true, true]
       - [Discord support, false, true, true]
       - [One-on-one setup session, false, false, true]
-      - [Organization plan Figma features, false, false, true]
-      - [Advanced token management using Token Studio, false, false, true]
     tags: [design]
     ref: 8XWm0
     params: desc=0
