@@ -1,6 +1,11 @@
 productCustomAttributes:
   - id: 426780
     title: Online Store template 2.0
+    buy_now_url: "https://daisyui.lemonsqueezy.com/checkout/buy/0e0d97fa-2646-4411-817e-f96afeb83493"
+    price: 4900
+    from_price: 4900
+    to_price: 11900
+    created_at: "2025-01-08T18:52:47.000000Z"
     desc: >-
       **Fully functional store template for Lemon Squeezy or Gumroad**
 
@@ -53,6 +58,11 @@ productCustomAttributes:
 
   - id: 244268
     title: Nexus Dashboard 2.3
+    buy_now_url: "https://daisyui.lemonsqueezy.com/checkout/buy/2a4d3f50-8ffd-4857-a8d8-513a66bc273a"
+    price: 18900
+    from_price: 18900
+    to_price: 99900
+    created_at: "2024-04-28T19:32:45.000000Z"
     banner: >-
       Looking for a startup template too?
       <br/>Get Nexus dashboard template + [Scalo startup template](/store/475050/) as a bundle and save up to $99!
@@ -140,6 +150,11 @@ productCustomAttributes:
 
   - id: 475050
     title: Scalo Startup Template 2.0
+    buy_now_url: "https://daisyui.lemonsqueezy.com/checkout/buy/ad10b14b-ccdf-4b66-9fee-db5a5e89865d"
+    price: 14900
+    from_price: 14900
+    to_price: 49900
+    created_at: "2025-02-11T11:06:12.000000Z"
     banner: >-
       Looking for a dashboard template too?
       <br/>Get Scalo startup template + [Nexus dashboard template](/store/244268/) as a bundle and save up to $99!
@@ -219,6 +234,11 @@ productCustomAttributes:
 
   - id: 351127
     title: Official daisyUI Figma Library
+    buy_now_url: "https://daisyui.lemonsqueezy.com/checkout/buy/1aa19ca5-c3db-4438-9a33-434cd72ff07f"
+    price: 2900
+    from_price: 2900
+    to_price: 18900
+    created_at: "2024-12-03T06:10:00.000000Z"
     desc: >-
       🎉 New version is available for Pro plan. Will be available for all plans next week.
 
@@ -314,6 +334,11 @@ productCustomAttributes:
 
   - id: 479479
     title: Blink template
+    buy_now_url: "https://daisyui.lemonsqueezy.com/checkout/buy/3c54e186-2f58-431b-9af0-1bd2acf1fdd8"
+    price: 3900
+    from_price: 3900
+    to_price: 11900
+    created_at: "2025-03-30T22:15:24.000000Z"
     desc: >-
       Blink is a template for agencies, companies, startups, or small businesses
       <br/>Available for React and Svelte
@@ -366,6 +391,11 @@ productCustomAttributes:
 
   - id: 284327
     title: Documentation template
+    buy_now_url: "https://daisyui.lemonsqueezy.com/checkout/buy/30796d50-e504-4d89-ad3f-f1570a9be0ee"
+    price: 2900
+    from_price: 2900
+    to_price: 2900
+    created_at: "2024-06-03T22:54:53.000000Z"
     desc: >-
       Create a modern and clean document site for your open source projects
 
@@ -414,6 +444,11 @@ productCustomAttributes:
 
   - id: 142623
     title: SaaS landing page
+    buy_now_url: "https://daisyui.lemonsqueezy.com/checkout/buy/2d843d3e-6c74-4cc9-8c7f-f2cbd633a21e"
+    price: 2900
+    from_price: 2900
+    to_price: 2900
+    created_at: "2023-12-23T11:26:42.000000Z"
     desc: >-
       Production-ready landing page for software products.
 
@@ -476,6 +511,11 @@ productCustomAttributes:
 
   - id: 208203
     title: Blog template
+    buy_now_url: "https://daisyui.lemonsqueezy.com/checkout/buy/6f22ce51-2e2d-4d5f-b1ef-051df09ce6ff"
+    price: 2900
+    from_price: 2900
+    to_price: 2900
+    created_at: "2024-03-06T05:42:04.000000Z"
     desc: >-
       Fully working multi page blog template made with daisyUI
 
@@ -517,6 +557,11 @@ productCustomAttributes:
 
   - id: 185227
     title: Mobile app landing page
+    buy_now_url: "https://daisyui.lemonsqueezy.com/checkout/buy/71f032e3-1a23-4b79-b74e-130ada4899f2"
+    price: 2900
+    from_price: 2900
+    to_price: 2900
+    created_at: "2024-02-06T23:56:31.000000Z"
     desc: >-
       Landing page for mobile app introduction.
 
@@ -568,6 +613,11 @@ productCustomAttributes:
 
   - id: 130237
     title: Auth template
+    buy_now_url: "https://daisyui.lemonsqueezy.com/checkout/buy/9416b3ff-8bc7-48ea-a196-056dc04efbb5"
+    price: 1900
+    from_price: null
+    to_price: null
+    created_at: "2023-11-11T12:25:46.000000Z"
     desc: >-
       Professionally designed auth pages to use in your project right away.
 
@@ -616,6 +666,11 @@ productCustomAttributes:
 
   - id: 120591
     title: HTML Dashboard template
+    buy_now_url: "https://daisyui.lemonsqueezy.com/checkout/buy/3c805f3d-77a5-440b-9e4d-e775005db6c9"
+    price: 2900
+    from_price: null
+    to_price: null
+    created_at: "2023-10-12T21:48:00.000000Z"
     desc: >-
       Production-ready admin dashboard template to use in your project right now.
 
