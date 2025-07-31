@@ -504,7 +504,7 @@ productCustomAttributes:
       preview: https://saas-landing.daisyui.com/
     tech: [html, react, svelte, vue, alpine]
     tags: [landing]
-    ref: Db6q2
+    # ref: Db6q2
     badge:
       class: badge-success
       icon: check
