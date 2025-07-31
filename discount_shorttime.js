@@ -79,7 +79,7 @@ if (!skipRequest && Math.random() < config.chanceToRun) {
           applies_to_products: config.creem.productIds,
         };
 
-        fetch("https://test-api.creem.io/v1/discounts", {
+        fetch("https://api.creem.io/v1/discounts", {
           method: "POST",
           headers: {
             "Content-Type": "application/json",
