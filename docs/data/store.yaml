@@ -59,9 +59,9 @@ productCustomAttributes:
   - id: 244268
     title: Nexus Dashboard 2.3
     buy_now_url: "https://daisyui.lemonsqueezy.com/checkout/buy/2a4d3f50-8ffd-4857-a8d8-513a66bc273a"
-    price: 18900
-    from_price: 18900
-    to_price: 99900
+    price: 6900
+    from_price: 6900
+    to_price: 49900
     created_at: "2024-04-28T19:32:45.000000Z"
     banner: >-
       Looking for a startup template too?
@@ -151,8 +151,8 @@ productCustomAttributes:
   - id: 475050
     title: Scalo Startup Template 2.0
     buy_now_url: "https://daisyui.lemonsqueezy.com/checkout/buy/ad10b14b-ccdf-4b66-9fee-db5a5e89865d"
-    price: 14900
-    from_price: 14900
+    price: 6900
+    from_price: 6900
     to_price: 49900
     created_at: "2025-02-11T11:06:12.000000Z"
     banner: >-
@@ -235,9 +235,9 @@ productCustomAttributes:
   - id: 351127
     title: Official daisyUI Figma Library
     buy_now_url: "https://daisyui.lemonsqueezy.com/checkout/buy/1aa19ca5-c3db-4438-9a33-434cd72ff07f"
-    price: 2900
-    from_price: 2900
-    to_price: 18900
+    price: 4900
+    from_price: 4900
+    to_price: 39900
     created_at: "2024-12-03T06:10:00.000000Z"
     desc: >-
       🎉 New version is available for Pro plan. Will be available for all plans next week.
@@ -669,8 +669,8 @@ productCustomAttributes:
     buy_now_url: "https://daisyui.lemonsqueezy.com/checkout/buy/3c805f3d-77a5-440b-9e4d-e775005db6c9"
     # buy_now_url: "https://www.creem.io/payment/prod_1b0GJj59ORMjGvf2G1Czjh"
     price: 2900
-    from_price: null
-    to_price: null
+    from_price: 2900
+    to_price: 2900
     created_at: "2023-10-12T21:48:00.000000Z"
     desc: >-
       Production-ready admin dashboard template to use in your project right now.
