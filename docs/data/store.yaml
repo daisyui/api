@@ -444,7 +444,8 @@ productCustomAttributes:
 
   - id: 142623
     title: SaaS landing page
-    buy_now_url: "https://daisyui.lemonsqueezy.com/checkout/buy/2d843d3e-6c74-4cc9-8c7f-f2cbd633a21e"
+    # buy_now_url: "https://daisyui.lemonsqueezy.com/checkout/buy/2d843d3e-6c74-4cc9-8c7f-f2cbd633a21e"
+    buy_now_url: "https://www.creem.io/payment/prod_4bRdZVMQb6QfydHMXMBjG5"
     price: 2900
     from_price: 2900
     to_price: 2900
@@ -666,8 +667,8 @@ productCustomAttributes:
 
   - id: 120591
     title: HTML Dashboard template
-    buy_now_url: "https://daisyui.lemonsqueezy.com/checkout/buy/3c805f3d-77a5-440b-9e4d-e775005db6c9"
-    # buy_now_url: "https://www.creem.io/payment/prod_1b0GJj59ORMjGvf2G1Czjh"
+    # buy_now_url: "https://daisyui.lemonsqueezy.com/checkout/buy/3c805f3d-77a5-440b-9e4d-e775005db6c9"
+    buy_now_url: "https://www.creem.io/payment/prod_1b0GJj59ORMjGvf2G1Czjh"
     price: 2900
     from_price: 2900
     to_price: 2900
