@@ -10,6 +10,7 @@ jobs:
   run-node-command:
     runs-on: ubuntu-latest
     env:
+      CREEM_API_KEY: ${{ secrets.CREEM_API_KEY }}
       LEMONSQUEEZY_API_KEY: ${{ secrets.LEMONSQUEEZY_API_KEY }}
       DISCORD_BOT_TOKEN: ${{ secrets.DISCORD_BOT_TOKEN }}
 

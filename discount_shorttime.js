@@ -13,7 +13,7 @@ let skipRequest = false;
 
 try {
   const discountSpecialData = JSON.parse(
-    readFileSync(discountSpecialPath, "utf-8"),
+    readFileSync(discountSpecialPath, "utf-8")
   );
   const expiresAt = new Date(discountSpecialData.data.attributes.expires_at);
   const now = new Date();
@@ -35,7 +35,7 @@ const data = {
       amount: getRandomValueWithChance(config.discountPercentages),
       amount_type: "percent",
       expires_at: addMinutesToIsoTime(
-        getRandomValueWithChance(config.discountDuration),
+        getRandomValueWithChance(config.discountDuration)
       ),
     },
     relationships: {
@@ -60,26 +60,73 @@ if (!skipRequest && Math.random() < config.chanceToRun) {
     body: JSON.stringify(data),
   })
     .then((response) => response.json())
-    .then((json) => {
+    .then(async (json) => {
       if (json.data?.id) {
         writeFileSync(
           "docs/api/discount_shorttime.json",
-          JSON.stringify(json, null, 2),
+          JSON.stringify(json, null, 2)
         );
-        console.log("Discount code created successfully");
+        console.log("LemonSqueezy discount code created successfully");
+
+        // Create the same discount on Creem
+        const creemData = {
+          name: json.data.attributes.name,
+          code: json.data.attributes.code,
+          type: "percentage",
+          percentage: json.data.attributes.amount,
+          expiry_date: json.data.attributes.expires_at,
+          duration: "once",
+          applies_to_products: config.creem.productIds,
+        };
+
+        fetch("https://test-api.creem.io/v1/discounts", {
+          method: "POST",
+          headers: {
+            "Content-Type": "application/json",
+            "x-api-key": process.env.CREEM_API_KEY,
+          },
+          body: JSON.stringify(creemData),
+        })
+          .then((response) => {
+            return response.json();
+          })
+          .then((creemResult) => {
+            if (creemResult.id) {
+              console.log("Creem discount code created successfully");
+            } else {
+              console.error("Failed to create Creem discount:", creemResult);
+              if (creemResult.status === 403) {
+                console.error("403 Forbidden - Check:");
+                console.error(
+                  "- CREEM_API_KEY is set:",
+                  !!process.env.CREEM_API_KEY
+                );
+                console.error("- Product ID:", config.creem.productIds[0]);
+                console.error(
+                  "- Try test endpoint: https://test-api.creem.io/v1/discounts"
+                );
+              }
+            }
+          })
+          .catch((error) => {
+            console.error("Error creating Creem discount:", error);
+          });
+
         if (Math.random() < config.chanceToShare) {
           postToDiscord(
             config.channelId,
             `🎁 daisyUI Store: short time discount
-  Use code \`${json.data.attributes.code}\` at checkout to get ${json.data.attributes.amount}% discount on all products
+  Use code \`${json.data.attributes.code}\` at checkout to get ${
+              json.data.attributes.amount
+            }% discount on all products
   ${expiresIn(json.data.attributes.expires_at)}
-  https://daisyui.com/store`,
+  https://daisyui.com/store`
           );
         } else {
           console.log("skipped posting to Discord");
         }
       } else {
-        console.error("Failed to create discount code:", json);
+        console.error("Failed to create LemonSqueezy discount code:", json);
       }
     })
     .catch((error) => {
