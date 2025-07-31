@@ -19,6 +19,6 @@ export const config = {
   channelId: "1307311967526191195",
   storeId: "10640",
   creem: {
-    productIds: ["prod_1b0GJj59ORMjGvf2G1Czjh"],
+    productIds: ["prod_1b0GJj59ORMjGvf2G1Czjh", "prod_4bRdZVMQb6QfydHMXMBjG5"],
   },
 };
