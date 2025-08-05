@@ -110,63 +110,6 @@ productCustomAttributes:
       - Q: How to use slots in daisyUI Figma Library 2.0
         A: 'Watch <a class="link" target="_blank" href="https://www.youtube.com/watch?v=deKeiqox__U&list=PLFo3F8-aSE4t95dTsbeMZrEhb3pwJ1MKX&index=4">this video</a>'
 
-  - id: 426780
-    title: Online Store template 2.0
-    buy_now_url: "https://daisyui.lemonsqueezy.com/checkout/buy/0e0d97fa-2646-4411-817e-f96afeb83493"
-    price: 4900
-    from_price: 4900
-    to_price: 11900
-    created_at: "2025-01-08T18:52:47.000000Z"
-    desc: >-
-      **Fully functional store template for Lemon Squeezy or Gumroad**
-
-
-      Made with daisyUI 5 and Next.js 15
-
-
-      Add your **LemonSqueezy API key** or **Gumroad API key** to the env file, add custom data for your products and your online store will be ready in **less than 5 minutes**!
-
-
-      This template receives your simple list of products coming from the LemonSqueezy API or Gumroad API, adds your custom data and attributes to the products and generates a functional online store with all the standard online store capabilities you need.
-
-
-      Including Homepage, collections page with filter and sort, product page with image gallery, zoom, custom attributes, variant links, related product suggestions and more.
-    faq:
-      - Q: Can I use this template without Lemon Squeezy or Gumroad?
-        A: If the Lemon Squeezy API key or Gumroad API key is not provided, the data will come from the local JSON file. So you can use the template without Lemon Squeezy or Gumroad, using a static JSON file, and for checkout and payment you can use your own solution.
-    media:
-      - type: image
-        sm: https://img.daisyui.com/images/store/small/online-store/online-store-01.webp
-        lg: https://img.daisyui.com/images/store/large/online-store/online-store-01.webp?
-      - type: image
-        sm: https://img.daisyui.com/images/store/small/online-store/online-store-02.webp
-        lg: https://img.daisyui.com/images/store/large/online-store/online-store-02.webp?
-      - type: image
-        sm: https://img.daisyui.com/images/store/small/online-store/online-store-03.webp
-        lg: https://img.daisyui.com/images/store/large/online-store/online-store-03.webp
-      - type: image
-        sm: https://img.daisyui.com/images/store/small/online-store/online-store-04.webp
-        lg: https://img.daisyui.com/images/store/large/online-store/online-store-04.webp
-      - type: image
-        sm: https://img.daisyui.com/images/store/small/online-store/online-store-05.webp
-        lg: https://img.daisyui.com/images/store/large/online-store/online-store-05.webp
-    quote:
-      img: https://img.daisyui.com/images/profile/people/pouya-saadeghi.webp
-      name: Pouya
-      text:
-        - Gumroad API support added
-        - Updated to daisyUI 5.0
-    links:
-      license: https://api.daisyui.com/license/online-store@2.txt
-      screenshot: https://img.daisyui.com/images/store/screenshots/online-store.webp?
-    tech: [nextjs, react]
-    tags: [ecommerce, app]
-    badge:
-      class: badge-success
-      icon: check
-      text: Updated to daisyUI 5.0
-    ref: 1ORz2E
-
   - id: 244268
     title: Nexus Dashboard 3
     buy_now_url: "https://daisyui.lemonsqueezy.com/checkout/buy/2a4d3f50-8ffd-4857-a8d8-513a66bc273a"
@@ -272,6 +215,63 @@ productCustomAttributes:
       screenshot: https://img.daisyui.com/images/store/screenshots/nexus-3.webp
       preview: https://nexus.daisyui.com/
     ref: Db6q2
+
+  - id: 426780
+    title: Online Store template 2.0
+    buy_now_url: "https://daisyui.lemonsqueezy.com/checkout/buy/0e0d97fa-2646-4411-817e-f96afeb83493"
+    price: 4900
+    from_price: 4900
+    to_price: 11900
+    created_at: "2025-01-08T18:52:47.000000Z"
+    desc: >-
+      **Fully functional store template for Lemon Squeezy or Gumroad**
+
+
+      Made with daisyUI 5 and Next.js 15
+
+
+      Add your **LemonSqueezy API key** or **Gumroad API key** to the env file, add custom data for your products and your online store will be ready in **less than 5 minutes**!
+
+
+      This template receives your simple list of products coming from the LemonSqueezy API or Gumroad API, adds your custom data and attributes to the products and generates a functional online store with all the standard online store capabilities you need.
+
+
+      Including Homepage, collections page with filter and sort, product page with image gallery, zoom, custom attributes, variant links, related product suggestions and more.
+    faq:
+      - Q: Can I use this template without Lemon Squeezy or Gumroad?
+        A: If the Lemon Squeezy API key or Gumroad API key is not provided, the data will come from the local JSON file. So you can use the template without Lemon Squeezy or Gumroad, using a static JSON file, and for checkout and payment you can use your own solution.
+    media:
+      - type: image
+        sm: https://img.daisyui.com/images/store/small/online-store/online-store-01.webp
+        lg: https://img.daisyui.com/images/store/large/online-store/online-store-01.webp?
+      - type: image
+        sm: https://img.daisyui.com/images/store/small/online-store/online-store-02.webp
+        lg: https://img.daisyui.com/images/store/large/online-store/online-store-02.webp?
+      - type: image
+        sm: https://img.daisyui.com/images/store/small/online-store/online-store-03.webp
+        lg: https://img.daisyui.com/images/store/large/online-store/online-store-03.webp
+      - type: image
+        sm: https://img.daisyui.com/images/store/small/online-store/online-store-04.webp
+        lg: https://img.daisyui.com/images/store/large/online-store/online-store-04.webp
+      - type: image
+        sm: https://img.daisyui.com/images/store/small/online-store/online-store-05.webp
+        lg: https://img.daisyui.com/images/store/large/online-store/online-store-05.webp
+    quote:
+      img: https://img.daisyui.com/images/profile/people/pouya-saadeghi.webp
+      name: Pouya
+      text:
+        - Gumroad API support added
+        - Updated to daisyUI 5.0
+    links:
+      license: https://api.daisyui.com/license/online-store@2.txt
+      screenshot: https://img.daisyui.com/images/store/screenshots/online-store.webp?
+    tech: [nextjs, react]
+    tags: [ecommerce, app]
+    badge:
+      class: badge-success
+      icon: check
+      text: Updated to daisyUI 5.0
+    ref: 1ORz2E
 
   - id: 475050
     title: Scalo Startup Template 2.0
