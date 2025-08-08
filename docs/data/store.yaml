@@ -775,9 +775,9 @@ tech:
 techFilters: [all, html, react, vue, svelte, astro]
 
 futureProducts:
-  - Official daisyUI Figma Library v2.0 update
-  - Headless UI + daisyUI component pack for Vue
-  - Nexus dashboard v3.0 update
+  - Blog Template v1.3 update
+  - HTML Dashboard Template v2 update
+  - Scalo v3.0 update
 
 faq:
   - Q: Is this one time payment?
