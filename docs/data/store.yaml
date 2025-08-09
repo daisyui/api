@@ -56,8 +56,9 @@ productCustomAttributes:
       preview: https://www.figma.com/community/file/1417577350704829934
     packages:
       - [null, Starter package, Standard package, Pro package]
+      - [popular, false, true, false]
       - [
-          Invitation to read-only shared file (for free Figma users),
+          Invite to read-only shared file (for free Figma users),
           true,
           true,
           Not needed,
@@ -68,7 +69,7 @@ productCustomAttributes:
       - ["All properties (booleans, nested instances, etc)", true, true, true]
       - ["Documentation (properties, specs, etc)", true, true, true]
       - [Icons, true, true, true]
-      - [Basic variables, true, true, true]
+      - [Variables, true, true, true]
       - ["Advanced variables (Typography, Aliases, etc)", false, true, true]
       - [All theme variables included, false, 35, 35]
       - [Simultaneous themes (Quick theme switch), false, 4, 16]
@@ -83,10 +84,9 @@ productCustomAttributes:
       - [Unlimited projects and clients, true, true, true]
       - [Latest Figma features (2025), true, true, true]
       - [Updates and bug fixes, true, true, true]
-      - [Basic How tos, true, true, true]
-      - [Advanced How tos and tutorials, false, true, true]
-      - [Priority to daisyUI updates, false, true, true]
-      - [Priority to Figma updates, false, true, true]
+      - [Usage tutorials, true, true, true]
+      - [Advanced customization tutorials, false, true, true]
+      - [Priority to updates, false, true, true]
       - [Discord support, false, true, true]
       - [One-on-one setup session, false, false, true]
     tags: [design]
@@ -112,15 +112,19 @@ productCustomAttributes:
 
   - id: 244268
     title: Nexus Dashboard 3
-    buy_now_url: "https://daisyui.lemonsqueezy.com/checkout/buy/2a4d3f50-8ffd-4857-a8d8-513a66bc273a"
+    # buy_now_url: "https://daisyui.lemonsqueezy.com/checkout/buy/2a4d3f50-8ffd-4857-a8d8-513a66bc273a"
+    # ref: Db6q2
     price: 6900
     from_price: 6900
     to_price: 49900
     created_at: "2024-04-28T19:32:45.000000Z"
+    bannerTitle: Looking for a startup template too?
     banner: >-
-      Looking for a startup template too?
-      <br/>Get Nexus dashboard template + [Scalo startup template](/store/475050/) as a bundle and save up to $99!
-      <br/><a target="_blank" rel="noopener noreferrer" href="https://daisyui.com/store/checkout?product=2ec5128f-1abc-4e3c-a55c-529ce31f08aa&aff=Db6q2">Click here for the bundle</a>
+      Get Nexus dashboard template + [Scalo startup template](/store/475050/) as a bundle and save up to $99!
+      <br/>
+      <br/>
+      <a class="btn btn-xs" target="_blank" rel="noopener noreferrer" href="https://www.creem.io/payment/prod_1JQRbXEWbRAsptLAEsfw8F">Team License Bundle ↗︎</a>
+      <a class="btn btn-xs" target="_blank" rel="noopener noreferrer" href="https://www.creem.io/payment/prod_zdNmz3m6JfzZNXjWwyEYC">Enterprise License Bundle ↗︎</a>
     desc: >-
       The ultimate dashboard template
 
@@ -185,13 +189,16 @@ productCustomAttributes:
       name: Pouya
       text:
         - Nexus 3 is now available! With new pages and sections, new features, new components, new layouts, more sections and examples.
-        # - Nexus 2.3 added with latest dependencies + Nuxt (Vue) version!
-        # - Nexus 2.2 added with new dashboard layout for Generative-AI apps, New Material Dark theme, calendar examples
-        # - Nexus 2.1 added with Profile settings page, Help and FAQ page, Generative AI pages.
-        # - Nexus 2.0 is now available with Tailwind CSS 4.0 and daisyUI 5.0! New design, new pages, more themes, more features, with many improvements and bug fixes.
-        # - SvelteKit version added
     packages:
-      - [null, Solo package, Team package, Enterprise package]
+      - [null, Solo License, Team License, Enterprise License]
+      - [price, 6900, 12900, 49900]
+      - [popular, false, true, false]
+      - [
+          checkout,
+          https://www.creem.io/payment/prod_k5xgnybTeo9v0TIiEQXnm,
+          https://www.creem.io/payment/prod_43046ZR98YJIZ59MGmDlGT,
+          https://www.creem.io/payment/prod_2bqBD0ltsFD21PKMYtSmwC,
+        ]
       - [🛠️ Frameworks, null, null, null]
       - [HTML version, true, true, true]
       - [React version, false, true, true]
@@ -214,7 +221,6 @@ productCustomAttributes:
       license: https://api.daisyui.com/license/nexus@3.txt
       screenshot: https://img.daisyui.com/images/store/screenshots/nexus-3.webp
       preview: https://nexus.daisyui.com/
-    ref: Db6q2
 
   - id: 426780
     title: Online Store template 2.0
@@ -275,15 +281,19 @@ productCustomAttributes:
 
   - id: 475050
     title: Scalo Startup Template 2.0
-    buy_now_url: "https://daisyui.lemonsqueezy.com/checkout/buy/ad10b14b-ccdf-4b66-9fee-db5a5e89865d"
+    # buy_now_url: "https://daisyui.lemonsqueezy.com/checkout/buy/ad10b14b-ccdf-4b66-9fee-db5a5e89865d"
+    # ref: Db6q2
     price: 6900
     from_price: 6900
     to_price: 49900
     created_at: "2025-02-11T11:06:12.000000Z"
+    bannerTitle: Looking for a dashboard template too?
     banner: >-
-      Looking for a dashboard template too?
-      <br/>Get Scalo startup template + [Nexus dashboard template](/store/244268/) as a bundle and save up to $99!
-      <br/><a target="_blank" rel="noopener noreferrer" href="https://daisyui.com/store/checkout?product=2ec5128f-1abc-4e3c-a55c-529ce31f08aa&aff=Db6q2">Click here for the bundle</a>
+      Get Scalo startup template + [Nexus dashboard template](/store/244268/) as a bundle and save up to $99!
+      <br/>
+      <br/>
+      <a class="btn btn-xs" target="_blank" rel="noopener noreferrer" href="https://www.creem.io/payment/prod_1JQRbXEWbRAsptLAEsfw8F">Team License Bundle ↗︎</a>
+      <a class="btn btn-xs" target="_blank" rel="noopener noreferrer" href="https://www.creem.io/payment/prod_zdNmz3m6JfzZNXjWwyEYC">Enterprise License Bundle ↗︎</a>
     desc: >-
       Scalo is the ultimate startup front-end template
 
@@ -333,7 +343,15 @@ productCustomAttributes:
       text:
         - Scalo 2.0 added with latest dependencies + new pages and sections + Nuxt version!
     packages:
-      - [null, Solo package, Team package, Enterprise package]
+      - [null, Solo License, Team License, Enterprise License]
+      - [price, 6900, 12900, 49900]
+      - [popular, false, true, false]
+      - [
+          checkout,
+          https://www.creem.io/payment/prod_3RBS5pN9hDwM700ZAt7i63,
+          https://www.creem.io/payment/prod_6sDiC5PdavUVNvWsgU1oNJ,
+          https://www.creem.io/payment/prod_3Ni06bDdsm6gJntYKRDiCo,
+        ]
       - [🛠️ Frameworks, null, null, null]
       - [HTML version, true, true, true]
       - [React version, false, true, true]
@@ -355,7 +373,6 @@ productCustomAttributes:
       license: https://api.daisyui.com/license/scalo@1.txt
       screenshot: https://img.daisyui.com/images/store/screenshots/scalo.webp
       preview: https://scalo.daisyui.com/
-    ref: Db6q2
 
   - id: 479479
     title: Blink template
@@ -583,7 +600,9 @@ productCustomAttributes:
 
   - id: 185227
     title: Mobile app landing page
-    buy_now_url: "https://daisyui.lemonsqueezy.com/checkout/buy/71f032e3-1a23-4b79-b74e-130ada4899f2"
+    # buy_now_url: "https://daisyui.lemonsqueezy.com/checkout/buy/71f032e3-1a23-4b79-b74e-130ada4899f2"
+    buy_now_url: "https://www.creem.io/payment/prod_5P3uPzHqmIapdYrfcN3kYa"
+    # ref: Db6q2
     price: 2900
     from_price: 2900
     to_price: 2900
@@ -631,7 +650,6 @@ productCustomAttributes:
       preview: https://mobile-landing.daisyui.com/
     tech: [html, react, svelte, vue, alpine]
     tags: [landing]
-    ref: Db6q2
     badge:
       class: badge-success
       icon: check
@@ -639,7 +657,8 @@ productCustomAttributes:
 
   - id: 130237
     title: Auth template
-    buy_now_url: "https://daisyui.lemonsqueezy.com/checkout/buy/9416b3ff-8bc7-48ea-a196-056dc04efbb5"
+    # buy_now_url: "https://daisyui.lemonsqueezy.com/checkout/buy/9416b3ff-8bc7-48ea-a196-056dc04efbb5"
+    buy_now_url: "https://www.creem.io/payment/prod_5WTF3NMjAyFXqUppgngpBP"
     price: 1900
     from_price: null
     to_price: null
