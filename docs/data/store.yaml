@@ -52,7 +52,7 @@ productCustomAttributes:
           <br/>This <b>fully tokenized</b> Figma file includes all daisyUI <b>components</b>, <b>theme colors</b>, <b>variables</b> and <b>variants</b>, with regular updates.
           <br/>A game-changer for designers and developers to use the same design system in both Figma and in CSS.
     links:
-      license: https://api.daisyui.com/license/figma@1.txt
+      license: https://api.daisyui.com/license/figma@2.txt
       preview: https://www.figma.com/community/file/1417577350704829934
     packages:
       - [null, Starter package, Standard package, Pro package]
@@ -804,7 +804,7 @@ faq:
   - Q: What happens after I buy
     A: You will receive an email with the download link. If you don't see the email, check your spam folder.
   - Q: Will I receive updates?
-    A: All packages will receive bug fixes as long as they are available on the store. We will also add new versions and dependency updates if needed. You can download the latest version from the link you received in the email, or from https://app.lemonsqueezy.com/my-orders
+    A: All packages will receive bug fixes as long as they are available on the store. We will also add new versions and dependency updates if needed. You can download the latest version from the link you received in the email, or from https://app.lemonsqueezy.com/my-orders or https://www.creem.io/my-orders/login
   - Q: Do I get customer support
     A: We offer support via Discord. You can join the server https://daisyui.com/discord and ask your questions there. We will do our best to help you.
   - Q: Can I get a refund

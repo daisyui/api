@@ -1,0 +1,48 @@
+Copyright (c) 2025 daisyUI
+
+By purchasing and obtaining a valid receipt for one of 3 licenses (STARTER, STANDARD, PRO) of The Official daisyUI Figma Library from daisyUI's official store at https://daisyui.com, you are granted the following permissions:
+
+1. Using, demonstrating or modifying the components available in The Official daisyUI Figma Library.
+1. Create an end product for personal or commercial use.
+2. Create an end product for yourslef, your company, your school, your client.
+3. Use The Official daisyUI Figma Library multiple times, in multiple projects.
+4. (Only STANDARD and PRO licence holders) Publish The Official daisyUI Figma Library in your Figma team library for participants, or share the files within your organization.
+
+Conditions:
+
+To exercise the granted permissions, you must adhere to the following conditions:
+
+1. This license is only valid for users who have purchased The Official daisyUI Figma Library and possess a valid receipt from daisyUI's official store at https://daisyui.com.
+2. Only STANDARD or PRO license holders are allowed to publish The Official daisyUI Figma Library in their Figma team library or share the files within their organization.
+3. STARTER license holders are not allowed to publish The Official daisyUI Figma Library in their Figma team library or share the files within their organization.
+
+Limitations:
+
+The following limitations applies to the use of The Official daisyUI Figma Library:
+
+1. You are not allowed to publicly share, license, sub-license, sell or distribute The Official daisyUI Figma Library or any of its components. (You can only use the components to create an end product and that end product can be shared, sold or distributed)
+2. You can't publish the item in your team library or give edit permissions to other people if you did not purchase the STANDARD or PRO license.
+3. You can't place any of Item design files into the end product as it is.
+4. You can't redistribute the Item as stock, in a tool or template, or with source files.
+5. You must not permit an end user of the end product to extract the Item and use it separately from the end product.
+
+Examples of usage allowed by the license (non exhaustive) :
+- Creating applications for yourself, your company, your school, your client.
+- Creating websites for yourself, your company, your school, your client.
+- Using daisyUI as a starting point to build an internal design system
+
+Examples of usage not allowed by the license (non exhaustive) :
+- Sharing or publishing files or assets within the files online or making them available publicly.
+- Sharing files or assets with other users who have not purchased a license.
+- Mixing The Official daisyUI Figma Library with other libraries and redistributing it.
+
+Limitation of liability
+
+THIS SOFTWARE IS PROVIDED "AS IS," WITHOUT WARRANTY OF ANY KIND,
+EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF
+MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND
+NONINFRINGEMENT. IN NO EVENT SHALL DAISYUI, POUYA SAADEGHI, THE
+AUTHORS, OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES, OR
+OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT, OR
+OTHERWISE, ARISING FROM, OUT OF, OR IN CONNECTION WITH THE
+SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
