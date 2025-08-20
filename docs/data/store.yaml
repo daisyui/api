@@ -794,7 +794,7 @@ tech:
 techFilters: [all, html, react, vue, svelte, astro]
 
 futureProducts:
-  - Blog Template v1.3 update
+  - Blog Template v2.0 update
   - HTML Dashboard Template v2 update
   - Scalo v3.0 update
 
