@@ -423,6 +423,7 @@ productCustomAttributes:
     links:
       license: https://api.daisyui.com/license/blink@1.txt
       screenshot: https://img.daisyui.com/images/store/screenshots/blink.webp
+      preview: https://blink.daisyui.com/
     tech: [react, svelte, vite]
     tags: [landing]
     badge:
