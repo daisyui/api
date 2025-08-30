@@ -56,7 +56,14 @@ productCustomAttributes:
       preview: https://www.figma.com/community/file/1417577350704829934
     packages:
       - [null, Starter package, Standard package, Pro package]
+      # - [price, 4900, 7900, 39900]
       - [popular, false, true, false]
+      # - [
+      #     checkout,
+      #     https://www.creem.io/payment/prod_4UUna65T2mEcZqxeygE6jo,
+      #     https://www.creem.io/payment/prod_3RevXENXFXyrznI42m9cOP,
+      #     https://www.creem.io/payment/prod_yfdPS88lK7kfwSjbv5qei,
+      #   ]
       - [
           Invite to read-only shared file (for free Figma users),
           true,
@@ -112,19 +119,24 @@ productCustomAttributes:
 
   - id: 244268
     title: Nexus Dashboard 3
-    # buy_now_url: "https://daisyui.lemonsqueezy.com/checkout/buy/2a4d3f50-8ffd-4857-a8d8-513a66bc273a"
-    # ref: Db6q2
+    buy_now_url: "https://daisyui.lemonsqueezy.com/checkout/buy/2a4d3f50-8ffd-4857-a8d8-513a66bc273a"
+    ref: Db6q2
     price: 6900
     from_price: 6900
     to_price: 49900
     created_at: "2024-04-28T19:32:45.000000Z"
     bannerTitle: Looking for a startup template too?
+    # banner: >-
+    #   Get Nexus dashboard template + [Scalo startup template](/store/475050/) as a bundle and save up to $99!
+    #   <br/>
+    #   <br/>
+    #   <a class="btn btn-xs" target="_blank" rel="noopener noreferrer" href="https://www.creem.io/payment/prod_1JQRbXEWbRAsptLAEsfw8F">Team License Bundle ↗︎</a>
+    #   <a class="btn btn-xs" target="_blank" rel="noopener noreferrer" href="https://www.creem.io/payment/prod_zdNmz3m6JfzZNXjWwyEYC">Enterprise License Bundle ↗︎</a>
     banner: >-
       Get Nexus dashboard template + [Scalo startup template](/store/475050/) as a bundle and save up to $99!
       <br/>
-      <br/>
-      <a class="btn btn-xs" target="_blank" rel="noopener noreferrer" href="https://www.creem.io/payment/prod_1JQRbXEWbRAsptLAEsfw8F">Team License Bundle ↗︎</a>
-      <a class="btn btn-xs" target="_blank" rel="noopener noreferrer" href="https://www.creem.io/payment/prod_zdNmz3m6JfzZNXjWwyEYC">Enterprise License Bundle ↗︎</a>
+      <a class="btn btn-xs" target="_blank" rel="noopener noreferrer" href="https://daisyui.com/store/checkout?product=2ec5128f-1abc-4e3c-a55c-529ce31f08aa&aff=Db6q2">Click here for the bundle ↗︎</a>
+
     desc: >-
       The ultimate dashboard template
 
@@ -193,12 +205,12 @@ productCustomAttributes:
       - [null, Solo License, Team License, Enterprise License]
       - [price, 6900, 12900, 49900]
       - [popular, false, true, false]
-      - [
-          checkout,
-          https://www.creem.io/payment/prod_k5xgnybTeo9v0TIiEQXnm,
-          https://www.creem.io/payment/prod_43046ZR98YJIZ59MGmDlGT,
-          https://www.creem.io/payment/prod_2bqBD0ltsFD21PKMYtSmwC,
-        ]
+      # - [
+      #     checkout,
+      #     https://www.creem.io/payment/prod_k5xgnybTeo9v0TIiEQXnm,
+      #     https://www.creem.io/payment/prod_43046ZR98YJIZ59MGmDlGT,
+      #     https://www.creem.io/payment/prod_2bqBD0ltsFD21PKMYtSmwC,
+      #   ]
       - [🛠️ Frameworks, null, null, null]
       - [HTML version, true, true, true]
       - [React version, false, true, true]
@@ -281,19 +293,24 @@ productCustomAttributes:
 
   - id: 475050
     title: Scalo Startup Template 2.0
-    # buy_now_url: "https://daisyui.lemonsqueezy.com/checkout/buy/ad10b14b-ccdf-4b66-9fee-db5a5e89865d"
-    # ref: Db6q2
+    buy_now_url: "https://daisyui.lemonsqueezy.com/checkout/buy/ad10b14b-ccdf-4b66-9fee-db5a5e89865d"
+    ref: Db6q2
     price: 6900
     from_price: 6900
     to_price: 49900
     created_at: "2025-02-11T11:06:12.000000Z"
     bannerTitle: Looking for a dashboard template too?
+    # banner: >-
+    #   Get Scalo startup template + [Nexus dashboard template](/store/244268/) as a bundle and save up to $99!
+    #   <br/>
+    #   <br/>
+    #   <a class="btn btn-xs" target="_blank" rel="noopener noreferrer" href="https://www.creem.io/payment/prod_1JQRbXEWbRAsptLAEsfw8F">Team License Bundle ↗︎</a>
+    #   <a class="btn btn-xs" target="_blank" rel="noopener noreferrer" href="https://www.creem.io/payment/prod_zdNmz3m6JfzZNXjWwyEYC">Enterprise License Bundle ↗︎</a>
     banner: >-
       Get Scalo startup template + [Nexus dashboard template](/store/244268/) as a bundle and save up to $99!
       <br/>
       <br/>
-      <a class="btn btn-xs" target="_blank" rel="noopener noreferrer" href="https://www.creem.io/payment/prod_1JQRbXEWbRAsptLAEsfw8F">Team License Bundle ↗︎</a>
-      <a class="btn btn-xs" target="_blank" rel="noopener noreferrer" href="https://www.creem.io/payment/prod_zdNmz3m6JfzZNXjWwyEYC">Enterprise License Bundle ↗︎</a>
+      <a class="btn btn-xs" target="_blank" rel="noopener noreferrer" href="https://daisyui.com/store/checkout?product=2ec5128f-1abc-4e3c-a55c-529ce31f08aa&aff=Db6q2">Click here for the bundle ↗︎</a>
     desc: >-
       Scalo is the ultimate startup front-end template
 
@@ -346,12 +363,12 @@ productCustomAttributes:
       - [null, Solo License, Team License, Enterprise License]
       - [price, 6900, 12900, 49900]
       - [popular, false, true, false]
-      - [
-          checkout,
-          https://www.creem.io/payment/prod_3RBS5pN9hDwM700ZAt7i63,
-          https://www.creem.io/payment/prod_6sDiC5PdavUVNvWsgU1oNJ,
-          https://www.creem.io/payment/prod_3Ni06bDdsm6gJntYKRDiCo,
-        ]
+      # - [
+      #     checkout,
+      #     https://www.creem.io/payment/prod_3RBS5pN9hDwM700ZAt7i63,
+      #     https://www.creem.io/payment/prod_6sDiC5PdavUVNvWsgU1oNJ,
+      #     https://www.creem.io/payment/prod_3Ni06bDdsm6gJntYKRDiCo,
+      #   ]
       - [🛠️ Frameworks, null, null, null]
       - [HTML version, true, true, true]
       - [React version, false, true, true]
@@ -487,8 +504,9 @@ productCustomAttributes:
 
   - id: 142623
     title: SaaS landing page
-    # buy_now_url: "https://daisyui.lemonsqueezy.com/checkout/buy/2d843d3e-6c74-4cc9-8c7f-f2cbd633a21e"
-    buy_now_url: "https://www.creem.io/payment/prod_4bRdZVMQb6QfydHMXMBjG5"
+    # buy_now_url: "https://www.creem.io/payment/prod_4bRdZVMQb6QfydHMXMBjG5"
+    buy_now_url: "https://daisyui.lemonsqueezy.com/checkout/buy/2d843d3e-6c74-4cc9-8c7f-f2cbd633a21e"
+    ref: Db6q2
     price: 2900
     from_price: 2900
     to_price: 2900
@@ -547,7 +565,6 @@ productCustomAttributes:
       preview: https://saas-landing.daisyui.com/
     tech: [html, react, svelte, vue, alpine]
     tags: [landing]
-    # ref: Db6q2
     badge:
       class: badge-success
       icon: check
@@ -601,9 +618,9 @@ productCustomAttributes:
 
   - id: 185227
     title: Mobile app landing page
-    # buy_now_url: "https://daisyui.lemonsqueezy.com/checkout/buy/71f032e3-1a23-4b79-b74e-130ada4899f2"
-    buy_now_url: "https://www.creem.io/payment/prod_5P3uPzHqmIapdYrfcN3kYa"
-    # ref: Db6q2
+    # buy_now_url: "https://www.creem.io/payment/prod_5P3uPzHqmIapdYrfcN3kYa"
+    buy_now_url: "https://daisyui.lemonsqueezy.com/checkout/buy/71f032e3-1a23-4b79-b74e-130ada4899f2"
+    ref: Db6q2
     price: 2900
     from_price: 2900
     to_price: 2900
@@ -658,8 +675,8 @@ productCustomAttributes:
 
   - id: 130237
     title: Auth template
-    # buy_now_url: "https://daisyui.lemonsqueezy.com/checkout/buy/9416b3ff-8bc7-48ea-a196-056dc04efbb5"
-    buy_now_url: "https://www.creem.io/payment/prod_5WTF3NMjAyFXqUppgngpBP"
+    buy_now_url: "https://daisyui.lemonsqueezy.com/checkout/buy/9416b3ff-8bc7-48ea-a196-056dc04efbb5"
+    # buy_now_url: "https://www.creem.io/payment/prod_5WTF3NMjAyFXqUppgngpBP"
     price: 1900
     from_price: null
     to_price: null
@@ -712,8 +729,8 @@ productCustomAttributes:
 
   - id: 120591
     title: HTML Dashboard template
-    # buy_now_url: "https://daisyui.lemonsqueezy.com/checkout/buy/3c805f3d-77a5-440b-9e4d-e775005db6c9"
-    buy_now_url: "https://www.creem.io/payment/prod_1b0GJj59ORMjGvf2G1Czjh"
+    buy_now_url: "https://daisyui.lemonsqueezy.com/checkout/buy/3c805f3d-77a5-440b-9e4d-e775005db6c9"
+    # buy_now_url: "https://www.creem.io/payment/prod_1b0GJj59ORMjGvf2G1Czjh"
     price: 2900
     from_price: 2900
     to_price: 2900
