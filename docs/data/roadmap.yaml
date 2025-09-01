@@ -233,11 +233,19 @@
       done: false
     - title: Improve the loading of translation files
       done: true
+    - title: llms.txt
+      done: true
+    - title: LLM and edito setup guides
+      done: true
 - title: Future
   done: false
   items:
-    - title: Tailwind CSS 5
-      done: false
+    - title: Floating action button / Speed Dial
+      done: true
+    - title: Styled native HTML <select> options
+      done: true
+    - title: Hover Gallery
+      done: true
     - title: Mega menu
       done: false
     - title: Pre-built CSS grid layouts
@@ -256,9 +264,9 @@
       done: false
     - title: CSS animation timeline
       done: false
-    - title: Collapsible floating action button
-      done: false
     - title: HTML invoker API
+      done: false
+    - title: Tailwind CSS 5
       done: false
     - title: CSS @scope
       done: false
