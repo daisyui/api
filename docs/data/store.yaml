@@ -571,11 +571,12 @@ productCustomAttributes:
       text: Updated to daisyUI 5.0
 
   - id: 208203
-    title: Blog template
+    title: Blog template 2.0
     buy_now_url: "https://daisyui.lemonsqueezy.com/checkout/buy/6f22ce51-2e2d-4d5f-b1ef-051df09ce6ff"
+    ref: 1ORz2E
     price: 2900
     from_price: 2900
-    to_price: 2900
+    to_price: 29900
     created_at: "2024-03-06T05:42:04.000000Z"
     desc: >-
       Fully working multi page blog template made with daisyUI
@@ -586,35 +587,44 @@ productCustomAttributes:
 
       Features:
         - Made with Markdown, Tailwind CSS and daisyUI
+        - Layout options for personal blog and company blog
         - SEO friendly, Lightweight and fast
         - Dark mode and Light mode
 
 
       Including:
-        - Homepage
+        - Homepage (with two layout options)
         - About page
         - Article page
-        - Articles archive with pagination
+        - Articles archive with pagination (with two layout options)
     media:
       - type: image
-        sm: https://img.daisyui.com/images/store/small/personal-blog/personal-blog-1.webp
-        lg: https://img.daisyui.com/images/store/large/personal-blog/personal-blog-1.webp
+        sm: https://img.daisyui.com/images/store/small/personal-blog/01.webp
+        lg: https://img.daisyui.com/images/store/large/personal-blog/01.webp
       - type: image
-        sm: https://img.daisyui.com/images/store/small/personal-blog/personal-blog-2.webp
-        lg: https://img.daisyui.com/images/store/large/personal-blog/personal-blog-2.webp
+        sm: https://img.daisyui.com/images/store/small/personal-blog/02.webp
+        lg: https://img.daisyui.com/images/store/large/personal-blog/02.webp
       - type: image
-        sm: https://img.daisyui.com/images/store/small/personal-blog/personal-blog-3.webp
-        lg: https://img.daisyui.com/images/store/large/personal-blog/personal-blog-3.webp
+        sm: https://img.daisyui.com/images/store/small/personal-blog/03.webp
+        lg: https://img.daisyui.com/images/store/large/personal-blog/03.webp
+      - type: image
+        sm: https://img.daisyui.com/images/store/small/personal-blog/04.webp
+        lg: https://img.daisyui.com/images/store/large/personal-blog/04.webp
     links:
-      license: https://api.daisyui.com/license/blog@1.txt
+      license: https://api.daisyui.com/license/blog@2.txt
       screenshot: https://img.daisyui.com/images/store/screenshots/blog-template.webp
+      preview: https://blog-template.daisyui.com/
     tech: [astro, react, nextjs, mdx]
     tags: [content, app]
     badge:
       class: badge-success
       icon: check
-      text: Updated to daisyUI 5.0
-    ref: 1ORz2E
+      text: Updated to daisyUI 5.1
+    quote:
+      img: https://img.daisyui.com/images/profile/people/pouya-saadeghi.webp
+      name: Pouya
+      text:
+        - Version 2 is now available! With new design, latest version of dependencies, and with new page layouts for company blog!
 
   - id: 185227
     title: Mobile app landing page
