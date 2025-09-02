@@ -41,7 +41,7 @@ productCustomAttributes:
         lg: https://img.daisyui.com/images/store/large/personal-blog/04.webp
     links:
       license: https://api.daisyui.com/license/blog@2.txt
-      screenshot: https://img.daisyui.com/images/store/screenshots/blog-template.webp
+      screenshot: https://img.daisyui.com/images/store/screenshots/blog-template-2.webp
       preview: https://blog-template.daisyui.com/
     tech: [astro, react, nextjs, mdx]
     tags: [content, app]
