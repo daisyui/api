@@ -54,6 +54,18 @@ productCustomAttributes:
       name: Pouya
       text:
         - Version 2 is now available! With new design, latest version of dependencies, and with new page layouts for company blog!
+    packages:
+      - [null, Solo License, Team License, Enterprise License]
+      - [price, 2900, 4900, 29900]
+      - [popular, false, true, false]
+      - [🛠️ Frameworks, null, null, null]
+      - [Next.js version, true, true, true]
+      - [Astro.js version, true, true, true]
+      - [⚖️ License, null, null, null]
+      - [Developer seats, 1, Unlimited, Unlimited]
+      - [Projects limit, 1, 1, Unlimited]
+      - [🛟 Support, null, null, null]
+      - [Updates and bugfixes, true, true, true]
 
   - id: 351127
     title: Official daisyUI Figma Library
