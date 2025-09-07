@@ -206,13 +206,13 @@
   },
   {
     "kind": "youtube#video",
-    "etag": "aPfFjeyHNV_i-nuWiVgzsdzAQmw",
+    "etag": "zp1Zc-FVrbxcN9z3iESoRQlkUkI",
     "id": "PPXktTJXMPE",
     "snippet": {
       "publishedAt": "2025-01-22T00:00:55Z",
       "channelId": "UCMCcqbJpyL3LAv3PJeYz2bg",
       "title": "Build a Mobile App Fast! React + Capacitor + Tailwind + DaisyUI",
-      "description": "Build a Mobile App Fast! React + Capacitor + Tailwind + DaisyUI\n#daisyui #tailwindcss #reactjs #capacitorjs \n\n🚀 Build & Deploy a Mobile App with React, Capacitor, TailwindCSS & DaisyUI – Step by Step! 🎨📱\n\nIn this tutorial, I'll guide you through the entire process of setting up a mobile app using React, Capacitor, TailwindCSS, and DaisyUI. Whether you're a beginner or an experienced developer, this step-by-step guide will help you integrate TailwindCSS and DaisyUI seamlessly, giving your app a clean and modern design.\n\nBut that’s not all! I’ll also walk you through the Capacitor JS commands needed to package and deploy your app on iOS and Android—so you can take your project from development to a fully functional mobile app! 🚀\n\n⏱️ Chapters\n=================\n00:00 - Introduction\n01:58 - Step 1 - Create vite react typescript project\n05:46 - Step 2 - Add DaisyUI\n08:17 - Step 3 - Add Capacitor\n11:05 - Step 4 - Deploy on Device\n\nInstallation & Setup Guides\n- Capacitor CLI Commands: https://capacitorjs.com/docs/getting-started\n- Building & Deploying with Capacitor: https://capacitorjs.com/docs/guides/building-your-app\n- Adding TailwindCSS to a Project: https://tailwindcss.com/docs/installation\n- Using DaisyUI Components: https://daisyui.com/components/\n\nMS Code Ionic Plugin\n- https://ionicframework.com/docs/intro/vscode-extension\n\nSource Code\n- https://github.com/aaronksaunders/my-daisyui-capacitor-project\n\n⚡ Looking for help with your project - https://www.clearlyinnovative.com/valued-experience\n\n#React #Capacitor #TailwindCSS #DaisyUI #MobileApp #WebDevelopment #uiux",
+      "description": "Build a Mobile App Fast! React + Capacitor + Tailwind + DaisyUI\n#daisyui #tailwindcss #reactjs #capacitorjs \n\n🚀 Build & Deploy a Mobile App with React, Capacitor, TailwindCSS & DaisyUI – Step by Step! 🎨📱\n\nIn this tutorial, I'll guide you through the entire process of setting up a mobile app using React, Capacitor, TailwindCSS, and DaisyUI. Whether you're a beginner or an experienced developer, this step-by-step guide will help you integrate TailwindCSS and DaisyUI seamlessly, giving your app a clean and modern design.\n\nBut that’s not all! I’ll also walk you through the Capacitor JS commands needed to package and deploy your app on iOS and Android—so you can take your project from development to a fully functional mobile app! 🚀\n\n⏱️ Chapters\n=================\n00:00 - Introduction\n01:58 - Step 1 - Create vite react typescript project\n05:46 - Step 2 - Add DaisyUI\n08:17 - Step 3 - Add Capacitor\n11:05 - Step 4 - Deploy on Device\n\nInstallation & Setup Guides\n- Capacitor CLI Commands: https://capacitorjs.com/docs/getting-started\n- Building & Deploying with Capacitor: https://capacitorjs.com/docs/guides/building-your-app\n- Adding TailwindCSS to a Project: https://tailwindcss.com/docs/installation\n- Using DaisyUI Components: https://daisyui.com/components/\n\nMS Code Ionic Plugin\n- https://ionicframework.com/docs/intro/vscode-extension\n\nSource Code\n- https://github.com/aaronksaunders/my-daisyui-capacitor-project\n\n ---\n⚡ \"For teams or developers looking for specialized advisory on the Vue, React, Ionic Framework, and Capacitor stack for mobile apps, I offer targeted consulting sessions. Feel free to get in touch to discuss how I can help.\"\n\n➡️ **Contact:**  info@clearlyinnovative.com\n---\n\n#React #Capacitor #TailwindCSS #DaisyUI #MobileApp #WebDevelopment #uiux",
       "thumbnails": {
         "default": {
           "url": "https://i.ytimg.com/vi/PPXktTJXMPE/default.jpg",
@@ -265,7 +265,7 @@
       "defaultLanguage": "en",
       "localized": {
         "title": "Build a Mobile App Fast! React + Capacitor + Tailwind + DaisyUI",
-        "description": "Build a Mobile App Fast! React + Capacitor + Tailwind + DaisyUI\n#daisyui #tailwindcss #reactjs #capacitorjs \n\n🚀 Build & Deploy a Mobile App with React, Capacitor, TailwindCSS & DaisyUI – Step by Step! 🎨📱\n\nIn this tutorial, I'll guide you through the entire process of setting up a mobile app using React, Capacitor, TailwindCSS, and DaisyUI. Whether you're a beginner or an experienced developer, this step-by-step guide will help you integrate TailwindCSS and DaisyUI seamlessly, giving your app a clean and modern design.\n\nBut that’s not all! I’ll also walk you through the Capacitor JS commands needed to package and deploy your app on iOS and Android—so you can take your project from development to a fully functional mobile app! 🚀\n\n⏱️ Chapters\n=================\n00:00 - Introduction\n01:58 - Step 1 - Create vite react typescript project\n05:46 - Step 2 - Add DaisyUI\n08:17 - Step 3 - Add Capacitor\n11:05 - Step 4 - Deploy on Device\n\nInstallation & Setup Guides\n- Capacitor CLI Commands: https://capacitorjs.com/docs/getting-started\n- Building & Deploying with Capacitor: https://capacitorjs.com/docs/guides/building-your-app\n- Adding TailwindCSS to a Project: https://tailwindcss.com/docs/installation\n- Using DaisyUI Components: https://daisyui.com/components/\n\nMS Code Ionic Plugin\n- https://ionicframework.com/docs/intro/vscode-extension\n\nSource Code\n- https://github.com/aaronksaunders/my-daisyui-capacitor-project\n\n⚡ Looking for help with your project - https://www.clearlyinnovative.com/valued-experience\n\n#React #Capacitor #TailwindCSS #DaisyUI #MobileApp #WebDevelopment #uiux"
+        "description": "Build a Mobile App Fast! React + Capacitor + Tailwind + DaisyUI\n#daisyui #tailwindcss #reactjs #capacitorjs \n\n🚀 Build & Deploy a Mobile App with React, Capacitor, TailwindCSS & DaisyUI – Step by Step! 🎨📱\n\nIn this tutorial, I'll guide you through the entire process of setting up a mobile app using React, Capacitor, TailwindCSS, and DaisyUI. Whether you're a beginner or an experienced developer, this step-by-step guide will help you integrate TailwindCSS and DaisyUI seamlessly, giving your app a clean and modern design.\n\nBut that’s not all! I’ll also walk you through the Capacitor JS commands needed to package and deploy your app on iOS and Android—so you can take your project from development to a fully functional mobile app! 🚀\n\n⏱️ Chapters\n=================\n00:00 - Introduction\n01:58 - Step 1 - Create vite react typescript project\n05:46 - Step 2 - Add DaisyUI\n08:17 - Step 3 - Add Capacitor\n11:05 - Step 4 - Deploy on Device\n\nInstallation & Setup Guides\n- Capacitor CLI Commands: https://capacitorjs.com/docs/getting-started\n- Building & Deploying with Capacitor: https://capacitorjs.com/docs/guides/building-your-app\n- Adding TailwindCSS to a Project: https://tailwindcss.com/docs/installation\n- Using DaisyUI Components: https://daisyui.com/components/\n\nMS Code Ionic Plugin\n- https://ionicframework.com/docs/intro/vscode-extension\n\nSource Code\n- https://github.com/aaronksaunders/my-daisyui-capacitor-project\n\n ---\n⚡ \"For teams or developers looking for specialized advisory on the Vue, React, Ionic Framework, and Capacitor stack for mobile apps, I offer targeted consulting sessions. Feel free to get in touch to discuss how I can help.\"\n\n➡️ **Contact:**  info@clearlyinnovative.com\n---\n\n#React #Capacitor #TailwindCSS #DaisyUI #MobileApp #WebDevelopment #uiux"
       },
       "defaultAudioLanguage": "en-US"
     },
@@ -280,7 +280,7 @@
   },
   {
     "kind": "youtube#video",
-    "etag": "hy8T3_ov7nIEGufy2ANoY1ihZMA",
+    "etag": "IyOxAERzTei48hSwC4Y96yy9RRU",
     "id": "tZbOO97urWs",
     "snippet": {
       "publishedAt": "2023-05-21T21:51:04Z",
@@ -858,6 +858,299 @@
       "embeddable": true,
       "publicStatsViewable": true,
       "madeForKids": false
+    }
+  },
+  {
+    "kind": "youtube#video",
+    "etag": "hrOQd-Mlgh76zf7EjlFm4UVUvlM",
+    "id": "3wb-hvu4y3Y",
+    "snippet": {
+      "publishedAt": "2025-05-30T16:00:14Z",
+      "channelId": "UCnmbV9eyMwIl50Ji1ObFxqg",
+      "title": "Finally, a UI Library for Phoenix",
+      "description": "Check my website: \nhttps://bergdaniel.com.br/ \n\nThe official announcement: \nhttps://www.phoenixframework.org/blog/phoenix-1-8-released\n\nDaisy UI docs: \nhttps://daisyui.com/",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/3wb-hvu4y3Y/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/3wb-hvu4y3Y/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/3wb-hvu4y3Y/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/3wb-hvu4y3Y/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/3wb-hvu4y3Y/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Daniel Bergholz",
+      "categoryId": "28",
+      "liveBroadcastContent": "none",
+      "defaultLanguage": "en",
+      "localized": {
+        "title": "Finally, a UI Library for Phoenix",
+        "description": "Check my website: \nhttps://bergdaniel.com.br/ \n\nThe official announcement: \nhttps://www.phoenixframework.org/blog/phoenix-1-8-released\n\nDaisy UI docs: \nhttps://daisyui.com/"
+      },
+      "defaultAudioLanguage": "en"
+    },
+    "status": {
+      "uploadStatus": "processed",
+      "privacyStatus": "public",
+      "license": "youtube",
+      "embeddable": true,
+      "publicStatsViewable": true,
+      "madeForKids": false
+    }
+  },
+  {
+    "kind": "youtube#video",
+    "etag": "00yU3gniinesIz9JMPat-h9p40U",
+    "id": "f0EXkjL_hE4",
+    "snippet": {
+      "publishedAt": "2025-05-29T14:48:37Z",
+      "channelId": "UCzduHewP16x1jFcCIEZwNeg",
+      "title": "DaisyUI FTW!",
+      "description": "Twitch: https://www.twitch.tv/zebhoggr\n\nArticle Link: https://code.likeagirl.io/daisyui-the-tailwind-css-shortcut-youll-either-love-or-regret-69322576987c",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/f0EXkjL_hE4/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/f0EXkjL_hE4/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/f0EXkjL_hE4/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/f0EXkjL_hE4/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/f0EXkjL_hE4/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Zebhoggr",
+      "categoryId": "24",
+      "liveBroadcastContent": "none",
+      "defaultLanguage": "en",
+      "localized": {
+        "title": "DaisyUI FTW!",
+        "description": "Twitch: https://www.twitch.tv/zebhoggr\n\nArticle Link: https://code.likeagirl.io/daisyui-the-tailwind-css-shortcut-youll-either-love-or-regret-69322576987c"
+      },
+      "defaultAudioLanguage": "en"
+    },
+    "status": {
+      "uploadStatus": "processed",
+      "privacyStatus": "public",
+      "license": "youtube",
+      "embeddable": true,
+      "publicStatsViewable": true,
+      "madeForKids": false
+    }
+  },
+  {
+    "kind": "youtube#video",
+    "etag": "3QsvRr0PAmGBEzMmjy7rLT7PASY",
+    "id": "v4TJbutVjV8",
+    "snippet": {
+      "publishedAt": "2025-09-02T08:30:31Z",
+      "channelId": "UCyr6ZTmztFW3FB4qG_97FoA",
+      "title": "SupeRails #240 Stop Making Ugly Rails Apps – DaisyUI + Tailwind Will Change Your Life",
+      "description": "BootstrapCSS has amazing components.\nTailwindCSS has amazing utility classes.\nDaisyUI is a component library on top of Tailwind. It let's you use Boostrap-like components.\n\nIf you are using Tailwind, I think Daisy is a must-have layer on top.\n\nApart of components, it also provides semantic dark mode friendly colors and easy theming.\n\nInstall DaisyUI in a Rails app: https://daisyui.com/docs/install/rails/\n\nEpisode source code: https://github.com/corsego/240-daisy-ui/commit/a0db2b85bdeb8930aae0ab9d311be5a57be9ebc1",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/v4TJbutVjV8/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/v4TJbutVjV8/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/v4TJbutVjV8/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/v4TJbutVjV8/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/v4TJbutVjV8/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "SupeRails",
+      "tags": [
+        "ruby",
+        "rails",
+        "ruby on rails",
+        "tutorial",
+        "programming"
+      ],
+      "categoryId": "27",
+      "liveBroadcastContent": "none",
+      "defaultLanguage": "en",
+      "localized": {
+        "title": "SupeRails #240 Stop Making Ugly Rails Apps – DaisyUI + Tailwind Will Change Your Life",
+        "description": "BootstrapCSS has amazing components.\nTailwindCSS has amazing utility classes.\nDaisyUI is a component library on top of Tailwind. It let's you use Boostrap-like components.\n\nIf you are using Tailwind, I think Daisy is a must-have layer on top.\n\nApart of components, it also provides semantic dark mode friendly colors and easy theming.\n\nInstall DaisyUI in a Rails app: https://daisyui.com/docs/install/rails/\n\nEpisode source code: https://github.com/corsego/240-daisy-ui/commit/a0db2b85bdeb8930aae0ab9d311be5a57be9ebc1"
+      },
+      "defaultAudioLanguage": "en"
+    },
+    "status": {
+      "uploadStatus": "processed",
+      "privacyStatus": "public",
+      "license": "youtube",
+      "embeddable": true,
+      "publicStatsViewable": true,
+      "madeForKids": false
+    }
+  },
+  {
+    "kind": "youtube#video",
+    "etag": "5MqmApNZF_CBf0G3RLTVu_49h2c",
+    "id": "FX7hTeB0nc4",
+    "snippet": {
+      "publishedAt": "2025-06-04T09:16:55Z",
+      "channelId": "UC-KHt0pshjjdDpzVoxmzv3w",
+      "title": "IDE21 design templates in the CMS admin panel - DaisyUI and TailwindCSS IDE",
+      "description": "IDE21 is more than just a Content Management System. It helps you design your website from the administration panel. You can, with a few clicks, completely design your website directly in the CMS, AND/OR use DaisyUI components and TailwindCSS classes for the same purpose and greater control ( also inside CMS admin panel ). \n\nCheck out the project on GitHub, give it a star :)\n\nhttps://github.com/nebojsatomic/IDE21\n\n\nWebsite:\nhttps://ide21.com",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/FX7hTeB0nc4/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/FX7hTeB0nc4/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/FX7hTeB0nc4/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/FX7hTeB0nc4/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        }
+      },
+      "channelTitle": "Neb Tom",
+      "tags": [
+        "ide",
+        "ide21",
+        "cms",
+        "php",
+        "frontend",
+        "backend",
+        "templates",
+        "tailwind",
+        "tailwindcss",
+        "css",
+        "javascript",
+        "daisyui",
+        "laravel",
+        "zend framework"
+      ],
+      "categoryId": "22",
+      "liveBroadcastContent": "none",
+      "defaultLanguage": "en",
+      "localized": {
+        "title": "IDE21 design templates in the CMS admin panel - DaisyUI and TailwindCSS IDE",
+        "description": "IDE21 is more than just a Content Management System. It helps you design your website from the administration panel. You can, with a few clicks, completely design your website directly in the CMS, AND/OR use DaisyUI components and TailwindCSS classes for the same purpose and greater control ( also inside CMS admin panel ). \n\nCheck out the project on GitHub, give it a star :)\n\nhttps://github.com/nebojsatomic/IDE21\n\n\nWebsite:\nhttps://ide21.com"
+      },
+      "defaultAudioLanguage": "en"
+    },
+    "status": {
+      "uploadStatus": "processed",
+      "privacyStatus": "public",
+      "license": "youtube",
+      "embeddable": true,
+      "publicStatsViewable": true,
+      "madeForKids": false
+    }
+  },
+  {
+    "kind": "youtube#video",
+    "etag": "xaH_-MTbwNR1xhVvluKuuzhq1p4",
+    "id": "AfM6ipH23k8",
+    "snippet": {
+      "publishedAt": "2025-06-04T12:56:58Z",
+      "channelId": "UCRReOQ-w4xO1Js3zj0_pnhQ",
+      "title": "Datastar + Golang + Templ + Daisyui magic ✨",
+      "description": "Little project with  Golang, templ, daisyui and datastar. It fetch the latest posts from reddit and display them in the grid for easy access.\nhttps://github.com/tinkerbaj/reddit-posts",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/AfM6ipH23k8/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/AfM6ipH23k8/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/AfM6ipH23k8/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/AfM6ipH23k8/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/AfM6ipH23k8/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Tinker baj",
+      "categoryId": "22",
+      "liveBroadcastContent": "none",
+      "defaultLanguage": "en",
+      "localized": {
+        "title": "Datastar + Golang + Templ + Daisyui magic ✨",
+        "description": "Little project with  Golang, templ, daisyui and datastar. It fetch the latest posts from reddit and display them in the grid for easy access.\nhttps://github.com/tinkerbaj/reddit-posts"
+      },
+      "defaultAudioLanguage": "en"
+    },
+    "status": {
+      "uploadStatus": "processed",
+      "privacyStatus": "public",
+      "license": "youtube",
+      "embeddable": true,
+      "publicStatsViewable": true,
+      "madeForKids": true
     }
   },
   {
@@ -2248,7 +2541,7 @@
   },
   {
     "kind": "youtube#video",
-    "etag": "YCjuAG78VH5kker84_slYzbgDpc",
+    "etag": "T_BwExNoP8TZY6tHr8LgTny6rVE",
     "id": "fX3AhKuZnXc",
     "snippet": {
       "publishedAt": "2023-06-05T11:48:04Z",
@@ -4667,7 +4960,7 @@
       "defaultLanguage": "th",
       "localized": {
         "title": "แนะนำ Tailwind และ DaisyUI (พร้อมหยิบมาแต่ง Todo List) | VF Masterclass - EP. 6",
-        "description": "☕️ สนับสนุนช่องเราด้วยการสมัครสมาชิกช่องทางนี้ได้เลย\nhttps://www.youtube.com/channel/UC3YgTINPYQmUcRt5ZcNFIZQ/join\n\nสวัสดีสู่ตอนที่ 6 ของซีรีย์ Vue Firebase masterclass ตอนนี้เราจะพาแนะนำ Tailwind และ DaisyUI กันว่ามันคืออะไร มันช่วยอำนวยความสะดวกอะไรได้บ้าง และทำไมผมถึงหยิบ technology 2 ตัวนี้มาใช้ใน project นี้ \n\nพร้อมกับเราจะนำ tailwind และ daisyUI มาแต่ง style ใน Todo list ให้สวยงามกัน\n\n** สำหรับใครที่มาดู Session นี้เลยและอยากได้ code ส่วน Todo list ให้สร้าง project ใหม่และดู code Todo List ตามเอกสารนี้ได้นะครับ\nhttps://docs.mikelopster.dev/c/vue-firebase/chapter-5/workshop\n\nหัวข้อ\n00:00 แนะนำ Session\n00:31 แนะนำ Tailwind ว่าคืออะไร\n08:04 ลง Tailwind ใน project Todo List\n11:40 แนะนำ Tailwind core concept (utility class)\n13:00 Tailwind - 1. Layout\n18:04 Tailwind - 2. Flexbox & Grid\n20:29 Tailwind - 3. Spacing\n22:55 Taliwind - 4. Sizing\n23:46 Tailwind - 5. Typography\n26:12 Tailwind - 6. Background\n27:18 Tailwind - 7. Borders\n28:29 Tailwind - 8. Effect\n29:14 Tailwind - 9. Filters\n30:11 Tailwind - 10. Table\n30:48 Tailwind - 11. Transform and Transition\n31:13 Tailwind - Handling Hover, Focus, State\n31:50 Tailwind - 12. Responsive\n33:44 การ Customize Tailwind และ Directive (group class)\n37:40 แนะนำ Daisy UI (Tailwind plugin)\n39:21 ลง DaisyUI ใน project Todo List\n40:26 DaisyUI Component - 1. Action\n42:14 DaisyUI Component - 2. Data display\n43:45 DaisyUI Component - 3. Data input\n45:08 DaisyUI Component - 4. Layout\n46:06 DaisyUI Component - 5. Navigation\n47:30 แนะนำ Theme ใน DaisyUI\n49:11 เริ่มแต่ง Todo List overview ว่าจะทำอะไรบ้าง\n49:28 แก้ Layout ใหญ่ที่ App.vue\n51:30 แต่ง HomeView - ตาม checklist / เริ่มเรียง input ก่อน\n53:11 แต่ง HomeView - แต่ง list view ของ todo ใหม่\n57:25 แต่ง HomeView - เพิ่ม checkbox และ status 'Done' style\n1:01:42 แต่ง HomeView - เพิ่ม Loading component\n1:06:05 แต่ง HomeView - เพิ่ม tab สำหรับแยก status และ computed แยก status\n1:11:43 แต่ง EditView - adjust style หน้า input\n1:15:20 แต่ง EditView - เพิ่ม back button\n1:16:45 แต่ง EditView - เพิ่ม Loading\n1:17:10 แต่ง EditView - เพิ่ม Toast (สำหรับบอกว่า update เรียบร้อยแล้ว)\n1:19:17 Recap เราทำอะไรกันไปบ้าง\n1:20:17 เราจะทำอะไรกันต่อใน 2 Session ต่อไป\n\nสำหรับใครอยาก follow ตามเอกสาร สามารถเข้ามาอ่านกันได้เล้ยที่นี่\nhttps://docs.mikelopster.dev/c/vue-firebase/chapter-6/intro\n\nใครมีข้อสงสัยเพิ่มเติม มาพูดคุยแลกเปลี่ยนความรู้กันได้ที่\nFacebook page: https://www.facebook.com/mikelopster.dev\nWebsite: https://mikelopster.dev\n\nพิกัดของด้านหลัง : https://shope.ee/8A54c8cfkf"
+        "description": "☕️ สนับสนุนช่องเราด้วยการสมัครสมาชิกช่องทางนี้ได้เลย\nhttps://www.youtube.com/channel/UC3YgTINPYQmUcRt5ZcNFIZQ/join\n\nสวัสดีสู่ตอนที่ 6 ของซีรีย์ Vue Firebase masterclass ตอนนี้เราจะพาแนะนำ Tailwind และ DaisyUI กันว่ามันคืออะไร มันช่วยอำนวยความสะดวกอะไรได้บ้าง และทำไมผมถึงหยิบ technology 2 ตัวนี้มาใช้ใน project นี้ \n\nพร้อมกับเราจะนำ tailwind และ daisyUI มาแต่ง style ใน Todo list ให้สวยงามกัน\n\n** สำหรับใครที่มาดู Session นี้เลยและอยากได้ code ส่วน Todo list ให้สร้าง project ใหม่และดู code Todo List ตามเอกสารนี้ได้นะครับ\nhttps://docs.mikelopster.dev/c/vue-firebase/chapter-5/workshop\n\nหัวข้อ\n00:00 แนะนำ Session\n00:31 แนะนำ Tailwind ว่าคืออะไร\n08:04 ลง Tailwind ใน project Todo List\n11:40 แนะนำ Tailwind core concept (utility class)\n13:00 Tailwind - 1. Layout\n18:04 Tailwind - 2. Flexbox & Grid\n20:29 Tailwind - 3. Spacing\n22:55 Taliwind - 4. Sizing\n23:46 Tailwind - 5. Typography\n26:12 Tailwind - 6. Background\n27:18 Tailwind - 7. Borders\n28:29 Tailwind - 8. Effect\n29:14 Tailwind - 9. Filters\n30:11 Tailwind - 10. Table\n30:48 Tailwind - 11. Transform and Transition\n31:13 Tailwind - Handling Hover, Focus, State\n31:50 Tailwind - 12. Responsive\n33:44 การ Customize Tailwind และ Directive (group class)\n37:40 แนะนำ Daisy UI (Tailwind plugin)\n39:21 ลง DaisyUI ใน project Todo List\n40:26 DaisyUI Component - 1. Action\n42:14 DaisyUI Component - 2. Data display\n43:45 DaisyUI Component - 3. Data input\n45:08 DaisyUI Component - 4. Layout\n46:06 DaisyUI Component - 5. Navigation\n47:30 แนะนำ Theme ใน DaisyUI\n49:11 เริ่มแต่ง Todo List overview ว่าจะทำอะไรบ้าง\n49:28 แก้ Layout ใหญ่ที่ App.vue\n51:30 แต่ง HomeView - ตาม checklist / เริ่มเรียง input ก่อน\n53:11 แต่ง HomeView - แต่ง list view ของ todo ใหม่\n57:25 แต่ง HomeView - เพิ่ม checkbox และ status 'Done' style\n1:01:42 แต่ง HomeView - เพิ่ม Loading component\n1:06:05 แต่ง HomeView - เพิ่ม tab สำหรับแยก status และ computed แยก status\n1:11:43 แต่ง EditView - adjust style หน้า input\n1:15:20 แต่ง EditView - เพิ่ม back button\n1:16:45 แต่ง EditView - เพิ่ม Loading\n1:17:10 แต่ง EditView - เพิ่ม Toast (สำหรับบอกว่า update เรียบร้อยแล้ว)\n1:19:17 Recap เราทำอะไรกันไปบ้าง\n1:20:17 เราจะทำอะไรกันต่อใน 2 Session ต่อไป\n\nสำหรับใครอยาก follow ���ามเอกสาร สามารถเข้ามาอ่านกันได้เล้ยที่นี่\nhttps://docs.mikelopster.dev/c/vue-firebase/chapter-6/intro\n\nใครมีข้อสงสัยเพิ่มเติม มาพูดคุยแลกเปลี่ยนความรู้กันได้ที่\nFacebook page: https://www.facebook.com/mikelopster.dev\nWebsite: https://mikelopster.dev\n\nพิกัดของด้านหลัง : https://shope.ee/8A54c8cfkf"
       },
       "defaultAudioLanguage": "th"
     },
@@ -5217,7 +5510,7 @@
       "defaultLanguage": "th",
       "localized": {
         "title": "เขียน TailwindCSS ให้สั้นลงด้วย DaisyUI",
-        "description": "ใครที่ใช้ TailwindCSS ไปซักพักแล้วรู้สึกว่าเอ๊ะ Class ที่เราเขียนมันยาววว ซะเหลือเกิน กว่าจะอ่านให้เก็ทแต่ละทีเล่นซะหัวหมุน มาลองรู้จักกับ DaisyUI ที่จะทำให้เพื่อนๆ เขียน TailwindCSS ให้มันสั้นลงกันเถอะ!\n\nลิงก์สอน  TailwindCSS  https://www.youtube.com/watch?v=dDf_fNbqUYM&t=21s\n\nลิงก์ DaisyUI https://daisyui.com/\n\nมาแบ่งปันความรู้ แชร์ประสบการณ์ใน Community borntoDev ได้ที่ https://discord.com/invite/wam6MYrfND\nเข้าร่วมกลุ่ม Facebook Community ได้ที่ https://www.facebook.com/groups/24251... \nสนใจจัดอบรมออฟไลน์ ดูรายละเอียดได้ที่นี่ https://www.borntodev.com/borntodev-f... \n\n▲ ติดตามช่องของเราได้ที่ : https://bit.ly/SubBorntoDev\n▲ Facebook : https://www.facebook.com/borntodev\n▲ Website : http://www.borntodev.com/\n\n🦖BorntoDev Channel คือ ช่องยูทูปที่เน้นสาระด้านเทคโนโลยี การพัฒนาโปรแกรม ไปพร้อมกับความสนุกสนาน และ รอยยิ้มเข้าไว้ด้วยกันทั้งในรูปแบบบทเรียน และ vlog เพื่อการเปลี่ยนรูปแบบการเรียนรู้ด้านการพัฒนาโปรแกรม และ เทคโนโลยีแบบเดิม ๆ ที่เป็นเรื่องเฉพาะกลุ่มให้เข้าถึง เข้าใจได้ง่ายยิ่งขึ้น โดยพัฒนาเน้นไปที่รูปแบบการนำเสนอใหม่ ๆ ที่เป็นมิตรกับทุกคน\n\n▲ กิจกรรมใ��� Channel BorntoDev เป็นส่วนหนึ่งในการดำเนินงานของ บริษัท บอร์นทูเดฟ จำกัด ที่เปิดรับ Partners ที่สนใจร่วมเปลี่ยนแปลงให้สังคมไทยเป็นสังคมด้านวิทยาศาสตร์ และ เทคโนโลยีมากยิ่งขึ้น หากคุณสนใจสนับสนุน และ ก้าวไปพร้อมกัน สามารถติดต่อร่วมงานได้แล้ววันนี้\n\n▲ ติดต่อโฆษณา สนับสนุน และ ร่วมงานได้ที่: support@borntoDev.com"
+        "description": "ใครที่ใช้ TailwindCSS ไปซักพักแล้วรู้สึกว่าเอ๊ะ Class ที่เราเขียนมันยาววว ซะเหลือเกิน กว่าจะอ่านให้เก็ทแต่ละทีเล่นซะหัวหมุน มาลองรู้จักกับ DaisyUI ที่จะทำให้เพื่อนๆ เขียน TailwindCSS ให้มันสั้นลงกันเถอะ!\n\nลิงก์สอน  TailwindCSS  https://www.youtube.com/watch?v=dDf_fNbqUYM&t=21s\n\nลิงก์ DaisyUI https://daisyui.com/\n\nมาแบ่งปันความรู้ แชร์ประสบการณ์ใน Community borntoDev ได้ที่ https://discord.com/invite/wam6MYrfND\nเข้าร่วมกลุ่ม Facebook Community ได้ที่ https://www.facebook.com/groups/24251... \nสนใจจัดอบรมออฟไลน์ ดูรายละเอียดได้ที่นี่ https://www.borntodev.com/borntodev-f... \n\n▲ ติดตามช่องของเราได้ที่ : https://bit.ly/SubBorntoDev\n▲ Facebook : https://www.facebook.com/borntodev\n▲ Website : http://www.borntodev.com/\n\n🦖BorntoDev Channel คือ ช่องยูทูปที่เน้นสาระด้านเทคโนโลยี การพัฒนาโปรแกรม ไปพร้อมกับความสนุกสนาน และ รอยยิ้มเข้าไว้ด้วยกันทั้งในรูปแบบบทเรียน และ vlog เพื่อการเปลี่ยนรูปแบบการเรียนรู้ด้านการพัฒนาโปรแกรม และ เทคโนโลยีแบบเดิม ๆ ที่เป็นเรื่องเฉพาะกลุ่มให้เข้าถึง เข้าใจได้ง่ายยิ่งขึ้น โดยพัฒนาเน้นไปที่รูปแบบการนำเสนอใหม่ ๆ ที่เป็นมิตรกับทุกคน\n\n▲ กิจกรรมใน Channel BorntoDev เป็นส่วนหนึ่งในการดำเนินงานของ บริษัท บอร์นทูเดฟ จำกัด ที่เปิดรับ Partners ที่สนใจร่วมเปลี่ยนแปลงให้สังคมไทยเป็นสังคมด้านวิทยาศาสตร์ และ เทคโนโลยีมากยิ่งขึ้น หากคุณสนใจสนับสนุน และ ก้าวไปพร้อมกัน สามารถติดต่อร่วมงานได้แล้ววันนี้\n\n▲ ติดต่อโฆษณา สนับสนุน และ ร่วมงานได้ที่: support@borntoDev.com"
       },
       "defaultAudioLanguage": "th"
     },
@@ -7761,7 +8054,7 @@
   },
   {
     "kind": "youtube#video",
-    "etag": "laqBlteqWPBOfmS-lGP6hTUSx6Q",
+    "etag": "GA0m8o86a-19RpDR9rx3g6tJa3Q",
     "id": "Gpm3w7Mib_M",
     "snippet": {
       "publishedAt": "2022-05-07T02:38:40Z",
@@ -8408,7 +8701,7 @@
   },
   {
     "kind": "youtube#video",
-    "etag": "-pc2Mu35ZHiE4W4JgKvZup3RNHQ",
+    "etag": "xBNyz5hvHsybefDpdILpfX0tq6A",
     "id": "ruOsJa1Kbso",
     "snippet": {
       "publishedAt": "2025-01-30T07:55:18Z",
@@ -8840,7 +9133,7 @@
       "defaultLanguage": "en",
       "localized": {
         "title": "Build and Deploy Your Modern Portfolio with Next.js, Tailwind CSS, DaisyUI, and Vercel ! 🚀",
-        "description": "In this video, I'll guide you step-by-step to create a stunning and professional portfolio that will help you land your dream job! 🎯\n\n✅ Elegant Hero Section with links to your social platforms.\n✅ Work Experience and Education sections, beautifully organized.\n✅ Showcase your projects with live demos and source code links.\n✅ Easy contact button to connect directly via email.\n\n💡 We’ll use modern tools like Next.js, DaisyUI, and Tailwind CSS to build gorgeous components effortlessly. Best of all, the code is open source, simple to customize, and easy to understand—even for your future manager!\n\nJoin me in this journey and create a portfolio you’ll be proud of! 💻✨\n\n⏳ Video Chapters:\n00:00 - Introduction & Live Demo: See what we’ll build and why it’s the perfect portfolio.\n02:20 - Setting Up Next.js: Install and configure the foundation for your portfolio.\n15:25 - Building the Navbar Component: Create a responsive and clean navigation bar.\n34:30 - Creating the Hero Section: Design an impressive intro with call-to-action buttons.\n40:35 - Adding the Experience Section: Showcase your professional journey effectively.\n01:22:08 - Building the Education Section: Highlight your academic achievements.\n01:32:35 - Creating the Project Section: Display your projects with code and live demo links.\n02:16:35 - Developing the Footer: Wrap up with a polished footer design.\n02:26:00 - Deploying on Vercel: Publish your portfolio online in minutes.\n\n\n\n🔗 Clone the project here: https://github.com/Osiris8/osirismigan\nSee the project online : https://osirismigan.vercel.app/\n🎥 Subscribe for more real-world projects!\n\n👉 Ready to impress? Watch now and let’s build your portfolio together!\""
+        "description": "In this video, I'll guide you step-by-step to create a stunning and professional portfolio that will help you land your dream job! 🎯\n\n✅ Elegant Hero Section with links to your social platforms.\n✅ Work Experience and Education sections, beautifully organized.\n✅ Showcase your projects with live demos and source code links.\n✅ Easy contact button to connect directly via email.\n\n💡 We’ll use modern tools like Next.js, DaisyUI, and Tailwind CSS to build gorgeous components effortlessly. Best of all, the code is open source, simple to customize, and easy to understand—even for your future manager!\n\nJoin me in this journey and create a portfolio you���ll be proud of! 💻✨\n\n⏳ Video Chapters:\n00:00 - Introduction & Live Demo: See what we’ll build and why it’s the perfect portfolio.\n02:20 - Setting Up Next.js: Install and configure the foundation for your portfolio.\n15:25 - Building the Navbar Component: Create a responsive and clean navigation bar.\n34:30 - Creating the Hero Section: Design an impressive intro with call-to-action buttons.\n40:35 - Adding the Experience Section: Showcase your professional journey effectively.\n01:22:08 - Building the Education Section: Highlight your academic achievements.\n01:32:35 - Creating the Project Section: Display your projects with code and live demo links.\n02:16:35 - Developing the Footer: Wrap up with a polished footer design.\n02:26:00 - Deploying on Vercel: Publish your portfolio online in minutes.\n\n\n\n🔗 Clone the project here: https://github.com/Osiris8/osirismigan\nSee the project online : https://osirismigan.vercel.app/\n🎥 Subscribe for more real-world projects!\n\n👉 Ready to impress? Watch now and let’s build your portfolio together!\""
       },
       "defaultAudioLanguage": "en"
     },
@@ -8855,13 +9148,13 @@
   },
   {
     "kind": "youtube#video",
-    "etag": "wNB3l510KicDLGsx5ujt3fP5cNo",
+    "etag": "az9qFHwueMGkiqSQVjOnYRcX2W8",
     "id": "Im_xcqRUE9o",
     "snippet": {
       "publishedAt": "2024-11-19T13:08:37Z",
       "channelId": "UCqQ3_6t32LoR7L12r2UK3Mw",
       "title": "Check Daisy UI một cách chi tiết, có phải là một lựa chọn tốt cho xây giao diện web",
-      "description": "Check Daisy UI một cách chi tiết, có phải là một lựa chọn tốt cho xây giao diện web\nLink: https://daisyui.com\n\nThấy video hay, hữu ích hãy để lại like, comment, chia sẻ và đăng ký kênh để ủng hộ mình nhé. Xin cảm ơn.\n\n#daisyUI #tailwind #tailwindcss #frontend #pháttriểnweb #lậptrìnhweb #webdeveloper #exp #vinhweb\n\nDiscord Channel: https://discord.gg/k2GCa8F6wW\nAe tham gia nhóm discord để thảo luận cho thoải mái nhé! .",
+      "description": "Thấy video hay, hữu ích hãy để lại like, comment, chia sẻ và đăng ký kênh để ủng hộ mình nhé. Xin cảm ơn.\n\n#webdev #review #web #dev #talk #chiase #kinhnghiem #exp #thought #develop #vinhweb \n\nFacebook Group: https://www.facebook.com/groups/743442745155489\nDiscord Channel: https://discord.gg/k2GCa8F6wW\nAe tham gia nhóm để thảo luận cho thoải mái nhé!",
       "thumbnails": {
         "default": {
           "url": "https://i.ytimg.com/vi/Im_xcqRUE9o/default.jpg",
@@ -8895,7 +9188,7 @@
       "defaultLanguage": "vi",
       "localized": {
         "title": "Check Daisy UI một cách chi tiết, có phải là một lựa chọn tốt cho xây giao diện web",
-        "description": "Check Daisy UI một cách chi tiết, có phải là một lựa chọn tốt cho xây giao diện web\nLink: https://daisyui.com\n\nThấy video hay, hữu ích hãy để lại like, comment, chia sẻ và đăng ký kênh để ủng hộ mình nhé. Xin cảm ơn.\n\n#daisyUI #tailwind #tailwindcss #frontend #pháttriểnweb #lậptrìnhweb #webdeveloper #exp #vinhweb\n\nDiscord Channel: https://discord.gg/k2GCa8F6wW\nAe tham gia nhóm discord để thảo luận cho thoải mái nhé! ."
+        "description": "Thấy video hay, hữu ích hãy để lại like, comment, chia sẻ và đăng ký kênh để ủng hộ mình nhé. Xin cảm ơn.\n\n#webdev #review #web #dev #talk #chiase #kinhnghiem #exp #thought #develop #vinhweb \n\nFacebook Group: https://www.facebook.com/groups/743442745155489\nDiscord Channel: https://discord.gg/k2GCa8F6wW\nAe tham gia nhóm để thảo luận cho thoải mái nhé!"
       },
       "defaultAudioLanguage": "vi"
     },
@@ -8983,7 +9276,7 @@
   },
   {
     "kind": "youtube#video",
-    "etag": "kUOqylB4dooaSx6WVSnvyklgIG8",
+    "etag": "2bp0vct5aaA53jNojtj9F--U33s",
     "id": "cnBUkbTcMak",
     "snippet": {
       "publishedAt": "2025-04-04T16:39:11Z",
