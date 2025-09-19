@@ -1,8 +1,8 @@
 productCustomAttributes:
   - id: 208203
     title: Blog template 2.0
-    buy_now_url: "https://daisyui.lemonsqueezy.com/checkout/buy/6f22ce51-2e2d-4d5f-b1ef-051df09ce6ff"
-    ref: 1ORz2E
+    # buy_now_url: "https://daisyui.lemonsqueezy.com/checkout/buy/6f22ce51-2e2d-4d5f-b1ef-051df09ce6ff"
+    # ref: 1ORz2E
     price: 2900
     from_price: 2900
     to_price: 29900
@@ -58,6 +58,12 @@ productCustomAttributes:
       - [null, Solo License, Team License, Enterprise License]
       - [price, 2900, 4900, 29900]
       - [popular, false, true, false]
+      - [
+          checkout,
+          https://www.creem.io/payment/prod_34XVCvgDFmS40gbUSaQm90,
+          https://www.creem.io/payment/prod_7Afxj3jdiMxWf0ZU0251V2,
+          https://www.creem.io/payment/prod_4HV43h2tqQRp4ngVs8fOwh,
+        ]
       - [🛠️ Frameworks, null, null, null]
       - [Next.js version, true, true, true]
       - [Astro.js version, true, true, true]
@@ -304,7 +310,8 @@ productCustomAttributes:
 
   - id: 426780
     title: Online Store template 2.0
-    buy_now_url: "https://daisyui.lemonsqueezy.com/checkout/buy/0e0d97fa-2646-4411-817e-f96afeb83493"
+    # buy_now_url: "https://daisyui.lemonsqueezy.com/checkout/buy/0e0d97fa-2646-4411-817e-f96afeb83493"
+    # ref: 1ORz2E
     price: 4900
     from_price: 4900
     to_price: 11900
@@ -348,6 +355,22 @@ productCustomAttributes:
       text:
         - Gumroad API support added
         - Updated to daisyUI 5.0
+    packages:
+      - [null, Solo License, Team License]
+      - [price, 4900, 11900]
+      - [popular, false, true]
+      - [
+          checkout,
+          https://www.creem.io/payment/prod_5MydTlhSPfwzxNJRnf0qkJ,
+          https://www.creem.io/payment/prod_1vkQ4tab7bl4LcopLGVb64,
+        ]
+      - [🛠️ Frameworks, null, null]
+      - [Next.js version, true, true]
+      - [⚖️ License, null, null]
+      - [Developer seats, 1, Unlimited]
+      - [Projects limit, 1, Unlimited]
+      - [🛟 Support, null, null, null]
+      - [Updates and bugfixes, true, true, true]
     links:
       license: https://api.daisyui.com/license/online-store@2.txt
       screenshot: https://img.daisyui.com/images/store/screenshots/online-store.webp?
@@ -357,7 +380,6 @@ productCustomAttributes:
       class: badge-success
       icon: check
       text: Updated to daisyUI 5.0
-    ref: 1ORz2E
 
   - id: 475050
     title: Scalo Startup Template 2.0
@@ -461,7 +483,8 @@ productCustomAttributes:
 
   - id: 479479
     title: Blink template
-    buy_now_url: "https://daisyui.lemonsqueezy.com/checkout/buy/3c54e186-2f58-431b-9af0-1bd2acf1fdd8"
+    # buy_now_url: "https://daisyui.lemonsqueezy.com/checkout/buy/3c54e186-2f58-431b-9af0-1bd2acf1fdd8"
+    # ref: 1ORz2E
     price: 3900
     from_price: 3900
     to_price: 11900
@@ -515,11 +538,29 @@ productCustomAttributes:
       class: badge-success
       icon: check
       text: Updated to daisyUI 5.0
-    ref: 1ORz2E
+    packages:
+      - [null, Solo License, Team License]
+      - [price, 3900, 11900]
+      - [popular, false, true]
+      - [
+          checkout,
+          https://www.creem.io/payment/prod_1sQIqWKENUzzXJtSoWZrUr,
+          https://www.creem.io/payment/prod_YxsechXAgtRBnbJTezU4K,
+        ]
+      - [🛠️ Frameworks, null, null]
+      - [Vite version, true, true]
+      - [Svelte version, true, true]
+      - [⚖️ License, null, null]
+      - [Developer seats, 1, Unlimited]
+      - [Projects limit, 1, Unlimited]
+      - [🛟 Support, null, null]
+      - [Updates and bugfixes, true, true]
 
   - id: 284327
     title: Documentation template
-    buy_now_url: "https://daisyui.lemonsqueezy.com/checkout/buy/30796d50-e504-4d89-ad3f-f1570a9be0ee"
+    # buy_now_url: "https://daisyui.lemonsqueezy.com/checkout/buy/30796d50-e504-4d89-ad3f-f1570a9be0ee"
+    # ref: 1ORz2E
+    buy_now_url: "https://www.creem.io/payment/prod_4KKOyL4xExMtlhf3JaPBa8"
     price: 2900
     from_price: 2900
     to_price: 2900
@@ -568,7 +609,6 @@ productCustomAttributes:
       class: badge-success
       icon: check
       text: Updated to daisyUI 5.0
-    ref: 1ORz2E
 
   - id: 142623
     title: SaaS landing page
