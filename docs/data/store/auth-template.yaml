@@ -1,0 +1,53 @@
+title: Auth template
+# buy_now_url: "https://daisyui.lemonsqueezy.com/checkout/buy/9416b3ff-8bc7-48ea-a196-056dc04efbb5"
+buy_now_url: https://www.creem.io/payment/prod_5WTF3NMjAyFXqUppgngpBP
+price: 1900
+from_price: null
+to_price: null
+created_at: 2023-11-11
+updated_at: 2023-11-11
+desc: |-
+  Professionally designed auth pages to use in your project right away.
+
+  Features:
+    - 3 HTML pages made with daisyUI 5
+    - Framework agnostic. Can be used everywhere
+    - Compatible with all 32 daisyUI themes
+
+
+  Including:
+    - Login page
+    - Signup page
+    - Password recovery page
+    - Form inputs with HTML validation and validation styles
+    - Login with Google button
+    - Toggle and Alert examples
+media:
+  - type: image
+    sm: https://img.daisyui.com/images/store/small/auth/auth-2.webp
+    lg: https://img.daisyui.com/images/store/large/auth/auth-2.webp
+  - type: image
+    sm: https://img.daisyui.com/images/store/small/auth/auth-1.webp
+    lg: https://img.daisyui.com/images/store/large/auth/auth-1.webp
+  - type: image
+    sm: https://img.daisyui.com/images/store/small/auth/auth-3.webp
+    lg: https://img.daisyui.com/images/store/large/auth/auth-3.webp
+  - type: image
+    sm: https://img.daisyui.com/images/store/small/auth/auth-4.webp
+    lg: https://img.daisyui.com/images/store/large/auth/auth-4.webp
+  - type: image
+    sm: https://img.daisyui.com/images/store/small/auth/auth-5.webp
+    lg: https://img.daisyui.com/images/store/large/auth/auth-5.webp
+  - type: image
+    sm: https://img.daisyui.com/images/store/small/auth/auth-6.webp
+    lg: https://img.daisyui.com/images/store/large/auth/auth-6.webp
+links:
+  license: https://api.daisyui.com/license/auth@1.txt
+  screenshot: https://img.daisyui.com/images/store/screenshots/auth.webp
+tech:
+  - html
+tags: []
+badge:
+  class: badge-success
+  icon: check
+  text: Updated to daisyUI 5

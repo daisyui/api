@@ -1,0 +1,125 @@
+title: Official daisyUI Figma Library
+# buy_now_url: "https://daisyui.lemonsqueezy.com/checkout/buy/1aa19ca5-c3db-4438-9a33-434cd72ff07f"
+# ref: 8XWm0
+# params: desc=0
+price: 4900
+from_price: 4900
+to_price: 39900
+created_at: 2024-12-03
+updated_at: 2025-08-02
+desc: |-
+  🎉 New version is available!
+
+  **Available in 3 plans**, Including:
+    - Documentation and step by step tutorial for everything
+    - All daisyUI components (61+)
+    - All daisyUI variants (2500+)
+    - All properties
+    - Variables for all colors of all 35 daisyUI themes
+    - Variables for everything (colors, border-radius, typography, spacing, etc)
+    - 16 simultaneous themes (Quickly switch between daisyUI themes)
+    - Examples for Dashboard and forms
+    - Access to exclusive Discord channel for priority support
+media:
+  - type: video
+    url: https://www.youtube.com/embed/ebWEkM4AvjU?mute=1&autoplay=1&controls=0&rel=0&modestbranding=1&loop=1&playlist=ebWEkM4AvjU
+    ratio: 620/360
+  - type: image
+    sm: https://img.daisyui.com/images/store/small/daisyui-figma-file/features.webp
+    lg: https://img.daisyui.com/images/store/large/daisyui-figma-file/features@2.webp
+  - type: image
+    sm: https://img.daisyui.com/images/store/small/daisyui-figma-file/components.webp
+    lg: https://img.daisyui.com/images/store/large/daisyui-figma-file/components@2.webp
+  - type: image
+    sm: https://img.daisyui.com/images/store/small/daisyui-figma-file/variants.webp
+    lg: https://img.daisyui.com/images/store/large/daisyui-figma-file/variants@2.webp
+  - type: image
+    sm: https://img.daisyui.com/images/store/small/daisyui-figma-file/colors.webp
+    lg: https://img.daisyui.com/images/store/large/daisyui-figma-file/colors@2.webp
+  - type: image
+    sm: https://img.daisyui.com/images/store/small/daisyui-figma-file/variable-modes.webp
+    lg: https://img.daisyui.com/images/store/large/daisyui-figma-file/variable-modes@2.webp
+  - type: image
+    sm: https://img.daisyui.com/images/store/small/daisyui-figma-file/figma-file.webp
+    lg: https://img.daisyui.com/images/store/large/daisyui-figma-file/figma-file@2.webp
+quote:
+  img: https://img.daisyui.com/images/profile/people/pouya-saadeghi.webp
+  name: Pouya
+  text:
+    - Save thousands of hours by avoiding the time consuming task of creating all the components and variants.
+    - >
+      After a year of development, The Official daisyUI Figma Library is now available for designers in Figma!
+
+      <br/>This <b>fully tokenized</b> Figma file includes all daisyUI <b>components</b>, <b>theme colors</b>,
+      <b>variables</b> and <b>variants</b>, with regular updates.
+
+      <br/>A game-changer for designers and developers to use the same design system in both Figma and in CSS.
+links:
+  license: https://api.daisyui.com/license/figma@2.txt
+  preview: https://www.figma.com/community/file/1417577350704829934
+packages:
+  - [null, Starter package, Standard package, Pro package]
+  - [price, 4900, 7900, 39900]
+  - [popular, false, true, false]
+  - [
+      checkout,
+      "https://www.creem.io/payment/prod_4UUna65T2mEcZqxeygE6jo",
+      "https://www.creem.io/payment/prod_3RevXENXFXyrznI42m9cOP",
+      "https://www.creem.io/payment/prod_yfdPS88lK7kfwSjbv5qei",
+    ]
+  - [
+      Invite to read-only shared file (for free Figma users),
+      true,
+      true,
+      Not needed,
+    ]
+  - [Customizable .fig file (for paid Figma subscribers), true, true, true]
+  - [All components (61), true, true, true]
+  - [All variants (2500+), true, true, true]
+  - ["All properties (booleans, nested instances, etc)", true, true, true]
+  - ["Documentation (properties, specs, etc)", true, true, true]
+  - [Icons, true, true, true]
+  - [Variables, true, true, true]
+  - ["Advanced variables (Typography, Aliases, etc)", false, true, true]
+  - [All theme variables included, false, 35, 35]
+  - [Simultaneous themes (Quick theme switch), false, 4, 16]
+  - [Theme tester, false, true, true]
+  - ["Templates (Login, Dashboard, Forms, etc)", false, true, true]
+  - [
+      License limit (Library can be shared internally),
+      1 user,
+      6 users,
+      Unlimited users,
+    ]
+  - [Unlimited projects and clients, true, true, true]
+  - [Latest Figma features (2025), true, true, true]
+  - [Updates and bug fixes, true, true, true]
+  - [Usage tutorials, true, true, true]
+  - [Advanced customization tutorials, false, true, true]
+  - [Priority to updates, false, true, true]
+  - [Discord support, false, true, true]
+  - [One-on-one setup session, false, false, true]
+tags:
+  - design
+badge:
+  # class: badge-info
+  # icon: wait
+  class: badge-success
+  icon: check
+  text: Updated for daisyUI 5
+faq:
+  - Q: How to swap the Figma library from v1 to v2?
+    A: Watch <a class="link" target="_blank"
+      href="https://www.youtube.com/watch?v=EOcSluWy0hg&list=PLFo3F8-aSE4t95dTsbeMZrEhb3pwJ1MKX&index=5">this video</a>
+  - Q: How to import the .fig file into Figma?
+    A: Watch <a class="link" target="_blank"
+      href="https://www.youtube.com/watch?v=k8ChNGu-fTU&list=PLFo3F8-aSE4t95dTsbeMZrEhb3pwJ1MKX&index=1">this video</a>
+  - Q: How to publish daisyUI Figma Library to another design file
+    A: Watch <a class="link" target="_blank"
+      href="https://www.youtube.com/watch?v=t2wO-C0cXEs&list=PLFo3F8-aSE4t95dTsbeMZrEhb3pwJ1MKX&index=2">this video</a>
+  - Q: How to use nested themes in daisyUI Figma Library 2.0
+    A: Watch <a class="link" target="_blank"
+      href="https://www.youtube.com/watch?v=RkVkve12zUQ&list=PLFo3F8-aSE4t95dTsbeMZrEhb3pwJ1MKX&index=3">this video</a>
+  - Q: How to use slots in daisyUI Figma Library 2.0
+    A: Watch <a class="link" target="_blank"
+      href="https://www.youtube.com/watch?v=deKeiqox__U&list=PLFo3F8-aSE4t95dTsbeMZrEhb3pwJ1MKX&index=4">this video</a>

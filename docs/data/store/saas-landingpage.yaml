@@ -1,0 +1,71 @@
+title: SaaS landing page
+buy_now_url: https://www.creem.io/payment/prod_4bRdZVMQb6QfydHMXMBjG5
+price: 2900
+from_price: 2900
+to_price: 2900
+created_at: 2023-12-23
+updated_at: 2023-12-23
+desc: >-
+  Production-ready landing page for software products.
+
+
+  Features:
+    - SaaS landing page layout made with daisyUI 5
+    - Available for HTML, React, Svelte, Vue
+
+
+  Including:
+    - 2 exclusive daisyUI themes (dark/light)
+    - Compatible with all daisyUI themes (32 themes)
+    - Responsive layout
+    - Hero section, Partner logos, Features section, Integrations cards, Pricing tables, FAQ accordion section, Footer with links and contact form
+    - Pricing table with dynamic price toggle
+    - Theme changer menu
+    - 3D card effect
+media:
+  - type: image
+    sm: https://img.daisyui.com/images/store/small/saas-landing/saas-landing-10.webp
+    lg: https://img.daisyui.com/images/store/large/saas-landing/saas-landing-10.webp
+  - type: image
+    sm: https://img.daisyui.com/images/store/small/saas-landing/saas-landing-9.webp
+    lg: https://img.daisyui.com/images/store/large/saas-landing/saas-landing-9.webp
+  - type: image
+    sm: https://img.daisyui.com/images/store/small/saas-landing/saas-landing-8.webp
+    lg: https://img.daisyui.com/images/store/large/saas-landing/saas-landing-8.webp
+  - type: image
+    sm: https://img.daisyui.com/images/store/small/saas-landing/saas-landing-7.webp
+    lg: https://img.daisyui.com/images/store/large/saas-landing/saas-landing-7.webp
+  - type: image
+    sm: https://img.daisyui.com/images/store/small/saas-landing/saas-landing-6.webp
+    lg: https://img.daisyui.com/images/store/large/saas-landing/saas-landing-6.webp
+  - type: image
+    sm: https://img.daisyui.com/images/store/small/saas-landing/saas-landing-5.webp
+    lg: https://img.daisyui.com/images/store/large/saas-landing/saas-landing-5.webp
+  - type: image
+    sm: https://img.daisyui.com/images/store/small/saas-landing/saas-landing-4.webp
+    lg: https://img.daisyui.com/images/store/large/saas-landing/saas-landing-4.webp
+  - type: image
+    sm: https://img.daisyui.com/images/store/small/saas-landing/saas-landing-3.webp
+    lg: https://img.daisyui.com/images/store/large/saas-landing/saas-landing-3.webp
+  - type: image
+    sm: https://img.daisyui.com/images/store/small/saas-landing/saas-landing-2.webp
+    lg: https://img.daisyui.com/images/store/large/saas-landing/saas-landing-2.webp
+  - type: image
+    sm: https://img.daisyui.com/images/store/small/saas-landing/saas-landing-1.webp
+    lg: https://img.daisyui.com/images/store/large/saas-landing/saas-landing-1.webp
+links:
+  license: https://api.daisyui.com/license/saas-landing@1.txt
+  screenshot: https://img.daisyui.com/images/store/screenshots/saas-landingpage.webp
+  preview: https://saas-landing.daisyui.com/
+tech:
+  - html
+  - react
+  - svelte
+  - vue
+  - alpine
+tags:
+  - landing
+badge:
+  class: badge-success
+  icon: check
+  text: Updated to daisyUI 5

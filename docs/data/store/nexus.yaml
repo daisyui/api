@@ -1,0 +1,121 @@
+title: Nexus Dashboard 3
+# buy_now_url: "https://daisyui.lemonsqueezy.com/checkout/buy/2a4d3f50-8ffd-4857-a8d8-513a66bc273a"
+# ref: Db6q2
+price: 6900
+from_price: 6900
+to_price: 49900
+created_at: 2024-04-28
+updated_at: 2025-05-19
+bannerTitle: Looking for a startup template too?
+banner:
+  Get Nexus dashboard template + [Scalo startup template](/store/475050/) as a bundle and save up to $99! <br/>
+  <br/> <a class="btn btn-xs" target="_blank" rel="noopener noreferrer"
+  href="https://www.creem.io/payment/prod_1JQRbXEWbRAsptLAEsfw8F">Team License Bundle ↗︎</a> <a class="btn btn-xs"
+  target="_blank" rel="noopener noreferrer" href="https://www.creem.io/payment/prod_zdNmz3m6JfzZNXjWwyEYC">Enterprise
+  License Bundle ↗︎</a>
+# banner: >-
+#   Get Nexus dashboard template + [Scalo startup template](/store/475050/) as a bundle and save up to $99!
+#   <br/>
+#   <a class="btn btn-xs" target="_blank" rel="noopener noreferrer" href="https://daisyui.com/store/checkout?product=2ec5128f-1abc-4e3c-a55c-529ce31f08aa&aff=Db6q2">Click here for the bundle ↗︎</a>
+desc: |-
+  The ultimate dashboard template
+
+  Made with Tailwind CSS 4 and daisyUI 5
+
+  Including:
+    - All pages
+    - 3 dashboard layouts (CRM, e-commerce, Gen-AI)
+    - Landing page
+    - 10 e-commerce pages with tables, forms, cards, etc
+    - File manager app layout
+    - Chat app layout
+    - 4 pages for the gen-AI app (home, images, content creator, library)
+    - Agentic Storage UI 🆕
+    - 4 auth pages including login, register, password reset
+    - Profile settings page and support/FAQ page
+    - Foundation component example 🆕
+    - 15+ Ready to use UI blocks 🆕
+    - 50+ Common layout examples 🆕
+    - 100+ Interaction examples with different plugin integrations 🆕
+    - LLM files 🆕
+    - Apex charts
+    - 6 exclusive customizable themes
+    - Compatible with all daisyUI themes
+
+
+  Solo license:
+    - Includes HTML version
+    - For one developer, one project
+
+
+  Team and Enterprise license:
+    - includes HTML, React, Next.js, Nuxt and SvelteKit versions
+    - For unlimited developers
+    - For unlimited projects (Enterprise only)
+media:
+  - type: video
+    url: https://www.youtube.com/embed/dR7K6HVNqAo?mute=0&autoplay=0&controls=0&rel=0&modestbranding=1&loop=1&playlist=dR7K6HVNqAo
+    ratio: 16/9
+  - type: image
+    sm: https://img.daisyui.com/images/store/small/nexus/nexus-v3-1.webp
+    lg: https://img.daisyui.com/images/store/large/nexus/nexus-v3-1.webp
+  - type: image
+    sm: https://img.daisyui.com/images/store/small/nexus/nexus-v3-2.webp
+    lg: https://img.daisyui.com/images/store/large/nexus/nexus-v3-2.webp
+  - type: image
+    sm: https://img.daisyui.com/images/store/small/nexus/nexus-v3-3.webp
+    lg: https://img.daisyui.com/images/store/large/nexus/nexus-v3-3.webp
+  - type: image
+    sm: https://img.daisyui.com/images/store/small/nexus/nexus-v3-4.webp
+    lg: https://img.daisyui.com/images/store/large/nexus/nexus-v3-4.webp
+  - type: image
+    sm: https://img.daisyui.com/images/store/small/nexus/nexus-v3-5.webp
+    lg: https://img.daisyui.com/images/store/large/nexus/nexus-v3-5.webp
+  - type: image
+    sm: https://img.daisyui.com/images/store/small/nexus/nexus-v3-6.webp
+    lg: https://img.daisyui.com/images/store/large/nexus/nexus-v3-6.webp
+quote:
+  img: https://img.daisyui.com/images/profile/people/pouya-saadeghi.webp
+  name: Pouya
+  text:
+    - Nexus 3 is now available! With new pages and sections, new features, new components, new layouts, more sections
+      and examples.
+packages:
+  - [null, Solo License, Team License, Enterprise License]
+  - [price, 6900, 12900, 49900]
+  - [popular, false, true, false]
+  - [
+      checkout,
+      "https://www.creem.io/payment/prod_k5xgnybTeo9v0TIiEQXnm",
+      "https://www.creem.io/payment/prod_43046ZR98YJIZ59MGmDlGT",
+      "https://www.creem.io/payment/prod_2bqBD0ltsFD21PKMYtSmwC",
+    ]
+  - [🛠️ Frameworks, null, null, null]
+  - [HTML version, true, true, true]
+  - [React version, false, true, true]
+  - [Next.js version, false, true, true]
+  - [Nuxt version, false, true, true]
+  - [SvelteKit version, false, true, true]
+  - [⚖️ License, null, null, null]
+  - [Developer seats, 1, Unlimited, Unlimited]
+  - [Projects limit, 1, 1, Unlimited]
+  - [🛟 Support, null, null, null]
+  - [Support in Discord, true, true, true]
+  - [Updates and bugfixes, true, true, true]
+tech:
+  - html
+  - svelte
+  - react
+  - nextjs
+  - vue
+tags:
+  - nexus
+  - dashboard
+badge:
+  class: badge-success
+  icon: check
+  text: Updated to daisyUI 5
+links:
+  license: https://api.daisyui.com/license/nexus@3.txt
+  screenshot: https://img.daisyui.com/images/store/screenshots/nexus-3.webp
+  preview: https://nexus.daisyui.com/

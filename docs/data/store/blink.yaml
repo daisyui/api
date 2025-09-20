@@ -1,0 +1,76 @@
+title: Blink template
+# buy_now_url: "https://daisyui.lemonsqueezy.com/checkout/buy/3c54e186-2f58-431b-9af0-1bd2acf1fdd8"
+# ref: 1ORz2E
+price: 3900
+from_price: 3900
+to_price: 11900
+created_at: 2025-03-30
+updated_at: 2025-04-02
+desc: |-
+  Blink is a template for agencies, companies, startups, or small businesses <br/>Available for React and Svelte
+
+  Features:
+    - Made with Tailwind CSS and daisyUI
+    - Compatible with all daisyUI themes
+    - Clean, responsive, easy to customize
+    - Dark and light theme switch button
+
+  Including:
+    - Landing page
+    - Pricing page and pricing table
+    - Projects (portfolio) page
+    - About page
+    - Contact form
+media:
+  - type: image
+    sm: https://img.daisyui.com/images/store/small/blink/blink-08.webp
+    lg: https://img.daisyui.com/images/store/large/blink/blink-08.webp
+  - type: image
+    sm: https://img.daisyui.com/images/store/small/blink/blink-01.webp
+    lg: https://img.daisyui.com/images/store/large/blink/blink-01.webp
+  - type: image
+    sm: https://img.daisyui.com/images/store/small/blink/blink-03.webp
+    lg: https://img.daisyui.com/images/store/large/blink/blink-03.webp
+  - type: image
+    sm: https://img.daisyui.com/images/store/small/blink/blink-06.webp
+    lg: https://img.daisyui.com/images/store/large/blink/blink-06.webp
+  - type: image
+    sm: https://img.daisyui.com/images/store/small/blink/blink-05.webp
+    lg: https://img.daisyui.com/images/store/large/blink/blink-05.webp
+  - type: image
+    sm: https://img.daisyui.com/images/store/small/blink/blink-04.webp
+    lg: https://img.daisyui.com/images/store/large/blink/blink-04.webp
+  - type: image
+    sm: https://img.daisyui.com/images/store/small/blink/blink-07.webp
+    lg: https://img.daisyui.com/images/store/large/blink/blink-07.webp
+links:
+  license: https://api.daisyui.com/license/blink@1.txt
+  screenshot: https://img.daisyui.com/images/store/screenshots/blink.webp
+  preview: https://blink.daisyui.com/
+tech:
+  - react
+  - svelte
+  - vite
+tags:
+  - landing
+badge:
+  class: badge-success
+  icon: check
+  text: Updated to daisyUI 5
+packages:
+  - [null, Solo License, Team License]
+  - [price, 3900, 11900]
+  - [popular, false, true]
+  - [
+      checkout,
+      "https://www.creem.io/payment/prod_1sQIqWKENUzzXJtSoWZrUr",
+      "https://www.creem.io/payment/prod_YxsechXAgtRBnbJTezU4K",
+    ]
+  - [🛠️ Frameworks, null, null]
+  - [Vite version, true, true]
+  - [Svelte version, true, true]
+  - [⚖️ License, null, null]
+  - [Developer seats, 1, Unlimited]
+  - [Projects limit, 1, Unlimited]
+  - [🛟 Support, null, null]
+  - [Updates and bugfixes, true, true]

@@ -1,0 +1,103 @@
+title: Scalo Startup Template 2.0
+# buy_now_url: "https://daisyui.lemonsqueezy.com/checkout/buy/ad10b14b-ccdf-4b66-9fee-db5a5e89865d"
+# ref: Db6q2
+price: 6900
+from_price: 6900
+to_price: 49900
+created_at: 2025-02-11
+updated_at: 2025-06-03
+bannerTitle: Looking for a dashboard template too?
+banner:
+  Get Scalo startup template + [Nexus dashboard template](/store/244268/) as a bundle and save up to $99! <br/>
+  <br/> <a class="btn btn-xs" target="_blank" rel="noopener noreferrer"
+  href="https://www.creem.io/payment/prod_1JQRbXEWbRAsptLAEsfw8F">Team License Bundle ↗︎</a> <a class="btn btn-xs"
+  target="_blank" rel="noopener noreferrer" href="https://www.creem.io/payment/prod_zdNmz3m6JfzZNXjWwyEYC">Enterprise
+  License Bundle ↗︎</a>
+# banner: >-
+#   Get Scalo startup template + [Nexus dashboard template](/store/244268/) as a bundle and save up to $99!
+#   <br/>
+#   <br/>
+#   <a class="btn btn-xs" target="_blank" rel="noopener noreferrer" href="https://daisyui.com/store/checkout?product=2ec5128f-1abc-4e3c-a55c-529ce31f08aa&aff=Db6q2">Click here for the bundle ↗︎</a>
+desc: |-
+  Scalo is the ultimate startup front-end template
+
+  Made with Tailwind CSS 4 and daisyUI 5
+
+  Including:
+    - 36 Pages
+    - 2 Landings (Automation and developer)
+    - 7 Pricing sections (Lifetime, Subscription, User-based & comparison-based)
+    - 6 Auth pages (Login, Register, 2FA, Forgot password, Reset password, Verify)
+    - Settings (Profile, Account, Notification & Manage plans)
+    - Company pages (Team, Careers, Blogs, Timeline, Privacy & more)
+    - Extra pages (Coming soon page, Maintenance page, Notify & Error pages)
+    - Testimonial Sections (Simple + Swiper)
+    - FAQs + Contact Us pages
+    - Included with light & dark themes
+    - Compatible with all daisyUI themes
+
+
+  Solo license:
+    - Includes HTML version
+    - For one developer, one project
+
+
+  Team and Enterprise license:
+    - includes HTML, React, Next.js, SvelteKit and 🆕 Nuxt versions
+    - For unlimited developers
+    - For unlimited projects (Enterprise only)
+media:
+  - type: image
+    sm: https://img.daisyui.com/images/store/small/scalo/tailwind-template-scalo-scalo-1.webp
+    lg: https://img.daisyui.com/images/store/large/scalo/tailwind-template-scalo-scalo-1.webp
+  - type: image
+    sm: https://img.daisyui.com/images/store/small/scalo/tailwind-template-scalo-scalo-2.webp
+    lg: https://img.daisyui.com/images/store/large/scalo/tailwind-template-scalo-scalo-2.webp
+  - type: image
+    sm: https://img.daisyui.com/images/store/small/scalo/tailwind-template-scalo-scalo-3.webp
+    lg: https://img.daisyui.com/images/store/large/scalo/tailwind-template-scalo-scalo-3.webp
+  - type: image
+    sm: https://img.daisyui.com/images/store/small/scalo/tailwind-template-scalo-scalo-4.webp
+    lg: https://img.daisyui.com/images/store/large/scalo/tailwind-template-scalo-scalo-4.webp
+quote:
+  img: https://img.daisyui.com/images/profile/people/pouya-saadeghi.webp
+  name: Pouya
+  text:
+    - Scalo 2.0 added with latest dependencies + new pages and sections + Nuxt version!
+packages:
+  - [null, Solo License, Team License, Enterprise License]
+  - [price, 6900, 12900, 49900]
+  - [popular, false, true, false]
+  - [
+      checkout,
+      "https://www.creem.io/payment/prod_3RBS5pN9hDwM700ZAt7i63",
+      "https://www.creem.io/payment/prod_6sDiC5PdavUVNvWsgU1oNJ",
+      "https://www.creem.io/payment/prod_3Ni06bDdsm6gJntYKRDiCo",
+    ]
+  - [🛠️ Frameworks, null, null, null]
+  - [HTML version, true, true, true]
+  - [React version, false, true, true]
+  - [Next.js version, false, true, true]
+  - [SvelteKit version, false, true, true]
+  - [⚖️ License, null, null, null]
+  - [Developer seats, 1, Unlimited, Unlimited]
+  - [Projects limit, 1, 1, Unlimited]
+  - [🛟 Support, null, null, null]
+  - [Support in Discord, true, true, true]
+  - [Updates and bugfixes, true, true, true]
+tech:
+  - html
+  - svelte
+  - react
+  - nextjs
+tags:
+  - nexus
+  - dashboard
+badge:
+  class: badge-success
+  icon: check
+  text: Updated to daisyUI 5
+links:
+  license: https://api.daisyui.com/license/scalo@1.txt
+  screenshot: https://img.daisyui.com/images/store/screenshots/scalo.webp
+  preview: https://scalo.daisyui.com/

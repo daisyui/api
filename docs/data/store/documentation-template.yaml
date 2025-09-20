@@ -1,0 +1,58 @@
+title: Documentation template
+# buy_now_url: "https://daisyui.lemonsqueezy.com/checkout/buy/30796d50-e504-4d89-ad3f-f1570a9be0ee"
+# ref: 1ORz2E
+buy_now_url: https://www.creem.io/payment/prod_4KKOyL4xExMtlhf3JaPBa8
+price: 2900
+from_price: 2900
+to_price: 2900
+# originalprice: 4900
+# displayprice: 2900
+created_at: 2024-06-03
+updated_at: 2024-06-03
+desc: |-
+  Create a modern and clean document site for your open source projects
+
+  Features:
+    - Available for Astro and Next.js
+    - Made with Markdown, Tailwind CSS and daisyUI
+    - Search functionality
+    - SEO friendly, Lightweight and fast
+    - Dark mode and Light mode
+
+
+  Including:
+    - Homepage with features sections, code demo, contributors images, testimonials and installation guide
+    - Document pages made from Markdown files with Sidebar, page content links, sponsors section
+    - Search bar using Algolia DocSearch
+    - Theme switch button with dark theme and light theme (compatible with all daisyUI themes)
+media:
+  - type: image
+    sm: https://img.daisyui.com/images/store/small/documentation/documentation-1.webp
+    lg: https://img.daisyui.com/images/store/large/documentation/documentation-1.webp
+  - type: image
+    sm: https://img.daisyui.com/images/store/small/documentation/documentation-2.webp
+    lg: https://img.daisyui.com/images/store/large/documentation/documentation-2.webp
+  - type: image
+    sm: https://img.daisyui.com/images/store/small/documentation/documentation-3.webp
+    lg: https://img.daisyui.com/images/store/large/documentation/documentation-3.webp
+  - type: image
+    sm: https://img.daisyui.com/images/store/small/documentation/documentation-4.webp
+    lg: https://img.daisyui.com/images/store/large/documentation/documentation-4.webp
+  - type: image
+    sm: https://img.daisyui.com/images/store/small/documentation/documentation-5.webp
+    lg: https://img.daisyui.com/images/store/large/documentation/documentation-5.webp
+links:
+  license: https://api.daisyui.com/license/documentation@1.txt
+  screenshot: https://img.daisyui.com/images/store/screenshots/documentation-template.webp
+tech:
+  - astro
+  - react
+  - nextjs
+  - mdx
+tags:
+  - content
+  - app
+badge:
+  class: badge-success
+  icon: check
+  text: Updated to daisyUI 5

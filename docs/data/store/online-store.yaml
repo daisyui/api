@@ -1,0 +1,83 @@
+title: Online Store template 2.0
+# buy_now_url: "https://daisyui.lemonsqueezy.com/checkout/buy/0e0d97fa-2646-4411-817e-f96afeb83493"
+# ref: 1ORz2E
+price: 4900
+from_price: 4900
+to_price: 11900
+created_at: 2025-01-08
+updated_at: 2025-01-08
+desc: >-
+  **Fully functional store template for Lemon Squeezy or Gumroad**
+
+
+  Made with daisyUI 5 and Next.js 15
+
+
+  Add your **LemonSqueezy API key** or **Gumroad API key** to the env file, add custom data for your products and your
+  online store will be ready in **less than 5 minutes**!
+
+
+  This template receives your simple list of products coming from the LemonSqueezy API or Gumroad API, adds your custom
+  data and attributes to the products and generates a functional online store with all the standard online store
+  capabilities you need.
+
+
+  Including Homepage, collections page with filter and sort, product page with image gallery, zoom, custom attributes,
+  variant links, related product suggestions and more.
+faq:
+  - Q: Can I use this template without Lemon Squeezy or Gumroad?
+    A:
+      If the Lemon Squeezy API key or Gumroad API key is not provided, the data will come from the local JSON file. So you
+      can use the template without Lemon Squeezy or Gumroad, using a static JSON file, and for checkout and payment you
+      can use your own solution.
+media:
+  - type: image
+    sm: https://img.daisyui.com/images/store/small/online-store/online-store-01.webp
+    lg: https://img.daisyui.com/images/store/large/online-store/online-store-01.webp?
+  - type: image
+    sm: https://img.daisyui.com/images/store/small/online-store/online-store-02.webp
+    lg: https://img.daisyui.com/images/store/large/online-store/online-store-02.webp?
+  - type: image
+    sm: https://img.daisyui.com/images/store/small/online-store/online-store-03.webp
+    lg: https://img.daisyui.com/images/store/large/online-store/online-store-03.webp
+  - type: image
+    sm: https://img.daisyui.com/images/store/small/online-store/online-store-04.webp
+    lg: https://img.daisyui.com/images/store/large/online-store/online-store-04.webp
+  - type: image
+    sm: https://img.daisyui.com/images/store/small/online-store/online-store-05.webp
+    lg: https://img.daisyui.com/images/store/large/online-store/online-store-05.webp
+quote:
+  img: https://img.daisyui.com/images/profile/people/pouya-saadeghi.webp
+  name: Pouya
+  text:
+    - Gumroad API support added
+    - Updated to daisyUI 5.0
+packages:
+  - [null, Solo License, Team License]
+  - [price, 4900, 11900]
+  - [popular, false, true]
+  - [
+      checkout,
+      "https://www.creem.io/payment/prod_5MydTlhSPfwzxNJRnf0qkJ",
+      "https://www.creem.io/payment/prod_1vkQ4tab7bl4LcopLGVb64",
+    ]
+  - [🛠️ Frameworks, null, null]
+  - [Next.js version, true, true]
+  - [⚖️ License, null, null]
+  - [Developer seats, 1, Unlimited]
+  - [Projects limit, 1, Unlimited]
+  - [🛟 Support, null, null, null]
+  - [Updates and bugfixes, true, true, true]
+links:
+  license: https://api.daisyui.com/license/online-store@2.txt
+  screenshot: https://img.daisyui.com/images/store/screenshots/online-store.webp?
+tech:
+  - nextjs
+  - react
+tags:
+  - ecommerce
+  - app
+badge:
+  class: badge-success
+  icon: check
+  text: Updated to daisyUI 5
