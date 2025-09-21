@@ -206,13 +206,13 @@
   },
   {
     "kind": "youtube#video",
-    "etag": "zp1Zc-FVrbxcN9z3iESoRQlkUkI",
+    "etag": "U7pMl1nCMNIUIJ9HTtFEVViIA7I",
     "id": "PPXktTJXMPE",
     "snippet": {
       "publishedAt": "2025-01-22T00:00:55Z",
       "channelId": "UCMCcqbJpyL3LAv3PJeYz2bg",
       "title": "Build a Mobile App Fast! React + Capacitor + Tailwind + DaisyUI",
-      "description": "Build a Mobile App Fast! React + Capacitor + Tailwind + DaisyUI\n#daisyui #tailwindcss #reactjs #capacitorjs \n\n🚀 Build & Deploy a Mobile App with React, Capacitor, TailwindCSS & DaisyUI – Step by Step! 🎨📱\n\nIn this tutorial, I'll guide you through the entire process of setting up a mobile app using React, Capacitor, TailwindCSS, and DaisyUI. Whether you're a beginner or an experienced developer, this step-by-step guide will help you integrate TailwindCSS and DaisyUI seamlessly, giving your app a clean and modern design.\n\nBut that’s not all! I’ll also walk you through the Capacitor JS commands needed to package and deploy your app on iOS and Android—so you can take your project from development to a fully functional mobile app! 🚀\n\n⏱️ Chapters\n=================\n00:00 - Introduction\n01:58 - Step 1 - Create vite react typescript project\n05:46 - Step 2 - Add DaisyUI\n08:17 - Step 3 - Add Capacitor\n11:05 - Step 4 - Deploy on Device\n\nInstallation & Setup Guides\n- Capacitor CLI Commands: https://capacitorjs.com/docs/getting-started\n- Building & Deploying with Capacitor: https://capacitorjs.com/docs/guides/building-your-app\n- Adding TailwindCSS to a Project: https://tailwindcss.com/docs/installation\n- Using DaisyUI Components: https://daisyui.com/components/\n\nMS Code Ionic Plugin\n- https://ionicframework.com/docs/intro/vscode-extension\n\nSource Code\n- https://github.com/aaronksaunders/my-daisyui-capacitor-project\n\n ---\n⚡ \"For teams or developers looking for specialized advisory on the Vue, React, Ionic Framework, and Capacitor stack for mobile apps, I offer targeted consulting sessions. Feel free to get in touch to discuss how I can help.\"\n\n➡️ **Contact:**  info@clearlyinnovative.com\n---\n\n#React #Capacitor #TailwindCSS #DaisyUI #MobileApp #WebDevelopment #uiux",
+      "description": "Build a Mobile App Fast! React + Capacitor + Tailwind + DaisyUI\n#daisyui #tailwindcss #reactjs #capacitorjs \n\n🚀 Build & Deploy a Mobile App with React, Capacitor, TailwindCSS & DaisyUI – Step by Step! 🎨📱\n\nIn this tutorial, I'll guide you through the entire process of setting up a mobile app using React, Capacitor, TailwindCSS, and DaisyUI. Whether you're a beginner or an experienced developer, this step-by-step guide will help you integrate TailwindCSS and DaisyUI seamlessly, giving your app a clean and modern design.\n\nBut that’s not all! I’ll also walk you through the Capacitor JS commands needed to package and deploy your app on iOS and Android—so you can take your project from development to a fully functional mobile app! 🚀\n\n⏱️ Chapters\n=================\n00:00 - Introduction\n01:58 - Step 1 - Create vite react typescript project\n05:46 - Step 2 - Add DaisyUI\n08:17 - Step 3 - Add Capacitor\n11:05 - Step 4 - Deploy on Device\n\nInstallation & Setup Guides\n- Capacitor CLI Commands: https://capacitorjs.com/docs/getting-started\n- Building & Deploying with Capacitor: https://capacitorjs.com/docs/guides/building-your-app\n- Adding TailwindCSS to a Project: https://tailwindcss.com/docs/installation\n- Using DaisyUI Components: https://daisyui.com/components/\n\nMS Code Ionic Plugin\n- https://ionicframework.com/docs/intro/vscode-extension\n\nSource Code\n- https://github.com/aaronksaunders/my-daisyui-capacitor-project\n\n ---\n⚡ \"For teams or developers looking for specialized advisory on the Vue, React, Ionic Framework, and Capacitor stack for mobile apps, I offer targeted consulting sessions. Feel free to get in touch to discuss how I can help.\"\n\n- 🎥 [YouTube Channel](https://www.youtube.com/channel/UCMCcqbJpyL3LAv3PJeYz2bg/)\n- 🐦 [Twitter](https://x.com/aaronksaunders)\n- 💼 [LinkedIn](https://www.linkedin.com/in/aaronksaunders/)\n- 🌐 [GitHub](https://github.com/aaronksaunders)\n---\n\n#React #Capacitor #TailwindCSS #DaisyUI #MobileApp #WebDevelopment #uiux",
       "thumbnails": {
         "default": {
           "url": "https://i.ytimg.com/vi/PPXktTJXMPE/default.jpg",
@@ -265,7 +265,7 @@
       "defaultLanguage": "en",
       "localized": {
         "title": "Build a Mobile App Fast! React + Capacitor + Tailwind + DaisyUI",
-        "description": "Build a Mobile App Fast! React + Capacitor + Tailwind + DaisyUI\n#daisyui #tailwindcss #reactjs #capacitorjs \n\n🚀 Build & Deploy a Mobile App with React, Capacitor, TailwindCSS & DaisyUI – Step by Step! 🎨📱\n\nIn this tutorial, I'll guide you through the entire process of setting up a mobile app using React, Capacitor, TailwindCSS, and DaisyUI. Whether you're a beginner or an experienced developer, this step-by-step guide will help you integrate TailwindCSS and DaisyUI seamlessly, giving your app a clean and modern design.\n\nBut that’s not all! I’ll also walk you through the Capacitor JS commands needed to package and deploy your app on iOS and Android—so you can take your project from development to a fully functional mobile app! 🚀\n\n⏱️ Chapters\n=================\n00:00 - Introduction\n01:58 - Step 1 - Create vite react typescript project\n05:46 - Step 2 - Add DaisyUI\n08:17 - Step 3 - Add Capacitor\n11:05 - Step 4 - Deploy on Device\n\nInstallation & Setup Guides\n- Capacitor CLI Commands: https://capacitorjs.com/docs/getting-started\n- Building & Deploying with Capacitor: https://capacitorjs.com/docs/guides/building-your-app\n- Adding TailwindCSS to a Project: https://tailwindcss.com/docs/installation\n- Using DaisyUI Components: https://daisyui.com/components/\n\nMS Code Ionic Plugin\n- https://ionicframework.com/docs/intro/vscode-extension\n\nSource Code\n- https://github.com/aaronksaunders/my-daisyui-capacitor-project\n\n ---\n⚡ \"For teams or developers looking for specialized advisory on the Vue, React, Ionic Framework, and Capacitor stack for mobile apps, I offer targeted consulting sessions. Feel free to get in touch to discuss how I can help.\"\n\n➡️ **Contact:**  info@clearlyinnovative.com\n---\n\n#React #Capacitor #TailwindCSS #DaisyUI #MobileApp #WebDevelopment #uiux"
+        "description": "Build a Mobile App Fast! React + Capacitor + Tailwind + DaisyUI\n#daisyui #tailwindcss #reactjs #capacitorjs \n\n🚀 Build & Deploy a Mobile App with React, Capacitor, TailwindCSS & DaisyUI – Step by Step! 🎨📱\n\nIn this tutorial, I'll guide you through the entire process of setting up a mobile app using React, Capacitor, TailwindCSS, and DaisyUI. Whether you're a beginner or an experienced developer, this step-by-step guide will help you integrate TailwindCSS and DaisyUI seamlessly, giving your app a clean and modern design.\n\nBut that’s not all! I’ll also walk you through the Capacitor JS commands needed to package and deploy your app on iOS and Android—so you can take your project from development to a fully functional mobile app! 🚀\n\n⏱️ Chapters\n=================\n00:00 - Introduction\n01:58 - Step 1 - Create vite react typescript project\n05:46 - Step 2 - Add DaisyUI\n08:17 - Step 3 - Add Capacitor\n11:05 - Step 4 - Deploy on Device\n\nInstallation & Setup Guides\n- Capacitor CLI Commands: https://capacitorjs.com/docs/getting-started\n- Building & Deploying with Capacitor: https://capacitorjs.com/docs/guides/building-your-app\n- Adding TailwindCSS to a Project: https://tailwindcss.com/docs/installation\n- Using DaisyUI Components: https://daisyui.com/components/\n\nMS Code Ionic Plugin\n- https://ionicframework.com/docs/intro/vscode-extension\n\nSource Code\n- https://github.com/aaronksaunders/my-daisyui-capacitor-project\n\n ---\n⚡ \"For teams or developers looking for specialized advisory on the Vue, React, Ionic Framework, and Capacitor stack for mobile apps, I offer targeted consulting sessions. Feel free to get in touch to discuss how I can help.\"\n\n- 🎥 [YouTube Channel](https://www.youtube.com/channel/UCMCcqbJpyL3LAv3PJeYz2bg/)\n- 🐦 [Twitter](https://x.com/aaronksaunders)\n- 💼 [LinkedIn](https://www.linkedin.com/in/aaronksaunders/)\n- 🌐 [GitHub](https://github.com/aaronksaunders)\n---\n\n#React #Capacitor #TailwindCSS #DaisyUI #MobileApp #WebDevelopment #uiux"
       },
       "defaultAudioLanguage": "en-US"
     },
@@ -280,7 +280,7 @@
   },
   {
     "kind": "youtube#video",
-    "etag": "9zU3H9zweZPBQCJZ2gKG4Kav38U",
+    "etag": "S6QJpIGIqINH4EKQTFXv984ZZNg",
     "id": "tZbOO97urWs",
     "snippet": {
       "publishedAt": "2023-05-21T21:51:04Z",
@@ -390,7 +390,7 @@
   },
   {
     "kind": "youtube#video",
-    "etag": "ROmfM4Q0th_UOhqh0jfWifI3W20",
+    "etag": "roDhnyt2N6VUvcFlMsyQxHY2pTE",
     "id": "40cerDJS1V0",
     "snippet": {
       "publishedAt": "2025-04-11T08:07:50Z",
@@ -1662,7 +1662,7 @@
   },
   {
     "kind": "youtube#video",
-    "etag": "5dnFEBDv5z3Y7m8_VWkicmIzqaI",
+    "etag": "HBuqGFiFEWJBNIWbpfoOUjiwMWk",
     "id": "akd7u69k27k",
     "snippet": {
       "publishedAt": "2023-11-17T15:36:38Z",
@@ -8526,7 +8526,7 @@
   },
   {
     "kind": "youtube#video",
-    "etag": "5dnFEBDv5z3Y7m8_VWkicmIzqaI",
+    "etag": "HBuqGFiFEWJBNIWbpfoOUjiwMWk",
     "id": "akd7u69k27k",
     "snippet": {
       "publishedAt": "2023-11-17T15:36:38Z",
