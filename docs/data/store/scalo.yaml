@@ -93,11 +93,17 @@ tech:
 tags:
   - nexus
   - dashboard
-badge:
-  class: badge-success
-  icon: check
-  text: Updated to daisyUI 5
+# badge:
+#   class: badge-success
+#   icon: check
+#   text: Updated to daisyUI 5
 links:
   license: https://api.daisyui.com/license/scalo@1.txt
   screenshot: https://img.daisyui.com/images/store/screenshots/scalo.webp
   preview: https://scalo.daisyui.com/
+changelog:
+  - version: 2.0
+    changes:
+      - Nuxt version added
+      - New pages
+      - Bug fixes and dependency updates

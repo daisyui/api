@@ -53,10 +53,10 @@ tech:
   - vite
 tags:
   - landing
-badge:
-  class: badge-success
-  icon: check
-  text: Updated to daisyUI 5
+# badge:
+#   class: badge-success
+#   icon: check
+#   text: Updated to daisyUI 5
 packages:
   - [null, Solo License, Team License]
   - [price, 3900, 11900]
@@ -67,7 +67,7 @@ packages:
       "https://www.creem.io/payment/prod_YxsechXAgtRBnbJTezU4K",
     ]
   - [🛠️ Frameworks, null, null]
-  - [Vite version, true, true]
+  - [React + Vite version, true, true]
   - [Svelte version, true, true]
   - [⚖️ License, null, null]
   - [Developer seats, 1, Unlimited]

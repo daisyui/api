@@ -77,7 +77,12 @@ tech:
 tags:
   - ecommerce
   - app
-badge:
-  class: badge-success
-  icon: check
-  text: Updated to daisyUI 5
+# badge:
+#   class: badge-success
+#   icon: check
+#   text: Updated to daisyUI 5
+changelog:
+  - version: 2.0
+    changes:
+      - Gumroad API support added
+      - Bug fixes and dependency updates

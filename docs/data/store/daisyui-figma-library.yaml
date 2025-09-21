@@ -1,4 +1,4 @@
-title: Official daisyUI Figma Library
+title: Official daisyUI Figma Library 2.0
 # buy_now_url: "https://daisyui.lemonsqueezy.com/checkout/buy/1aa19ca5-c3db-4438-9a33-434cd72ff07f"
 # ref: 8XWm0
 # params: desc=0
@@ -103,12 +103,12 @@ tags:
   - design
 tech:
   - figma
-badge:
-  # class: badge-info
-  # icon: wait
-  class: badge-success
-  icon: check
-  text: Updated for daisyUI 5
+# badge:
+#   class: badge-info
+#   icon: wait
+#   class: badge-success
+#   icon: check
+#   text: Updated for daisyUI 5
 faq:
   - Q: How to swap the Figma library from v1 to v2?
     A: Watch <a class="link" target="_blank"
@@ -125,3 +125,14 @@ faq:
   - Q: How to use slots in daisyUI Figma Library 2.0
     A: Watch <a class="link" target="_blank"
       href="https://www.youtube.com/watch?v=deKeiqox__U&list=PLFo3F8-aSE4t95dTsbeMZrEhb3pwJ1MKX&index=4">this video</a>
+changelog:
+  - version: 2.0
+    changes:
+      - Major update for daisyUI 5
+      - New components
+      - New component variants
+      - New tokens based on daisyUI 5 and Tailwind CSS 4
+      - New themes and colors
+      - daisyUI 5 effects
+      - Design improvements for all components
+      - Bug fixes and performance enhancements

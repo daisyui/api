@@ -52,7 +52,7 @@ tech:
 tags:
   - content
   - app
-badge:
-  class: badge-success
-  icon: check
-  text: Updated to daisyUI 5
+# badge:
+#   class: badge-success
+#   icon: check
+#   text: Updated to daisyUI 5

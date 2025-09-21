@@ -114,11 +114,61 @@ tech:
 tags:
   - nexus
   - dashboard
-badge:
-  class: badge-success
-  icon: check
-  text: Updated to daisyUI 5
+# badge:
+#   class: badge-success
+#   icon: check
+#   text: Updated to daisyUI 5
 links:
   license: https://api.daisyui.com/license/nexus@3.txt
   screenshot: https://img.daisyui.com/images/store/screenshots/nexus-3.webp
   preview: https://nexus.daisyui.com/
+changelog:
+  - version: 3.1
+    changes:
+      - Added Laravel version
+      - Bug fixes and dependency updates
+  - version: 3.0
+    changes:
+      - LLM rule files for VSCode, Cursor, Windsurf, Cline
+      - Nuxt 4 update
+      - Alpine.js integration for HTML version
+      - New Agentic Storage page for managing your files
+      - New Interactive Layout Builder for real-time visual editing
+      - Foundations library with 4 starter examples for Tailwind CSS
+      - 15+ new examples for UI Blocks
+      - 50+ new examples for common page layouts
+      - 100+ interaction demos powered by 10 plugins
+      - Bug fixes and dependency updates
+  - version: 2.3
+    changes:
+      - Added Nuxt version
+      - Bug fixes and dependency updates
+  - version: 2.2
+    changes:
+      - Gen AI dashboard layout
+      - New Material Dark theme
+      - Calendar component examples
+      - Bug fixes and dependency updates
+  - version: 2.1
+    changes:
+      - Gen AI dashboard layout
+      - Settings Page
+      - Help page
+      - Bug fixes and dependency updates
+  - version: 2.0
+    changes:
+      - Tailwind CSS 4 and daisyUI 5
+      - Vite 6
+      - New CRM Dashboard
+      - 2 new components (Indicator & Table)
+      - 3 new form components (Fieldset, Label & Validator)
+      - New Landing Page
+      - New Layout (Sidebar, Topbar & Rightbar)
+      - New Ecommerce Dashboard layout
+      - 6 themes (Light, Dark, Contrast, Dim, Material & System)
+      - RTL support
+      - Bug fixes and dependency updates
+  - version: 1.1
+    changes:
+      - HTML version
+      - Bug fixes and dependency updates
