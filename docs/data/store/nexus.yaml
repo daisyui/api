@@ -1,11 +1,11 @@
-title: Nexus Dashboard 3
+title: Nexus Dashboard 3.1
 # buy_now_url: "https://daisyui.lemonsqueezy.com/checkout/buy/2a4d3f50-8ffd-4857-a8d8-513a66bc273a"
 # ref: Db6q2
 price: 6900
 from_price: 6900
 to_price: 49900
 created_at: 2024-04-28
-updated_at: 2025-05-19
+updated_at: 2025-09-21
 bannerTitle: Looking for a startup template too?
 banner:
   Get Nexus dashboard template + [Scalo startup template](/store/475050/) as a bundle and save up to $99! <br/>
@@ -49,7 +49,7 @@ desc: |-
 
 
   Team and Enterprise license:
-    - includes HTML, React, Next.js, Nuxt and SvelteKit versions
+    - includes HTML, React, Next.js, Nuxt, SvelteKit and 🆕 Laravel versions
     - For unlimited developers
     - For unlimited projects (Enterprise only)
 media:
@@ -58,7 +58,7 @@ media:
     ratio: 16/9
   - type: image
     sm: https://img.daisyui.com/images/store/small/nexus/nexus-v3-1.webp
-    lg: https://img.daisyui.com/images/store/large/nexus/nexus-v3-1.webp
+    lg: https://img.daisyui.com/images/store/large/nexus/nexus-v3-1.webp?v3.1
   - type: image
     sm: https://img.daisyui.com/images/store/small/nexus/nexus-v3-2.webp
     lg: https://img.daisyui.com/images/store/large/nexus/nexus-v3-2.webp
@@ -78,8 +78,9 @@ quote:
   img: https://img.daisyui.com/images/profile/people/pouya-saadeghi.webp
   name: Pouya
   text:
-    - Nexus 3 is now available! With new pages and sections, new features, new components, new layouts, more sections
-      and examples.
+    - Nexus 3.1 is added with latest dependency updates.
+    - ...and 🥁 🥁 🥁
+    - Nexus is now available for Laravel! 🎉
 packages:
   - [null, Solo License, Team License, Enterprise License]
   - [price, 6900, 12900, 49900]
@@ -104,10 +105,12 @@ packages:
   - [Updates and bugfixes, true, true, true]
 tech:
   - html
+  - alpine
   - svelte
   - react
   - nextjs
   - vue
+  - laravel
 tags:
   - nexus
   - dashboard

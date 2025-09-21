@@ -101,6 +101,8 @@ packages:
   - [One-on-one setup session, false, false, true]
 tags:
   - design
+tech:
+  - figma
 badge:
   # class: badge-info
   # icon: wait

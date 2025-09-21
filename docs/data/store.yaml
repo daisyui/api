@@ -14,7 +14,7 @@ productOrder:
 tech:
   all: All
   html: HTML
-  alpine: Alpine.js
+  alpine: Alpine
   react: React
   svelte: Svelte
   vue: Vue
@@ -25,8 +25,10 @@ tech:
   mdx: MDX
   astro: Astro
   nextjs: Next.js
+  figma: Figma
+  laravel: Laravel
 
-techFilters: [all, html, react, vue, svelte, astro]
+techFilters: [all, html, react, vue, svelte, astro, alpine, laravel, figma]
 
 futureProducts:
   - HTML Dashboard Template v2 update
