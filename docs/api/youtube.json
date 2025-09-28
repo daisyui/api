@@ -280,7 +280,7 @@
   },
   {
     "kind": "youtube#video",
-    "etag": "S6QJpIGIqINH4EKQTFXv984ZZNg",
+    "etag": "Yxxxa_ZWGfenkljwkeRlBoCz3lM",
     "id": "tZbOO97urWs",
     "snippet": {
       "publishedAt": "2023-05-21T21:51:04Z",
@@ -390,7 +390,7 @@
   },
   {
     "kind": "youtube#video",
-    "etag": "roDhnyt2N6VUvcFlMsyQxHY2pTE",
+    "etag": "tPx4WHtHzCsL_ZYRDcc02YesJQM",
     "id": "40cerDJS1V0",
     "snippet": {
       "publishedAt": "2025-04-11T08:07:50Z",
@@ -1662,7 +1662,7 @@
   },
   {
     "kind": "youtube#video",
-    "etag": "HBuqGFiFEWJBNIWbpfoOUjiwMWk",
+    "etag": "zqg_N16ZK0DUnzYjFxsDAfsPJ7g",
     "id": "akd7u69k27k",
     "snippet": {
       "publishedAt": "2023-11-17T15:36:38Z",
@@ -3751,7 +3751,7 @@
   },
   {
     "kind": "youtube#video",
-    "etag": "6zLg2rJhRPz2oKqAKwO0rRTkKZ8",
+    "etag": "mGaUK_Yn0Ue_gVkbrcCOwSPd124",
     "id": "1HzFYpmx_zs",
     "snippet": {
       "publishedAt": "2023-04-08T05:39:48Z",
@@ -3785,7 +3785,7 @@
           "height": 720
         }
       },
-      "channelTitle": "Souhail4Dev",
+      "channelTitle": "Souhail Benlhachemi",
       "tags": [
         "nextjs",
         "one page ecommerce shop",
@@ -8526,7 +8526,7 @@
   },
   {
     "kind": "youtube#video",
-    "etag": "HBuqGFiFEWJBNIWbpfoOUjiwMWk",
+    "etag": "zqg_N16ZK0DUnzYjFxsDAfsPJ7g",
     "id": "akd7u69k27k",
     "snippet": {
       "publishedAt": "2023-11-17T15:36:38Z",
@@ -9472,6 +9472,71 @@
       "localized": {
         "title": "Dynamic DaisyUI & TailwindCSS TreeView + Context Menu",
         "description": "This reel demonstrates the DaisyUI TreeView component and also the context menu. This is part of SithasoDaisy5. You can use the web components freely in your projects too.\n\nhttps://daisyui.com/\nhttps://github.com/Mashiane/SithasoDaisy5\n\nhttps://github.com/Mashiane/DaisyUI-TreeView"
+      },
+      "defaultAudioLanguage": "en-US"
+    },
+    "status": {
+      "uploadStatus": "processed",
+      "privacyStatus": "public",
+      "license": "youtube",
+      "embeddable": true,
+      "publicStatsViewable": true,
+      "madeForKids": false
+    }
+  },
+  {
+    "kind": "youtube#video",
+    "etag": "g0gysIg0zyIPfmqJPVBX_rsLEfo",
+    "id": "6-fVLzcbvi4",
+    "snippet": {
+      "publishedAt": "2025-09-14T10:30:04Z",
+      "channelId": "UC3AZ61zr6I4rLAUmLNa3pRA",
+      "title": "SithasoDaisy5 LowCode AddressBook #daisyui #tailwindcss #indexeddb #alasql #b4x",
+      "description": "SithasoDaisy5 Low Code Generator in the works. We create a relational address book that uses IndexedDB as a backend for offline storage\n\nAnd yes, no CSS, no HTML and no JavaScript was written to create this Awesome WebApp. Thanks to b4x and BANano, and the power of DaisyUI and TailWindCSS, all brought together with SithasoDaisy5 (OpenSource)\n\nSithasoDaisy5 - A #DaisyUI and #tailwindcss tool to develop webapps and websites using #b4x and BANano.\n\nhttps://www.b4x.com/android/forum/threads/web-bananosql-offline-first-relational-address-book-created-with-sithasodaisy5-low-code-generator.168626/",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/6-fVLzcbvi4/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/6-fVLzcbvi4/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/6-fVLzcbvi4/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/6-fVLzcbvi4/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/6-fVLzcbvi4/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Anele Mbanga",
+      "tags": [
+        "#sithasodaisy",
+        "#daisyui",
+        "#tailwindcss",
+        "#javascript",
+        "#banano",
+        "#b4x",
+        "#wireframes",
+        "#sithasodaisy wireframes"
+      ],
+      "categoryId": "28",
+      "liveBroadcastContent": "none",
+      "defaultLanguage": "en-US",
+      "localized": {
+        "title": "SithasoDaisy5 LowCode AddressBook #daisyui #tailwindcss #indexeddb #alasql #b4x",
+        "description": "SithasoDaisy5 Low Code Generator in the works. We create a relational address book that uses IndexedDB as a backend for offline storage\n\nAnd yes, no CSS, no HTML and no JavaScript was written to create this Awesome WebApp. Thanks to b4x and BANano, and the power of DaisyUI and TailWindCSS, all brought together with SithasoDaisy5 (OpenSource)\n\nSithasoDaisy5 - A #DaisyUI and #tailwindcss tool to develop webapps and websites using #b4x and BANano.\n\nhttps://www.b4x.com/android/forum/threads/web-bananosql-offline-first-relational-address-book-created-with-sithasodaisy5-low-code-generator.168626/"
       },
       "defaultAudioLanguage": "en-US"
     },
