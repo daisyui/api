@@ -31,9 +31,9 @@ tech:
 techFilters: [all, html, react, vue, svelte, astro, alpine, laravel, figma]
 
 futureProducts:
-  - HTML Dashboard Template v2 update
-  - Scalo v3.0 update
   - Blink Template v2.0 update
+  - HTML Dashboard Template v2 update
+  - Figma Library v2.1 update
 
 faq:
   - Q: Is this one time payment?

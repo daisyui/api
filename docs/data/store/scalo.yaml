@@ -1,20 +1,20 @@
-title: Scalo Startup Template 2.0
+title: Scalo Startup Template 3.0
 # buy_now_url: "https://daisyui.lemonsqueezy.com/checkout/buy/ad10b14b-ccdf-4b66-9fee-db5a5e89865d"
 # ref: Db6q2
 price: 6900
 from_price: 6900
 to_price: 49900
 created_at: 2025-02-11
-updated_at: 2025-06-03
+updated_at: 2025-09-30
 bannerTitle: Looking for a dashboard template too?
 banner:
-  Get Scalo startup template + [Nexus dashboard template](/store/244268/) as a bundle and save up to $99! <br/>
+  Get Scalo startup template + [Nexus dashboard template](/store/nexus/) as a bundle and save up to $99! <br/>
   <br/> <a class="btn btn-xs" target="_blank" rel="noopener noreferrer"
   href="https://www.creem.io/payment/prod_1JQRbXEWbRAsptLAEsfw8F">Team License Bundle ↗︎</a> <a class="btn btn-xs"
   target="_blank" rel="noopener noreferrer" href="https://www.creem.io/payment/prod_zdNmz3m6JfzZNXjWwyEYC">Enterprise
   License Bundle ↗︎</a>
 # banner: >-
-#   Get Scalo startup template + [Nexus dashboard template](/store/244268/) as a bundle and save up to $99!
+#   Get Scalo startup template + [Nexus dashboard template](/store/nexus/) as a bundle and save up to $99!
 #   <br/>
 #   <br/>
 #   <a class="btn btn-xs" target="_blank" rel="noopener noreferrer" href="https://daisyui.com/store/checkout?product=2ec5128f-1abc-4e3c-a55c-529ce31f08aa&aff=Db6q2">Click here for the bundle ↗︎</a>
@@ -24,8 +24,9 @@ desc: |-
   Made with Tailwind CSS 4 and daisyUI 5
 
   Including:
+    - Components and blocks
     - 36 Pages
-    - 2 Landings (Automation and developer)
+    - 4 Landing pages (Automation, Developer, Sales, Storage)
     - 7 Pricing sections (Lifetime, Subscription, User-based & comparison-based)
     - 6 Auth pages (Login, Register, 2FA, Forgot password, Reset password, Verify)
     - Settings (Profile, Account, Notification & Manage plans)
@@ -43,27 +44,24 @@ desc: |-
 
 
   Team and Enterprise license:
-    - includes HTML, React, Next.js, SvelteKit and 🆕 Nuxt versions
+    - includes HTML, React, Next.js, SvelteKit and Nuxt versions
     - For unlimited developers
     - For unlimited projects (Enterprise only)
 media:
   - type: image
-    sm: https://img.daisyui.com/images/store/small/scalo/tailwind-template-scalo-scalo-1.webp
-    lg: https://img.daisyui.com/images/store/large/scalo/tailwind-template-scalo-scalo-1.webp
+    sm: https://img.daisyui.com/images/store/small/scalo/main.webp
+    lg: https://img.daisyui.com/images/store/large/scalo/main.webp
   - type: image
-    sm: https://img.daisyui.com/images/store/small/scalo/tailwind-template-scalo-scalo-2.webp
-    lg: https://img.daisyui.com/images/store/large/scalo/tailwind-template-scalo-scalo-2.webp
+    sm: https://img.daisyui.com/images/store/small/scalo/landings.webp
+    lg: https://img.daisyui.com/images/store/large/scalo/landings.webp
   - type: image
-    sm: https://img.daisyui.com/images/store/small/scalo/tailwind-template-scalo-scalo-3.webp
-    lg: https://img.daisyui.com/images/store/large/scalo/tailwind-template-scalo-scalo-3.webp
-  - type: image
-    sm: https://img.daisyui.com/images/store/small/scalo/tailwind-template-scalo-scalo-4.webp
-    lg: https://img.daisyui.com/images/store/large/scalo/tailwind-template-scalo-scalo-4.webp
-quote:
-  img: https://img.daisyui.com/images/profile/people/pouya-saadeghi.webp
-  name: Pouya
-  text:
-    - Scalo 2.0 added with latest dependencies + new pages and sections + Nuxt version!
+    sm: https://img.daisyui.com/images/store/small/scalo/pages.webp
+    lg: https://img.daisyui.com/images/store/large/scalo/pages.webp
+# quote:
+#   img: https://img.daisyui.com/images/profile/people/pouya-saadeghi.webp
+#   name: Pouya
+#   text:
+#     - Scalo 2.0 added with latest dependencies + new pages and sections + Nuxt version!
 packages:
   - [null, Solo License, Team License, Enterprise License]
   - [price, 6900, 12900, 49900]
@@ -79,6 +77,7 @@ packages:
   - [React version, false, true, true]
   - [Next.js version, false, true, true]
   - [SvelteKit version, false, true, true]
+  - [Nuxt version, false, true, true]
   - [⚖️ License, null, null, null]
   - [Developer seats, 1, Unlimited, Unlimited]
   - [Projects limit, 1, 1, Unlimited]
@@ -90,6 +89,7 @@ tech:
   - svelte
   - react
   - nextjs
+  - vue
 tags:
   - nexus
   - dashboard
@@ -102,6 +102,13 @@ links:
   screenshot: https://img.daisyui.com/images/store/screenshots/scalo.webp
   preview: https://scalo.daisyui.com/
 changelog:
+  - version: 3.0
+    changes:
+      - New landing page for Sales
+      - New landing page for Storage
+      - New Components section
+      - Blocks (Cookie banners, Feedback section and more)
+      - Bug fixes and dependency updates
   - version: 2.0
     changes:
       - Nuxt version added
