@@ -280,7 +280,7 @@
   },
   {
     "kind": "youtube#video",
-    "etag": "Yxxxa_ZWGfenkljwkeRlBoCz3lM",
+    "etag": "x9D3U4hBBqsBP7RpXF_hqAfx1bY",
     "id": "tZbOO97urWs",
     "snippet": {
       "publishedAt": "2023-05-21T21:51:04Z",
@@ -390,7 +390,7 @@
   },
   {
     "kind": "youtube#video",
-    "etag": "tPx4WHtHzCsL_ZYRDcc02YesJQM",
+    "etag": "dM_6mXkhtNNOutLn8IWHfHExQjo",
     "id": "40cerDJS1V0",
     "snippet": {
       "publishedAt": "2025-04-11T08:07:50Z",
@@ -972,7 +972,7 @@
   },
   {
     "kind": "youtube#video",
-    "etag": "3QsvRr0PAmGBEzMmjy7rLT7PASY",
+    "etag": "31AVLYW7fBUBY4zpd4P1cMbVJyg",
     "id": "v4TJbutVjV8",
     "snippet": {
       "publishedAt": "2025-09-02T08:30:31Z",
@@ -1662,7 +1662,7 @@
   },
   {
     "kind": "youtube#video",
-    "etag": "zqg_N16ZK0DUnzYjFxsDAfsPJ7g",
+    "etag": "joC0HAyu-CcpgT0-0-Cde1EQ4OY",
     "id": "akd7u69k27k",
     "snippet": {
       "publishedAt": "2023-11-17T15:36:38Z",
@@ -8526,7 +8526,7 @@
   },
   {
     "kind": "youtube#video",
-    "etag": "zqg_N16ZK0DUnzYjFxsDAfsPJ7g",
+    "etag": "joC0HAyu-CcpgT0-0-Cde1EQ4OY",
     "id": "akd7u69k27k",
     "snippet": {
       "publishedAt": "2023-11-17T15:36:38Z",
@@ -9276,7 +9276,7 @@
   },
   {
     "kind": "youtube#video",
-    "etag": "JAxFeFPMjBcpIfXgdP6kmwPgwvY",
+    "etag": "J4tVZ9x-1hfxVBbNDT93PxEY5Ug",
     "id": "cnBUkbTcMak",
     "snippet": {
       "publishedAt": "2025-04-04T16:39:11Z",
@@ -9486,13 +9486,13 @@
   },
   {
     "kind": "youtube#video",
-    "etag": "g0gysIg0zyIPfmqJPVBX_rsLEfo",
+    "etag": "KCqPGQIg6sZpKz47iMtaQEHlrEI",
     "id": "6-fVLzcbvi4",
     "snippet": {
       "publishedAt": "2025-09-14T10:30:04Z",
       "channelId": "UC3AZ61zr6I4rLAUmLNa3pRA",
       "title": "SithasoDaisy5 LowCode AddressBook #daisyui #tailwindcss #indexeddb #alasql #b4x",
-      "description": "SithasoDaisy5 Low Code Generator in the works. We create a relational address book that uses IndexedDB as a backend for offline storage\n\nAnd yes, no CSS, no HTML and no JavaScript was written to create this Awesome WebApp. Thanks to b4x and BANano, and the power of DaisyUI and TailWindCSS, all brought together with SithasoDaisy5 (OpenSource)\n\nSithasoDaisy5 - A #DaisyUI and #tailwindcss tool to develop webapps and websites using #b4x and BANano.\n\nhttps://www.b4x.com/android/forum/threads/web-bananosql-offline-first-relational-address-book-created-with-sithasodaisy5-low-code-generator.168626/",
+      "description": "SithasoDaisy5 Low Code Generator in the works. We create a relational address book that uses IndexedDB as a backend for offline storage\n\nAnd yes, no CSS, no HTML and no JavaScript was written to create this Awesome WebApp. Thanks to b4x and BANano, and the power of DaisyUI and TailWindCSS, all brought together with SithasoDaisy5 (OpenSource)\n\nDisclaimer: SithasoDaisy5 uses fake data generators. Any representation to an actual person is coincidental and not done in malice.\n\nSithasoDaisy5 - A #DaisyUI and #tailwindcss tool to develop webapps and websites using #b4x and BANano.\n\nhttps://www.b4x.com/android/forum/threads/web-bananosql-offline-first-relational-address-book-created-with-sithasodaisy5-low-code-generator.168626/",
       "thumbnails": {
         "default": {
           "url": "https://i.ytimg.com/vi/6-fVLzcbvi4/default.jpg",
@@ -9536,7 +9536,7 @@
       "defaultLanguage": "en-US",
       "localized": {
         "title": "SithasoDaisy5 LowCode AddressBook #daisyui #tailwindcss #indexeddb #alasql #b4x",
-        "description": "SithasoDaisy5 Low Code Generator in the works. We create a relational address book that uses IndexedDB as a backend for offline storage\n\nAnd yes, no CSS, no HTML and no JavaScript was written to create this Awesome WebApp. Thanks to b4x and BANano, and the power of DaisyUI and TailWindCSS, all brought together with SithasoDaisy5 (OpenSource)\n\nSithasoDaisy5 - A #DaisyUI and #tailwindcss tool to develop webapps and websites using #b4x and BANano.\n\nhttps://www.b4x.com/android/forum/threads/web-bananosql-offline-first-relational-address-book-created-with-sithasodaisy5-low-code-generator.168626/"
+        "description": "SithasoDaisy5 Low Code Generator in the works. We create a relational address book that uses IndexedDB as a backend for offline storage\n\nAnd yes, no CSS, no HTML and no JavaScript was written to create this Awesome WebApp. Thanks to b4x and BANano, and the power of DaisyUI and TailWindCSS, all brought together with SithasoDaisy5 (OpenSource)\n\nDisclaimer: SithasoDaisy5 uses fake data generators. Any representation to an actual person is coincidental and not done in malice.\n\nSithasoDaisy5 - A #DaisyUI and #tailwindcss tool to develop webapps and websites using #b4x and BANano.\n\nhttps://www.b4x.com/android/forum/threads/web-bananosql-offline-first-relational-address-book-created-with-sithasodaisy5-low-code-generator.168626/"
       },
       "defaultAudioLanguage": "en-US"
     },
