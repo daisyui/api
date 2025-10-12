@@ -1178,7 +1178,6 @@
   site: https://preactjs.com/
   logo: >-
     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
-      <rect width="512" height="512" rx="15%" fill="#ffffff"/>
       <g transform="translate(256,256)">
         <path d="M0,-256 222,-128 222,128 0,256 -222,128 -222,-128z" fill="#673ab8"/>
         <ellipse cx="0" cy="0" stroke-width="16" rx="75" ry="196" fill="none" stroke="#ffffff" transform="rotate(52.5)"/>
