@@ -22,7 +22,7 @@ data:
         positive: true
         desc: daisyUI is framework agnostic and works everywhere
       Unique components:
-        value: 59
+        value: 60
         desc: daisyUI has 63 components, 59 of them are unique – for example pagination and button group are considered as same.
       Built-in Themes:
         value: 35
@@ -50,7 +50,7 @@ data:
         value: 430000
         desc: Based on GitHub's public repositories
       NPM downloads:
-        value: 470000
+        value: 510000
         desc: Weekly downloads from NPM
       CDN:
         value: Yes
@@ -89,7 +89,7 @@ data:
         positive: true
         desc: daisyUI uses native CSS nesting, reducing the CSS file size
       Open GitHub issues:
-        value: 25
+        value: 15
         desc: As of October 2025
 
   tailwindui:
