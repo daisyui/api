@@ -235,11 +235,15 @@
       done: true
     - title: llms.txt
       done: true
-    - title: LLM and edito setup guides
+    - title: LLM and editor setup guides
       done: true
 - title: Future
   done: false
   items:
+    - title: CSS layers
+      done: true
+    - title: Icon-only drawer sidebar,
+      done: true
     - title: Floating action button / Speed Dial
       done: true
     - title: Styled native HTML <select> options
