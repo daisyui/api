@@ -280,7 +280,7 @@
   },
   {
     "kind": "youtube#video",
-    "etag": "CVZXunQGXemtlRQa0zWB0sjuGLY",
+    "etag": "e_TPRjXXijGCBRNGblzUEUiiBlo",
     "id": "tZbOO97urWs",
     "snippet": {
       "publishedAt": "2023-05-21T21:51:04Z",
@@ -1794,7 +1794,7 @@
       "publishedAt": "2024-06-13T09:51:44Z",
       "channelId": "UClxoKqEHpCA2xEdF0p0y5aw",
       "title": "Master DaisyUI Customization: A Complete Guide",
-      "description": "Complete guide on customizing DaisyUI with any React project. Learn how to install and use DaisyUI, customize components, and create your own themes.\n\nHighlights\n🎯 Customize DaisyUI components and themes in your React project.\n💡 Use the “data-theme” property to apply different themes to specific components or elements.\n🌈 Customize colors, animations, borders, and other styles using DaisyUI’s default options.\n🛠️ Leverage the power of Tailwind CSS and DaisyUI together by using prefixes.\n🎨 Create your own themes and customize the default options to match your project’s style guide.\n\n\nKey Insights\n📚 DaisyUI offers a complete guide for customizing components, themes, and styles in React projects. This allows developers to create unique and personalized designs.\n⚙️ By using the “data-theme” property, developers can apply different themes to specific components or elements, providing flexibility in design.\n🎨 DaisyUI provides default options for colors, animations, borders, and more, allowing developers to easily customize the look and feel of their project.\n🛠️ By using prefixes, developers can use DaisyUI and Tailwind CSS together, avoiding conflicts and creating a cohesive design system.\n🌈 Creating custom themes and adjusting the default options allows developers to match their project’s style guide and create a consistent user experience.\n📚 DaisyUI’s documentation provides detailed instructions and examples for customizing components, themes, and styles, making it easy for developers to implement these features in their projects.\n💡 The ability to customize colors, animations, borders, and other styles offers developers the flexibility to create visually appealing and unique designs.\n\n\n======= ignore this =======\nDaisyUI,DaisyUI tutorial,DaisyUI customization,DaisyUI full tutorial,DaisyUI masterclass,CSS framework,web design,frontend development,responsive design,UI customization,DaisyUI examples,DaisyUI themes,web development tutorial,UI design,beginner tutorial,expert tutorial,web design tips,DaisyUI components,CSS customization,theming,utility classes,rakibulhashanrabbi,Learn DaisyUI,vite,react vite daisy,web development,tailwind css tutorial",
+      "description": "Complete guide on customizing DaisyUI with any React project. Learn how to install and use DaisyUI, customize components, and create your own themes.\n\nHighlights\n�� Customize DaisyUI components and themes in your React project.\n💡 Use the “data-theme” property to apply different themes to specific components or elements.\n🌈 Customize colors, animations, borders, and other styles using DaisyUI’s default options.\n🛠️ Leverage the power of Tailwind CSS and DaisyUI together by using prefixes.\n🎨 Create your own themes and customize the default options to match your project’s style guide.\n\n\nKey Insights\n📚 DaisyUI offers a complete guide for customizing components, themes, and styles in React projects. This allows developers to create unique and personalized designs.\n⚙️ By using the “data-theme” property, developers can apply different themes to specific components or elements, providing flexibility in design.\n🎨 DaisyUI provides default options for colors, animations, borders, and more, allowing developers to easily customize the look and feel of their project.\n🛠️ By using prefixes, developers can use DaisyUI and Tailwind CSS together, avoiding conflicts and creating a cohesive design system.\n🌈 Creating custom themes and adjusting the default options allows developers to match their project’s style guide and create a consistent user experience.\n📚 DaisyUI’s documentation provides detailed instructions and examples for customizing components, themes, and styles, making it easy for developers to implement these features in their projects.\n💡 The ability to customize colors, animations, borders, and other styles offers developers the flexibility to create visually appealing and unique designs.\n\n\n======= ignore this =======\nDaisyUI,DaisyUI tutorial,DaisyUI customization,DaisyUI full tutorial,DaisyUI masterclass,CSS framework,web design,frontend development,responsive design,UI customization,DaisyUI examples,DaisyUI themes,web development tutorial,UI design,beginner tutorial,expert tutorial,web design tips,DaisyUI components,CSS customization,theming,utility classes,rakibulhashanrabbi,Learn DaisyUI,vite,react vite daisy,web development,tailwind css tutorial",
       "thumbnails": {
         "default": {
           "url": "https://i.ytimg.com/vi/CKOH37J1EnI/default.jpg",
@@ -4960,7 +4960,7 @@
       "defaultLanguage": "th",
       "localized": {
         "title": "แนะนำ Tailwind และ DaisyUI (พร้อมหยิบมาแต่ง Todo List) | VF Masterclass - EP. 6",
-        "description": "☕️ สนับสนุนช่องเราด้วยการสมัครสมาชิกช่องทางนี้ได้เลย\nhttps://www.youtube.com/channel/UC3YgTINPYQmUcRt5ZcNFIZQ/join\n\nสวัสดีสู่ตอนที่ 6 ของซีรีย์ Vue Firebase masterclass ตอนนี้เราจะพาแนะนำ Tailwind และ DaisyUI กันว่ามันคืออะไร มันช่วยอำนวยความสะดวกอะไรได้บ้าง และทำไมผมถึงหยิบ technology 2 ตัวนี้มาใช้ใน project นี้ \n\nพร้อมกับเราจะนำ tailwind และ daisyUI มาแต่ง style ใน Todo list ให้สวยงามกัน\n\n** สำหรับใครที่มาดู Session นี้เลยและอยากได้ code ส่วน Todo list ให้สร้าง project ใหม่และดู code Todo List ตามเอกสารนี้ได้นะครับ\nhttps://docs.mikelopster.dev/c/vue-firebase/chapter-5/workshop\n\nหัวข้อ\n00:00 แนะนำ Session\n00:31 แนะนำ Tailwind ว่าคืออะไร\n08:04 ลง Tailwind ใน project Todo List\n11:40 แนะนำ Tailwind core concept (utility class)\n13:00 Tailwind - 1. Layout\n18:04 Tailwind - 2. Flexbox & Grid\n20:29 Tailwind - 3. Spacing\n22:55 Taliwind - 4. Sizing\n23:46 Tailwind - 5. Typography\n26:12 Tailwind - 6. Background\n27:18 Tailwind - 7. Borders\n28:29 Tailwind - 8. Effect\n29:14 Tailwind - 9. Filters\n30:11 Tailwind - 10. Table\n30:48 Tailwind - 11. Transform and Transition\n31:13 Tailwind - Handling Hover, Focus, State\n31:50 Tailwind - 12. Responsive\n33:44 การ Customize Tailwind และ Directive (group class)\n37:40 แนะนำ Daisy UI (Tailwind plugin)\n39:21 ลง DaisyUI ใน project Todo List\n40:26 DaisyUI Component - 1. Action\n42:14 DaisyUI Component - 2. Data display\n43:45 DaisyUI Component - 3. Data input\n45:08 DaisyUI Component - 4. Layout\n46:06 DaisyUI Component - 5. Navigation\n47:30 แนะนำ Theme ใน DaisyUI\n49:11 เริ่มแต่ง Todo List overview ว่าจะทำอะไรบ้าง\n49:28 แก้ Layout ใหญ่ที่ App.vue\n51:30 แต่ง HomeView - ตาม checklist / เริ่มเรียง input ก่อน\n53:11 แต่ง HomeView - แต่ง list view ของ todo ใหม่\n57:25 แต่ง HomeView - เพิ่ม checkbox และ status 'Done' style\n1:01:42 แต่ง HomeView - เพิ่ม Loading component\n1:06:05 แต่ง HomeView - เพิ่ม tab สำหรับแยก status และ computed แยก status\n1:11:43 แต่ง EditView - adjust style หน้า input\n1:15:20 แต่ง EditView - เพิ่ม back button\n1:16:45 แต่ง EditView - เพิ่ม Loading\n1:17:10 แต่ง EditView - เพิ่ม Toast (สำหรับบอกว่า update เรียบร้อยแล้ว)\n1:19:17 Recap เราทำอะไรกันไปบ้าง\n1:20:17 เราจะทำอะไรกันต่อใน 2 Session ต่อไป\n\nสำหรับใครอยาก follow ตามเอกสาร สามารถเข้ามาอ่านกันได้เล้ยที่นี่\nhttps://docs.mikelopster.dev/c/vue-firebase/chapter-6/intro\n\nใครมีข้อสงสัยเพิ่มเติม มาพูดคุยแลกเปลี่ยนความรู้กันได้ที่\nFacebook page: https://www.facebook.com/mikelopster.dev\nWebsite: https://mikelopster.dev\n\nพิกัดของด้านหลัง : https://shope.ee/8A54c8cfkf"
+        "description": "☕️ สนับสนุนช่องเราด้วยการสมัครสมาชิกช่องทางนี้ได้เลย\nhttps://www.youtube.com/channel/UC3YgTINPYQmUcRt5ZcNFIZQ/join\n\nสวัสดีสู่ตอนที่ 6 ของซีรีย์ Vue Firebase masterclass ตอนนี้เราจะพาแนะนำ Tailwind และ DaisyUI กันว่ามันคืออะไร มันช่วยอำนวยความสะดวกอะไรได้บ้าง และทำไมผมถึงหยิบ technology 2 ตัวนี้มาใช้ใน project นี้ \n\nพร้อมกับเราจะนำ tailwind และ daisyUI มาแต่ง style ใน Todo list ให้สวยงามกัน\n\n** สำหรับใครที่มาดู Session นี้เลยและอยากได้ code ส่วน Todo list ให้สร้าง project ใหม่และดู code Todo List ตามเอกสารนี้ได้นะครับ\nhttps://docs.mikelopster.dev/c/vue-firebase/chapter-5/workshop\n\nหัวข้อ\n00:00 แนะนำ Session\n00:31 แนะนำ Tailwind ว่าคืออะไร\n08:04 ลง Tailwind ใน project Todo List\n11:40 แนะนำ Tailwind core concept (utility class)\n13:00 Tailwind - 1. Layout\n18:04 Tailwind - 2. Flexbox & Grid\n20:29 Tailwind - 3. Spacing\n22:55 Taliwind - 4. Sizing\n23:46 Tailwind - 5. Typography\n26:12 Tailwind - 6. Background\n27:18 Tailwind - 7. Borders\n28:29 Tailwind - 8. Effect\n29:14 Tailwind - 9. Filters\n30:11 Tailwind - 10. Table\n30:48 Tailwind - 11. Transform and Transition\n31:13 Tailwind - Handling Hover, Focus, State\n31:50 Tailwind - 12. Responsive\n33:44 การ Customize Tailwind และ Directive (group class)\n37:40 แนะนำ Daisy UI (Tailwind plugin)\n39:21 ลง DaisyUI ใน project Todo List\n40:26 DaisyUI Component - 1. Action\n42:14 DaisyUI Component - 2. Data display\n43:45 DaisyUI Component - 3. Data input\n45:08 DaisyUI Component - 4. Layout\n46:06 DaisyUI Component - 5. Navigation\n47:30 แนะนำ Theme ใน DaisyUI\n49:11 เริ่มแต่ง Todo List overview ว่าจะทำอะไรบ้าง\n49:28 แ���้ Layout ใหญ่ที่ App.vue\n51:30 แต่ง HomeView - ตาม checklist / เริ่มเรียง input ก่อน\n53:11 แต่ง HomeView - แต่ง list view ของ todo ใหม่\n57:25 แต่ง HomeView - เพิ่ม checkbox และ status 'Done' style\n1:01:42 แต่ง HomeView - เพิ่ม Loading component\n1:06:05 แต่ง HomeView - เพิ่ม tab สำหรับแยก status และ computed แยก status\n1:11:43 แต่ง EditView - adjust style หน้า input\n1:15:20 แต่ง EditView - เพิ่ม back button\n1:16:45 แต่ง EditView - เพิ่ม Loading\n1:17:10 แต่ง EditView - เพิ่ม Toast (สำหรับบอกว่า update เรียบร้อยแล้ว)\n1:19:17 Recap เราทำอะไรกันไปบ้าง\n1:20:17 เราจะทำอะไรกันต่อใน 2 Session ต่อไป\n\nสำหรับใครอยาก follow ตามเอกสาร สามารถเข้ามาอ่านกันได้เล้ยที่นี่\nhttps://docs.mikelopster.dev/c/vue-firebase/chapter-6/intro\n\nใครมีข้อสงสัยเพิ่มเติม มาพูดคุยแลกเปลี่ยนความรู้กันได้ที่\nFacebook page: https://www.facebook.com/mikelopster.dev\nWebsite: https://mikelopster.dev\n\nพิกัดของด้านหลัง : https://shope.ee/8A54c8cfkf"
       },
       "defaultAudioLanguage": "th"
     },
@@ -5712,13 +5712,13 @@
   },
   {
     "kind": "youtube#video",
-    "etag": "mgVtS_QyxIWrXH_XhmOJJnaQCFc",
+    "etag": "hEgPzOGMnxhX7UFT2b30wF7ej8w",
     "id": "9AydJ-cg8fU",
     "snippet": {
       "publishedAt": "2023-06-23T11:00:10Z",
       "channelId": "UChgP4qLeMhkcJUFMO5S05mQ",
       "title": "Build and Deploy a Next.js, Headless WordPress Blog with Tailwind CSS, DaisyUI and Vercel - 1. Setup",
-      "description": "Learn how to build a Next.js, Headless WordPress Blog with Tailwind CSS, Daisy UI, and Vercel in this step-by-step tutorial. Discover the power of headless WordPress, the lightning-fast performance of Next.js, and the flexibility of Tailwind CSS and Daisy UI for stunning visual design. Fetch data from WordPress, build dynamic pages and deploy your blog with Vercel. Perfect for beginners and experienced developers looking to create modern, high-performance blogs. Watch now and start building your dream blog today!\n\n0:00 Intro\n1:47 WordPress Backend\n5:03 NextJS Setup\n6:15 DaisyUI\n7:00 Connecting to WordPress\n12:17 Tailwind CSS Setup\n13:02 Dark Theme Toggler\n17:51 Next steps\n18:12 Outro\n\nLINKS 🔗\n► https://github.com/thehashton/cb-next-wp-blog\n► https://github.com/vercel/next.js/tree/canary/examples/cms-wordpress\n\n💬 Join us on our discord here:\n► https://discord.gg/wqZrVkeMzX\n\nVisit our website:\n► https://www.curiousbyte.dev\n\nFOLLOW  ✅\n► https://twitter.com/TheHashton\n► https://twitter.com/curious_byte\n\nSUPPORT THE CHANNEL ❤️\n► https://www.buymeacoffee.com/curiousbyte\n\n#frontend #webdev #developer #javascript #typescript #webdevelopment #nextjs #wordpress #blog  #tailwindcss #daisyui #vercel",
+      "description": "Learn how to build a Next.js, Headless WordPress Blog with Tailwind CSS, Daisy UI, and Vercel in this step-by-step tutorial. Discover the power of headless WordPress, the lightning-fast performance of Next.js, and the flexibility of Tailwind CSS and Daisy UI for stunning visual design. Fetch data from WordPress, build dynamic pages and deploy your blog with Vercel. Perfect for beginners and experienced developers looking to create modern, high-performance blogs. Watch now and start building your dream blog today!\n\nTutorials aren’t always enough to get you into front end career. Head to our website and apply for a job guarantee and work with me directly: \nhttps://www.learnfrontendnow.com/?el=ytheadlesswordpress1\n\nWhat you will get:\n$70,000 job guarantee\nUnlimited one to one live coaching with me\nApply for you - once you are ready and have learned the skills our coaches will apply for you\nBeginner friendly, no experience or degree needed\n\nStill not sure? Ask me directly on Instagram to see how I can help you https://www.instagram.com/thehashton/?el=IGYT\n\n0:00 Intro\n1:47 WordPress Backend\n5:03 NextJS Setup\n6:15 DaisyUI\n7:00 Connecting to WordPress\n12:17 Tailwind CSS Setup\n13:02 Dark Theme Toggler\n17:51 Next steps\n18:12 Outro\n\nLINKS 🔗\n► https://github.com/thehashton/cb-next-wp-blog\n► https://github.com/vercel/next.js/tree/canary/examples/cms-wordpress\n\nFOLLOW  ✅\n► https://tiktok.com/@thehashton\n\n#frontend #webdev #developer #javascript #typescript #webdevelopment #nextjs #wordpress #blog  #tailwindcss #daisyui #vercel",
       "thumbnails": {
         "default": {
           "url": "https://i.ytimg.com/vi/9AydJ-cg8fU/default.jpg",
@@ -5773,7 +5773,7 @@
       "defaultLanguage": "en",
       "localized": {
         "title": "Build and Deploy a Next.js, Headless WordPress Blog with Tailwind CSS, DaisyUI and Vercel - 1. Setup",
-        "description": "Learn how to build a Next.js, Headless WordPress Blog with Tailwind CSS, Daisy UI, and Vercel in this step-by-step tutorial. Discover the power of headless WordPress, the lightning-fast performance of Next.js, and the flexibility of Tailwind CSS and Daisy UI for stunning visual design. Fetch data from WordPress, build dynamic pages and deploy your blog with Vercel. Perfect for beginners and experienced developers looking to create modern, high-performance blogs. Watch now and start building your dream blog today!\n\n0:00 Intro\n1:47 WordPress Backend\n5:03 NextJS Setup\n6:15 DaisyUI\n7:00 Connecting to WordPress\n12:17 Tailwind CSS Setup\n13:02 Dark Theme Toggler\n17:51 Next steps\n18:12 Outro\n\nLINKS 🔗\n► https://github.com/thehashton/cb-next-wp-blog\n► https://github.com/vercel/next.js/tree/canary/examples/cms-wordpress\n\n💬 Join us on our discord here:\n► https://discord.gg/wqZrVkeMzX\n\nVisit our website:\n► https://www.curiousbyte.dev\n\nFOLLOW  ✅\n► https://twitter.com/TheHashton\n► https://twitter.com/curious_byte\n\nSUPPORT THE CHANNEL ❤️\n► https://www.buymeacoffee.com/curiousbyte\n\n#frontend #webdev #developer #javascript #typescript #webdevelopment #nextjs #wordpress #blog  #tailwindcss #daisyui #vercel"
+        "description": "Learn how to build a Next.js, Headless WordPress Blog with Tailwind CSS, Daisy UI, and Vercel in this step-by-step tutorial. Discover the power of headless WordPress, the lightning-fast performance of Next.js, and the flexibility of Tailwind CSS and Daisy UI for stunning visual design. Fetch data from WordPress, build dynamic pages and deploy your blog with Vercel. Perfect for beginners and experienced developers looking to create modern, high-performance blogs. Watch now and start building your dream blog today!\n\nTutorials aren’t always enough to get you into front end career. Head to our website and apply for a job guarantee and work with me directly: \nhttps://www.learnfrontendnow.com/?el=ytheadlesswordpress1\n\nWhat you will get:\n$70,000 job guarantee\nUnlimited one to one live coaching with me\nApply for you - once you are ready and have learned the skills our coaches will apply for you\nBeginner friendly, no experience or degree needed\n\nStill not sure? Ask me directly on Instagram to see how I can help you https://www.instagram.com/thehashton/?el=IGYT\n\n0:00 Intro\n1:47 WordPress Backend\n5:03 NextJS Setup\n6:15 DaisyUI\n7:00 Connecting to WordPress\n12:17 Tailwind CSS Setup\n13:02 Dark Theme Toggler\n17:51 Next steps\n18:12 Outro\n\nLINKS 🔗\n► https://github.com/thehashton/cb-next-wp-blog\n► https://github.com/vercel/next.js/tree/canary/examples/cms-wordpress\n\nFOLLOW  ✅\n► https://tiktok.com/@thehashton\n\n#frontend #webdev #developer #javascript #typescript #webdevelopment #nextjs #wordpress #blog  #tailwindcss #daisyui #vercel"
       },
       "defaultAudioLanguage": "en-GB"
     },
@@ -5788,13 +5788,13 @@
   },
   {
     "kind": "youtube#video",
-    "etag": "5sr95UEIrZ-XR1Xped5jsIMyKGc",
+    "etag": "7WYfDYo5CQE98bz0n7pVYf3Eftw",
     "id": "v3QJAdVE-7Q",
     "snippet": {
       "publishedAt": "2023-06-25T20:52:14Z",
       "channelId": "UChgP4qLeMhkcJUFMO5S05mQ",
       "title": "Build and Deploy a Next.js, Headless WordPress Blog - Tailwind CSS, DaisyUI and Vercel - 2. Styling",
-      "description": "Learn to style a NextJS, Headless WordPress blog with Tailwind CSS and Daisy UI. In this second video in the series, we use DaisyUI and Tailwind to transform everything from the header to the footer.\n\n0:00 Intro\n0:25 Tailwind CSS Cheat Sheet\n1:20 Intro & Header\n4:00 Alert component\n5:15 Hero Post\n13:37 Other posts\n20:28 Footer\n21:35 Outro\n\nFOLLOW  ✅\n► https://twitter.com/TheHashton\n► https://twitter.com/curious_byte\n\n💬 Join us on our discord here:\n► https://discord.gg/wqZrVkeMzX\n\nVisit our website:\n► https://www.curiousbyte.dev\n\nLINKS 🔗\n► https://github.com/thehashton/cb-next-wp-blog\n► https://nerdcave.com/tailwind-cheat-sheet\n► https://daisyui.com/components/\n\nSUPPORT THE CHANNEL ❤️\n► https://www.buymeacoffee.com/curiousbyte\n\n#frontend #webdev #developer #javascript #typescript #webdevelopment #nextjs #wordpress #blog  #tailwindcss #daisyui #vercel",
+      "description": "Learn to style a NextJS, Headless WordPress blog with Tailwind CSS and Daisy UI. In this second video in the series, we use DaisyUI and Tailwind to transform everything from the header to the footer.\n\nTutorials aren’t always enough to get you into front end career. Head to our website and apply for a job guarantee and work with me directly: \nhttps://www.learnfrontendnow.com/?el=ytheadlesswordpress3\n\nWhat you will get:\n$70,000 job guarantee\nUnlimited one to one live coaching with me\nApply for you - once you are ready and have learned the skills our coaches will apply for you\nBeginner friendly, no experience or degree needed\n\nStill not sure? Ask me directly on Instagram to see how I can help you https://www.instagram.com/thehashton/?el=IGYT\n\n0:00 Intro\n0:25 Tailwind CSS Cheat Sheet\n1:20 Intro & Header\n4:00 Alert component\n5:15 Hero Post\n13:37 Other posts\n20:28 Footer\n21:35 Outro\n\nFOLLOW  ✅\n► https://tiktok.com/@thehashton\n\nLINKS 🔗\n► https://github.com/thehashton/cb-next-wp-blog\n► https://nerdcave.com/tailwind-cheat-sheet\n► https://daisyui.com/components/\n\n#frontend #webdev #developer #javascript #typescript #webdevelopment #nextjs #wordpress #blog  #tailwindcss #daisyui #vercel",
       "thumbnails": {
         "default": {
           "url": "https://i.ytimg.com/vi/v3QJAdVE-7Q/default.jpg",
@@ -5848,7 +5848,7 @@
       "defaultLanguage": "en",
       "localized": {
         "title": "Build and Deploy a Next.js, Headless WordPress Blog - Tailwind CSS, DaisyUI and Vercel - 2. Styling",
-        "description": "Learn to style a NextJS, Headless WordPress blog with Tailwind CSS and Daisy UI. In this second video in the series, we use DaisyUI and Tailwind to transform everything from the header to the footer.\n\n0:00 Intro\n0:25 Tailwind CSS Cheat Sheet\n1:20 Intro & Header\n4:00 Alert component\n5:15 Hero Post\n13:37 Other posts\n20:28 Footer\n21:35 Outro\n\nFOLLOW  ✅\n► https://twitter.com/TheHashton\n► https://twitter.com/curious_byte\n\n💬 Join us on our discord here:\n► https://discord.gg/wqZrVkeMzX\n\nVisit our website:\n► https://www.curiousbyte.dev\n\nLINKS 🔗\n► https://github.com/thehashton/cb-next-wp-blog\n► https://nerdcave.com/tailwind-cheat-sheet\n► https://daisyui.com/components/\n\nSUPPORT THE CHANNEL ❤️\n► https://www.buymeacoffee.com/curiousbyte\n\n#frontend #webdev #developer #javascript #typescript #webdevelopment #nextjs #wordpress #blog  #tailwindcss #daisyui #vercel"
+        "description": "Learn to style a NextJS, Headless WordPress blog with Tailwind CSS and Daisy UI. In this second video in the series, we use DaisyUI and Tailwind to transform everything from the header to the footer.\n\nTutorials aren’t always enough to get you into front end career. Head to our website and apply for a job guarantee and work with me directly: \nhttps://www.learnfrontendnow.com/?el=ytheadlesswordpress3\n\nWhat you will get:\n$70,000 job guarantee\nUnlimited one to one live coaching with me\nApply for you - once you are ready and have learned the skills our coaches will apply for you\nBeginner friendly, no experience or degree needed\n\nStill not sure? Ask me directly on Instagram to see how I can help you https://www.instagram.com/thehashton/?el=IGYT\n\n0:00 Intro\n0:25 Tailwind CSS Cheat Sheet\n1:20 Intro & Header\n4:00 Alert component\n5:15 Hero Post\n13:37 Other posts\n20:28 Footer\n21:35 Outro\n\nFOLLOW  ✅\n► https://tiktok.com/@thehashton\n\nLINKS 🔗\n► https://github.com/thehashton/cb-next-wp-blog\n► https://nerdcave.com/tailwind-cheat-sheet\n► https://daisyui.com/components/\n\n#frontend #webdev #developer #javascript #typescript #webdevelopment #nextjs #wordpress #blog  #tailwindcss #daisyui #vercel"
       },
       "defaultAudioLanguage": "en-GB"
     },
@@ -5863,13 +5863,13 @@
   },
   {
     "kind": "youtube#video",
-    "etag": "dDHMlrCKxCobVTY40ZHb0Z4ov2M",
+    "etag": "bl19THfD6eC2SZ6kamiw1kn_lk8",
     "id": "mRvohmjna-o",
     "snippet": {
       "publishedAt": "2023-06-26T13:00:07Z",
       "channelId": "UChgP4qLeMhkcJUFMO5S05mQ",
       "title": "Build and Deploy a Next.js, Headless WordPress Blog - Tailwind CSS, DaisyUI and Vercel - 3. Deploy",
-      "description": "We deploy our NextJS WordPress blog to Vercel. Find out what's involved and how you can do the same with your NextJS headless WordPress blog.\n\n0:00 Intro\n0:33 Github repo\n2:30 Vercel deploy\n5:10 Deployed result\n6:00 Conclusion\n\nLINKS 🔗\n► https://github.com/thehashton/cb-next-wp-blog\n► https://github.com\n► https://vercel.com\n\n💬 Join us on our discord here:\n► https://discord.gg/wqZrVkeMzX\n\nVisit our website:\n► https://www.curiousbyte.dev\n\nFOLLOW  ✅\n► https://twitter.com/TheHashton\n► https://twitter.com/curious_byte\n\nSUPPORT THE CHANNEL ❤️\n► https://www.buymeacoffee.com/curiousbyte\n\n#frontend #webdev #developer #javascript #typescript #webdevelopment #vercel #nextjs #tailwindcss #daisyui #wordpress #wordpresstutorial",
+      "description": "We deploy our NextJS WordPress blog to Vercel. Find out what's involved and how you can do the same with your NextJS headless WordPress blog.\n\nTutorials aren’t always enough to get you into front end career. Head to our website and apply for a job guarantee and work with me directly: \nhttps://www.learnfrontendnow.com/?el=ytheadlesswordpress2\n\nWhat you will get:\n$70,000 job guarantee\nUnlimited one to one live coaching with me\nApply for you - once you are ready and have learned the skills our coaches will apply for you\nBeginner friendly, no experience or degree needed\n\nStill not sure? Ask me directly on Instagram to see how I can help you https://www.instagram.com/thehashton/?el=IGYT\n\n0:00 Intro\n0:33 Github repo\n2:30 Vercel deploy\n5:10 Deployed result\n6:00 Conclusion\n\nLINKS 🔗\n► https://github.com/thehashton/cb-next-wp-blog\n► https://github.com\n► https://vercel.com\n\nFOLLOW  ✅\n► https://tiktok.com/@thehashton\n\n#frontend #webdev #developer #javascript #typescript #webdevelopment #vercel #nextjs #tailwindcss #daisyui #wordpress #wordpresstutorial",
       "thumbnails": {
         "default": {
           "url": "https://i.ytimg.com/vi/mRvohmjna-o/default.jpg",
@@ -5925,7 +5925,7 @@
       "defaultLanguage": "en",
       "localized": {
         "title": "Build and Deploy a Next.js, Headless WordPress Blog - Tailwind CSS, DaisyUI and Vercel - 3. Deploy",
-        "description": "We deploy our NextJS WordPress blog to Vercel. Find out what's involved and how you can do the same with your NextJS headless WordPress blog.\n\n0:00 Intro\n0:33 Github repo\n2:30 Vercel deploy\n5:10 Deployed result\n6:00 Conclusion\n\nLINKS 🔗\n► https://github.com/thehashton/cb-next-wp-blog\n► https://github.com\n► https://vercel.com\n\n💬 Join us on our discord here:\n► https://discord.gg/wqZrVkeMzX\n\nVisit our website:\n► https://www.curiousbyte.dev\n\nFOLLOW  ✅\n► https://twitter.com/TheHashton\n► https://twitter.com/curious_byte\n\nSUPPORT THE CHANNEL ❤️\n► https://www.buymeacoffee.com/curiousbyte\n\n#frontend #webdev #developer #javascript #typescript #webdevelopment #vercel #nextjs #tailwindcss #daisyui #wordpress #wordpresstutorial"
+        "description": "We deploy our NextJS WordPress blog to Vercel. Find out what's involved and how you can do the same with your NextJS headless WordPress blog.\n\nTutorials aren’t always enough to get you into front end career. Head to our website and apply for a job guarantee and work with me directly: \nhttps://www.learnfrontendnow.com/?el=ytheadlesswordpress2\n\nWhat you will get:\n$70,000 job guarantee\nUnlimited one to one live coaching with me\nApply for you - once you are ready and have learned the skills our coaches will apply for you\nBeginner friendly, no experience or degree needed\n\nStill not sure? Ask me directly on Instagram to see how I can help you https://www.instagram.com/thehashton/?el=IGYT\n\n0:00 Intro\n0:33 Github repo\n2:30 Vercel deploy\n5:10 Deployed result\n6:00 Conclusion\n\nLINKS 🔗\n► https://github.com/thehashton/cb-next-wp-blog\n► https://github.com\n► https://vercel.com\n\nFOLLOW  ✅\n► https://tiktok.com/@thehashton\n\n#frontend #webdev #developer #javascript #typescript #webdevelopment #vercel #nextjs #tailwindcss #daisyui #wordpress #wordpresstutorial"
       },
       "defaultAudioLanguage": "en-GB"
     },
@@ -6475,7 +6475,7 @@
   },
   {
     "kind": "youtube#video",
-    "etag": "9NGYVk24ekxSmCX7WX-tAVKQCKY",
+    "etag": "oHjg46rYcXGrFLc_poRHwWUdmI8",
     "id": "ifbQ3S2bWyc",
     "snippet": {
       "publishedAt": "2023-03-07T11:00:37Z",
@@ -8109,7 +8109,7 @@
   },
   {
     "kind": "youtube#video",
-    "etag": "4_YBdnmQiTdgGkY6gbbsDwesAW4",
+    "etag": "J-EA4BXj1XvsOrmk0EriPFYrYBg",
     "id": "sFyUWHH2sVg",
     "snippet": {
       "publishedAt": "2022-06-21T14:19:08Z",
@@ -8701,87 +8701,6 @@
   },
   {
     "kind": "youtube#video",
-    "etag": "NazwxFwstj6w2mtoufQGbyJvggg",
-    "id": "ruOsJa1Kbso",
-    "snippet": {
-      "publishedAt": "2025-01-30T07:55:18Z",
-      "channelId": "UCTZwR06SMILHtZiEp9YJtRA",
-      "title": "DaisyUI: The Easiest Way to Use Tailwind CSS in React",
-      "description": "Learn how to Install daisyUI in React Project with Tailwind Css v4\n\n#tailwindcss #reactjs #daisyui\n\n🏷️Images & Source Files: \n💻 Source Code:\n🎨Design: \n\n✅ For a one-time payment of $3, gain lifetime access to all our existing and future courses (including all source codes).\n\n👉 Join Pro Membership:  \nhttps://buymeacoffee.com/aspiringdev/e/316762\n\nNote: The amount you support, will be used to purchase course materials or improve the studio (such sounds, camera, or other accessories).\n\n⚠️ N.B: If you're learning web development but can't afford to buy source code, you're in the right place. I believe in supporting passionate learners like you, and that's why I'm offering free access to my source code for educational purposes.\n\n📝 Free Source Code Request Form :  https://forms.gle/ib5APkNm46Lh66Hz5\n\n🕒 Video Chapters:: \n00:00:00 Project Intro\n00:00:51 Download Starter File & Project Setup\n\n⬇️Popular Playlists⬇️\n1. Complete MERN STACK: https://www.youtube.com/playlist?list=PLlW1xskDb97LUSanCCOObbt9Mmw8eoabr\n2. React Tutorial for Beginners: https://www.youtube.com/playlist?list=PLlW1xskDb97K0zzOL9yM8PgY7fE2ZBzZF\n3. Javascript Tutorial for Beginners: https://www.youtube.com/playlist?list=PLlW1xskDb97KNn62JfUFz-85f1x7QlzBj\n\n❤️SUBSCRIBE ► https://bit.ly/37Txw8d\n►Subscribe and hit the notification bell! ► https://bit.ly/37Txw8d\n❤️Facebook ► https://www.facebook.com/MBroMedia\n🔥don't click this link ► https://bit.ly/37Txw8d\n\n► You Can Share your Ideas In this  ❤️Comment Box❤️\n► For copyright matters please get in touch with us at: help.yourassitant@gmail.com\n\n❤️Search Me In Google ► Md Al Mamun\n \n🏷️ Related Tags: learn react js, personal portfolio website, react js crash course",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/ruOsJa1Kbso/default.jpg",
-          "width": 120,
-          "height": 90
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/ruOsJa1Kbso/mqdefault.jpg",
-          "width": 320,
-          "height": 180
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/ruOsJa1Kbso/hqdefault.jpg",
-          "width": 480,
-          "height": 360
-        },
-        "standard": {
-          "url": "https://i.ytimg.com/vi/ruOsJa1Kbso/sddefault.jpg",
-          "width": 640,
-          "height": 480
-        },
-        "maxres": {
-          "url": "https://i.ytimg.com/vi/ruOsJa1Kbso/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720
-        }
-      },
-      "channelTitle": "Md Al Mamun",
-      "tags": [
-        "How to Install and Use Daisy Ui in React js App",
-        "daisy ui theme",
-        "daisyui",
-        "daisyui examples",
-        "daisyui install",
-        "daisyui project",
-        "daisyui tailwind",
-        "daisyui tailwind tutorial",
-        "daisyui tutorial",
-        "frontend development",
-        "how to link your tailwind to react project",
-        "install daisyui",
-        "install tailwind css",
-        "md al mamun",
-        "personal portfolio website",
-        "programming",
-        "real estate website react",
-        "set up tailwind",
-        "set up tailwind project",
-        "tailwind css",
-        "tailwind setup",
-        "tailwind ui",
-        "ui",
-        "ui components"
-      ],
-      "categoryId": "28",
-      "liveBroadcastContent": "none",
-      "defaultLanguage": "en",
-      "localized": {
-        "title": "DaisyUI: The Easiest Way to Use Tailwind CSS in React",
-        "description": "Learn how to Install daisyUI in React Project with Tailwind Css v4\n\n#tailwindcss #reactjs #daisyui\n\n🏷️Images & Source Files: \n💻 Source Code:\n🎨Design: \n\n✅ For a one-time payment of $3, gain lifetime access to all our existing and future courses (including all source codes).\n\n👉 Join Pro Membership:  \nhttps://buymeacoffee.com/aspiringdev/e/316762\n\nNote: The amount you support, will be used to purchase course materials or improve the studio (such sounds, camera, or other accessories).\n\n⚠️ N.B: If you're learning web development but can't afford to buy source code, you're in the right place. I believe in supporting passionate learners like you, and that's why I'm offering free access to my source code for educational purposes.\n\n📝 Free Source Code Request Form :  https://forms.gle/ib5APkNm46Lh66Hz5\n\n🕒 Video Chapters:: \n00:00:00 Project Intro\n00:00:51 Download Starter File & Project Setup\n\n⬇️Popular Playlists⬇️\n1. Complete MERN STACK: https://www.youtube.com/playlist?list=PLlW1xskDb97LUSanCCOObbt9Mmw8eoabr\n2. React Tutorial for Beginners: https://www.youtube.com/playlist?list=PLlW1xskDb97K0zzOL9yM8PgY7fE2ZBzZF\n3. Javascript Tutorial for Beginners: https://www.youtube.com/playlist?list=PLlW1xskDb97KNn62JfUFz-85f1x7QlzBj\n\n❤️SUBSCRIBE ► https://bit.ly/37Txw8d\n►Subscribe and hit the notification bell! ► https://bit.ly/37Txw8d\n❤️Facebook ► https://www.facebook.com/MBroMedia\n🔥don't click this link ► https://bit.ly/37Txw8d\n\n► You Can Share your Ideas In this  ❤️Comment Box❤️\n► For copyright matters please get in touch with us at: help.yourassitant@gmail.com\n\n❤️Search Me In Google ► Md Al Mamun\n \n🏷️ Related Tags: learn react js, personal portfolio website, react js crash course"
-      },
-      "defaultAudioLanguage": "en-IN"
-    },
-    "status": {
-      "uploadStatus": "processed",
-      "privacyStatus": "public",
-      "license": "youtube",
-      "embeddable": true,
-      "publicStatsViewable": true,
-      "madeForKids": false
-    }
-  },
-  {
-    "kind": "youtube#video",
     "etag": "L2QEHv069O6Ib2EhnQpfJ8DUdMk",
     "id": "Z2Kwo5aecVk",
     "snippet": {
@@ -9279,7 +9198,7 @@
   },
   {
     "kind": "youtube#video",
-    "etag": "B6Y7wjVD9C8wdwZEKzaFOJrDbWk",
+    "etag": "hCmiq2lMbQhR7mjeOqKelnL32tk",
     "id": "cnBUkbTcMak",
     "snippet": {
       "publishedAt": "2025-04-04T16:39:11Z",
