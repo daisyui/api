@@ -8,8 +8,8 @@ productOrder:
   - saas-landingpage
   - blog-template
   - documentation-template
-  - mobile-app-landingpage
   - auth-template
+  - mobile-app-landingpage
 
 tech:
   all: All

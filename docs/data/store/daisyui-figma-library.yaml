@@ -1,4 +1,4 @@
-title: Official daisyUI Figma Library 2.0
+title: Official daisyUI Figma Library
 # buy_now_url: "https://daisyui.lemonsqueezy.com/checkout/buy/1aa19ca5-c3db-4438-9a33-434cd72ff07f"
 # ref: 8XWm0
 # params: desc=0
@@ -6,10 +6,8 @@ price: 4900
 from_price: 4900
 to_price: 39900
 created_at: 2024-12-03
-updated_at: 2025-08-02
+updated_at: 2025-11-28
 desc: |-
-  🎉 New version is available!
-
   **Available in 3 plans**, Including:
     - Documentation and step by step tutorial for everything
     - All daisyUI components (61+)
@@ -126,6 +124,12 @@ faq:
     A: Watch <a class="link" target="_blank"
       href="https://www.youtube.com/watch?v=deKeiqox__U&list=PLFo3F8-aSE4t95dTsbeMZrEhb3pwJ1MKX&index=4">this video</a>
 changelog:
+  - version: 2.0.1
+    changes:
+      - Fixed Icon slot (that allows you to control icon size when nested inside another component)
+      - Fixed "hide from publishing" for variable main/color/primary/primary
+      - Fixed text styles lineHeight and vertical trim
+      - Fixed CARD component preferred value to nested instance card / content
   - version: 2.0
     changes:
       - Major update for daisyUI 5
