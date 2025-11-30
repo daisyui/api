@@ -280,7 +280,7 @@
   },
   {
     "kind": "youtube#video",
-    "etag": "e_TPRjXXijGCBRNGblzUEUiiBlo",
+    "etag": "J1CkeoWEnDkBysLb6Sttm0SEnXc",
     "id": "tZbOO97urWs",
     "snippet": {
       "publishedAt": "2023-05-21T21:51:04Z",
@@ -390,7 +390,7 @@
   },
   {
     "kind": "youtube#video",
-    "etag": "X0hxeOFhTsk5CQFgC31gEKdR5rU",
+    "etag": "bcPAQkQzZfMdPWH_w9ZF8fOHh1U",
     "id": "40cerDJS1V0",
     "snippet": {
       "publishedAt": "2025-04-11T08:07:50Z",
@@ -1794,7 +1794,7 @@
       "publishedAt": "2024-06-13T09:51:44Z",
       "channelId": "UClxoKqEHpCA2xEdF0p0y5aw",
       "title": "Master DaisyUI Customization: A Complete Guide",
-      "description": "Complete guide on customizing DaisyUI with any React project. Learn how to install and use DaisyUI, customize components, and create your own themes.\n\nHighlights\n�� Customize DaisyUI components and themes in your React project.\n💡 Use the “data-theme” property to apply different themes to specific components or elements.\n🌈 Customize colors, animations, borders, and other styles using DaisyUI’s default options.\n🛠️ Leverage the power of Tailwind CSS and DaisyUI together by using prefixes.\n🎨 Create your own themes and customize the default options to match your project’s style guide.\n\n\nKey Insights\n📚 DaisyUI offers a complete guide for customizing components, themes, and styles in React projects. This allows developers to create unique and personalized designs.\n⚙️ By using the “data-theme” property, developers can apply different themes to specific components or elements, providing flexibility in design.\n🎨 DaisyUI provides default options for colors, animations, borders, and more, allowing developers to easily customize the look and feel of their project.\n🛠️ By using prefixes, developers can use DaisyUI and Tailwind CSS together, avoiding conflicts and creating a cohesive design system.\n🌈 Creating custom themes and adjusting the default options allows developers to match their project’s style guide and create a consistent user experience.\n📚 DaisyUI’s documentation provides detailed instructions and examples for customizing components, themes, and styles, making it easy for developers to implement these features in their projects.\n💡 The ability to customize colors, animations, borders, and other styles offers developers the flexibility to create visually appealing and unique designs.\n\n\n======= ignore this =======\nDaisyUI,DaisyUI tutorial,DaisyUI customization,DaisyUI full tutorial,DaisyUI masterclass,CSS framework,web design,frontend development,responsive design,UI customization,DaisyUI examples,DaisyUI themes,web development tutorial,UI design,beginner tutorial,expert tutorial,web design tips,DaisyUI components,CSS customization,theming,utility classes,rakibulhashanrabbi,Learn DaisyUI,vite,react vite daisy,web development,tailwind css tutorial",
+      "description": "Complete guide on customizing DaisyUI with any React project. Learn how to install and use DaisyUI, customize components, and create your own themes.\n\nHighlights\n🎯 Customize DaisyUI components and themes in your React project.\n💡 Use the “data-theme” property to apply different themes to specific components or elements.\n🌈 Customize colors, animations, borders, and other styles using DaisyUI’s default options.\n🛠️ Leverage the power of Tailwind CSS and DaisyUI together by using prefixes.\n🎨 Create your own themes and customize the default options to match your project’s style guide.\n\n\nKey Insights\n📚 DaisyUI offers a complete guide for customizing components, themes, and styles in React projects. This allows developers to create unique and personalized designs.\n⚙️ By using the “data-theme” property, developers can apply different themes to specific components or elements, providing flexibility in design.\n🎨 DaisyUI provides default options for colors, animations, borders, and more, allowing developers to easily customize the look and feel of their project.\n🛠️ By using prefixes, developers can use DaisyUI and Tailwind CSS together, avoiding conflicts and creating a cohesive design system.\n🌈 Creating custom themes and adjusting the default options allows developers to match their project’s style guide and create a consistent user experience.\n📚 DaisyUI’s documentation provides detailed instructions and examples for customizing components, themes, and styles, making it easy for developers to implement these features in their projects.\n💡 The ability to customize colors, animations, borders, and other styles offers developers the flexibility to create visually appealing and unique designs.\n\n\n======= ignore this =======\nDaisyUI,DaisyUI tutorial,DaisyUI customization,DaisyUI full tutorial,DaisyUI masterclass,CSS framework,web design,frontend development,responsive design,UI customization,DaisyUI examples,DaisyUI themes,web development tutorial,UI design,beginner tutorial,expert tutorial,web design tips,DaisyUI components,CSS customization,theming,utility classes,rakibulhashanrabbi,Learn DaisyUI,vite,react vite daisy,web development,tailwind css tutorial",
       "thumbnails": {
         "default": {
           "url": "https://i.ytimg.com/vi/CKOH37J1EnI/default.jpg",
@@ -2261,7 +2261,7 @@
   },
   {
     "kind": "youtube#video",
-    "etag": "f_vVT4aU-BolrEnwJ_vh4QwIrdM",
+    "etag": "EiyENZ5u5hD2rDIeFonW1I5U7sA",
     "id": "B-MzDlbxHRw",
     "snippet": {
       "publishedAt": "2023-04-25T18:03:10Z",
@@ -4874,7 +4874,7 @@
       "defaultLanguage": "ar",
       "localized": {
         "title": "طريقة بناء شات بوت مثل ChatGPT ب استخدام React | Langchain | daisyUI",
-        "description": "في هذا الفيديو سنقوم ب إنشاء تطبيق مشابه ل ChatGPT ب استخدام الذكاء الاصطناعي و React , Langchain و daisyUI.\nهذا الفيديو تطبيق عملي لسلسلة دروس Langchain الموجودة في القناة على الرابط التالي:\nhttps://bit.ly/langchain-playlist\n\nلايك واشتراك اذا عجبك الفيديو وديس لايك اذا ما عجبك وقولي رأيك في التعليقات. \n\nشكراً للمتابعة."
+        "description": "في هذا الفيديو سنقوم ب إنشاء تطبيق مشابه ل ChatGPT ب استخدام الذكاء الاصطناعي و React , Langchain و daisyUI.\nهذا الفيديو تطبيق عملي لسلسلة دروس Langchain المو��ودة في القناة على الرابط التالي:\nhttps://bit.ly/langchain-playlist\n\nلايك واشتراك اذا عجبك الفيديو وديس لايك اذا ما عجبك وقولي رأيك في التعليقات. \n\nشكراً للمتابعة."
       },
       "defaultAudioLanguage": "ar"
     },
@@ -4960,7 +4960,7 @@
       "defaultLanguage": "th",
       "localized": {
         "title": "แนะนำ Tailwind และ DaisyUI (พร้อมหยิบมาแต่ง Todo List) | VF Masterclass - EP. 6",
-        "description": "☕️ สนับสนุนช่องเราด้วยการสมัครสมาชิกช่องทางนี้ได้เลย\nhttps://www.youtube.com/channel/UC3YgTINPYQmUcRt5ZcNFIZQ/join\n\nสวัสดีสู่ตอนที่ 6 ของซีรีย์ Vue Firebase masterclass ตอนนี้เราจะพาแนะนำ Tailwind และ DaisyUI กันว่ามันคืออะไร มันช่วยอำนวยความสะดวกอะไรได้บ้าง และทำไมผมถึงหยิบ technology 2 ตัวนี้มาใช้ใน project นี้ \n\nพร้อมกับเราจะนำ tailwind และ daisyUI มาแต่ง style ใน Todo list ให้สวยงามกัน\n\n** สำหรับใครที่มาดู Session นี้เลยและอยากได้ code ส่วน Todo list ให้สร้าง project ใหม่และดู code Todo List ตามเอกสารนี้ได้นะครับ\nhttps://docs.mikelopster.dev/c/vue-firebase/chapter-5/workshop\n\nหัวข้อ\n00:00 แนะนำ Session\n00:31 แนะนำ Tailwind ว่าคืออะไร\n08:04 ลง Tailwind ใน project Todo List\n11:40 แนะนำ Tailwind core concept (utility class)\n13:00 Tailwind - 1. Layout\n18:04 Tailwind - 2. Flexbox & Grid\n20:29 Tailwind - 3. Spacing\n22:55 Taliwind - 4. Sizing\n23:46 Tailwind - 5. Typography\n26:12 Tailwind - 6. Background\n27:18 Tailwind - 7. Borders\n28:29 Tailwind - 8. Effect\n29:14 Tailwind - 9. Filters\n30:11 Tailwind - 10. Table\n30:48 Tailwind - 11. Transform and Transition\n31:13 Tailwind - Handling Hover, Focus, State\n31:50 Tailwind - 12. Responsive\n33:44 การ Customize Tailwind และ Directive (group class)\n37:40 แนะนำ Daisy UI (Tailwind plugin)\n39:21 ลง DaisyUI ใน project Todo List\n40:26 DaisyUI Component - 1. Action\n42:14 DaisyUI Component - 2. Data display\n43:45 DaisyUI Component - 3. Data input\n45:08 DaisyUI Component - 4. Layout\n46:06 DaisyUI Component - 5. Navigation\n47:30 แนะนำ Theme ใน DaisyUI\n49:11 เริ่มแต่ง Todo List overview ว่าจะทำอะไรบ้าง\n49:28 แ���้ Layout ใหญ่ที่ App.vue\n51:30 แต่ง HomeView - ตาม checklist / เริ่มเรียง input ก่อน\n53:11 แต่ง HomeView - แต่ง list view ของ todo ใหม่\n57:25 แต่ง HomeView - เพิ่ม checkbox และ status 'Done' style\n1:01:42 แต่ง HomeView - เพิ่ม Loading component\n1:06:05 แต่ง HomeView - เพิ่ม tab สำหรับแยก status และ computed แยก status\n1:11:43 แต่ง EditView - adjust style หน้า input\n1:15:20 แต่ง EditView - เพิ่ม back button\n1:16:45 แต่ง EditView - เพิ่ม Loading\n1:17:10 แต่ง EditView - เพิ่ม Toast (สำหรับบอกว่า update เรียบร้อยแล้ว)\n1:19:17 Recap เราทำอะไรกันไปบ้าง\n1:20:17 เราจะทำอะไรกันต่อใน 2 Session ต่อไป\n\nสำหรับใครอยาก follow ตามเอกสาร สามารถเข้ามาอ่านกันได้เล้ยที่นี่\nhttps://docs.mikelopster.dev/c/vue-firebase/chapter-6/intro\n\nใครมีข้อสงสัยเพิ่มเติม มาพูดคุยแลกเปลี่ยนความรู้กันได้ที่\nFacebook page: https://www.facebook.com/mikelopster.dev\nWebsite: https://mikelopster.dev\n\nพิกัดของด้านหลัง : https://shope.ee/8A54c8cfkf"
+        "description": "☕️ สนับสนุนช่องเราด้วยการสมัครสมาชิกช่องทางนี้ได้เลย\nhttps://www.youtube.com/channel/UC3YgTINPYQmUcRt5ZcNFIZQ/join\n\nสวัสดีสู่ตอนที่ 6 ของซีรีย์ Vue Firebase masterclass ตอนนี้เราจะพาแนะนำ Tailwind และ DaisyUI กันว่ามันคืออะไร มันช่วยอำนวยความสะดวกอะไรได้บ้าง และทำไมผมถึงหยิบ technology 2 ตัวนี้มาใช้ใน project นี้ \n\nพร้อมกับเราจะนำ tailwind และ daisyUI มาแต่ง style ใน Todo list ให้สวยงามกัน\n\n** สำหรับใครที่มาดู Session นี้เลยและอยากได้ code ส่วน Todo list ให้สร้าง project ใหม่และดู code Todo List ตามเอกสารนี้ได้นะครับ\nhttps://docs.mikelopster.dev/c/vue-firebase/chapter-5/workshop\n\nหัวข้อ\n00:00 แนะนำ Session\n00:31 แนะนำ Tailwind ว่าคืออะไร\n08:04 ลง Tailwind ใน project Todo List\n11:40 แนะนำ Tailwind core concept (utility class)\n13:00 Tailwind - 1. Layout\n18:04 Tailwind - 2. Flexbox & Grid\n20:29 Tailwind - 3. Spacing\n22:55 Taliwind - 4. Sizing\n23:46 Tailwind - 5. Typography\n26:12 Tailwind - 6. Background\n27:18 Tailwind - 7. Borders\n28:29 Tailwind - 8. Effect\n29:14 Tailwind - 9. Filters\n30:11 Tailwind - 10. Table\n30:48 Tailwind - 11. Transform and Transition\n31:13 Tailwind - Handling Hover, Focus, State\n31:50 Tailwind - 12. Responsive\n33:44 การ Customize Tailwind และ Directive (group class)\n37:40 แนะนำ Daisy UI (Tailwind plugin)\n39:21 ลง DaisyUI ใน project Todo List\n40:26 DaisyUI Component - 1. Action\n42:14 DaisyUI Component - 2. Data display\n43:45 DaisyUI Component - 3. Data input\n45:08 DaisyUI Component - 4. Layout\n46:06 DaisyUI Component - 5. Navigation\n47:30 แนะนำ Theme ใน DaisyUI\n49:11 เริ่มแต่ง Todo List overview ว่าจะทำอะไรบ้าง\n49:28 แก้ Layout ใหญ่ที่ App.vue\n51:30 แต่ง HomeView - ตาม checklist / เริ่มเรียง input ก่อน\n53:11 แต่ง HomeView - แต่ง list view ของ todo ใหม่\n57:25 แต่ง HomeView - เพิ่ม checkbox และ status 'Done' style\n1:01:42 แต่ง HomeView - เพิ่ม Loading component\n1:06:05 แต่ง HomeView - เพิ่ม tab สำหรับแยก status และ computed แยก status\n1:11:43 แต่ง EditView - adjust style หน้า input\n1:15:20 แต่ง EditView - เพิ่ม back button\n1:16:45 แต่ง EditView - เพิ่ม Loading\n1:17:10 แต่ง EditView - เพิ่ม Toast (สำหรับบอกว่า update เรียบร้อยแล้ว)\n1:19:17 Recap เราทำอะไรกันไปบ้าง\n1:20:17 เราจะทำอะไรกันต่อใน 2 Session ต่อไป\n\nสำหรับใครอยาก follow ตามเอกสาร สามารถเข้ามาอ่านกันได้เล้ยที่นี่\nhttps://docs.mikelopster.dev/c/vue-firebase/chapter-6/intro\n\nใครมีข้อสงสัยเพิ่มเติม มาพูดคุยแลกเปลี่ยนความรู้กันได้ที่\nFacebook page: https://www.facebook.com/mikelopster.dev\nWebsite: https://mikelopster.dev\n\nพิกัดของด้านหลัง : https://shope.ee/8A54c8cfkf"
       },
       "defaultAudioLanguage": "th"
     },
@@ -5712,7 +5712,7 @@
   },
   {
     "kind": "youtube#video",
-    "etag": "hEgPzOGMnxhX7UFT2b30wF7ej8w",
+    "etag": "eg1JpsQ7yr0eWgP8jUGDxnX8yxA",
     "id": "9AydJ-cg8fU",
     "snippet": {
       "publishedAt": "2023-06-23T11:00:10Z",
@@ -9125,7 +9125,7 @@
   },
   {
     "kind": "youtube#video",
-    "etag": "6zBRjWuWjYR9sC6_ZJQalFrR1SQ",
+    "etag": "tP2DPueK63jq3InEiFTCJKxXYhc",
     "id": "PiRgbyj9dWo",
     "snippet": {
       "publishedAt": "2025-02-14T14:00:15Z",
@@ -9198,7 +9198,7 @@
   },
   {
     "kind": "youtube#video",
-    "etag": "hCmiq2lMbQhR7mjeOqKelnL32tk",
+    "etag": "o6JHbil9mgZ8Neuvl1clgbHiRu0",
     "id": "cnBUkbTcMak",
     "snippet": {
       "publishedAt": "2025-04-04T16:39:11Z",
