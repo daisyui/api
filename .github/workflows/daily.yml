@@ -1,9 +1,9 @@
 name: daily
 
 on:
-  # schedule:
-  #   # Runs at 00:00, 06:00, 12:00, and 18:00 UTC every day
-  #   - cron: "0 */6 * * *"
+  schedule:
+    # Runs at 00:00, 06:00, 12:00, and 18:00 UTC every day
+    - cron: "0 */6 * * *"
   workflow_dispatch:
 
 jobs:
@@ -21,8 +21,8 @@ jobs:
       - name: Setup bun
         uses: oven-sh/setup-bun@v1.2.2
 
-      - name: Build log
-        run: bun build_log.js
+      # - name: Build log
+      #   run: bun build_log.js
 
       - name: Create Discount
         run: bun discount_shorttime.js
