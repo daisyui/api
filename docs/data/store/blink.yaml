@@ -5,9 +5,9 @@ price: 3900
 from_price: 3900
 to_price: 11900
 created_at: 2025-03-30
-updated_at: 2025-04-02
+updated_at: 2025-12-23
 desc: |-
-  Blink is a template for agencies, companies, startups, or small businesses <br/>Available for React and Svelte
+  Blink is a multi-page template for agencies, companies, startups, or small businesses <br/>Available for React and Svelte
 
   Features:
     - Made with Tailwind CSS and daisyUI
@@ -16,36 +16,42 @@ desc: |-
     - Dark and light theme switch button
 
   Including:
-    - Landing page
+    - 4 different landing page layouts (Agency, SaaS, Startup, Marketing)
     - Pricing page and pricing table
     - Projects (portfolio) page
     - About page
     - Contact form
 media:
   - type: image
-    sm: https://img.daisyui.com/images/store/small/blink/blink-08.webp
-    lg: https://img.daisyui.com/images/store/large/blink/blink-08.webp
+    sm: https://img.daisyui.com/images/store/small/blink/blink@2-2.webp
+    lg: https://img.daisyui.com/images/store/large/blink/blink@2-2.webp
   - type: image
-    sm: https://img.daisyui.com/images/store/small/blink/blink-01.webp
-    lg: https://img.daisyui.com/images/store/large/blink/blink-01.webp
+    sm: https://img.daisyui.com/images/store/small/blink/blink@2-1.webp
+    lg: https://img.daisyui.com/images/store/large/blink/blink@2-1.webp
   - type: image
-    sm: https://img.daisyui.com/images/store/small/blink/blink-03.webp
-    lg: https://img.daisyui.com/images/store/large/blink/blink-03.webp
+    sm: https://img.daisyui.com/images/store/small/blink/blink@2-3.webp
+    lg: https://img.daisyui.com/images/store/large/blink/blink@2-3.webp
   - type: image
-    sm: https://img.daisyui.com/images/store/small/blink/blink-06.webp
-    lg: https://img.daisyui.com/images/store/large/blink/blink-06.webp
+    sm: https://img.daisyui.com/images/store/small/blink/blink@2-4.webp
+    lg: https://img.daisyui.com/images/store/large/blink/blink@2-4.webp
   - type: image
-    sm: https://img.daisyui.com/images/store/small/blink/blink-05.webp
-    lg: https://img.daisyui.com/images/store/large/blink/blink-05.webp
+    sm: https://img.daisyui.com/images/store/small/blink/blink@2-5.webp
+    lg: https://img.daisyui.com/images/store/large/blink/blink@2-5.webp
   - type: image
-    sm: https://img.daisyui.com/images/store/small/blink/blink-04.webp
-    lg: https://img.daisyui.com/images/store/large/blink/blink-04.webp
+    sm: https://img.daisyui.com/images/store/small/blink/blink@2-6.webp
+    lg: https://img.daisyui.com/images/store/large/blink/blink@2-6.webp
   - type: image
-    sm: https://img.daisyui.com/images/store/small/blink/blink-07.webp
-    lg: https://img.daisyui.com/images/store/large/blink/blink-07.webp
+    sm: https://img.daisyui.com/images/store/small/blink/blink@2-7.webp
+    lg: https://img.daisyui.com/images/store/large/blink/blink@2-7.webp
+  - type: image
+    sm: https://img.daisyui.com/images/store/small/blink/blink@2-8.webp
+    lg: https://img.daisyui.com/images/store/large/blink/blink@2-8.webp
+  - type: image
+    sm: https://img.daisyui.com/images/store/small/blink/blink@2-9.webp
+    lg: https://img.daisyui.com/images/store/large/blink/blink@2-9.webp
 links:
   license: https://api.daisyui.com/license/blink@1.txt
-  screenshot: https://img.daisyui.com/images/store/screenshots/blink.webp
+  screenshot: https://img.daisyui.com/images/store/screenshots/blink@2.webp
   preview: https://blink.daisyui.com/
 tech:
   - react
@@ -74,3 +80,9 @@ packages:
   - [Projects limit, 1, Unlimited]
   - [🛟 Support, null, null]
   - [Updates and bugfixes, true, true]
+changelog:
+  - version: 2.0
+    changes:
+      - Added 4 new landing page layouts (Agency, SaaS, Startup, Marketing)
+      - New sections, new design, new themes
+      - Bug fixes and dependency updates
