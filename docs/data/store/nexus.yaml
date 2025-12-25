@@ -1,11 +1,11 @@
-title: Nexus Dashboard 3.1
+title: Nexus Dashboard 3.2
 # buy_now_url: "https://daisyui.lemonsqueezy.com/checkout/buy/2a4d3f50-8ffd-4857-a8d8-513a66bc273a"
 # ref: Db6q2
 price: 6900
 from_price: 6900
 to_price: 49900
 created_at: 2024-04-28
-updated_at: 2025-09-21
+updated_at: 2025-12-25
 bannerTitle: Looking for a startup template too?
 banner:
   Get Nexus dashboard template + [Scalo startup template](/store/scalo/) as a bundle and save up to $99! <br/>
@@ -19,6 +19,8 @@ banner:
 #   <a class="btn btn-xs" target="_blank" rel="noopener noreferrer" href="https://daisyui.com/store/checkout?product=2ec5128f-1abc-4e3c-a55c-529ce31f08aa&aff=Db6q2">Click here for the bundle ↗︎</a>
 desc: |-
   The ultimate dashboard template
+
+  > Use code "NEXUS26" at checkout and get 26% discount on Nexus Dashboard Template until January 5th, 2026.
 
   Made with Tailwind CSS 4 and daisyUI 5
 
@@ -49,7 +51,7 @@ desc: |-
 
 
   Team and Enterprise license:
-    - includes HTML, React, Next.js, Nuxt, SvelteKit and 🆕 Laravel versions
+    - includes HTML, React, Next.js, Nuxt, SvelteKit, Laravel Blade versions + Elixir Phoenix version 🆕
     - For unlimited developers
     - For unlimited projects (Enterprise only)
 media:
@@ -78,9 +80,10 @@ quote:
   img: https://img.daisyui.com/images/profile/people/pouya-saadeghi.webp
   name: Pouya
   text:
-    - Nexus 3.1 is added with latest dependency updates.
-    - ...and 🥁 🥁 🥁
-    - Nexus is now available for Laravel! 🎉
+    - Nexus 3.2 is added with latest dependency updates.
+    - Nexus is now available for Elixir Phoenix Frameworks! 🎉
+    - Use code "NEXUS26" at checkout and get 26% discount on Nexus Dashboard Template until January 5th, 2026.
+    - Happy New Year 2026! 🥳
 packages:
   - [null, Solo License, Team License, Enterprise License]
   - [price, 6900, 12900, 49900]
@@ -123,7 +126,15 @@ links:
   license: https://api.daisyui.com/license/nexus@3.txt
   screenshot: https://img.daisyui.com/images/store/screenshots/nexus-3.webp
   preview: https://nexus.daisyui.com/
+faq:
+  - Q: I don't need all frameworks, can I buy only a specific version for a lower price?
+    A: The price is not the total of all framework versions, buying the Team or Enterprise license gives you access to all frameworks at once. This way, you will have access to all versions, you can compare the file structure and code, and choose the best framework for your project. Later on if you need to switch framework, you can easily do that without paying again. All packages will receive updates and bug fixes for all frameworks.
 changelog:
+  - version: 3.2
+    changes:
+      - Added Elixir Phoenix version
+      - Small UI improvements
+      - Bug fixes and dependency updates
   - version: 3.1
     changes:
       - Added Laravel version
