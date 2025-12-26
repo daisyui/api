@@ -124,6 +124,10 @@ faq:
     A: Watch <a class="link" target="_blank"
       href="https://www.youtube.com/watch?v=deKeiqox__U&list=PLFo3F8-aSE4t95dTsbeMZrEhb3pwJ1MKX&index=4">this video</a>
 changelog:
+  - version: 2.0.2
+    changes:
+      - Fixed Navbar template horizontal scaling
+      - Fixed hidden card content to publish
   - version: 2.0.1
     changes:
       - Fixed Icon slot (that allows you to control icon size when nested inside another component)
