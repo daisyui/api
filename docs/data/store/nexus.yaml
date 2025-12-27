@@ -101,6 +101,7 @@ packages:
   - [Nuxt version, false, true, true]
   - [SvelteKit version, false, true, true]
   - [Laravel version, false, true, true]
+  - [Phoenix version, false, true, true]
   - [⚖️ License, null, null, null]
   - [Developer seats, 1, Unlimited, Unlimited]
   - [Projects limit, 1, 1, Unlimited]
