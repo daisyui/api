@@ -31,7 +31,7 @@ tech:
 techFilters: [all, html, react, vue, svelte, astro, alpine, laravel, figma]
 
 futureProducts:
-  - Blink Template v2.0 update
+  - daisyUI Charts
   - HTML Dashboard Template v2 update
   - Figma Library v2.1 update
 
