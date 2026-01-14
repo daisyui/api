@@ -27,8 +27,23 @@ tech:
   nextjs: Next.js
   figma: Figma
   laravel: Laravel
+  phoenix: Phoenix
+  nuxtjs: Nuxt
 
-techFilters: [all, html, react, vue, svelte, astro, alpine, laravel, figma]
+techFilters:
+  [
+    all,
+    html,
+    react,
+    vue,
+    svelte,
+    astro,
+    alpine,
+    laravel,
+    phoenix,
+    nuxtjs,
+    figma,
+  ]
 
 futureProducts:
   - daisyUI Charts

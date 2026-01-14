@@ -90,6 +90,8 @@ tech:
   - svelte
   - react
   - nextjs
+  - nuxtjs
+  - laravel
   - vue
 tags:
   - nexus

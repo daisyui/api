@@ -58,7 +58,7 @@ media:
     ratio: 16/9
   - type: image
     sm: https://img.daisyui.com/images/store/small/nexus/nexus-v3-1.webp
-    lg: https://img.daisyui.com/images/store/large/nexus/nexus-v3-1.webp?v3.1
+    lg: https://img.daisyui.com/images/store/large/nexus/nexus-v3.1-1.webp
   - type: image
     sm: https://img.daisyui.com/images/store/small/nexus/nexus-v3-2.webp
     lg: https://img.daisyui.com/images/store/large/nexus/nexus-v3-2.webp
@@ -113,7 +113,9 @@ tech:
   - react
   - nextjs
   - vue
+  - nuxtjs
   - laravel
+  - phoenix
 tags:
   - nexus
   - dashboard
