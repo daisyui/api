@@ -5,7 +5,7 @@ price: 6900
 from_price: 6900
 to_price: 49900
 created_at: 2025-02-11
-updated_at: 2025-09-30
+updated_at: 2026-01-14
 bannerTitle: Looking for a dashboard template too?
 banner:
   Get Scalo startup template + [Nexus dashboard template](/store/nexus/) as a bundle and save up to $99! <br/>
@@ -44,13 +44,13 @@ desc: |-
 
 
   Team and Enterprise license:
-    - includes HTML, React, Next.js, SvelteKit and Nuxt versions
+    - includes HTML, React, Next.js, SvelteKit, Nuxt and Laravel versions
     - For unlimited developers
     - For unlimited projects (Enterprise only)
 media:
   - type: image
     sm: https://img.daisyui.com/images/store/small/scalo/main.webp
-    lg: https://img.daisyui.com/images/store/large/scalo/main.webp
+    lg: https://img.daisyui.com/images/store/large/scalo/main-v3.1.webp
   - type: image
     sm: https://img.daisyui.com/images/store/small/scalo/landings.webp
     lg: https://img.daisyui.com/images/store/large/scalo/landings.webp
@@ -78,6 +78,7 @@ packages:
   - [Next.js version, false, true, true]
   - [SvelteKit version, false, true, true]
   - [Nuxt version, false, true, true]
+  - [Laravel version, false, true, true]
   - [⚖️ License, null, null, null]
   - [Developer seats, 1, Unlimited, Unlimited]
   - [Projects limit, 1, 1, Unlimited]
@@ -102,6 +103,11 @@ links:
   screenshot: https://img.daisyui.com/images/store/screenshots/scalo.webp
   preview: https://scalo.daisyui.com/
 changelog:
+  - version: 3.1
+    changes:
+      - Laravel version added
+      - Updated Next.js to version 16
+      - Bug fixes and dependency updates
   - version: 3.0
     changes:
       - New landing page for Sales
