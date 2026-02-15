@@ -1662,7 +1662,7 @@
   },
   {
     "kind": "youtube#video",
-    "etag": "MABZg62-kgcm7F9RZ4IdRthvP2A",
+    "etag": "lelaO7aM-bD-SSnCyKRw0atogD8",
     "id": "akd7u69k27k",
     "snippet": {
       "publishedAt": "2023-11-17T15:36:38Z",
@@ -2267,7 +2267,7 @@
       "publishedAt": "2023-04-25T18:03:10Z",
       "channelId": "UCdufF4fZvB945wmUPxLlyIw",
       "title": "Dark Mode Toggle In ReactJS + TailwindCSS + DaisyUI",
-      "description": "Learn how to add a Dark Mode Toggle feature to your ReactJS + TailwindCSS + DaisyUI project.\n\nRead the Article: https://dev.to/kunalukey/how-to-add-dark-mode-toggle-in-reactjs-tailwindcss-daisyui-1af9\n\nTimestamp:-\n• 00:22 - Installation & Setup\n• 05:45 - Navbar Component\n• 07:00 - Hero Component\n• 08:10 - Toggle Button\n• 09:30 - Dark Mode Toggle Implementation\n\n⭐⭐⭐ Video Sponsored by: Famoid ⭐⭐⭐\n• Get Instagram Followers: https://famoid.com/buy-instagram-followers\n• Get TikTok Followers: https://famoid.com/buy-tiktok-followers\n• Get Facebook Page Likes: https://famoid.com/buy-facebook-fanpage-likes\n• Get YouTube Subscribers: https://famoid.com/buy-real-youtube-subscribers \n____________________________________________\n\n▶️ Follow Us On:\n\n• Facebook: https://fb.com/techlenses​​​​​​​\n• Youtube: https://youtube.com/techlenses​​​​​​​\n• Instagram: https://instagram.com/techlenses​​​​​​​\n• Twitter: https://twitter.com/tech_lenses​​​​​​​\n\n• For Business Enquiry: kunalukey32@gmail.com\n• Donate at PayPal ���: techlenses@gmail.com",
+      "description": "Learn how to add a Dark Mode Toggle feature to your ReactJS + TailwindCSS + DaisyUI project.\n\nRead the Article: https://dev.to/kunalukey/how-to-add-dark-mode-toggle-in-reactjs-tailwindcss-daisyui-1af9\n\nTimestamp:-\n• 00:22 - Installation & Setup\n• 05:45 - Navbar Component\n• 07:00 - Hero Component\n• 08:10 - Toggle Button\n• 09:30 - Dark Mode Toggle Implementation\n\n⭐⭐⭐ Video Sponsored by: Famoid ⭐⭐⭐\n• Get Instagram Followers: https://famoid.com/buy-instagram-followers\n• Get TikTok Followers: https://famoid.com/buy-tiktok-followers\n• Get Facebook Page Likes: https://famoid.com/buy-facebook-fanpage-likes\n• Get YouTube Subscribers: https://famoid.com/buy-real-youtube-subscribers \n____________________________________________\n\n▶️ Follow Us On:\n\n• Facebook: https://fb.com/techlenses​​​​​​​\n• Youtube: https://youtube.com/techlenses​​​​​​​\n• Instagram: https://instagram.com/techlenses​​​​​​​\n• Twitter: https://twitter.com/tech_lenses​​​​​​​\n\n• For Business Enquiry: kunalukey32@gmail.com\n• Donate at PayPal ❤: techlenses@gmail.com",
       "thumbnails": {
         "default": {
           "url": "https://i.ytimg.com/vi/B-MzDlbxHRw/default.jpg",
@@ -2813,7 +2813,7 @@
       "publishedAt": "2023-10-13T23:32:35Z",
       "channelId": "UCEbyC2FQmL4BMWIfvufCnIQ",
       "title": "Install and Configure DaisyUI in Next.js (Step-by-Step)",
-      "description": "Not sure how to install the DaisyUI component library in your Next.js project? In this quick tutorial, I'll show you how to get DaisyUI installed and configured in a Next.js 13 project using the command line / terminal.\n\nSetting up your Next.js project:\n\n1. Create a new Next.js project with this command: npx create-next-app@latest [project-folder-name]\n\n2. As part of the installation, choose \"Yes\" to install Tailwind CSS. Tailwind CSS is a dependency that DaisyUI needs to work properly in Next.js.\n\n3. Clean up the defaut code in your page.js file.\n\n4. Remove unused CSS styles (except the Tailwind directives at the top) from your globals.css file (see the full DaisyUI course link below if you need \nguidance on this).\n\nNow, you should be ready to follow along with the video!\n\nThe short crash course covers the basics of DaisyUI's component library, and how we can best use them together with Tailwind CSS utility classes.\n\n---\n\nFULL DaisyUI Crash Course:\nhttps://www.youtube.com/watch?v=th8OswsAq6Q\n\nDocs:\nDaisyUI - https://daisyui.com/components/\nTailwind CSS - https://v2.tailwindcss.com/docs\nNext.js - https://nextjs.org/docs\n\n\n⭐️ Hashtags ⭐️\n#NextJS #Next #React #ReactJS #MaterialUI #Bootstrap #Frontend #codingtutorials #daisyui #flowbite #css #html #npm #nodejs #npx \n\n----\n\nLIKE this video, SUBSCRIBE, and HIT the BELL ICON to stay updated on future crash courses, tutorials, and reviews!",
+      "description": "Not sure how to install the DaisyUI component library in your Next.js project? In this quick tutorial, I'll show you how to get DaisyUI installed and configured in a Next.js 13 project using the command line / terminal.\n\nSetting up your Next.js project:\n\n1. Create a new Next.js project with this command: npx create-next-app@latest [project-folder-name]\n\n2. As part of the installation, choose \"Yes\" to install Tailwind CSS. Tailwind CSS is a dependency that DaisyUI needs to work properly in Next.js.\n\n3. Clean up the defaut code in your page.js file.\n\n4. Remove unused CSS styles (except the Tailwind directives at the top) from your globals.css file (see the full DaisyUI course link below if you need \nguidance on this).\n\nNow, you should be ready to follow along with the video!\n\nThe short crash course covers the basics of DaisyUI's component library, and how we can best use them together with Tailwind CSS utility classes.\n\n---\n\nFULL DaisyUI Crash Course:\nhttps://www.youtube.com/watch?v=th8OswsAq6Q\n\nDocs:\nDaisyUI - https://daisyui.com/components/\nTailwind CSS - https://v2.tailwindcss.com/docs\nNext.js - https://nextjs.org/docs\n\n\n⭐️ Hashtags ⭐��\n#NextJS #Next #React #ReactJS #MaterialUI #Bootstrap #Frontend #codingtutorials #daisyui #flowbite #css #html #npm #nodejs #npx \n\n----\n\nLIKE this video, SUBSCRIBE, and HIT the BELL ICON to stay updated on future crash courses, tutorials, and reviews!",
       "thumbnails": {
         "default": {
           "url": "https://i.ytimg.com/vi/SDK_UKMzgyE/default.jpg",
@@ -3751,7 +3751,7 @@
   },
   {
     "kind": "youtube#video",
-    "etag": "IK81CwnZBdqXVjn8uvghOFjpkJc",
+    "etag": "iFeZBIGEfNLPX3KLMLLJoh3PVVY",
     "id": "1HzFYpmx_zs",
     "snippet": {
       "publishedAt": "2023-04-08T05:39:48Z",
@@ -4959,7 +4959,7 @@
       "liveBroadcastContent": "none",
       "defaultLanguage": "th",
       "localized": {
-        "title": "แนะนำ Tailwind และ DaisyUI (พร้อมหยิบมาแต่ง Todo List) | VF Masterclass - EP. 6",
+        "title": "แน���นำ Tailwind และ DaisyUI (พร้อมหยิบมาแต่ง Todo List) | VF Masterclass - EP. 6",
         "description": "☕️ สนับสนุนช่องเราด้วยการสมัครสมาชิกช่องทางนี้ได้เลย\nhttps://www.youtube.com/channel/UC3YgTINPYQmUcRt5ZcNFIZQ/join\n\nสวัสดีสู่ตอนที่ 6 ของซีรีย์ Vue Firebase masterclass ตอนนี้เราจะพาแนะนำ Tailwind และ DaisyUI กันว่ามันคืออะไร มันช่วยอำนวยความสะดวกอะไรได้บ้าง และทำไมผมถึงหยิบ technology 2 ตัวนี้มาใช้ใน project นี้ \n\nพร้อมกับเราจะนำ tailwind และ daisyUI มาแต่ง style ใน Todo list ให้สวยงามกัน\n\n** สำหรับใครที่มาดู Session นี้เลยและอยากได้ code ส่วน Todo list ให้สร้าง project ใหม่และดู code Todo List ตามเอกสารนี้ได้นะครับ\nhttps://docs.mikelopster.dev/c/vue-firebase/chapter-5/workshop\n\nหัวข้อ\n00:00 แนะนำ Session\n00:31 แนะนำ Tailwind ว่าคืออะไร\n08:04 ลง Tailwind ใน project Todo List\n11:40 แนะนำ Tailwind core concept (utility class)\n13:00 Tailwind - 1. Layout\n18:04 Tailwind - 2. Flexbox & Grid\n20:29 Tailwind - 3. Spacing\n22:55 Taliwind - 4. Sizing\n23:46 Tailwind - 5. Typography\n26:12 Tailwind - 6. Background\n27:18 Tailwind - 7. Borders\n28:29 Tailwind - 8. Effect\n29:14 Tailwind - 9. Filters\n30:11 Tailwind - 10. Table\n30:48 Tailwind - 11. Transform and Transition\n31:13 Tailwind - Handling Hover, Focus, State\n31:50 Tailwind - 12. Responsive\n33:44 การ Customize Tailwind และ Directive (group class)\n37:40 แนะนำ Daisy UI (Tailwind plugin)\n39:21 ลง DaisyUI ใน project Todo List\n40:26 DaisyUI Component - 1. Action\n42:14 DaisyUI Component - 2. Data display\n43:45 DaisyUI Component - 3. Data input\n45:08 DaisyUI Component - 4. Layout\n46:06 DaisyUI Component - 5. Navigation\n47:30 แนะนำ Theme ใน DaisyUI\n49:11 เริ่มแต่ง Todo List overview ว่าจะทำอะไรบ้าง\n49:28 แก้ Layout ใหญ่ที่ App.vue\n51:30 แต่ง HomeView - ตาม checklist / เริ่มเรียง input ก่อน\n53:11 แต่ง HomeView - แต่ง list view ของ todo ใหม่\n57:25 แต่ง HomeView - เพิ่ม checkbox และ status 'Done' style\n1:01:42 แต่ง HomeView - เพิ่ม Loading component\n1:06:05 แต่ง HomeView - เพิ่ม tab สำหรับแยก status และ computed แยก status\n1:11:43 แต่ง EditView - adjust style หน้า input\n1:15:20 แต่ง EditView - เพิ่ม back button\n1:16:45 แต่ง EditView - เพิ่ม Loading\n1:17:10 แต่ง EditView - เพิ่ม Toast (สำหรับบอกว่า update เรียบร้อยแล้ว)\n1:19:17 Recap เราทำอะไรกันไปบ้าง\n1:20:17 เราจะทำอะไรกันต่อใน 2 Session ต่อไป\n\nสำหรับใครอยาก follow ตามเอกสาร สามารถเข้ามาอ่านกันได้เล้ยที่นี่\nhttps://docs.mikelopster.dev/c/vue-firebase/chapter-6/intro\n\nใครมีข้อสงสัยเพิ่มเติม มาพูดคุยแลกเปลี่ยนความรู้กันได้ที่\nFacebook page: https://www.facebook.com/mikelopster.dev\nWebsite: https://mikelopster.dev\n\nพิกัดของด้านหลัง : https://shope.ee/8A54c8cfkf"
       },
       "defaultAudioLanguage": "th"
@@ -7503,7 +7503,7 @@
   },
   {
     "kind": "youtube#video",
-    "etag": "7U9SsMAQtj1RRhQNJVN9btESvoU",
+    "etag": "cNGvBwBsETXIQinqSxIWFzjE6Uk",
     "id": "2WQs7Em6dYw",
     "snippet": {
       "publishedAt": "2022-10-18T00:35:30Z",
@@ -8526,7 +8526,7 @@
   },
   {
     "kind": "youtube#video",
-    "etag": "MABZg62-kgcm7F9RZ4IdRthvP2A",
+    "etag": "lelaO7aM-bD-SSnCyKRw0atogD8",
     "id": "akd7u69k27k",
     "snippet": {
       "publishedAt": "2023-11-17T15:36:38Z",
