@@ -396,7 +396,7 @@
       "publishedAt": "2025-04-11T08:07:50Z",
       "channelId": "UCkwiOoCZhWh9oHaozA-o7uw",
       "title": "Build Apps 10x Faster: DaisyUI vs MUI vs Shadcn (Ultimate React UI Comparison)",
-      "description": "Want to accelerate your React app development with the ultimate UI library? ���� In this step-by-step comparison video, I'm breaking down DaisyUI, Material UI (MUI), and Shadcn UI to help you choose the best tool to supercharge your React workflow! ✨\n\nWhether you're rapidly prototyping, building enterprise-level applications, or crafting fully customizable user interfaces, selecting the right UI library is crucial for productivity and scalability—and today, you'll learn exactly how these three popular solutions stack up.\n\n📌 Timecodes:\n0:00 - Intro\n0:29 - UI Libraries overview\n3:34 - DaisyUI Explained\n5:50 - Understanding MUI\n8:37 - Shadcn UI Explained\n12:06 - Side-by-side comparison\n13:48 - Final Thoughts & Conclusion\n\nIf this video helps you out, don't forget to LIKE, SUBSCRIBE for more React insights, and let me know in the comments—what's your favorite React UI library? I'd love to know! 🚀💡\n\n#React #DaisyUI #MaterialUI #ShadcnUI #FrontendDevelopment #ReactTutorial #WebDevelopment #UIDesign",
+      "description": "Want to accelerate your React app development with the ultimate UI library? 🚀 In this step-by-step comparison video, I'm breaking down DaisyUI, Material UI (MUI), and Shadcn UI to help you choose the best tool to supercharge your React workflow! ✨\n\nWhether you're rapidly prototyping, building enterprise-level applications, or crafting fully customizable user interfaces, selecting the right UI library is crucial for productivity and scalability—and today, you'll learn exactly how these three popular solutions stack up.\n\n📌 Timecodes:\n0:00 - Intro\n0:29 - UI Libraries overview\n3:34 - DaisyUI Explained\n5:50 - Understanding MUI\n8:37 - Shadcn UI Explained\n12:06 - Side-by-side comparison\n13:48 - Final Thoughts & Conclusion\n\nIf this video helps you out, don't forget to LIKE, SUBSCRIBE for more React insights, and let me know in the comments—what's your favorite React UI library? I'd love to know! 🚀💡\n\n#React #DaisyUI #MaterialUI #ShadcnUI #FrontendDevelopment #ReactTutorial #WebDevelopment #UIDesign",
       "thumbnails": {
         "default": {
           "url": "https://i.ytimg.com/vi/40cerDJS1V0/default.jpg",
@@ -1586,7 +1586,7 @@
   },
   {
     "kind": "youtube#video",
-    "etag": "Zp9MZhsTKdQRApm_xq8uWjOW8OM",
+    "etag": "2fYActbLPCQncqBtrgXSh5y5jZ4",
     "id": "PctfrkRo8Fg",
     "snippet": {
       "publishedAt": "2023-11-22T13:00:19Z",
@@ -1702,7 +1702,7 @@
       "defaultLanguage": "en",
       "localized": {
         "title": "Django, HTMX and DaisyUI Components - Building a To-Do List App",
-        "description": "In this video, we'll build a to-do list app with Django, HTMX and DaisyUI.\n\nStarter Code: https://github.com/bugbytes-io/htmx-django-daisyui\n\nWe'll walk through adding the model and form classes, as well as styling page elements with DaisyUI component classes.\n\nWe'll then learn how to submit data using HTMX, and how to update the DOM in response to those requests, again with DaisyUI components responsible for the styles. We will see how to mark to-dos as completed, and how to remove them from the database and front-end (with help from custom HTMX events).\n\n📌 𝗖𝗵𝗮𝗽𝘁𝗲𝗿𝘀:\n00:00 Intro\n00:43 DaisyUI\n02:12 Creating Todo Django model class\n04:06 Fetching and Displaying Todos\n06:57 Adding TailwindCSS & DaisyUI\n10:12 Adding DaisyUI Table component\n11:21 Create Todo form class\n13:29 Improving form styles with django-widget-tweaks\n16:42 Adding HTMX to project\n20:49 Creating partial template with django-template-partials\n29:05 Marking to-do complete with HTMX\n33:54 Deleting Todo with HTMX\n\n☕️ 𝗕𝘂𝘆 𝗺𝗲 𝗮 𝗰𝗼𝗳𝗳𝗲𝗲:\nTo support the channel and encourage new videos, please consider buying me a coffee here:\nhttps://ko-fi.com/bugbytes\n\n▶️ Full Playlist:\nhttps://www.youtube.com/playlist?list=PL-2EBeDYMIbRByZ8GXhcnQSuv2dog4JxY\n\n𝗦𝗼����𝗶𝗮𝗹 𝗠𝗲𝗱𝗶𝗮:\n📖 Blog: https://bugbytes.io/posts/\n👾 Github: https://github.com/bugbytes-io/htmx-django-daisyui\n🐦 Twitter: https://twitter.com/bugbytesio\n\n📚 𝗙𝘂𝗿𝘁𝗵𝗲𝗿 𝗿𝗲𝗮𝗱𝗶𝗻𝗴 𝗮𝗻𝗱 𝗶𝗻𝗳𝗼𝗿𝗺𝗮𝘁𝗶𝗼𝗻:\nStarter Code: https://github.com/bugbytes-io/htmx-django-daisyui\nDaisyUI: https://daisyui.com/\nDaisyUI Install: https://daisyui.com/docs/cdn/\nDaisyUI Button: https://daisyui.com/components/button/\nDaisyUI Table: https://daisyui.com/components/table/\ndjango-widget-tweaks: https://pypi.org/project/django-widget-tweaks/\nHTMX: https://htmx.org/docs/#installing\nDjango-template-partials: https://github.com/carltongibson/django-template-partials\nAdding CSRF Token to HTMX Request: https://django-htmx.readthedocs.io/en/latest/tips.html\n \n#python #django #webdevelopment #htmx"
+        "description": "In this video, we'll build a to-do list app with Django, HTMX and DaisyUI.\n\nStarter Code: https://github.com/bugbytes-io/htmx-django-daisyui\n\nWe'll walk through adding the model and form classes, as well as styling page elements with DaisyUI component classes.\n\nWe'll then learn how to submit data using HTMX, and how to update the DOM in response to those requests, again with DaisyUI components responsible for the styles. We will see how to mark to-dos as completed, and how to remove them from the database and front-end (with help from custom HTMX events).\n\n📌 𝗖𝗵𝗮𝗽𝘁𝗲𝗿𝘀:\n00:00 Intro\n00:43 DaisyUI\n02:12 Creating Todo Django model class\n04:06 Fetching and Displaying Todos\n06:57 Adding TailwindCSS & DaisyUI\n10:12 Adding DaisyUI Table component\n11:21 Create Todo form class\n13:29 Improving form styles with django-widget-tweaks\n16:42 Adding HTMX to project\n20:49 Creating partial template with django-template-partials\n29:05 Marking to-do complete with HTMX\n33:54 Deleting Todo with HTMX\n\n☕️ 𝗕𝘂𝘆 𝗺𝗲 𝗮 𝗰𝗼𝗳𝗳𝗲𝗲:\nTo support the channel and encourage new videos, please consider buying me a coffee here:\nhttps://ko-fi.com/bugbytes\n\n▶️ Full Playlist:\nhttps://www.youtube.com/playlist?list=PL-2EBeDYMIbRByZ8GXhcnQSuv2dog4JxY\n\n𝗦𝗼𝗰𝗶𝗮𝗹 𝗠𝗲𝗱𝗶𝗮:\n📖 Blog: https://bugbytes.io/posts/\n👾 Github: https://github.com/bugbytes-io/htmx-django-daisyui\n🐦 Twitter: https://twitter.com/bugbytesio\n\n📚 𝗙𝘂𝗿𝘁𝗵𝗲𝗿 𝗿𝗲𝗮𝗱𝗶𝗻𝗴 𝗮𝗻𝗱 𝗶𝗻𝗳𝗼𝗿𝗺𝗮𝘁𝗶𝗼𝗻:\nStarter Code: https://github.com/bugbytes-io/htmx-django-daisyui\nDaisyUI: https://daisyui.com/\nDaisyUI Install: https://daisyui.com/docs/cdn/\nDaisyUI Button: https://daisyui.com/components/button/\nDaisyUI Table: https://daisyui.com/components/table/\ndjango-widget-tweaks: https://pypi.org/project/django-widget-tweaks/\nHTMX: https://htmx.org/docs/#installing\nDjango-template-partials: https://github.com/carltongibson/django-template-partials\nAdding CSRF Token to HTMX Request: https://django-htmx.readthedocs.io/en/latest/tips.html\n \n#python #django #webdevelopment #htmx"
       },
       "defaultAudioLanguage": "en-GB"
     },
@@ -2935,7 +2935,7 @@
   },
   {
     "kind": "youtube#video",
-    "etag": "Qg8w0uW_KMXfURX7lA0tcAgyjSk",
+    "etag": "WGREoSZfu6bngRbif9xv3TadE6k",
     "id": "K4ziF0MhbLc",
     "snippet": {
       "publishedAt": "2023-10-05T15:26:35Z",
@@ -3424,7 +3424,7 @@
       "liveBroadcastContent": "none",
       "defaultLanguage": "th",
       "localized": {
-        "title": "DaisyUI ปลั๊กอินสุดเทพที่จะทำให้การเขียน TailwindCSS ง่ายขึ้นและสบายขึ้นมากๆ 👨‍💻💯",
+        "title": "DaisyUI ปลั๊กอินสุดเทพที่จะทำให้การเขียน TailwindCSS ง่ายข���้นและสบายขึ้นมากๆ 👨‍💻💯",
         "description": "สมัครเป็นสมาชิกของช่องนี้เพื่อเป็นกำลังใจให้ผมผลิตเนื้อหาความรู้ดีๆ\nhttps://www.youtube.com/channel/UCeKE6wQHTt5JpS9_RsH4hrg/join\n\nContacts\n🕶 FB (Fanpage) : https://www.facebook.com/patiphannn/\n📧 Business : misterpatipan@gmail.com\n\nHost Atom จดโดเมน-เช่าโฮสต์ ราคาประหยัด\n🔗 https://support.hostatom.com/aff.php?aff=948\n\nWebsite คอร์สเรียนออนไลน์\n🔗 https://milerdevpro.com/\n\nDonate & Supporting me \n🙏🏻 KBANK กสิกร : 009-3-555-821 ปฏิภาณ เพ็งเภา\n🙏🏻 Paypal : misterpatipan@gmail.com\n☕️ By me a coffee : https://www.buymeacoffee.com/milerdev\n\n#PatiphanPhengpao #MilerDev #PatiPhan"
       },
       "defaultAudioLanguage": "th"
@@ -3751,7 +3751,7 @@
   },
   {
     "kind": "youtube#video",
-    "etag": "iFeZBIGEfNLPX3KLMLLJoh3PVVY",
+    "etag": "0quLfHlLsaSZdsFXOkY4WLd8wYQ",
     "id": "1HzFYpmx_zs",
     "snippet": {
       "publishedAt": "2023-04-08T05:39:48Z",
@@ -5115,7 +5115,7 @@
   },
   {
     "kind": "youtube#video",
-    "etag": "WH9Txi4XnA7wcLBKcBtVm6gjJ8I",
+    "etag": "6YkAMFBioyCJdbFlkY_rC14QWeU",
     "id": "BkM6INWM1Yo",
     "snippet": {
       "publishedAt": "2023-08-29T06:00:09Z",
@@ -5464,7 +5464,7 @@
       "publishedAt": "2023-07-22T03:00:34Z",
       "channelId": "UCDSn4Ql7fuyjxsSNOws81iQ",
       "title": "เขียน TailwindCSS ให้สั้นลงด้วย DaisyUI",
-      "description": "ใครที่ใช้ TailwindCSS ไปซักพักแล้วรู้สึกว่าเอ๊ะ Class ที่เราเขียนมันยาววว ซะเหลือเกิน กว่าจะอ่านให้เก็ทแต่ละทีเล่นซะหัวหมุน มาลองรู้จักกับ DaisyUI ที่จะทำให้เพื่อนๆ เขียน TailwindCSS ให้มันสั้นลงกันเถอะ!\n\nลิงก์สอน  TailwindCSS  https://www.youtube.com/watch?v=dDf_fNbqUYM&t=21s\n\nลิงก์ DaisyUI https://daisyui.com/\n\nมาแบ่งปันความรู้ แชร์ประสบการณ์ใน Community borntoDev ได้ที่ https://discord.com/invite/wam6MYrfND\nเข้าร่วมกลุ่ม Facebook Community ได้ที่ https://www.facebook.com/groups/24251... \nสนใจจัดอบรมออฟไลน์ ดูรายละเอียดได้ที่นี่ https://www.borntodev.com/borntodev-f... \n\n▲ ติดตามช่องของเราได้ที่ : https://bit.ly/SubBorntoDev\n▲ Facebook : https://www.facebook.com/borntodev\n▲ Website : http://www.borntodev.com/\n\n🦖BorntoDev Channel คือ ช่องยูทูปที่เน้นสาระด้านเทคโนโลยี การพัฒนาโปรแกรม ไปพร้อมกับความสนุกสนาน และ รอยยิ้มเข้าไว้ด้วยกันทั้งในรูปแบบบทเรียน และ vlog เพื่อการเปลี่ยนรูปแบบการเรียนรู้ด้านการพัฒนาโปรแกรม และ เทคโนโลยีแบบเดิม ๆ ที่เป็นเรื่องเฉพาะกลุ่มให้เข้าถึง เข้าใจได้ง่ายยิ่งขึ้น โดยพัฒนาเน้นไปที่รูปแบบการนำเสนอใหม่ ๆ ที่เป็นมิตรกับทุกคน\n\n▲ กิจกรรมใน Channel BorntoDev เป็นส่วนหนึ่งในการดำเนินงานของ บริษัท บอร์นทูเดฟ จำกัด ที่เปิดรับ Partners ที่สนใจร่วมเปลี่ยนแปลงให้สังคมไทยเป็นสังคมด้านวิทยาศาสตร์ และ เทคโนโลยีมากยิ่งขึ้น หากคุณสนใจสนับสนุน และ ก้าวไปพร้อมกัน สามารถติดต่อร่วมงานได้แล้ววันนี้\n\n▲ ติดต่อโฆษณา สนับสนุน และ ร่วมงานได้ที่: support@borntoDev.com",
+      "description": "ใครท��่ใช้ TailwindCSS ไปซักพักแล้วรู้สึกว่าเอ๊ะ Class ที่เราเขียนมันยาววว ซะเหลือเกิน กว่าจะอ่านให้เก็ทแต่ละทีเล่นซะหัวหมุน มาลองรู้จักกับ DaisyUI ที่จะทำให้เพื่อนๆ เขียน TailwindCSS ให้มันสั้นลงกันเถอะ!\n\nลิงก์สอน  TailwindCSS  https://www.youtube.com/watch?v=dDf_fNbqUYM&t=21s\n\nลิงก์ DaisyUI https://daisyui.com/\n\nมาแบ่งปันความรู้ แชร์ประสบการณ์ใน Community borntoDev ได้ที่ https://discord.com/invite/wam6MYrfND\nเข้าร่วมกลุ่ม Facebook Community ได้ที่ https://www.facebook.com/groups/24251... \nสนใจจัดอบรมออฟไลน์ ดูรายละเอียดได้ที่นี่ https://www.borntodev.com/borntodev-f... \n\n▲ ติดตามช่องของเราได้ที่ : https://bit.ly/SubBorntoDev\n▲ Facebook : https://www.facebook.com/borntodev\n▲ Website : http://www.borntodev.com/\n\n🦖BorntoDev Channel คือ ช่องยูทูปที่เน้นสาระด้านเทคโนโลยี การพัฒนาโปรแกรม ไปพร้อมกับความสนุกสนาน และ รอยยิ้มเข้าไว้ด้วยกันทั้งในรูปแบบบทเรียน และ vlog เพื่อการเปลี่ยนรูปแบบการเรียนรู้ด้านการพัฒนาโปรแกรม และ เทคโนโลยีแบบเดิม ๆ ที่เป็นเรื่องเฉพาะกลุ่มให้เข้าถึง เข้าใจได้ง่ายยิ่งขึ้น โดยพัฒนาเน้นไปที่รูปแบบการนำเสนอใหม่ ๆ ที่เป็นมิตรกับทุกคน\n\n▲ กิจกรรมใน Channel BorntoDev เป็นส่วนหนึ่งในการดำเนินงานของ บริษัท บอร์นทูเดฟ จำกัด ที่เปิดรับ Partners ที่สนใจร่วมเปลี่ยนแปลงให้สังคมไทยเป็นสังคมด้านวิทยาศาสตร์ และ เทคโนโลยีมากยิ่งขึ้น หากคุณสนใจสนับสนุน และ ก้าวไปพร้อมกัน สามารถติดต่อร่วมงานได้แล้ววันนี้\n\n▲ ติดต่อโฆษณา สนับสนุน และ ร่วมงานได้ที่: support@borntoDev.com",
       "thumbnails": {
         "default": {
           "url": "https://i.ytimg.com/vi/uK5fEIiFEAI/default.jpg",
@@ -5510,7 +5510,7 @@
       "defaultLanguage": "th",
       "localized": {
         "title": "เขียน TailwindCSS ให้สั้นลงด้วย DaisyUI",
-        "description": "ใครที่ใช้ TailwindCSS ไปซักพักแล้วรู���สึกว่าเอ๊ะ Class ที่เราเขียนมันยาววว ซะเหลือเกิน กว่าจะอ่านให้เก็ทแต่ละทีเล่นซะหัวหมุน มาลองรู้จักกับ DaisyUI ที่จะทำให้เพื่อนๆ เขียน TailwindCSS ให้มันสั้นลงกันเถอะ!\n\nลิงก์สอน  TailwindCSS  https://www.youtube.com/watch?v=dDf_fNbqUYM&t=21s\n\nลิงก์ DaisyUI https://daisyui.com/\n\nมาแบ่งปันความรู้ แชร์ประสบการณ์ใน Community borntoDev ได้ที่ https://discord.com/invite/wam6MYrfND\nเข้าร่วมกลุ่ม Facebook Community ได้ที่ https://www.facebook.com/groups/24251... \nสนใจจัดอบรมออฟไลน์ ดูรายละเอียดได้ที่นี่ https://www.borntodev.com/borntodev-f... \n\n▲ ติดตามช่องของเราได้ที่ : https://bit.ly/SubBorntoDev\n▲ Facebook : https://www.facebook.com/borntodev\n▲ Website : http://www.borntodev.com/\n\n🦖BorntoDev Channel คือ ช่องยูทูปที่เน้นสาระด้านเทคโนโลยี การพัฒนาโปรแกรม ไปพร้อมกับความสนุกสนาน และ รอยยิ้มเข้าไว้ด้วยกันทั้งในรูปแบบบทเรียน และ vlog เพื่อการเปลี่ยนรูปแบบการเรียนรู้ด้านการพัฒนาโปรแกรม และ เทคโนโลยีแบบเดิม ๆ ที่เป็นเรื่องเฉพาะกลุ่มให้เข้าถึง เข้าใจได้ง่ายยิ่งขึ้น โดยพัฒนาเน้นไปที่รูปแบบการนำเสนอใหม่ ๆ ที่เป็นมิตรกับทุกคน\n\n▲ กิจกรรมใน Channel BorntoDev เป็นส่วนหนึ่งในการดำเนินงานของ บริษัท บอร์นทูเดฟ จำกัด ที่เปิดรับ Partners ที่สนใจร่วมเปลี่ยนแปลงให้สังคมไทยเป็นสังคมด้านวิทยาศาสตร์ และ เทคโนโลยีมากยิ่งขึ้น หากคุณสนใจสนับสนุน และ ก้าวไปพร้อมกัน สามารถติดต่อร่วมงานได้แล้ววันนี้\n\n▲ ติดต่อโฆษณา สนับสนุน และ ร่วมงานได้ที่: support@borntoDev.com"
+        "description": "ใครที่ใช้ TailwindCSS ไปซักพักแล้วรู้สึกว่าเอ๊ะ Class ที่เราเขียนมันยาววว ซะเหลือเกิน กว่าจะอ่านให้เก็ทแต่ละทีเล่นซะหัวหมุน มาลองรู้จักกับ DaisyUI ที่จะทำให้เพื่อนๆ เขียน TailwindCSS ให้มันสั้นลงกันเถอะ!\n\nลิงก์สอน  TailwindCSS  https://www.youtube.com/watch?v=dDf_fNbqUYM&t=21s\n\nลิงก์ DaisyUI https://daisyui.com/\n\nมาแบ่งปันความรู้ แชร์ประสบการณ์ใน Community borntoDev ได้ที่ https://discord.com/invite/wam6MYrfND\nเข้าร่วมกลุ่ม Facebook Community ได้ที่ https://www.facebook.com/groups/24251... \nสนใจจัดอบรมออฟไลน์ ดูรายละเอียดได้ที่นี่ https://www.borntodev.com/borntodev-f... \n\n▲ ติดตามช่องของเราได้ที่ : https://bit.ly/SubBorntoDev\n▲ Facebook : https://www.facebook.com/borntodev\n▲ Website : http://www.borntodev.com/\n\n🦖BorntoDev Channel คือ ช่องยูทูปที่เน้นสาระด้านเทคโนโลยี การพัฒนาโปรแกรม ไปพร้อมกับความสนุกสนาน และ รอยยิ้มเข้าไว้ด้วยกันทั้งในรูปแบบบทเรียน และ vlog เพื่อการเปลี่ยนรูปแบบการเรียนรู้ด้านการพัฒนาโปรแกรม และ เทคโนโลยีแบบเดิม ๆ ที่เป็นเรื่องเฉพาะกลุ่มให้เข้าถึง เข้าใจได้ง่ายยิ่งขึ้น โดยพัฒนาเน้นไปที่รูปแบบการนำเสนอใหม่ ๆ ที่เป็นมิตรกับทุกคน\n\n▲ กิจกรรมใน Channel BorntoDev เป็นส่วนหนึ่งในการดำเนินงานของ บริษัท บอร์นทูเดฟ จำกัด ที่เปิดรับ Partners ที่สนใจร่วมเปลี่ยนแปลงให้สังคมไทยเป็นสังคมด้านวิทยาศาสตร์ และ เทคโนโลยีมากยิ่งขึ้น หากคุณสนใจสนับสนุน และ ก้าวไปพร้อมกัน สามารถติดต่อร่วมงานได้แล้ววันนี้\n\n▲ ติดต่อโฆษณา สนับสนุน และ ร่วมงานได้ที่: support@borntoDev.com"
       },
       "defaultAudioLanguage": "th"
     },
@@ -7050,7 +7050,7 @@
   },
   {
     "kind": "youtube#video",
-    "etag": "0e15YGN2uqHeT49RUy6uzrTS-Z0",
+    "etag": "9f1RW1cG-1zSZt_hnqN_Zz1U2BE",
     "id": "jX2cS9pj4hw",
     "snippet": {
       "publishedAt": "2022-12-24T19:27:34Z",
@@ -7283,7 +7283,7 @@
   },
   {
     "kind": "youtube#video",
-    "etag": "L402KOtbGC4hy6JnZCZEbjIodcI",
+    "etag": "3YsyMKpyFusP1z2RhVs0bkoCktY",
     "id": "CDxZ_rHyiP0",
     "snippet": {
       "publishedAt": "2022-10-24T19:00:04Z",
@@ -8109,7 +8109,7 @@
   },
   {
     "kind": "youtube#video",
-    "etag": "J-EA4BXj1XvsOrmk0EriPFYrYBg",
+    "etag": "R42iC3i79wrKQONKo8uJs8ohJ2g",
     "id": "sFyUWHH2sVg",
     "snippet": {
       "publishedAt": "2022-06-21T14:19:08Z",
