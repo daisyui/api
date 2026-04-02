@@ -4,7 +4,17 @@ from_price: 3900
 to_price: 5900
 created_at: 2026-04-2
 updated_at: 2026-04-2
+bannerTitle: About Apex Charts license
+banner: This collection uses Apex Charts library for the chart integrations.
+
+
+  Big companies with more than $2M revenue would need to get a [Commercial License for Apex Charts](https://apexcharts.com/pricing/) separately.
+
+
+  Apex Chart is free to use for companies under $2M revenue.
 desc: |-
+  > 🎁 Use code **CHART30** to get 30% discount. Valid until April 12th.
+
   daisyUI Charts is a collection of chart integrations for daisyUI.
 
 
