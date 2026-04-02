@@ -26,4 +26,18 @@ The following limitations apply to the use of the Software:
 2. The Software is only authorized to be purchased from the official website at https://daisyui.com.
 3. This software uses Apex Charts integration, which has its own license. Please refer to the Apex Charts license https://github.com/apexcharts/apexcharts.js/blob/main/LICENSE for more information. Apex Charts can be used for free in personal or educational projects, or in commercial projects with less than $2M annual revenue.
 
+Packages:
+
+1. Solo Package:
+  - Only one developer can have access to the Software
+  - Can be used for multiple projects
+  - Cannot be shared with other developers
+
+2. Team Package:
+  - Multiple developers within a single organization can access the Software
+  - Can be used for multiple projects
+  - Can be used across different departments/teams within the organization
+
+
+
 THE SOFTWARE IS PROVIDED "AS IS," WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NONINFRINGEMENT. IN NO EVENT SHALL DAISYUI, POUYA SAADEGHI, THE AUTHORS, OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT, OR OTHERWISE, ARISING FROM, OUT OF, OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
