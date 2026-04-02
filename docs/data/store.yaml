@@ -1,13 +1,14 @@
 productOrder:
+  - daisyui-charts
   - nexus
-  - scalo
   - daisyui-figma-library
+  - scalo
   - html-dashboard
-  - blink
   - online-store
   - saas-landingpage
-  - blog-template
   - documentation-template
+  - blog-template
+  - blink
   - auth-template
   - mobile-app-landingpage
 
@@ -29,6 +30,7 @@ tech:
   laravel: Laravel
   phoenix: Phoenix
   nuxtjs: Nuxt
+  rails: Rails
 
 techFilters:
   [
@@ -42,6 +44,7 @@ techFilters:
     laravel,
     phoenix,
     nuxtjs,
+    rails,
     figma,
   ]
 

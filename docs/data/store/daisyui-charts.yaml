@@ -1,0 +1,67 @@
+title: daisyUI Charts
+price: 3900
+from_price: 3900
+to_price: 5900
+created_at: 2026-04-2
+updated_at: 2026-04-2
+desc: |-
+  daisyUI Charts is a collection of chart integrations for daisyUI.
+
+
+  - 39 different chart examples, easy to copy
+  - Made with daisyUI and Apex Charts
+  - Compatible with all daisyUI themes
+  - Provides code examples for React, Vue, Svelte, Vanilla JS
+  - Only one package dependency: Apex Charts (Or can be used with CDN link instead of Node package)
+  - Easy copy/paste codes, no additional config or styles needed
+  - Includes multiple examples for line charts, bar charts, area charts, column charts and pie charts.
+  - Coming soon: raidal chart, heatmap charts and radar charts
+
+media:
+  - type: image
+    sm: https://img.daisyui.com/images/store/small/daisyui-charts/daisyui-charts-1.webp
+    lg: https://img.daisyui.com/images/store/large/daisyui-charts/daisyui-charts-1.webp
+  - type: image
+    sm: https://img.daisyui.com/images/store/small/daisyui-charts/daisyui-charts-2.webp
+    lg: https://img.daisyui.com/images/store/large/daisyui-charts/daisyui-charts-2.webp
+  - type: image
+    sm: https://img.daisyui.com/images/store/small/daisyui-charts/daisyui-charts-3.webp
+    lg: https://img.daisyui.com/images/store/large/daisyui-charts/daisyui-charts-3.webp
+  - type: image
+    sm: https://img.daisyui.com/images/store/small/daisyui-charts/daisyui-charts-4.webp
+    lg: https://img.daisyui.com/images/store/large/daisyui-charts/daisyui-charts-4.webp
+links:
+  license: https://api.daisyui.com/license/daisyui-charts@1.txt
+  screenshot: https://img.daisyui.com/images/store/screenshots/daisyui-charts.webp
+tech:
+  - react
+  - svelte
+  - vite
+  - html
+tags:
+  - chart
+packages:
+  - [null, Solo License, Team License]
+  - [price, 3900, 5900]
+  - [popular, false, true]
+  - [
+      checkout,
+      "https://www.creem.io/payment/prod_6w7BbA5UVpkH2Y0RSf8cfg",
+      "https://www.creem.io/payment/prod_2OCda6p9ogQBSDmbA2Y5ou",
+    ]
+  - [Chart examples included, 39, 39]
+  - [🛠️ Frameworks, null, null]
+  - [React code, true, true]
+  - [Vue code, true, true]
+  - [Svelte code, true, true]
+  - [Vanilla JS code, true, true]
+  - [⚖️ License, null, null]
+  - [Developer seats, 1, Unlimited]
+  - [Projects limit, Unlimited, Unlimited]
+  - [🛟 Support, null, null]
+  - [Updates and bugfixes, true, true]
+changelog:
+  - version: 1.0
+    changes:
+      - 39 different chart examples
+      - Provides code examples for React, Vue, Svelte, Vanilla JS

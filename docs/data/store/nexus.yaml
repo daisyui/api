@@ -1,11 +1,11 @@
-title: Nexus Dashboard 3.2
+title: Nexus Dashboard 3.3
 # buy_now_url: "https://daisyui.lemonsqueezy.com/checkout/buy/2a4d3f50-8ffd-4857-a8d8-513a66bc273a"
 # ref: Db6q2
 price: 6900
 from_price: 6900
 to_price: 49900
 created_at: 2024-04-28
-updated_at: 2026-01-13
+updated_at: 2026-04-01
 bannerTitle: Looking for a startup template too?
 banner:
   Get Nexus dashboard template + [Scalo startup template](/store/scalo/) as a bundle and save up to $99! <br/>
@@ -49,7 +49,7 @@ desc: |-
 
 
   Team and Enterprise license:
-    - includes HTML, React, Next.js, Nuxt, SvelteKit, Laravel Blade versions + Elixir Phoenix version 🆕
+    - includes HTML, React, Next.js, Nuxt, SvelteKit, Laravel Blade, Elixir Phoenix versions + Ruby On Rails version 🆕
     - For unlimited developers
     - For unlimited projects (Enterprise only)
 media:
@@ -100,6 +100,7 @@ packages:
   - [SvelteKit version, false, true, true]
   - [Laravel version, false, true, true]
   - [Phoenix version, false, true, true]
+  - [Ruby on Rails version, false, true, true]
   - [⚖️ License, null, null, null]
   - [Developer seats, 1, Unlimited, Unlimited]
   - [Projects limit, 1, 1, Unlimited]
@@ -116,6 +117,7 @@ tech:
   - nuxtjs
   - laravel
   - phoenix
+  - rails
 tags:
   - nexus
   - dashboard
@@ -131,6 +133,10 @@ faq:
   - Q: I don't need all frameworks, can I buy only a specific version for a lower price?
     A: The price is not the total of all framework versions, buying the Team or Enterprise license gives you access to all frameworks at once. This way, you will have access to all versions, you can compare the file structure and code, and choose the best framework for your project. Later on if you need to switch framework, you can easily do that without paying again. All packages will receive updates and bug fixes for all frameworks.
 changelog:
+  - version: 3.3
+    changes:
+      - Added Ruby on Rails version
+      - Bug fixes and dependency updates
   - version: 3.2
     changes:
       - Added Elixir Phoenix version
