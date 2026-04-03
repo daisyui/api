@@ -45,6 +45,7 @@ links:
   screenshot: https://img.daisyui.com/images/store/screenshots/daisyui-charts.webp
 tech:
   - react
+  - vue
   - svelte
   - vite
   - html
