@@ -280,7 +280,7 @@
   },
   {
     "kind": "youtube#video",
-    "etag": "ZYnoXZt8BRs-1ijhjnvM_6vQmOI",
+    "etag": "cgwsyWvquty4nnZ36GDWAl3o8bY",
     "id": "tZbOO97urWs",
     "snippet": {
       "publishedAt": "2023-05-21T21:51:04Z",
@@ -730,131 +730,6 @@
       "uploadStatus": "processed",
       "privacyStatus": "public",
       "license": "youtube",
-      "embeddable": true,
-      "publicStatsViewable": true,
-      "madeForKids": false
-    }
-  },
-  {
-    "kind": "youtube#video",
-    "etag": "2Xi4O9KVsoodIsYn_dnBzrnBPoQ",
-    "id": "SfGK7vn-wjw",
-    "snippet": {
-      "publishedAt": "2025-04-06T06:20:02Z",
-      "channelId": "UCTqRqI5w_uB10Z-IBT-A_gA",
-      "title": "Building an open source marketplace with my followers! using Ruby on Rails, DaisyUI | Part 1",
-      "description": "Hey everyone I'm excited to go live and connect with my followers. I want to build some cool apps using ruby on rails and hangout and connect with my followers. Thanks for watching.\nStarted building the Marketplace at 1:09:20\n\nIf you want to work with me I just launched my website check it out now https://indigotechtutorials.com\n\nFollow me on twitch to help me get affiliate there so I can earn money from streaming https://www.twitch.tv/indigotechtutorials\n\n#rubyonrails #webdevelopment #hotwire #ruby",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/SfGK7vn-wjw/default.jpg",
-          "width": 120,
-          "height": 90
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/SfGK7vn-wjw/mqdefault.jpg",
-          "width": 320,
-          "height": 180
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/SfGK7vn-wjw/hqdefault.jpg",
-          "width": 480,
-          "height": 360
-        },
-        "standard": {
-          "url": "https://i.ytimg.com/vi/SfGK7vn-wjw/sddefault.jpg",
-          "width": 640,
-          "height": 480
-        },
-        "maxres": {
-          "url": "https://i.ytimg.com/vi/SfGK7vn-wjw/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720
-        }
-      },
-      "channelTitle": "Indigo Tech Tutorials",
-      "categoryId": "28",
-      "liveBroadcastContent": "none",
-      "defaultLanguage": "en",
-      "localized": {
-        "title": "Building an open source marketplace with my followers! using Ruby on Rails, DaisyUI | Part 1",
-        "description": "Hey everyone I'm excited to go live and connect with my followers. I want to build some cool apps using ruby on rails and hangout and connect with my followers. Thanks for watching.\nStarted building the Marketplace at 1:09:20\n\nIf you want to work with me I just launched my website check it out now https://indigotechtutorials.com\n\nFollow me on twitch to help me get affiliate there so I can earn money from streaming https://www.twitch.tv/indigotechtutorials\n\n#rubyonrails #webdevelopment #hotwire #ruby"
-      },
-      "defaultAudioLanguage": "en-US"
-    },
-    "status": {
-      "uploadStatus": "processed",
-      "privacyStatus": "public",
-      "license": "creativeCommon",
-      "embeddable": true,
-      "publicStatsViewable": true,
-      "madeForKids": false
-    }
-  },
-  {
-    "kind": "youtube#video",
-    "etag": "fA4RkXQSD8nSTVt8pgYBDPJFMTw",
-    "id": "aQA4O3Njb0w",
-    "snippet": {
-      "publishedAt": "2025-04-02T12:59:12Z",
-      "channelId": "UCTqRqI5w_uB10Z-IBT-A_gA",
-      "title": "How To Build a Social Media App With Ruby on Rails & DaisyUI",
-      "description": "In this video I show you how to build a social media app using Ruby on Rails and the DaisyUI library for frontend components. This was a really fun video to make and I hope this helps someone. Overall DaisyUI was cool but the carousels where not great.. Let me know if you want to see a part 2 and I will continue on building more functionality in this app!\n\nDownload the source code for this video 100% free on Github\nhttps://github.com/indigotechtutorials/Daisy-Social\n\n#rubyonrails #learnrubyonrails .",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/aQA4O3Njb0w/default.jpg",
-          "width": 120,
-          "height": 90
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/aQA4O3Njb0w/mqdefault.jpg",
-          "width": 320,
-          "height": 180
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/aQA4O3Njb0w/hqdefault.jpg",
-          "width": 480,
-          "height": 360
-        },
-        "standard": {
-          "url": "https://i.ytimg.com/vi/aQA4O3Njb0w/sddefault.jpg",
-          "width": 640,
-          "height": 480
-        },
-        "maxres": {
-          "url": "https://i.ytimg.com/vi/aQA4O3Njb0w/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720
-        }
-      },
-      "channelTitle": "Indigo Tech Tutorials",
-      "tags": [
-        "Web development",
-        "coding",
-        "learn to code",
-        "Ruby on Rails",
-        "fast coding",
-        "websites",
-        "mobile app development",
-        "coding tutorial",
-        "simple coding",
-        "easy coding tutorial",
-        "javascript",
-        "full stack",
-        "developers"
-      ],
-      "categoryId": "28",
-      "liveBroadcastContent": "none",
-      "defaultLanguage": "en",
-      "localized": {
-        "title": "How To Build a Social Media App With Ruby on Rails & DaisyUI",
-        "description": "In this video I show you how to build a social media app using Ruby on Rails and the DaisyUI library for frontend components. This was a really fun video to make and I hope this helps someone. Overall DaisyUI was cool but the carousels where not great.. Let me know if you want to see a part 2 and I will continue on building more functionality in this app!\n\nDownload the source code for this video 100% free on Github\nhttps://github.com/indigotechtutorials/Daisy-Social\n\n#rubyonrails #learnrubyonrails ."
-      },
-      "defaultAudioLanguage": "en"
-    },
-    "status": {
-      "uploadStatus": "processed",
-      "privacyStatus": "public",
-      "license": "creativeCommon",
       "embeddable": true,
       "publicStatsViewable": true,
       "madeForKids": false
@@ -1586,7 +1461,7 @@
   },
   {
     "kind": "youtube#video",
-    "etag": "2fYActbLPCQncqBtrgXSh5y5jZ4",
+    "etag": "NOuwT6cCuZQzMSo_zAEqwhAKN0k",
     "id": "PctfrkRo8Fg",
     "snippet": {
       "publishedAt": "2023-11-22T13:00:19Z",
@@ -3424,7 +3299,7 @@
       "liveBroadcastContent": "none",
       "defaultLanguage": "th",
       "localized": {
-        "title": "DaisyUI ปลั๊กอินสุดเทพที่จะทำให้การเขียน TailwindCSS ง่ายข���้นและสบายขึ้นมากๆ 👨‍💻💯",
+        "title": "DaisyUI ปลั๊กอินสุดเทพที่จะทำให้การเขียน TailwindCSS ง่ายขึ้นและสบายขึ้นมากๆ 👨‍💻💯",
         "description": "สมัครเป็นสมาชิกของช่องนี้เพื่อเป็นกำลังใจให้ผมผลิตเนื้อหาความรู้ดีๆ\nhttps://www.youtube.com/channel/UCeKE6wQHTt5JpS9_RsH4hrg/join\n\nContacts\n🕶 FB (Fanpage) : https://www.facebook.com/patiphannn/\n📧 Business : misterpatipan@gmail.com\n\nHost Atom จดโดเมน-เช่าโฮสต์ ราคาประหยัด\n🔗 https://support.hostatom.com/aff.php?aff=948\n\nWebsite คอร์สเรียนออนไลน์\n🔗 https://milerdevpro.com/\n\nDonate & Supporting me \n🙏🏻 KBANK กสิกร : 009-3-555-821 ปฏิภาณ เพ็งเภา\n🙏🏻 Paypal : misterpatipan@gmail.com\n☕️ By me a coffee : https://www.buymeacoffee.com/milerdev\n\n#PatiphanPhengpao #MilerDev #PatiPhan"
       },
       "defaultAudioLanguage": "th"
@@ -4376,7 +4251,7 @@
   },
   {
     "kind": "youtube#video",
-    "etag": "WNuSAifadLPJRbgpatfrlf671BA",
+    "etag": "vTd969oZVRTtqxRRnAYf1KbSC1A",
     "id": "5lF5PxBJoso",
     "snippet": {
       "publishedAt": "2022-01-15T19:09:57Z",
@@ -5464,7 +5339,7 @@
       "publishedAt": "2023-07-22T03:00:34Z",
       "channelId": "UCDSn4Ql7fuyjxsSNOws81iQ",
       "title": "เขียน TailwindCSS ให้สั้นลงด้วย DaisyUI",
-      "description": "ใครท��่ใช้ TailwindCSS ไปซักพักแล้วรู้สึกว่าเอ๊ะ Class ที่เราเขียนมันยาววว ซะเหลือเกิน กว่าจะอ่านให้เก็ทแต่ละทีเล่นซะหัวหมุน มาลองรู้จักกับ DaisyUI ที่จะทำให้เพื่อนๆ เขียน TailwindCSS ให้มันสั้นลงกันเถอะ!\n\nลิงก์สอน  TailwindCSS  https://www.youtube.com/watch?v=dDf_fNbqUYM&t=21s\n\nลิงก์ DaisyUI https://daisyui.com/\n\nมาแบ่งปันความรู้ แชร์ประสบการณ์ใน Community borntoDev ได้ที่ https://discord.com/invite/wam6MYrfND\nเข้าร่วมกลุ่ม Facebook Community ได้ที่ https://www.facebook.com/groups/24251... \nสนใจจัดอบรมออฟไลน์ ดูรายละเอียดได้ที่นี่ https://www.borntodev.com/borntodev-f... \n\n▲ ติดตามช่องของเราได้ที่ : https://bit.ly/SubBorntoDev\n▲ Facebook : https://www.facebook.com/borntodev\n▲ Website : http://www.borntodev.com/\n\n🦖BorntoDev Channel คือ ช่องยูทูปที่เน้นสาระด้านเทคโนโลยี การพัฒนาโปรแกรม ไปพร้อมกับความสนุกสนาน และ รอยยิ้มเข้าไว้ด้วยกันทั้งในรูปแบบบทเรียน และ vlog เพื่อการเปลี่ยนรูปแบบการเรียนรู้ด้านการพัฒนาโปรแกรม และ เทคโนโลยีแบบเดิม ๆ ที่เป็นเรื่องเฉพาะกลุ่มให้เข้าถึง เข้าใจได้ง่ายยิ่งขึ้น โดยพัฒนาเน้นไปที่รูปแบบการนำเสนอใหม่ ๆ ที่เป็นมิตรกับทุกคน\n\n▲ กิจกรรมใน Channel BorntoDev เป็นส่วนหนึ่งในการดำเนินงานของ บริษัท บอร์นทูเดฟ จำกัด ที่เปิดรับ Partners ที่สนใจร่วมเปลี่ยนแปลงให้สังคมไทยเป็นสังคมด้านวิทยาศาสตร์ และ เทคโนโลยีมากยิ่งขึ้น หากคุณสนใจสนับสนุน และ ก้าวไปพร้อมกัน สามารถติดต่อร่วมงานได้แล้ววันนี้\n\n▲ ติดต่อโฆษณา สนับสนุน และ ร่วมงานได้ที่: support@borntoDev.com",
+      "description": "ใครที่ใช้ TailwindCSS ไปซักพักแล้วรู้สึกว่าเอ๊ะ Class ที่เราเขียนมันยาววว ซะเหลือเกิน กว่าจะอ่านให้เก็ทแต่ละทีเล่นซะหัวหมุน มาลองรู้จักกับ DaisyUI ที่จะทำให้เพื่อนๆ เขียน TailwindCSS ให้มันสั้นลงกันเถอะ!\n\nลิงก์สอน  TailwindCSS  https://www.youtube.com/watch?v=dDf_fNbqUYM&t=21s\n\nลิงก์ DaisyUI https://daisyui.com/\n\nมาแบ่งปันความรู้ แชร์ประสบการณ์ใน Community borntoDev ได้ที่ https://discord.com/invite/wam6MYrfND\nเข้าร่วมกลุ่ม Facebook Community ได้ที่ https://www.facebook.com/groups/24251... \nสนใจจัดอบรมออฟไลน์ ดูรายละเอียดได้ที่นี่ https://www.borntodev.com/borntodev-f... \n\n▲ ติดตามช่องของเราได้ที่ : https://bit.ly/SubBorntoDev\n▲ Facebook : https://www.facebook.com/borntodev\n▲ Website : http://www.borntodev.com/\n\n🦖BorntoDev Channel คือ ช่องยูทูปที่เน้นสาระด้านเทคโนโลยี การพัฒนาโปรแกรม ไปพร้อมกับความสนุกสนาน และ รอยยิ้มเข้าไว้ด้วยกันทั้งในรูปแบบบทเรียน และ vlog เพื่อการเปลี่ยนรูปแบบการเรียนรู้ด้านการพัฒนาโปรแกรม และ เทคโนโลยีแบบเดิม ๆ ที่เป็นเรื่องเฉพาะกลุ่มให้เข้าถึง เข้าใจได้ง่ายยิ่งขึ้น โดยพัฒนาเน้นไปที่รูปแบบการนำเสนอใหม่ ๆ ที่เป็นมิตรกับทุกคน\n\n▲ กิจกรรมใน Channel BorntoDev เป็นส่วนหนึ่งในการดำเนินงานของ บริษัท บอร์นทูเดฟ จำกัด ที่เปิดรับ Partners ที่สนใจร่วมเปลี่ยนแปลงให้สังคมไทยเป็นสังคมด้านวิทยาศาสตร์ และ เทคโนโลยีมากยิ่งขึ้น หากคุณสนใจสนับสนุน และ ก้าวไปพร้อมกัน สามารถติดต่อร่วมงานได้แล้ววันนี้\n\n▲ ติดต่อโฆษณา สนับสนุน และ ร่วมงานได้ที่: support@borntoDev.com",
       "thumbnails": {
         "default": {
           "url": "https://i.ytimg.com/vi/uK5fEIiFEAI/default.jpg",
@@ -8109,7 +7984,7 @@
   },
   {
     "kind": "youtube#video",
-    "etag": "R42iC3i79wrKQONKo8uJs8ohJ2g",
+    "etag": "zYQKuacKyYF2dMKysmHIIhY82eo",
     "id": "sFyUWHH2sVg",
     "snippet": {
       "publishedAt": "2022-06-21T14:19:08Z",
