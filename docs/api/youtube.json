@@ -96,7 +96,7 @@
   },
   {
     "kind": "youtube#video",
-    "etag": "9ccqhpsEvoFxzQARL8wopwpnl08",
+    "etag": "yyNPxXFTmvAv4Wd6fjXj94ZdQT8",
     "id": "l-CygzPLrwQ",
     "snippet": {
       "publishedAt": "2025-04-01T10:15:06Z",
@@ -445,7 +445,7 @@
   },
   {
     "kind": "youtube#video",
-    "etag": "r4OaujxMAlnihqwB9zId1B86jEI",
+    "etag": "GfJJBkzXUgFNLbTqe4DEBOKh1mc",
     "id": "2pmFuqyXQCA",
     "snippet": {
       "publishedAt": "2025-04-14T05:00:02Z",
@@ -682,7 +682,7 @@
   },
   {
     "kind": "youtube#video",
-    "etag": "6wjdMcXipD_DxiMchYevyfPHP90",
+    "etag": "5-OMzqF1rhORUYxY-N6HSi5CynM",
     "id": "mJgNSN5YAMI",
     "snippet": {
       "publishedAt": "2022-02-09T17:02:29Z",
@@ -1592,7 +1592,7 @@
   },
   {
     "kind": "youtube#video",
-    "etag": "Neaf2dbjQJYUx8S2A_4UtCF8vQc",
+    "etag": "frCJ2d7cpHrVJadNtjtREiDR8NU",
     "id": "dT9XYE_YJW8",
     "snippet": {
       "publishedAt": "2024-08-13T09:17:00Z",
@@ -2416,7 +2416,7 @@
   },
   {
     "kind": "youtube#video",
-    "etag": "T_BwExNoP8TZY6tHr8LgTny6rVE",
+    "etag": "5oDMezBQW5_MAiBBEOF-Tipvgf4",
     "id": "fX3AhKuZnXc",
     "snippet": {
       "publishedAt": "2023-06-05T11:48:04Z",
@@ -2480,7 +2480,7 @@
   },
   {
     "kind": "youtube#video",
-    "etag": "j_7xeEdmWeOx3w5j3Kf1J-AP350",
+    "etag": "mCfxUPURyh-1gCbZk_0L3-_r79o",
     "id": "I78f5Atoa-Y",
     "snippet": {
       "publishedAt": "2023-05-30T14:47:05Z",
@@ -2604,7 +2604,7 @@
   },
   {
     "kind": "youtube#video",
-    "etag": "5ooif32MojhsVcbIqnlf-kz2WtY",
+    "etag": "F1vrvyXZ6648rdm6C4tkZz263Xw",
     "id": "LHDJCQMEE3M",
     "snippet": {
       "publishedAt": "2023-10-14T04:00:09Z",
@@ -3097,7 +3097,7 @@
   },
   {
     "kind": "youtube#video",
-    "etag": "SXtpqbTGJdKO_ZC5dNegjKk_Bg4",
+    "etag": "vY67LqWjQ1W4cNl3qkYb2P9E3PE",
     "id": "JN4uI4cNljE",
     "snippet": {
       "publishedAt": "2023-06-03T22:28:36Z",
@@ -4156,7 +4156,7 @@
   },
   {
     "kind": "youtube#video",
-    "etag": "A5cxlVS5UlVJwXFcV61lsXmu3Ck",
+    "etag": "BGFCwrN15N3mQTW6lu57rWaFDCE",
     "id": "uXQgJbUj3PQ",
     "snippet": {
       "publishedAt": "2021-11-18T10:18:23Z",
@@ -4251,7 +4251,7 @@
   },
   {
     "kind": "youtube#video",
-    "etag": "vTd969oZVRTtqxRRnAYf1KbSC1A",
+    "etag": "uPC5LXvN-WwyY2srN6Gx29h1bCo",
     "id": "5lF5PxBJoso",
     "snippet": {
       "publishedAt": "2022-01-15T19:09:57Z",
@@ -4764,7 +4764,7 @@
   },
   {
     "kind": "youtube#video",
-    "etag": "MKAADloeqWnv-o_gnpNt0EGg36A",
+    "etag": "rtmejXbYD1kbxmBYAPn9D13d7B0",
     "id": "1VC8ps7EI18",
     "snippet": {
       "publishedAt": "2023-09-16T02:45:00Z",
@@ -4834,8 +4834,8 @@
       "liveBroadcastContent": "none",
       "defaultLanguage": "th",
       "localized": {
-        "title": "แนะนำ Tailwind และ DaisyUI (พร้อมหยิบมาแต่ง Todo List) | VF Masterclass - EP. 6",
-        "description": "☕️ สนับสนุนช่องเราด้วยการสมัครสมาชิกช่องทางนี้ได้เลย\nhttps://www.youtube.com/channel/UC3YgTINPYQmUcRt5ZcNFIZQ/join\n\nสวัสดีสู่ตอนที่ 6 ของซีรีย์ Vue Firebase masterclass ตอนนี้เราจะพาแนะนำ Tailwind และ DaisyUI กันว่ามันคืออะไร มันช่วยอำนวยความสะดวกอะไรได้บ้าง และทำไมผมถึงหยิบ technology 2 ตัวนี้มาใช้ใน project นี้ \n\nพร้อมกับเราจะนำ tailwind และ daisyUI มาแต่ง style ใน Todo list ให้สวยงามกัน\n\n** สำหรับใครที่มาดู Session นี้เลยและอยากได้ code ส่วน Todo list ให้สร้าง project ใหม่และดู code Todo List ตามเอกสารนี้ได้นะครับ\nhttps://docs.mikelopster.dev/c/vue-firebase/chapter-5/workshop\n\nหัวข้อ\n00:00 แนะนำ Session\n00:31 แนะนำ Tailwind ว่าคืออะไร\n08:04 ลง Tailwind ใน project Todo List\n11:40 แนะนำ Tailwind core concept (utility class)\n13:00 Tailwind - 1. Layout\n18:04 Tailwind - 2. Flexbox & Grid\n20:29 Tailwind - 3. Spacing\n22:55 Taliwind - 4. Sizing\n23:46 Tailwind - 5. Typography\n26:12 Tailwind - 6. Background\n27:18 Tailwind - 7. Borders\n28:29 Tailwind - 8. Effect\n29:14 Tailwind - 9. Filters\n30:11 Tailwind - 10. Table\n30:48 Tailwind - 11. Transform and Transition\n31:13 Tailwind - Handling Hover, Focus, State\n31:50 Tailwind - 12. Responsive\n33:44 การ Customize Tailwind และ Directive (group class)\n37:40 แนะนำ Daisy UI (Tailwind plugin)\n39:21 ลง DaisyUI ใน project Todo List\n40:26 DaisyUI Component - 1. Action\n42:14 DaisyUI Component - 2. Data display\n43:45 DaisyUI Component - 3. Data input\n45:08 DaisyUI Component - 4. Layout\n46:06 DaisyUI Component - 5. Navigation\n47:30 แนะนำ Theme ใน DaisyUI\n49:11 เริ่มแต่ง Todo List overview ว่าจะทำอะไรบ้าง\n49:28 แก้ Layout ใหญ่ที่ App.vue\n51:30 แต่ง HomeView - ตาม checklist / เริ่มเรียง input ก่อน\n53:11 แต่ง HomeView - แต่ง list view ของ todo ใหม่\n57:25 แต่ง HomeView - เพิ่ม checkbox และ status 'Done' style\n1:01:42 แต่ง HomeView - เพิ่ม Loading component\n1:06:05 แต่ง HomeView - เพิ่ม tab สำหรับแยก status และ computed แยก status\n1:11:43 แต่ง EditView - adjust style หน้า input\n1:15:20 แต่ง EditView - เพิ่ม back button\n1:16:45 แต่ง EditView - เพิ่ม Loading\n1:17:10 แต่ง EditView - เพิ่ม Toast (สำหรับบอกว่า update เรียบร้อยแล้ว)\n1:19:17 Recap เราทำอะไรกันไปบ้าง\n1:20:17 เราจะทำอะไรกันต่อใน 2 Session ต่อไป\n\nสำหรับใครอยาก follow ตามเอกสาร สามารถเข้ามาอ่านกันได้เล้ยที่นี่\nhttps://docs.mikelopster.dev/c/vue-firebase/chapter-6/intro\n\nใครมีข้อสงสัยเพิ่มเติม มาพูดคุยแลกเปลี่ยนความรู้กันได้ที่\nFacebook page: https://www.facebook.com/mikelopster.dev\nWebsite: https://mikelopster.dev\n\nพิกัดของด้านหลัง : https://shope.ee/8A54c8cfkf"
+        "title": "แน���นำ Tailwind และ DaisyUI (พร้อมหยิบมาแต่ง Todo List) | VF Masterclass - EP. 6",
+        "description": "☕️ สนับสนุนช่องเราด้วยการสมัครสมาชิกช่องทางนี้ได้เลย\nhttps://www.youtube.com/channel/UC3YgTINPYQmUcRt5ZcNFIZQ/join\n\nสวัสดีสู่ตอนที่ 6 ของซีรีย์ Vue Firebase masterclass ตอนนี้เราจะพาแนะนำ Tailwind และ DaisyUI กันว่ามันคืออะไร มันช่วยอำนวยความสะดวกอะไรได้บ้าง และทำไมผมถึงหยิบ technology 2 ตัวนี้มาใช้ใน project นี้ \n\nพร้อมกับเราจะนำ tailwind และ daisyUI มาแต่ง style ใน Todo list ให้สวยงามกัน\n\n** สำหรับใครที่มาดู Session นี้เลยและอยากได้ code ส่วน Todo list ให้สร้าง project ใหม่และดู code Todo List ตามเอกสารนี้ได้นะครับ\nhttps://docs.mikelopster.dev/c/vue-firebase/chapter-5/workshop\n\nหัวข้อ\n00:00 แนะนำ Session\n00:31 แนะนำ Tailwind ว่าคืออะไร\n08:04 ลง Tailwind ใน project Todo List\n11:40 แนะนำ Tailwind core concept (utility class)\n13:00 Tailwind - 1. Layout\n18:04 Tailwind - 2. Flexbox & Grid\n20:29 Tailwind - 3. Spacing\n22:55 Taliwind - 4. Sizing\n23:46 Tailwind - 5. Typography\n26:12 Tailwind - 6. Background\n27:18 Tailwind - 7. Borders\n28:29 Tailwind - 8. Effect\n29:14 Tailwind - 9. Filters\n30:11 Tailwind - 10. Table\n30:48 Tailwind - 11. Transform and Transition\n31:13 Tailwind - Handling Hover, Focus, State\n31:50 Tailwind - 12. Responsive\n33:44 การ Customize Tailwind และ Directive (group class)\n37:40 แนะนำ Daisy UI (Tailwind plugin)\n39:21 ลง DaisyUI ใน project Todo List\n40:26 DaisyUI Component - 1. Action\n42:14 DaisyUI Component - 2. Data display\n43:45 DaisyUI Component - 3. Data input\n45:08 DaisyUI Component - 4. Layout\n46:06 DaisyUI Component - 5. Navigation\n47:30 แนะนำ Theme ใน DaisyUI\n49:11 เริ่มแต่ง Todo List overview ว่าจะทำอะไรบ้าง\n49:28 แก้ Layout ใหญ่ที่ App.vue\n51:30 แต่ง HomeView - ตาม checklist / เริ่มเรียง input ก่อน\n53:11 แต่ง HomeView - แต่ง list view ของ todo ใหม่\n57:25 แต่ง HomeView - เพ��่ม checkbox และ status 'Done' style\n1:01:42 แต่ง HomeView - เพิ่ม Loading component\n1:06:05 แต่ง HomeView - เพิ่ม tab สำหรับแยก status และ computed แยก status\n1:11:43 แต่ง EditView - adjust style หน้า input\n1:15:20 แต่ง EditView - เพิ่ม back button\n1:16:45 แต่ง EditView - เพิ่ม Loading\n1:17:10 แต่ง EditView - เพิ่ม Toast (สำหรับบอกว่า update เรียบร้อยแล้ว)\n1:19:17 Recap เราทำอะไรกันไปบ้าง\n1:20:17 เราจะทำอะไรกันต่อใน 2 Session ต่อไป\n\nสำหรับใครอยาก follow ตามเอกสาร สามารถเข้ามาอ่านกันได้เล้ยที่นี่\nhttps://docs.mikelopster.dev/c/vue-firebase/chapter-6/intro\n\nใครมีข้อสงสัยเพิ่มเติม มาพูดคุยแลกเปลี่ยนความรู้กันได้ที่\nFacebook page: https://www.facebook.com/mikelopster.dev\nWebsite: https://mikelopster.dev\n\nพิกัดของด้านหลัง : https://shope.ee/8A54c8cfkf"
       },
       "defaultAudioLanguage": "th"
     },
@@ -5196,7 +5196,7 @@
   },
   {
     "kind": "youtube#video",
-    "etag": "BAbVr9Dp997FFaXt2jE2EvitgCM",
+    "etag": "NAjmkGYARQHUUJrAenZntbwha6E",
     "id": "K5QUx6iPyfQ",
     "snippet": {
       "publishedAt": "2023-08-17T08:17:30Z",
@@ -6080,7 +6080,7 @@
   },
   {
     "kind": "youtube#video",
-    "etag": "umZ6bosnjNfO3eGMOKHkiRdJ_ZE",
+    "etag": "nXAFdCMFCEA-RilIPjH9WMXlwcM",
     "id": "2nXsvpk9rd0",
     "snippet": {
       "publishedAt": "2023-04-02T21:38:21Z",
@@ -6295,7 +6295,7 @@
   },
   {
     "kind": "youtube#video",
-    "etag": "1UutPyvWk0Y96Q7b2uNNZ95A9M8",
+    "etag": "ZqBJ1jf8RCgOnNTnDQ_48-uBKh0",
     "id": "nne_lr711Iw",
     "snippet": {
       "publishedAt": "2023-03-15T01:12:00Z",
@@ -6728,7 +6728,7 @@
   },
   {
     "kind": "youtube#video",
-    "etag": "jc0aTjM4_wjKE_vlCc3MSkPAn1I",
+    "etag": "bST9w6Tg8cfbcNWWXHRQFa3Hupw",
     "id": "HB7f_Mz4x7Y",
     "snippet": {
       "publishedAt": "2023-02-20T06:43:14Z",
@@ -6980,7 +6980,7 @@
   },
   {
     "kind": "youtube#video",
-    "etag": "gAQcIClz_4aRVwoyhcVpk26vxMQ",
+    "etag": "RLarfKg41chJU5Rv_UZ5y0glBc0",
     "id": "jlWfXcRUQ3g",
     "snippet": {
       "publishedAt": "2022-12-05T09:47:30Z",
@@ -7792,7 +7792,7 @@
   },
   {
     "kind": "youtube#video",
-    "etag": "sCmazdqpYuCQj8D_UJ5Yyts4404",
+    "etag": "QjXCdZdFWfaQbHMZiUvInOkXTKY",
     "id": "bwQvPBh3xYU",
     "snippet": {
       "publishedAt": "2022-08-24T09:26:38Z",
@@ -8039,7 +8039,7 @@
   },
   {
     "kind": "youtube#video",
-    "etag": "hHeiJC5AXf5-oupqKuTOmtYfTAw",
+    "etag": "yFECnv6xL0RKv7g_nN6OWJKz2Ts",
     "id": "YPYpPn-bY_o",
     "snippet": {
       "publishedAt": "2022-04-23T22:30:03Z",
@@ -8186,7 +8186,7 @@
   },
   {
     "kind": "youtube#video",
-    "etag": "KJQFWYSIFty-o_wQlQUcu2xWVLw",
+    "etag": "ML6FsFgDJaoazyEOve03NYf5IlA",
     "id": "r0skgZkx_AQ",
     "snippet": {
       "publishedAt": "2024-05-21T07:58:35Z",
@@ -8945,7 +8945,7 @@
   },
   {
     "kind": "youtube#video",
-    "etag": "az9qFHwueMGkiqSQVjOnYRcX2W8",
+    "etag": "kDSAmsfqpLTMAW4SZ7TjAu20LRw",
     "id": "Im_xcqRUE9o",
     "snippet": {
       "publishedAt": "2024-11-19T13:08:37Z",
@@ -9283,7 +9283,7 @@
   },
   {
     "kind": "youtube#video",
-    "etag": "TBohEHqqooX6hx0hNbbV3DIhJC8",
+    "etag": "IeAPl8AqsEYeRMbO-jODmpC4JkQ",
     "id": "6-fVLzcbvi4",
     "snippet": {
       "publishedAt": "2025-09-14T10:30:04Z",
