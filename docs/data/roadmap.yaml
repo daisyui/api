@@ -250,6 +250,8 @@
       done: true
     - title: Hover Gallery
       done: true
+    - title: Popover modal
+      done: false
     - title: Mega menu
       done: false
     - title: Pre-built CSS grid layouts
