@@ -25,8 +25,8 @@ desc: |-
 
   Including:
     - Components and blocks
-    - 36 Pages
-    - 4 Landing pages (Automation, Developer, Sales, Storage)
+    - 40 Pages
+    - 7 Landing pages (Automation, Developer, Sales, Storage, Crypto, Builder, Cloud AI)
     - 7 Pricing sections (Lifetime, Subscription, User-based & comparison-based)
     - 6 Auth pages (Login, Register, 2FA, Forgot password, Reset password, Verify)
     - Settings (Profile, Account, Notification & Manage plans)
@@ -49,14 +49,23 @@ desc: |-
     - For unlimited projects (Enterprise only)
 media:
   - type: image
-    sm: https://img.daisyui.com/images/store/small/scalo/main.webp
-    lg: https://img.daisyui.com/images/store/large/scalo/main-v3.1.webp
+    sm: https://img.daisyui.com/images/store/small/scalo/daisyui-template-scalo-4.webp
+    lg: https://img.daisyui.com/images/store/large/scalo/daisyui-template-scalo-4.webp
   - type: image
-    sm: https://img.daisyui.com/images/store/small/scalo/landings.webp
-    lg: https://img.daisyui.com/images/store/large/scalo/landings.webp
+    sm: https://img.daisyui.com/images/store/small/scalo/daisyui-template-scalo-4-responsive.webp
+    lg: https://img.daisyui.com/images/store/large/scalo/daisyui-template-scalo-4-responsive.webp
   - type: image
-    sm: https://img.daisyui.com/images/store/small/scalo/pages.webp
-    lg: https://img.daisyui.com/images/store/large/scalo/pages.webp
+    sm: https://img.daisyui.com/images/store/small/scalo/daisyui-template-scalo-4-pages.webp
+    lg: https://img.daisyui.com/images/store/large/scalo/daisyui-template-scalo-4-pages.webp
+  - type: image
+    sm: https://img.daisyui.com/images/store/small/scalo/daisyui-template-scalo-4-pricing.webp
+    lg: https://img.daisyui.com/images/store/large/scalo/daisyui-template-scalo-4-pricing.webp
+  - type: image
+    sm: https://img.daisyui.com/images/store/small/scalo/daisyui-template-scalo-4-landing-page-2.webp
+    lg: https://img.daisyui.com/images/store/large/scalo/daisyui-template-scalo-4-landing-page-2.webp
+  - type: image
+    sm: https://img.daisyui.com/images/store/small/scalo/daisyui-template-scalo-4-landing-page-1.webp
+    lg: https://img.daisyui.com/images/store/large/scalo/daisyui-template-scalo-4-landing-page-1.webp
 # quote:
 #   img: https://img.daisyui.com/images/profile/people/pouya-saadeghi.webp
 #   name: Pouya
@@ -79,6 +88,7 @@ packages:
   - [SvelteKit version, false, true, true]
   - [Nuxt version, false, true, true]
   - [Laravel version, false, true, true]
+  - [Angular version, false, true, true]
   - [⚖️ License, null, null, null]
   - [Developer seats, 1, Unlimited, Unlimited]
   - [Projects limit, 1, 1, Unlimited]
@@ -93,6 +103,7 @@ tech:
   - nuxtjs
   - laravel
   - vue
+  - angular
 tags:
   - nexus
   - dashboard
@@ -105,6 +116,12 @@ links:
   screenshot: https://img.daisyui.com/images/store/screenshots/scalo.webp
   preview: https://scalo.daisyui.com/
 changelog:
+  - version: 4.0
+    changes:
+      - New landing pages for Crypto apps
+      - New landing page for Builder apps
+      - New landing page for Cloud AI apps
+      - Bug fixes and dependency updates
   - version: 3.1
     changes:
       - Laravel version added

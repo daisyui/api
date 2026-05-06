@@ -1,8 +1,8 @@
 productOrder:
-  - daisyui-charts
   - nexus
   - daisyui-figma-library
   - scalo
+  - daisyui-charts
   - html-dashboard
   - online-store
   - saas-landingpage
