@@ -1,7 +1,7 @@
 [
   {
     "kind": "youtube#video",
-    "etag": "r_VtkSka4vk1EhppheMxFNy79RY",
+    "etag": "xJ786BkHWEMmLCwMfYhGMTW4P9A",
     "id": "DK93dqmJJYg",
     "snippet": {
       "publishedAt": "2025-04-29T19:35:50Z",
@@ -586,7 +586,7 @@
   },
   {
     "kind": "youtube#video",
-    "etag": "8r1E4b9cxze2DYNewqF4tqGRyIY",
+    "etag": "sh5GGG-OPRRo8lTgyvVc4SPhP7o",
     "id": "g12_6l53uMM",
     "snippet": {
       "publishedAt": "2024-09-17T14:00:39Z",
@@ -737,7 +737,77 @@
   },
   {
     "kind": "youtube#video",
-    "etag": "hrOQd-Mlgh76zf7EjlFm4UVUvlM",
+    "etag": "ay1Cqwn7w8IGhKSnzzumHafO77k",
+    "id": "aQA4O3Njb0w",
+    "snippet": {
+      "publishedAt": "2025-04-02T12:59:12Z",
+      "channelId": "UCTqRqI5w_uB10Z-IBT-A_gA",
+      "title": "How To Build a Social Media App With Ruby on Rails & DaisyUI",
+      "description": "In this video I show you how to build a social media app using Ruby on Rails and the DaisyUI library for frontend components. This was a really fun video to make and I hope this helps someone. Overall DaisyUI was cool but the carousels where not great.. Let me know if you want to see a part 2 and I will continue on building more functionality in this app!\n\nDownload the source code for this video 100% free on Github\nhttps://github.com/indigotechtutorials/Daisy-Social\n\n#rubyonrails #learnrubyonrails .",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/aQA4O3Njb0w/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/aQA4O3Njb0w/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/aQA4O3Njb0w/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/aQA4O3Njb0w/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/aQA4O3Njb0w/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Coding like its the 90s",
+      "tags": [
+        "Web development",
+        "coding",
+        "learn to code",
+        "Ruby on Rails",
+        "fast coding",
+        "websites",
+        "mobile app development",
+        "coding tutorial",
+        "simple coding",
+        "easy coding tutorial",
+        "javascript",
+        "full stack",
+        "developers"
+      ],
+      "categoryId": "28",
+      "liveBroadcastContent": "none",
+      "defaultLanguage": "en",
+      "localized": {
+        "title": "How To Build a Social Media App With Ruby on Rails & DaisyUI",
+        "description": "In this video I show you how to build a social media app using Ruby on Rails and the DaisyUI library for frontend components. This was a really fun video to make and I hope this helps someone. Overall DaisyUI was cool but the carousels where not great.. Let me know if you want to see a part 2 and I will continue on building more functionality in this app!\n\nDownload the source code for this video 100% free on Github\nhttps://github.com/indigotechtutorials/Daisy-Social\n\n#rubyonrails #learnrubyonrails ."
+      },
+      "defaultAudioLanguage": "en"
+    },
+    "status": {
+      "uploadStatus": "processed",
+      "privacyStatus": "public",
+      "license": "creativeCommon",
+      "embeddable": true,
+      "publicStatsViewable": true,
+      "madeForKids": false
+    }
+  },
+  {
+    "kind": "youtube#video",
+    "etag": "yfnHOABz8V9bnBeR-8f5dMiyr3k",
     "id": "3wb-hvu4y3Y",
     "snippet": {
       "publishedAt": "2025-05-30T16:00:14Z",
@@ -847,7 +917,7 @@
   },
   {
     "kind": "youtube#video",
-    "etag": "31AVLYW7fBUBY4zpd4P1cMbVJyg",
+    "etag": "zFKbw-PmVtdgZD1soXFR_WK1ZJ8",
     "id": "v4TJbutVjV8",
     "snippet": {
       "publishedAt": "2025-09-02T08:30:31Z",
@@ -909,7 +979,7 @@
   },
   {
     "kind": "youtube#video",
-    "etag": "q1scRJvN8ulUhQHTYhzNI1dAWEw",
+    "etag": "sdkxdJwFWvUvbu6t_Ihepu1erFs",
     "id": "FX7hTeB0nc4",
     "snippet": {
       "publishedAt": "2025-06-04T09:16:55Z",
@@ -1351,7 +1421,7 @@
   },
   {
     "kind": "youtube#video",
-    "etag": "mc0XRdgdvE6mfEcE_O-MqOLMRb4",
+    "etag": "aTKzWVbmdK1VnZ0Rg44Aqph1JeE",
     "id": "wOKO_tgFrnI",
     "snippet": {
       "publishedAt": "2024-10-19T22:25:31Z",
@@ -1406,7 +1476,7 @@
   },
   {
     "kind": "youtube#video",
-    "etag": "uA7TCGUI-ABKd9L8eXU5IBvXVnI",
+    "etag": "NZJVOq0vHYiWrxYIFF9f1XIWWwA",
     "id": "F2813o7AFsw",
     "snippet": {
       "publishedAt": "2023-11-29T16:46:21Z",
@@ -1461,7 +1531,7 @@
   },
   {
     "kind": "youtube#video",
-    "etag": "NOuwT6cCuZQzMSo_zAEqwhAKN0k",
+    "etag": "xYl-vksTCSSey8DxtHd_TOy8nuI",
     "id": "PctfrkRo8Fg",
     "snippet": {
       "publishedAt": "2023-11-22T13:00:19Z",
@@ -1537,7 +1607,7 @@
   },
   {
     "kind": "youtube#video",
-    "etag": "0uHHvmP_9sEn-cKW8Hh3b9GA1is",
+    "etag": "y59i_9uuNeSyRU-E1f_iDl2-P0Q",
     "id": "akd7u69k27k",
     "snippet": {
       "publishedAt": "2023-11-17T15:36:38Z",
@@ -2057,7 +2127,7 @@
   },
   {
     "kind": "youtube#video",
-    "etag": "Bkz5pg4GyG5PCqTmKZSsTbIPVnI",
+    "etag": "8-tJ6Tb897s3rINAXP6kagpdGMw",
     "id": "c7UFf1asCRE",
     "snippet": {
       "publishedAt": "2022-12-05T07:00:14Z",
@@ -2480,7 +2550,7 @@
   },
   {
     "kind": "youtube#video",
-    "etag": "XyLt6rc5DyXAXIZGmxXkqZCpPHs",
+    "etag": "AbVn6y3O163niN89bs_0F9UIxrk",
     "id": "I78f5Atoa-Y",
     "snippet": {
       "publishedAt": "2023-05-30T14:47:05Z",
@@ -2682,7 +2752,7 @@
   },
   {
     "kind": "youtube#video",
-    "etag": "NfpiJEBM2b7AHPx1I7FNQZIpNUk",
+    "etag": "ydFbyLn3tcP6AAv6me29LOFEeDM",
     "id": "SDK_UKMzgyE",
     "snippet": {
       "publishedAt": "2023-10-13T23:32:35Z",
@@ -2746,7 +2816,7 @@
   },
   {
     "kind": "youtube#video",
-    "etag": "aKvJVGChUmoRFDRS88JA6_FUCTA",
+    "etag": "RXb3YrxOINzW_Ml_103YPUNltT4",
     "id": "th8OswsAq6Q",
     "snippet": {
       "publishedAt": "2023-10-07T01:36:37Z",
@@ -2810,7 +2880,7 @@
   },
   {
     "kind": "youtube#video",
-    "etag": "WGREoSZfu6bngRbif9xv3TadE6k",
+    "etag": "ZyN_bNdExdDcvTiMQT8EaQHDk0U",
     "id": "K4ziF0MhbLc",
     "snippet": {
       "publishedAt": "2023-10-05T15:26:35Z",
@@ -4030,7 +4100,7 @@
   },
   {
     "kind": "youtube#video",
-    "etag": "YGaMwMYYhLySAc0ZB7RqAahT8bE",
+    "etag": "Oa1dsv0F1D8y5hhEEj_jwxteqE0",
     "id": "hM9fENyAquM",
     "snippet": {
       "publishedAt": "2021-10-28T13:51:00Z",
@@ -4381,7 +4451,7 @@
   },
   {
     "kind": "youtube#video",
-    "etag": "Jvr_xIrUSQIzpXIRi6znwwrxB4s",
+    "etag": "5paZ_ucHtgzPUPzywzzx-PA5wN8",
     "id": "XR1rS-CCfx0",
     "snippet": {
       "publishedAt": "2022-01-22T18:59:42Z",
@@ -4521,7 +4591,7 @@
   },
   {
     "kind": "youtube#video",
-    "etag": "COdWXrbprEH4-FafvStE65UCX3E",
+    "etag": "gzzkc1ZVI8TVbTkWhDHD2xNbTRo",
     "id": "28db3jojTgo",
     "snippet": {
       "publishedAt": "2022-02-24T17:22:16Z",
@@ -4602,7 +4672,7 @@
   },
   {
     "kind": "youtube#video",
-    "etag": "FYj1Std_YOsb6QEf09TcBnUIR4g",
+    "etag": "QEox2_YJaXsIC1akkYXqMNNqNsI",
     "id": "37gtpvy-k9U",
     "snippet": {
       "publishedAt": "2022-09-20T12:37:57Z",
@@ -4835,7 +4905,7 @@
       "defaultLanguage": "th",
       "localized": {
         "title": "แนะนำ Tailwind และ DaisyUI (พร้อมหยิบมาแต่ง Todo List) | VF Masterclass - EP. 6",
-        "description": "☕️ สนับสนุนช่องเราด้วยการสมัครสมาชิกช่องทางนี้ได้เลย\nhttps://www.youtube.com/channel/UC3YgTINPYQmUcRt5ZcNFIZQ/join\n\nสวัสดีสู่ตอนที่ 6 ของซีรีย์ Vue Firebase masterclass ตอนนี้เราจะพาแนะนำ Tailwind และ DaisyUI กันว่ามันคืออะไร มันช่วยอำนวยความสะดวกอะไรได้บ้าง และทำไมผมถึงหยิบ technology 2 ตัวนี้มาใช้ใน project นี้ \n\nพร้อมกับเราจะนำ tailwind และ daisyUI มาแต่ง style ใน Todo list ให้สวยงามกัน\n\n** สำหรับใครที่มาดู Session นี้เลยและอยากได้ code ส่วน Todo list ให้สร้าง project ใหม่และดู code Todo List ตามเอกสารนี้ได้นะครับ\nhttps://docs.mikelopster.dev/c/vue-firebase/chapter-5/workshop\n\nหัวข้อ\n00:00 แนะนำ Session\n00:31 แนะนำ Tailwind ว่าคืออะไร\n08:04 ลง Tailwind ใน project Todo List\n11:40 แนะนำ Tailwind core concept (utility class)\n13:00 Tailwind - 1. Layout\n18:04 Tailwind - 2. Flexbox & Grid\n20:29 Tailwind - 3. Spacing\n22:55 Taliwind - 4. Sizing\n23:46 Tailwind - 5. Typography\n26:12 Tailwind - 6. Background\n27:18 Tailwind - 7. Borders\n28:29 Tailwind - 8. Effect\n29:14 Tailwind - 9. Filters\n30:11 Tailwind - 10. Table\n30:48 Tailwind - 11. Transform and Transition\n31:13 Tailwind - Handling Hover, Focus, State\n31:50 Tailwind - 12. Responsive\n33:44 การ Customize Tailwind และ Directive (group class)\n37:40 แนะนำ Daisy UI (Tailwind plugin)\n39:21 ลง DaisyUI ใน project Todo List\n40:26 DaisyUI Component - 1. Action\n42:14 DaisyUI Component - 2. Data display\n43:45 DaisyUI Component - 3. Data input\n45:08 DaisyUI Component - 4. Layout\n46:06 DaisyUI Component - 5. Navigation\n47:30 แนะนำ Theme ใน DaisyUI\n49:11 เริ่มแต่ง Todo List overview ว่าจะทำอะไร��้าง\n49:28 แก้ Layout ใหญ่ที่ App.vue\n51:30 แต่ง HomeView - ตาม checklist / เริ่มเรียง input ก่อน\n53:11 แต่ง HomeView - แต่ง list view ของ todo ใหม่\n57:25 แต่ง HomeView - เพิ่ม checkbox และ status 'Done' style\n1:01:42 แต่ง HomeView - เพิ่ม Loading component\n1:06:05 แต่ง HomeView - เพิ่ม tab สำหรับแยก status และ computed แยก status\n1:11:43 แต่ง EditView - adjust style หน้า input\n1:15:20 แต่ง EditView - เพิ่ม back button\n1:16:45 แต่ง EditView - เพิ่ม Loading\n1:17:10 แต่ง EditView - เพิ่ม Toast (สำหรับบอกว่า update เรียบร้อยแล้ว)\n1:19:17 Recap เราทำอะไรกันไปบ้าง\n1:20:17 เราจะทำอะไรกันต่อใน 2 Session ต่อไป\n\nสำหรับใครอยาก follow ตามเอกสาร สามารถเข้ามาอ่านกันได้เล้ยที่นี่\nhttps://docs.mikelopster.dev/c/vue-firebase/chapter-6/intro\n\nใครมีข้อสงสัยเพิ่มเติม มาพูดคุยแลกเปลี่ยนความรู้กันได้ที่\nFacebook page: https://www.facebook.com/mikelopster.dev\nWebsite: https://mikelopster.dev\n\nพิกัดของด้านหลัง : https://shope.ee/8A54c8cfkf"
+        "description": "☕️ สนับสนุนช่องเราด้วยการสมัครสมาชิกช่องทางนี้ได้เลย\nhttps://www.youtube.com/channel/UC3YgTINPYQmUcRt5ZcNFIZQ/join\n\nสวัสดีสู่ตอนที่ 6 ของซีรีย์ Vue Firebase masterclass ตอนนี้เราจะพาแนะนำ Tailwind และ DaisyUI กันว่ามันคืออะไร มันช่วยอำนวยความสะดวกอะไรได้บ้าง และทำไมผมถึงหยิบ technology 2 ตัวนี้มาใช้ใน project นี้ \n\nพร้อมกับเราจะนำ tailwind และ daisyUI มาแต่ง style ใน Todo list ให้สวยงามกัน\n\n** สำหรับใครที่มาดู Session นี้เลยและอยากได้ code ส่วน Todo list ให้สร้าง project ใหม่และดู code Todo List ตามเอกสารนี้ได้นะครับ\nhttps://docs.mikelopster.dev/c/vue-firebase/chapter-5/workshop\n\nหัวข้อ\n00:00 แนะนำ Session\n00:31 แนะนำ Tailwind ว่าคืออะไร\n08:04 ลง Tailwind ใน project Todo List\n11:40 แนะนำ Tailwind core concept (utility class)\n13:00 Tailwind - 1. Layout\n18:04 Tailwind - 2. Flexbox & Grid\n20:29 Tailwind - 3. Spacing\n22:55 Taliwind - 4. Sizing\n23:46 Tailwind - 5. Typography\n26:12 Tailwind - 6. Background\n27:18 Tailwind - 7. Borders\n28:29 Tailwind - 8. Effect\n29:14 Tailwind - 9. Filters\n30:11 Tailwind - 10. Table\n30:48 Tailwind - 11. Transform and Transition\n31:13 Tailwind - Handling Hover, Focus, State\n31:50 Tailwind - 12. Responsive\n33:44 การ Customize Tailwind และ Directive (group class)\n37:40 แนะนำ Daisy UI (Tailwind plugin)\n39:21 ลง DaisyUI ใน project Todo List\n40:26 DaisyUI Component - 1. Action\n42:14 DaisyUI Component - 2. Data display\n43:45 DaisyUI Component - 3. Data input\n45:08 DaisyUI Component - 4. Layout\n46:06 DaisyUI Component - 5. Navigation\n47:30 แนะนำ Theme ใน DaisyUI\n49:11 เริ่มแต่ง Todo List overview ว่าจะทำอะไรบ้าง\n49:28 แก้ Layout ใหญ่ที่ App.vue\n51:30 แต่ง HomeView - ตาม checklist / เริ่มเรียง input ก่อน\n53:11 แต่ง HomeView - แต่ง list view ของ todo ใหม่\n57:25 แต่ง HomeView - เพิ่ม checkbox และ status 'Done' style\n1:01:42 แต่ง HomeView - เพิ่ม Loading component\n1:06:05 แต่ง HomeView - เพิ่ม tab สำหรับแยก status และ computed แยก status\n1:11:43 แต่ง EditView - adjust style หน้า input\n1:15:20 แต่ง EditView - เพิ่ม back button\n1:16:45 แต่ง EditView - เพิ่ม Loading\n1:17:10 แต่ง EditView - เพิ่ม Toast (สำหรับบอกว่า update เรียบร้อยแล้ว)\n1:19:17 Recap เราทำอะไรกันไปบ้าง\n1:20:17 เราจะทำอะไรกันต่อใน 2 Session ต่อไป\n\nสำหรับใครอยาก follow ตามเอกสาร สามารถเข้ามาอ่านกันได้เล้ยที่นี่\nhttps://docs.mikelopster.dev/c/vue-firebase/chapter-6/intro\n\nใครมีข้อสงสัยเพิ่มเติม มาพูดคุยแลกเปลี่ยนความรู้กันได้ที่\nFacebook page: https://www.facebook.com/mikelopster.dev\nWebsite: https://mikelopster.dev\n\nพิกัดของด้านหลัง : https://shope.ee/8A54c8cfkf"
       },
       "defaultAudioLanguage": "th"
     },
@@ -5333,7 +5403,7 @@
   },
   {
     "kind": "youtube#video",
-    "etag": "JijWij1ohN1G1BuBsSww3Pjd-Mc",
+    "etag": "OwW83N0dyv8WEH_uK4usqZhJjOk",
     "id": "uK5fEIiFEAI",
     "snippet": {
       "publishedAt": "2023-07-22T03:00:34Z",
@@ -5450,7 +5520,7 @@
   },
   {
     "kind": "youtube#video",
-    "etag": "mXmFudbQHArm5iQ6MA2gEaw0TEA",
+    "etag": "fh3w-tWN2t7EDOSMnC7wqqBAGlw",
     "id": "-elV2erzt10",
     "snippet": {
       "publishedAt": "2023-07-10T07:30:10Z",
@@ -5874,7 +5944,7 @@
   },
   {
     "kind": "youtube#video",
-    "etag": "PZ9GTsPXHW6MbGV4-md6zDGwUEQ",
+    "etag": "pKt3ITuVk_IJvY69KpNgmkbUUhk",
     "id": "l6NDDv3KcZg",
     "snippet": {
       "publishedAt": "2023-04-20T07:58:11Z",
@@ -5935,7 +6005,7 @@
       "publishedAt": "2023-04-11T21:25:24Z",
       "channelId": "UCkfncA-SsWPLcALQHxi2h5w",
       "title": "MERN Stack E-commerce website(NodeJs,ReactJS,ExpressJs,MongoDB,tailwind css,DaisyUi) Bangla tutorial",
-      "description": "MERN Stack E-commerce website(NodeJs,ReactJS,ExpressJs,MongoDB,tailwind css,DaisyUi) Bangla tutorial\n\n\n\nএই ভিডিও তে আ���রা দেখবো কিভাবে একটি সম্পূর্ণ ই-কমার্স  সাইট বিল্ড করা করা যায়।\nএখানে আমরা ব্যবহার করবো:-\n1.Node JS\n2.Express JS\n3.React JS\n4.MongoDB\n5.Tailwind css\n6.Daisy Ui\n7.Stripe JS\n8. React-use-cart\n9.Firebase\n\n\npart-01 : https://youtu.be/_Vq1V_QGor4\npart-02 : https://youtu.be/U2J8Vgp-W4k\npart-03 : https://youtu.be/f7PZEiexoag\npart-04 : https://youtu.be/eSOMVbb2sok\npart-05 : https://youtu.be/gOsrCL_DNn0\npart-06 : https://youtu.be/qO2Ai5szo-s\npart-07 : https://youtu.be/JjE5VZwtags\npart-08 : https://youtu.be/H3Ym1N6_Umk\npart-09 : https://youtu.be/OA781V-yjO8\npart-10 : https://youtu.be/TRAOx_OXIys\npart-11 : https://youtu.be/LmVj9vutQI0\npart-12 : https://youtu.be/JguSycIUJwA\npart-13 : https://youtu.be/lSSHC2NwWz4\npart-14: https://youtu.be/HjsoEYUqh7M\npart-15: https://youtu.be/EHJ4wYyl41s\npart-17: https://youtu.be/osNYQvn19Zo\n\nFollow me:\nGithub : https://github.com/mdsujan-mridha\nInstagram:  https://www.instagram.com/md_sujon_mridha/",
+      "description": "MERN Stack E-commerce website(NodeJs,ReactJS,ExpressJs,MongoDB,tailwind css,DaisyUi) Bangla tutorial\n\n\n\nএই ভিডিও তে আমরা দেখবো কিভাবে একটি সম্পূর্ণ ই-কমার্স  সাইট বিল্ড করা করা যায়।\nএখানে আমরা ব্যবহার করবো:-\n1.Node JS\n2.Express JS\n3.React JS\n4.MongoDB\n5.Tailwind css\n6.Daisy Ui\n7.Stripe JS\n8. React-use-cart\n9.Firebase\n\n\npart-01 : https://youtu.be/_Vq1V_QGor4\npart-02 : https://youtu.be/U2J8Vgp-W4k\npart-03 : https://youtu.be/f7PZEiexoag\npart-04 : https://youtu.be/eSOMVbb2sok\npart-05 : https://youtu.be/gOsrCL_DNn0\npart-06 : https://youtu.be/qO2Ai5szo-s\npart-07 : https://youtu.be/JjE5VZwtags\npart-08 : https://youtu.be/H3Ym1N6_Umk\npart-09 : https://youtu.be/OA781V-yjO8\npart-10 : https://youtu.be/TRAOx_OXIys\npart-11 : https://youtu.be/LmVj9vutQI0\npart-12 : https://youtu.be/JguSycIUJwA\npart-13 : https://youtu.be/lSSHC2NwWz4\npart-14: https://youtu.be/HjsoEYUqh7M\npart-15: https://youtu.be/EHJ4wYyl41s\npart-17: https://youtu.be/osNYQvn19Zo\n\nFollow me:\nGithub : https://github.com/mdsujan-mridha\nInstagram:  https://www.instagram.com/md_sujon_mridha/",
       "thumbnails": {
         "default": {
           "url": "https://i.ytimg.com/vi/kytDBk6UBw4/default.jpg",
@@ -5978,7 +6048,7 @@
       "defaultLanguage": "bn",
       "localized": {
         "title": "MERN Stack E-commerce website(NodeJs,ReactJS,ExpressJs,MongoDB,tailwind css,DaisyUi) Bangla tutorial",
-        "description": "MERN Stack E-commerce website(NodeJs,ReactJS,ExpressJs,MongoDB,tailwind css,DaisyUi) Bangla tutorial\n\n\n\nএই ভিডিও তে আমরা দেখবো কিভাবে একটি সম্পূর্ণ ই-কমার্স  সাইট বিল্ড করা করা যায়।\nএখানে আমরা ব্যবহার করবো:-\n1.Node JS\n2.Express JS\n3.React JS\n4.MongoDB\n5.Tailwind css\n6.Daisy Ui\n7.Stripe JS\n8. React-use-cart\n9.Firebase\n\n\npart-01 : https://youtu.be/_Vq1V_QGor4\npart-02 : https://youtu.be/U2J8Vgp-W4k\npart-03 : https://youtu.be/f7PZEiexoag\npart-04 : https://youtu.be/eSOMVbb2sok\npart-05 : https://youtu.be/gOsrCL_DNn0\npart-06 : https://youtu.be/qO2Ai5szo-s\npart-07 : https://youtu.be/JjE5VZwtags\npart-08 : https://youtu.be/H3Ym1N6_Umk\npart-09 : https://youtu.be/OA781V-yjO8\npart-10 : https://youtu.be/TRAOx_OXIys\npart-11 : https://youtu.be/LmVj9vutQI0\npart-12 : https://youtu.be/JguSycIUJwA\npart-13 : https://youtu.be/lSSHC2NwWz4\npart-14: https://youtu.be/HjsoEYUqh7M\npart-15: https://youtu.be/EHJ4wYyl41s\npart-17: https://youtu.be/osNYQvn19Zo\n\nFollow me:\nGithub : https://github.com/mdsujan-mridha\nInstagram:  https://www.instagram.com/md_sujon_mridha/"
+        "description": "MERN Stack E-commerce website(NodeJs,ReactJS,ExpressJs,MongoDB,tailwind css,DaisyUi) Bangla tutorial\n\n\n\nএই ভিডিও তে আমরা দেখবো কিভাবে একটি সম্প���র্ণ ই-কমার্স  সাইট বিল্ড করা করা যায়।\nএখানে আমরা ব্যবহার করবো:-\n1.Node JS\n2.Express JS\n3.React JS\n4.MongoDB\n5.Tailwind css\n6.Daisy Ui\n7.Stripe JS\n8. React-use-cart\n9.Firebase\n\n\npart-01 : https://youtu.be/_Vq1V_QGor4\npart-02 : https://youtu.be/U2J8Vgp-W4k\npart-03 : https://youtu.be/f7PZEiexoag\npart-04 : https://youtu.be/eSOMVbb2sok\npart-05 : https://youtu.be/gOsrCL_DNn0\npart-06 : https://youtu.be/qO2Ai5szo-s\npart-07 : https://youtu.be/JjE5VZwtags\npart-08 : https://youtu.be/H3Ym1N6_Umk\npart-09 : https://youtu.be/OA781V-yjO8\npart-10 : https://youtu.be/TRAOx_OXIys\npart-11 : https://youtu.be/LmVj9vutQI0\npart-12 : https://youtu.be/JguSycIUJwA\npart-13 : https://youtu.be/lSSHC2NwWz4\npart-14: https://youtu.be/HjsoEYUqh7M\npart-15: https://youtu.be/EHJ4wYyl41s\npart-17: https://youtu.be/osNYQvn19Zo\n\nFollow me:\nGithub : https://github.com/mdsujan-mridha\nInstagram:  https://www.instagram.com/md_sujon_mridha/"
       },
       "defaultAudioLanguage": "bn"
     },
@@ -6211,7 +6281,7 @@
   },
   {
     "kind": "youtube#video",
-    "etag": "7iDVWGc0CNstk9sJYy_eHRaXhWY",
+    "etag": "SqPjt35vS1RhvsSqc_RMpmVkKmg",
     "id": "IQJE2VIeXQk",
     "snippet": {
       "publishedAt": "2023-03-21T19:54:40Z",
@@ -6430,7 +6500,7 @@
   },
   {
     "kind": "youtube#video",
-    "etag": "0S1k0PLdg0JpDjsDo49A7WMYQOc",
+    "etag": "IBBktMhRF88-n8Topj6Wa_yNAko",
     "id": "HfUDVJoBk7k",
     "snippet": {
       "publishedAt": "2023-03-03T07:00:03Z",
@@ -6662,7 +6732,7 @@
   },
   {
     "kind": "youtube#video",
-    "etag": "_YFqKC0EQfIjiRNxY2EO5nkIRyI",
+    "etag": "Fvst11oBj4NOKKRmo9_8qDnetAY",
     "id": "ZHBhA5gb4iM",
     "snippet": {
       "publishedAt": "2023-02-20T07:56:24Z",
@@ -6863,7 +6933,7 @@
   },
   {
     "kind": "youtube#video",
-    "etag": "x2YRqsL5AogL-0irGgRjhtCwYNc",
+    "etag": "VmOPBShplUcXpqXFwp7Kl2GcUJw",
     "id": "11CCTx7rkjU",
     "snippet": {
       "publishedAt": "2023-01-05T15:11:17Z",
@@ -6925,7 +6995,7 @@
   },
   {
     "kind": "youtube#video",
-    "etag": "9f1RW1cG-1zSZt_hnqN_Zz1U2BE",
+    "etag": "xJVl5HThulI_MMMaJQ7UkIa5958",
     "id": "jX2cS9pj4hw",
     "snippet": {
       "publishedAt": "2022-12-24T19:27:34Z",
@@ -7158,7 +7228,7 @@
   },
   {
     "kind": "youtube#video",
-    "etag": "3YsyMKpyFusP1z2RhVs0bkoCktY",
+    "etag": "2j-l6g1A2_-vuTt4oxi6OaBEt9U",
     "id": "CDxZ_rHyiP0",
     "snippet": {
       "publishedAt": "2022-10-24T19:00:04Z",
@@ -7268,7 +7338,7 @@
   },
   {
     "kind": "youtube#video",
-    "etag": "zF8D3UrBkqEwZGqydSi1sVIAFIo",
+    "etag": "8zcghJmLNZLo9m9yu7uBVgdluTQ",
     "id": "1OCN03HHXAQ",
     "snippet": {
       "publishedAt": "2022-10-18T23:00:01Z",
@@ -7433,7 +7503,7 @@
   },
   {
     "kind": "youtube#video",
-    "etag": "E_tSIIjswDE41AyNVeSLMgvFCXI",
+    "etag": "Pt1WfuEPbJBIgbwFiN19fsr-ZjU",
     "id": "qJcUjEsp9aY",
     "snippet": {
       "publishedAt": "2022-10-17T08:57:36Z",
@@ -7498,7 +7568,7 @@
   },
   {
     "kind": "youtube#video",
-    "etag": "2-j90Hs7Nvld1gq2LOpzgM8Vl1I",
+    "etag": "hVrRDQL08YqoBJW-iydFnFjRno0",
     "id": "g2owVghzXzY",
     "snippet": {
       "publishedAt": "2022-10-08T05:17:18Z",
@@ -7663,7 +7733,7 @@
   },
   {
     "kind": "youtube#video",
-    "etag": "0orJDS_7A-o7T5knnNd0JP7j4TY",
+    "etag": "ovBvj8k3jzQ1E4fzsBnTvtvhDJE",
     "id": "cJV1G_w39wM",
     "snippet": {
       "publishedAt": "2022-09-19T11:00:32Z",
@@ -7935,7 +8005,7 @@
       "publishedAt": "2022-05-07T02:38:40Z",
       "channelId": "UC4stf3IjKIsmxMov8sNNuVA",
       "title": "[나홀로 해커톤] DaisyUI + Svelte 써보기",
-      "description": "[SaaS, 처음부터 끝까지 라이브로 개발하기]\nhttps://courses.eunjae.dev/solo-hackathon\n\n이 라이브 스트리밍에서는 제가 Svelte 위에 DaisyUI 라는 라이브러리를 가지고 간단한 디자인을 해봅니다. 생각보다 수월하진 않아요.",
+      "description": "[SaaS, 처음부터 끝까지 라이브로 개발하기]\nhttps://courses.eunjae.dev/solo-hackathon\n\n이 라이브 스트리밍에서는 제가 Svelte 위에 DaisyUI 라는 라이브러리를 가지고 간단한 디���인을 해봅니다. 생각보다 수월하진 않아요.",
       "thumbnails": {
         "default": {
           "url": "https://i.ytimg.com/vi/Gpm3w7Mib_M/default.jpg",
@@ -7984,7 +8054,7 @@
   },
   {
     "kind": "youtube#video",
-    "etag": "zYQKuacKyYF2dMKysmHIIhY82eo",
+    "etag": "P_T94oV7m-RvZudPQBeJTOqf2_M",
     "id": "sFyUWHH2sVg",
     "snippet": {
       "publishedAt": "2022-06-21T14:19:08Z",
@@ -8320,7 +8390,7 @@
   },
   {
     "kind": "youtube#video",
-    "etag": "k0ljpAaP2-x5JF4NJNzBYc_b7cs",
+    "etag": "5ufNQ2Ovpwyoc9dCIypF-K4_vYM",
     "id": "XHin0fKGl6w",
     "snippet": {
       "publishedAt": "2023-12-26T07:00:02Z",
@@ -8401,7 +8471,7 @@
   },
   {
     "kind": "youtube#video",
-    "etag": "0uHHvmP_9sEn-cKW8Hh3b9GA1is",
+    "etag": "y59i_9uuNeSyRU-E1f_iDl2-P0Q",
     "id": "akd7u69k27k",
     "snippet": {
       "publishedAt": "2023-11-17T15:36:38Z",
@@ -8456,7 +8526,7 @@
   },
   {
     "kind": "youtube#video",
-    "etag": "MnT344V34nHbX9cB7PqG4x_xY0I",
+    "etag": "Bs3okU8LpVzvtuVP_LID114oANA",
     "id": "VR4YJjTlrnE",
     "snippet": {
       "publishedAt": "2024-08-15T23:12:07Z",
@@ -8758,7 +8828,7 @@
   },
   {
     "kind": "youtube#video",
-    "etag": "YO-usEwJqxJqSLJSKOU1wPfKRf4",
+    "etag": "9XfraJqOAp0v14u46SyANSh35hQ",
     "id": "VkRP6kWTrv4",
     "snippet": {
       "publishedAt": "2025-01-27T12:24:23Z",
