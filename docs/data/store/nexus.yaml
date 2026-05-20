@@ -1,11 +1,11 @@
-title: Nexus Dashboard 3.3
+title: Nexus Dashboard 4.0
 # buy_now_url: "https://daisyui.lemonsqueezy.com/checkout/buy/2a4d3f50-8ffd-4857-a8d8-513a66bc273a"
 # ref: Db6q2
 price: 6900
 from_price: 6900
 to_price: 49900
 created_at: 2024-04-28
-updated_at: 2026-04-01
+updated_at: 2026-05-20
 bannerTitle: Looking for a startup template too?
 banner:
   Get Nexus dashboard template + [Scalo startup template](/store/scalo/) as a bundle and save up to $99! <br/>
@@ -24,20 +24,20 @@ desc: |-
 
   Including:
     - All pages
-    - 3 dashboard layouts (CRM, e-commerce, Gen-AI)
+    - 6 dashboard layouts (CRM, e-commerce, Gen-AI, Growth, AI Ops, Corporate Finance)
     - Landing page
     - 10 e-commerce pages with tables, forms, cards, etc
     - File manager app layout
     - Chat app layout
     - 4 pages for the gen-AI app (home, images, content creator, library)
-    - Agentic Storage UI 🆕
+    - Agentic Storage UI
     - 4 auth pages including login, register, password reset
     - Profile settings page and support/FAQ page
-    - Foundation component example 🆕
-    - 15+ Ready to use UI blocks 🆕
-    - 50+ Common layout examples 🆕
-    - 100+ Interaction examples with different plugin integrations 🆕
-    - LLM files 🆕
+    - Foundation component example
+    - 15+ Ready to use UI blocks
+    - 50+ Common layout examples
+    - 100+ Interaction examples with different plugin integrations
+    - LLM files
     - Apex charts
     - 6 exclusive customizable themes
     - Compatible with all daisyUI themes
@@ -49,7 +49,7 @@ desc: |-
 
 
   Team and Enterprise license:
-    - includes HTML, React, Next.js, Nuxt, SvelteKit, Laravel Blade, Elixir Phoenix versions + Ruby On Rails version 🆕
+    - includes HTML, React, Next.js, Nuxt, SvelteKit, Laravel Blade, Elixir Phoenix, Ruby On Rails and Angular versions
     - For unlimited developers
     - For unlimited projects (Enterprise only)
 media:
@@ -57,31 +57,34 @@ media:
     url: https://www.youtube.com/embed/dR7K6HVNqAo?mute=0&autoplay=0&controls=0&rel=0&modestbranding=1&loop=1&playlist=dR7K6HVNqAo
     ratio: 16/9
   - type: image
-    sm: https://img.daisyui.com/images/store/small/nexus/nexus-v3-1.webp
-    lg: https://img.daisyui.com/images/store/large/nexus/nexus-v3.1-1.webp
+    sm: https://img.daisyui.com/images/store/small/nexus/nexus-v4-1.webp
+    lg: https://img.daisyui.com/images/store/large/nexus/nexus-v4-1.webp
   - type: image
-    sm: https://img.daisyui.com/images/store/small/nexus/nexus-v3-2.webp
-    lg: https://img.daisyui.com/images/store/large/nexus/nexus-v3-2.webp
+    sm: https://img.daisyui.com/images/store/small/nexus/nexus-v4-2.webp
+    lg: https://img.daisyui.com/images/store/large/nexus/nexus-v4-2.webp
   - type: image
-    sm: https://img.daisyui.com/images/store/small/nexus/nexus-v3-3.webp
-    lg: https://img.daisyui.com/images/store/large/nexus/nexus-v3-3.webp
+    sm: https://img.daisyui.com/images/store/small/nexus/nexus-v4-3.webp
+    lg: https://img.daisyui.com/images/store/large/nexus/nexus-v4-3.webp
   - type: image
-    sm: https://img.daisyui.com/images/store/small/nexus/nexus-v3-4.webp
-    lg: https://img.daisyui.com/images/store/large/nexus/nexus-v3-4.webp
+    sm: https://img.daisyui.com/images/store/small/nexus/nexus-v4-4.webp
+    lg: https://img.daisyui.com/images/store/large/nexus/nexus-v4-4.webp
   - type: image
-    sm: https://img.daisyui.com/images/store/small/nexus/nexus-v3-5.webp
-    lg: https://img.daisyui.com/images/store/large/nexus/nexus-v3-5.webp
+    sm: https://img.daisyui.com/images/store/small/nexus/nexus-v4-5.webp
+    lg: https://img.daisyui.com/images/store/large/nexus/nexus-v4-5.webp
   - type: image
-    sm: https://img.daisyui.com/images/store/small/nexus/nexus-v3-6.webp
-    lg: https://img.daisyui.com/images/store/large/nexus/nexus-v3-6.webp
-quote:
-  img: https://img.daisyui.com/images/profile/people/pouya-saadeghi.webp
-  name: Pouya
-  text:
-    - Nexus 3.2 is added with latest dependency updates.
-    - Nexus is now available for Elixir Phoenix Frameworks! 🎉
-    - Use code "NEXUS26" at checkout and get 26% discount on Nexus Dashboard Template until January 5th, 2026.
-    - Happy New Year 2026! 🥳
+    sm: https://img.daisyui.com/images/store/small/nexus/nexus-v4-6.webp
+    lg: https://img.daisyui.com/images/store/large/nexus/nexus-v4-6.webp
+  - type: image
+    sm: https://img.daisyui.com/images/store/small/nexus/nexus-v4-7.webp
+    lg: https://img.daisyui.com/images/store/large/nexus/nexus-v4-7.webp
+# quote:
+#   img: https://img.daisyui.com/images/profile/people/pouya-saadeghi.webp
+#   name: Pouya
+#   text:
+#     - Nexus 3.2 is added with latest dependency updates.
+#     - Nexus is now available for Elixir Phoenix Frameworks! 🎉
+#     - Use code "NEXUS26" at checkout and get 26% discount on Nexus Dashboard Template until January 5th, 2026.
+#     - Happy New Year 2026! 🥳
 packages:
   - [null, Solo License, Team License, Enterprise License]
   - [price, 6900, 12900, 49900]
@@ -101,6 +104,7 @@ packages:
   - [Laravel version, false, true, true]
   - [Phoenix version, false, true, true]
   - [Ruby on Rails version, false, true, true]
+  - [Angular version, false, true, true]
   - [⚖️ License, null, null, null]
   - [Developer seats, 1, Unlimited, Unlimited]
   - [Projects limit, 1, 1, Unlimited]
@@ -118,6 +122,7 @@ tech:
   - laravel
   - phoenix
   - rails
+  - angular
 tags:
   - nexus
   - dashboard
@@ -126,13 +131,18 @@ tags:
 #   icon: check
 #   text: Updated to daisyUI 5
 links:
-  license: https://api.daisyui.com/license/nexus@3.txt
+  license: https://api.daisyui.com/license/nexus@4.txt
   screenshot: https://img.daisyui.com/images/store/screenshots/nexus-3.webp
   preview: https://nexus.daisyui.com/
 faq:
   - Q: I don't need all frameworks, can I buy only a specific version for a lower price?
     A: The price is not the total of all framework versions, buying the Team or Enterprise license gives you access to all frameworks at once. This way, you will have access to all versions, you can compare the file structure and code, and choose the best framework for your project. Later on if you need to switch framework, you can easily do that without paying again. All packages will receive updates and bug fixes for all frameworks.
 changelog:
+  - version: 4.0
+    changes:
+      - Added Angular version
+      - Added 3 new dashboard layouts (Growth, AI Ops, Corporate Finance)
+      - Bug fixes and dependency updates
   - version: 3.3
     changes:
       - Added Ruby on Rails version
