@@ -500,7 +500,7 @@
   },
   {
     "kind": "youtube#video",
-    "etag": "SZYra-lxGkuEfEs_O7UlldI37a8",
+    "etag": "ZjN1IAOUFyfxz8YlZY0bi2I9T6w",
     "id": "mqe9a7kHUvo",
     "snippet": {
       "publishedAt": "2022-08-01T20:45:30Z",
@@ -862,7 +862,7 @@
   },
   {
     "kind": "youtube#video",
-    "etag": "MUxlnTkaNj-oB88o5p4XgJFYiFI",
+    "etag": "LFk2pYTMpbns7GCdb_RFsxdqdQg",
     "id": "f0EXkjL_hE4",
     "snippet": {
       "publishedAt": "2025-05-29T14:48:37Z",
@@ -903,8 +903,7 @@
       "localized": {
         "title": "DaisyUI FTW!",
         "description": "Twitch: https://www.twitch.tv/zebhoggr\n\nArticle Link: https://code.likeagirl.io/daisyui-the-tailwind-css-shortcut-youll-either-love-or-regret-69322576987c"
-      },
-      "defaultAudioLanguage": "en"
+      }
     },
     "status": {
       "uploadStatus": "processed",
@@ -1045,7 +1044,7 @@
   },
   {
     "kind": "youtube#video",
-    "etag": "xv229FUeiqUPjIPU4Zt5fA4Qw30",
+    "etag": "pynfgTL15G75Vt09W1My6l3vBxY",
     "id": "AfM6ipH23k8",
     "snippet": {
       "publishedAt": "2025-06-04T12:56:58Z",
@@ -1100,7 +1099,7 @@
   },
   {
     "kind": "youtube#video",
-    "etag": "roiCwg17QQ6LjT-_g0I_NyLCZF0",
+    "etag": "DS7_MR4nCMJ5P6jOlrsVvlrufBc",
     "id": "N7g9rs3w1Ec",
     "snippet": {
       "publishedAt": "2025-03-31T04:00:17Z",
@@ -1144,8 +1143,7 @@
       "localized": {
         "title": "Build Tailwind v4 + Daisy UI with Dotnet + Docker",
         "description": "In this video we explore how to use Tailwind V4 and Daisy UI to style your dotnet apps, using Docker as our build tool.\n\nOriginal blog post with all code and links: https://hamy.xyz/blog/2025-03_dotnet-docker-tailwind-v4\n\nCTA: Join Haminions to get full access to the project files - https://hamy.xyz/blog/haminions\n* Full source code: https://github.com/HAMY-LABS/hamy-labs-code-examples/tree/main/fsharp/2025-03_fsharp-dotnet-tailwind-v4\n\nChapters\n\n00:50 - Project Overview\n03:10 - Tailwind v4 with Dotnet and Docker\n08:15 - Styling Dotnet Frontends with Tailwind v4\n\nLinks:\n\n- Build a Single-File Web API with F# + Falco - https://www.youtube.com/watch?v=SJCHBqrc3sE&ab_channel=HAMYLABS\n- Build a Fullstack Webapp with F# + Falco - https://www.youtube.com/watch?v=ELPdHdtEIY8&ab_channel=HAMYLABS\n- How to run an F# + Falco Webapp in a Docker Container - https://www.youtube.com/watch?v=B7MJZrdc6dk&ab_channel=HAMYLABS\n\nAbout me: I'm Hamilton - a Technomancer. I build Simple Scalable Systems to make the world 1% better.\n\nConnect with me:\n\n- Website: https://hamy.xyz\n- Twitter: @SIRHAMY - https://twitter.com/SIRHAMY\n\n# Support \n\nIf you liked this and would like to see more, consider becoming a supporter: https://hamy.xyz/labs/haminions\n\nSupporters get:\n* Full source code access from courses / tutorials\n* Exclusive discounts on products / courses\n\nPlus you help me to keep experimenting / sharing!\n\nFor Sponsorship info: https://hamy.xyz/labs/sponsors"
-      },
-      "defaultAudioLanguage": "en"
+      }
     },
     "status": {
       "uploadStatus": "processed",
@@ -1158,7 +1156,7 @@
   },
   {
     "kind": "youtube#video",
-    "etag": "CxOiVMwWc7cM_xSXM6qfEMdXb30",
+    "etag": "IpHAKuwXEzX7mYWbFZ2SDi9vUzE",
     "id": "uI9gZ0TtTAs",
     "snippet": {
       "publishedAt": "2025-03-29T18:40:06Z",
@@ -1286,7 +1284,7 @@
   },
   {
     "kind": "youtube#video",
-    "etag": "fUQmBfRa1Tr9BTTc58mf4FRTv8k",
+    "etag": "RDn5vStraFLNBygrSiQc-Uhmog4",
     "id": "2ZLfgQE4NZk",
     "snippet": {
       "publishedAt": "2025-03-29T09:54:27Z",
@@ -1352,8 +1350,7 @@
       "localized": {
         "title": "🚀 DaisyUI | Build Stunning UIs for web| Tamil Video (🔥)",
         "description": "Want to master Tailwind CSS and DaisyUI to build stunning UI components? In this tutorial, we’ll explore how to use DaisyUI 5.9.0 with React and JavaScript to create beautiful, responsive web designs effortlessly!\n\nThis video is perfect for beginners and developers looking to improve their frontend skills using Tailwind CSS, DaisyUI, and React. If you're a Tamil-speaking developer looking for a clear, step-by-step explanation, you're in the right place!\n\nWhat You'll Learn:\n✅ Tailwind CSS fundamentals & utility-first styling\n✅ DaisyUI Components – Faster UI development\n✅ React + Tailwind best practices\n✅ Responsive, modern design techniques\n✅ Real-world hands-on coding examples\n\n📌 Why Tailwind & DaisyUI?\n🚀 Speeds up frontend development\n🎨 Pre-designed UI components for quick styling\n⚡ Highly customizable & lightweight\n\n💡 Whether you’re a beginner learning JavaScript and React or an experienced developer improving your UI skills, this tutorial will help you!\n\n🔥 Watch, Learn & Build! Don’t forget to subscribe for more Tamil coding tutorials on React, JavaScript, Web Development, and UI/UX design!\n\nLet me know if you need any more tweaks! 🚀😃"
-      },
-      "defaultAudioLanguage": "ta"
+      }
     },
     "status": {
       "uploadStatus": "processed",
@@ -1733,7 +1730,7 @@
   },
   {
     "kind": "youtube#video",
-    "etag": "lEgGosF10HqTz8ocxrw9zWEpriQ",
+    "etag": "RJKfuq5bpfxb5OGAjtw9D7f5MAA",
     "id": "CKOH37J1EnI",
     "snippet": {
       "publishedAt": "2024-06-13T09:51:44Z",
@@ -2342,13 +2339,13 @@
   },
   {
     "kind": "youtube#video",
-    "etag": "IEMweWxzwq1EPvSYkEY5JfNokLY",
+    "etag": "Y9_erMu5Kg1oPbOLctxMW7ImbyM",
     "id": "EaaGZ7M6muE",
     "snippet": {
       "publishedAt": "2024-05-14T12:01:45Z",
       "channelId": "UCUF6OCouf0BekUYn63nsclw",
       "title": "Gagne du temps avec cette librairie TailwindCSS (DaisyUI)",
-      "description": "Dans cette vidéo je te présente brièvement cette librairie de composants basés sur TailwindCSS : DaisyUI.\nJe te montre comment l'installer dans ton projet Nextjs, la mettre en place dans ta config Tailwind et commencer à l'utiliser dans ton code !",
+      "description": "🚀 Prévente de ma formation pour lancer ton SaaS avec l'IA → https://prakticode.com\n\nDans cette vidéo je te présente brièvement cette librairie de composants basés sur TailwindCSS : DaisyUI.\nJe te montre comment l'installer dans ton projet Nextjs, la mettre en place dans ta config Tailwind et commencer à l'utiliser dans ton code !",
       "thumbnails": {
         "default": {
           "url": "https://i.ytimg.com/vi/EaaGZ7M6muE/default.jpg",
@@ -2394,7 +2391,7 @@
       "defaultLanguage": "fr",
       "localized": {
         "title": "Gagne du temps avec cette librairie TailwindCSS (DaisyUI)",
-        "description": "Dans cette vidéo je te présente brièvement cette librairie de composants basés sur TailwindCSS : DaisyUI.\nJe te montre comment l'installer dans ton projet Nextjs, la mettre en place dans ta config Tailwind et commencer à l'utiliser dans ton code !"
+        "description": "🚀 Prévente de ma formation pour lancer ton SaaS avec l'IA → https://prakticode.com\n\nDans cette vidéo je te présente brièvement cette librairie de composants basés sur TailwindCSS : DaisyUI.\nJe te montre comment l'installer dans ton projet Nextjs, la mettre en place dans ta config Tailwind et commencer à l'utiliser dans ton code !"
       },
       "defaultAudioLanguage": "fr"
     },
@@ -2816,7 +2813,7 @@
   },
   {
     "kind": "youtube#video",
-    "etag": "RXb3YrxOINzW_Ml_103YPUNltT4",
+    "etag": "47YN0LXVpVIUqd0H_N01AgQojGo",
     "id": "th8OswsAq6Q",
     "snippet": {
       "publishedAt": "2023-10-07T01:36:37Z",
@@ -3258,7 +3255,7 @@
   },
   {
     "kind": "youtube#video",
-    "etag": "OJj431F7LY15QAbpTW8x9yuAbuw",
+    "etag": "U3wA9vTNDwGNqyRCUKKp14wE7UI",
     "id": "KteaV_c4NUQ",
     "snippet": {
       "publishedAt": "2023-06-01T18:45:20Z",
@@ -3325,7 +3322,7 @@
   },
   {
     "kind": "youtube#video",
-    "etag": "kBh4HbTAAotSnF3_7qPeeilAA68",
+    "etag": "30lZje8N8z8ZQ8A6iaHlrsYoyU4",
     "id": "NWzGJanh3Lg",
     "snippet": {
       "publishedAt": "2023-05-31T02:00:10Z",
@@ -4387,7 +4384,7 @@
   },
   {
     "kind": "youtube#video",
-    "etag": "eoaPBBObjh_qkxoR0fRyIrY6qrw",
+    "etag": "16KSAMoUgjRDMK961CcUUi9h1UA",
     "id": "u9jtHBE6NL8",
     "snippet": {
       "publishedAt": "2022-01-22T22:00:14Z",
@@ -4819,7 +4816,7 @@
       "defaultLanguage": "ar",
       "localized": {
         "title": "طريقة بناء شات بوت مثل ChatGPT ب استخدام React | Langchain | daisyUI",
-        "description": "في هذا الفيديو سنقوم ب إنشاء تطبيق مشابه ل ChatGPT ب استخدام الذكاء الاصطناعي و React , Langchain و daisyUI.\nهذا الفيديو تطبيق عملي لسلسلة دروس Langchain الموجودة في القناة على الرابط التالي:\nhttps://bit.ly/langchain-playlist\n\nلايك واشتراك اذا عجبك الفيديو وديس لايك اذا ما عجبك وقولي رأيك في التعليقات. \n\nشكراً للمتابعة."
+        "description": "في هذا الفيديو سنقوم ب إنشاء تطبيق مشابه ل ChatGPT ب استخدام الذكاء الاصطناعي و React , Langchain و daisyUI.\nهذا الفيديو تطبيق عملي لسلسلة دروس Langchain الموجودة في القناة على الرابط التالي:\nhttps://bit.ly/langchain-playlist\n\nلايك واشتراك اذا عجبك الفيديو وديس لايك اذا ما عجبك وقولي رأيك في التعليقات. \n\nشك��اً للمتابعة."
       },
       "defaultAudioLanguage": "ar"
     },
@@ -4840,7 +4837,7 @@
       "publishedAt": "2023-09-16T02:45:00Z",
       "channelId": "UC3YgTINPYQmUcRt5ZcNFIZQ",
       "title": "แนะนำ Tailwind และ DaisyUI (พร้อมหยิบมาแต่ง Todo List) | VF Masterclass - EP. 6",
-      "description": "☕️ สนับสนุนช่องเราด้วยการสมัครสมาชิกช่องทางนี้ได้เลย\nhttps://www.youtube.com/channel/UC3YgTINPYQmUcRt5ZcNFIZQ/join\n\nสวัสดีสู่ตอนที่ 6 ของซีรีย์ Vue Firebase masterclass ตอนนี้เราจะพาแนะนำ Tailwind และ DaisyUI กันว่ามันคืออะไร มันช่วยอำนวยความสะดวกอะไรได้บ้าง และทำไมผมถึงหยิบ technology 2 ตัวนี้มาใช้ใน project นี้ \n\nพร้อมกับเราจะนำ tailwind และ daisyUI มาแต่ง style ใน Todo list ให้สวยงามกัน\n\n** สำหรับใครที่มาดู Session นี้เลยและอยากได้ code ส่วน Todo list ให้สร้าง project ใหม่และดู code Todo List ตามเอกสารนี้ได้นะครับ\nhttps://docs.mikelopster.dev/c/vue-firebase/chapter-5/workshop\n\nหัวข้อ\n00:00 แนะนำ Session\n00:31 แนะนำ Tailwind ว่าคืออะไร\n08:04 ลง Tailwind ใน project Todo List\n11:40 แนะนำ Tailwind core concept (utility class)\n13:00 Tailwind - 1. Layout\n18:04 Tailwind - 2. Flexbox & Grid\n20:29 Tailwind - 3. Spacing\n22:55 Taliwind - 4. Sizing\n23:46 Tailwind - 5. Typography\n26:12 Tailwind - 6. Background\n27:18 Tailwind - 7. Borders\n28:29 Tailwind - 8. Effect\n29:14 Tailwind - 9. Filters\n30:11 Tailwind - 10. Table\n30:48 Tailwind - 11. Transform and Transition\n31:13 Tailwind - Handling Hover, Focus, State\n31:50 Tailwind - 12. Responsive\n33:44 การ Customize Tailwind และ Directive (group class)\n37:40 แนะนำ Daisy UI (Tailwind plugin)\n39:21 ลง DaisyUI ใน project Todo List\n40:26 DaisyUI Component - 1. Action\n42:14 DaisyUI Component - 2. Data display\n43:45 DaisyUI Component - 3. Data input\n45:08 DaisyUI Component - 4. Layout\n46:06 DaisyUI Component - 5. Navigation\n47:30 แนะนำ Theme ใน DaisyUI\n49:11 เริ่มแต่ง Todo List overview ว่าจะทำอะไรบ้าง\n49:28 แก้ Layout ใหญ่ที่ App.vue\n51:30 แต่ง HomeView - ตาม checklist / เริ่มเรียง input ก่อน\n53:11 แต่ง HomeView - แต่ง list view ของ todo ใหม่\n57:25 แต่ง HomeView - เพิ่ม checkbox และ status 'Done' style\n1:01:42 แต่ง HomeView - เพิ่ม Loading component\n1:06:05 แต่ง HomeView - เพิ่ม tab สำหรับแยก status และ computed แยก status\n1:11:43 แต่ง EditView - adjust style หน้า input\n1:15:20 แต่ง EditView - เพิ่ม back button\n1:16:45 แต่ง EditView - เพิ่ม Loading\n1:17:10 แต่ง EditView - เพิ่ม Toast (สำหรับบอกว่า update เรียบร้อยแล้ว)\n1:19:17 Recap เราทำอะไรกันไปบ้าง\n1:20:17 เราจะทำอะไรกันต่อใน 2 Session ต่อไป\n\nสำหรับใครอยาก follow ตามเอกสาร สามารถเข้ามาอ่านกันได้เล้ยที่นี่\nhttps://docs.mikelopster.dev/c/vue-firebase/chapter-6/intro\n\nใครมีข้อสงสัยเพิ่มเติม มาพูดคุยแลกเปลี่ยนความรู้กันได้ที่\nFacebook page: https://www.facebook.com/mikelopster.dev\nWebsite: https://mikelopster.dev\n\nพิกัดของด้านหลัง : https://shope.ee/8A54c8cfkf",
+      "description": "☕️ สนับสนุนช่องเราด้วยการสมัครสมาชิกช่องทางนี้ได้เลย\nhttps://www.youtube.com/channel/UC3YgTINPYQmUcRt5ZcNFIZQ/join\n\nสวัสดีสู่ตอนที่ 6 ของซีรีย์ Vue Firebase masterclass ตอนนี้เราจะพาแนะนำ Tailwind และ DaisyUI กันว่ามันคืออะไร มันช่วยอำนวยความสะดวกอะไรได้บ้าง และทำไมผมถึงหยิบ technology 2 ตัวนี้มาใช้ใน project นี้ \n\nพร้อมกับเราจะนำ tailwind และ daisyUI มาแต่ง style ใน Todo list ให้สวยงามกัน\n\n** สำหรับใครที่มาดู Session นี้เลยและอยากได้ code ส่วน Todo list ให้สร้าง project ใหม่และดู code Todo List ตามเอกสารนี้ได้นะครับ\nhttps://docs.mikelopster.dev/c/vue-firebase/chapter-5/workshop\n\nหัวข้อ\n00:00 แนะนำ Session\n00:31 แนะนำ Tailwind ว่าคืออะไร\n08:04 ลง Tailwind ใน project Todo List\n11:40 แนะนำ Tailwind core concept (utility class)\n13:00 Tailwind - 1. Layout\n18:04 Tailwind - 2. Flexbox & Grid\n20:29 Tailwind - 3. Spacing\n22:55 Taliwind - 4. Sizing\n23:46 Tailwind - 5. Typography\n26:12 Tailwind - 6. Background\n27:18 Tailwind - 7. Borders\n28:29 Tailwind - 8. Effect\n29:14 Tailwind - 9. Filters\n30:11 Tailwind - 10. Table\n30:48 Tailwind - 11. Transform and Transition\n31:13 Tailwind - Handling Hover, Focus, State\n31:50 Tailwind - 12. Responsive\n33:44 การ Customize Tailwind และ Directive (group class)\n37:40 แนะนำ Daisy UI (Tailwind plugin)\n39:21 ลง DaisyUI ใน project Todo List\n40:26 DaisyUI Component - 1. Action\n42:14 DaisyUI Component - 2. Data display\n43:45 DaisyUI Component - 3. Data input\n45:08 DaisyUI Component - 4. Layout\n46:06 DaisyUI Component - 5. Navigation\n47:30 แนะนำ Theme ใน DaisyUI\n49:11 เริ่มแต่ง Todo List overview ว่าจะทำอะไรบ้าง\n49:28 แก้ Layout ใหญ่ที่ App.vue\n51:30 แต่ง HomeView - ตาม checklist / เริ่มเรียง input ก่อน\n53:11 แต่ง HomeView - แต่ง list view ของ todo ใหม่\n57:25 แต่ง HomeView - เพิ่ม checkbox และ status 'Done' style\n1:01:42 แต่ง HomeView - เพิ่ม Loading component\n1:06:05 แต่ง HomeView - เพิ่ม tab สำหรับแยก status และ computed แยก status\n1:11:43 แต่ง EditView - adjust style หน้า input\n1:15:20 แต่ง EditView - เพิ่ม back button\n1:16:45 แต่ง EditView - เพิ่ม Loading\n1:17:10 แต่ง EditView - เพิ่ม Toast (สำหรับบอกว่า update เรียบร้อยแล้ว)\n1:19:17 Recap เราทำอะไรกันไปบ้าง\n1:20:17 เราจะทำอะไรกันต่อใน 2 Session ต่อไป\n\nสำหรับใครอยาก follow ตามเอกสาร สาม��รถเข้ามาอ่านกันได้เล้ยที่นี่\nhttps://docs.mikelopster.dev/c/vue-firebase/chapter-6/intro\n\nใครมีข้อสงสัยเพิ่มเติม มาพูดคุยแลกเปลี่ยนความรู้กันได้ที่\nFacebook page: https://www.facebook.com/mikelopster.dev\nWebsite: https://mikelopster.dev\n\nพิกัดของด้านหลัง : https://shope.ee/8A54c8cfkf",
       "thumbnails": {
         "default": {
           "url": "https://i.ytimg.com/vi/1VC8ps7EI18/default.jpg",
@@ -4920,7 +4917,7 @@
   },
   {
     "kind": "youtube#video",
-    "etag": "nH3hnhWMcZgpq7Q-eUFpDYManGE",
+    "etag": "zneiMfCRVI2Djj6B34eP5zCfwbk",
     "id": "X5_ZQmddfyk",
     "snippet": {
       "publishedAt": "2023-08-31T18:45:15Z",
@@ -5115,7 +5112,7 @@
   },
   {
     "kind": "youtube#video",
-    "etag": "PJ4rXmUCNEjZFLlego9Imrs6Uqk",
+    "etag": "_K_AK4NGKwwlLJhO8phtCbkAUx0",
     "id": "l04LcLNM390",
     "snippet": {
       "publishedAt": "2023-08-07T09:44:35Z",
@@ -5470,7 +5467,7 @@
   },
   {
     "kind": "youtube#video",
-    "etag": "5DZXLl7fzAOwxh7lRmgXuthEjZI",
+    "etag": "T08JvfpYuOg1HCtAe0DgniUJTgo",
     "id": "9XeiyFsfzlE",
     "snippet": {
       "publishedAt": "2023-07-21T13:14:25Z",
@@ -5506,8 +5503,7 @@
       "localized": {
         "title": "De 0 a 100 en diseño web con DaisyUI",
         "description": "DaisyUI añade nombres de clases de componentes a Tailwind CSS para que puedas hacer hermosos sitios web más rápido que nunca.\r\nPasemos al otro nivel de diseño web utilizando una herrmaineta que facilita la construcción de páginas web y la gestión de un diseño responsivo.\r\n\r\nVíctor Andrés Rojas\r\n\r\nDesarrollador Full-Stack con más de 4 años de experiencia en tecnologías JS, TS, Reactjs, Nodejs, NextJS."
-      },
-      "defaultAudioLanguage": "es"
+      }
     },
     "status": {
       "uploadStatus": "processed",
@@ -5733,7 +5729,7 @@
   },
   {
     "kind": "youtube#video",
-    "etag": "NloXj0m9_lLv0vPVlBmdErYL4lI",
+    "etag": "8zEUe66PU2yxVV0-dkmorcX4S5Q",
     "id": "v3QJAdVE-7Q",
     "snippet": {
       "publishedAt": "2023-06-25T20:52:14Z",
@@ -5999,7 +5995,7 @@
   },
   {
     "kind": "youtube#video",
-    "etag": "EuyUQJaE5zWvZteUSh9uxRiMjvk",
+    "etag": "GV_tRYxg1M90y5ElCJcdEffFoCQ",
     "id": "kytDBk6UBw4",
     "snippet": {
       "publishedAt": "2023-04-11T21:25:24Z",
@@ -6500,7 +6496,7 @@
   },
   {
     "kind": "youtube#video",
-    "etag": "IBBktMhRF88-n8Topj6Wa_yNAko",
+    "etag": "hAcYwhLA75e_lHYnUBC1tyxaZQc",
     "id": "HfUDVJoBk7k",
     "snippet": {
       "publishedAt": "2023-03-03T07:00:03Z",
@@ -6552,8 +6548,7 @@
       "localized": {
         "title": "ASMR Programming - Countdown App with Electron Vite, TailwindCSS and DaisyUI",
         "description": "Instagram: https://www.instagram.com/kodelebah/\nWebsite: https://www.kodelebah.com/\n\nSource Code: https://github.com/rahmat-dev/countdown-app\nAlert Sound: https://mixkit.co/free-sound-effects/alerts/\n\n===================================\n\n00:00 Quick App Demo\n00:13 Intro\n00:21 Create an Electron Vite Project\n03:08 Install TailwindCSS\n06:18 Install DaisyUI\n07:43 Slicing Countdown App\n10:32 Add Timer Modal\n20:14 Add Countdown Functionalities\n30:47 [Bonus] Add Alert Sound\n\n===================================\n\n#asmrprogramming #coding #programming #electronjs #reactjs #tailwindcss"
-      },
-      "defaultAudioLanguage": "en"
+      }
     },
     "status": {
       "uploadStatus": "processed",
@@ -6566,7 +6561,7 @@
   },
   {
     "kind": "youtube#video",
-    "etag": "I1I1ALUeDlY159WJF3qbzu0hgow",
+    "etag": "FwmYlPoDLcRCvPQUY6tHccErD-U",
     "id": "Z4_4QKyuIkM",
     "snippet": {
       "publishedAt": "2023-03-02T17:03:06Z",
@@ -7393,7 +7388,7 @@
   },
   {
     "kind": "youtube#video",
-    "etag": "1JDsLzhx1fUx5C27Dg5ie1X5m5k",
+    "etag": "k50-KI1VP71jZSLIQQFI1rxwVxA",
     "id": "9quJEOVW9Bk",
     "snippet": {
       "publishedAt": "2022-10-18T12:26:10Z",
@@ -7434,8 +7429,7 @@
       "localized": {
         "title": "DaisyUi va Tailwind CSS bo'yicha | 1-dars",
         "description": "telegram:  https://t.me/WebCoder_youtobe\ninstagram: https://www.instagram.com/crazy.script/\n\ntel: +998 97-364-51-59\ntel: +998 88-364-55-45"
-      },
-      "defaultAudioLanguage": "und"
+      }
     },
     "status": {
       "uploadStatus": "processed",
@@ -7917,7 +7911,7 @@
   },
   {
     "kind": "youtube#video",
-    "etag": "eWHFZKROQr83hc7A5SlU_3scUGs",
+    "etag": "JLVAhaAerMOxTKLa8MgOIjxfLGI",
     "id": "wwsHlo7UkKk",
     "snippet": {
       "publishedAt": "2022-07-24T19:45:02Z",
@@ -8778,7 +8772,7 @@
   },
   {
     "kind": "youtube#video",
-    "etag": "i3sS6sv29ZuDUITdyTRWqv13uus",
+    "etag": "PCPILmCFTgvxQUQTdCONNai1beA",
     "id": "4QeXfv6gFfk",
     "snippet": {
       "publishedAt": "2025-01-23T17:54:39Z",
@@ -8905,7 +8899,7 @@
   },
   {
     "kind": "youtube#video",
-    "etag": "jCAYg3__d7bVamvr_IqruADj92E",
+    "etag": "KqKu_8U8VdbT3ytT3HfnKf5JCH4",
     "id": "OLREEhetOcM",
     "snippet": {
       "publishedAt": "2024-12-17T08:14:59Z",
@@ -8946,8 +8940,7 @@
       "localized": {
         "title": "Angular 19 - Tailwind DaisyUI theme toggle - Dark / Light mode",
         "description": "I showed how to toggle dark / light theme in daisy ui.\n\nDaisy UI is a meta css component library that is utilizing tailwind under the hood."
-      },
-      "defaultAudioLanguage": "en"
+      }
     },
     "status": {
       "uploadStatus": "processed",
@@ -8960,7 +8953,7 @@
   },
   {
     "kind": "youtube#video",
-    "etag": "3jP4-u9hWPKlVuRfKBjGNn-NfEk",
+    "etag": "RdLMzTeEq8CheFvglw5U-1kvZ3o",
     "id": "LWabAF3bkY4",
     "snippet": {
       "publishedAt": "2024-11-30T13:17:32Z",
@@ -9070,7 +9063,7 @@
   },
   {
     "kind": "youtube#video",
-    "etag": "tP2DPueK63jq3InEiFTCJKxXYhc",
+    "etag": "EEyBMp_Dswca8ICsDMDbxNKW0V4",
     "id": "PiRgbyj9dWo",
     "snippet": {
       "publishedAt": "2025-02-14T14:00:15Z",
