@@ -2,8 +2,8 @@ title: daisyUI Charts
 price: 3900
 from_price: 3900
 to_price: 5900
-created_at: 2026-04-2
-updated_at: 2026-04-2
+created_at: 2026-04-02
+updated_at: 2026-06-05
 bannerTitle: About Apex Charts license
 banner: This collection uses Apex Charts library for the chart integrations.
 
@@ -17,19 +17,20 @@ desc: |-
   daisyUI Charts is a collection of chart integrations for daisyUI.
 
 
-  - 39 different chart examples, easy to copy
+  - 51 different chart examples, easy to copy
+  - Skill files included for LLMs to generate charts using AI
   - Made with daisyUI and Apex Charts
   - Compatible with all daisyUI themes
   - Provides code examples for React, Vue, Svelte, Vanilla JS
   - Only one package dependency: Apex Charts (Or can be used with CDN link instead of Node package)
   - Easy copy/paste codes, no additional config or styles needed
   - Includes multiple examples for line charts, bar charts, area charts, column charts and pie charts.
-  - Coming soon: raidal chart, heatmap charts and radar charts
+  - Coming soon: radial chart, heatmap charts and radar charts
 
 media:
   - type: image
     sm: https://img.daisyui.com/images/store/small/daisyui-charts/daisyui-charts-1.webp
-    lg: https://img.daisyui.com/images/store/large/daisyui-charts/daisyui-charts-1.webp
+    lg: https://img.daisyui.com/images/store/large/daisyui-charts/daisyui-charts-1.webp?v=1.1
   - type: image
     sm: https://img.daisyui.com/images/store/small/daisyui-charts/daisyui-charts-2.webp
     lg: https://img.daisyui.com/images/store/large/daisyui-charts/daisyui-charts-2.webp
@@ -59,7 +60,8 @@ packages:
       "https://www.creem.io/payment/prod_6w7BbA5UVpkH2Y0RSf8cfg",
       "https://www.creem.io/payment/prod_2OCda6p9ogQBSDmbA2Y5ou",
     ]
-  - [Chart examples included, 39, 39]
+  - [Chart examples included, 51, 51]
+  - [daisyui-charts skill for LLM, true, true]
   - [🛠️ Frameworks, null, null]
   - [React code, true, true]
   - [Vue code, true, true]
@@ -71,6 +73,10 @@ packages:
   - [🛟 Support, null, null]
   - [Updates and bugfixes, true, true]
 changelog:
+  - version: 1.1
+    changes:
+      - Added 12 new chart examples (51 total)
+      - Introducing daisyui-charts skill! Generate charts using AI. This skill includes code examples, rules, instructions, framework syntaxes and visual descriptions for all charts. Allowing your LLM to understand how each chart looks like, how to use it and how to generate the code for it. Your LLM can choose the best chart for your project based on the visual description and instructions provided for each chart type.
   - version: 1.0
     changes:
       - 39 different chart examples
