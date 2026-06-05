@@ -43,6 +43,7 @@ media:
 links:
   license: https://api.daisyui.com/license/daisyui-charts@1.txt
   screenshot: https://img.daisyui.com/images/store/screenshots/daisyui-charts.webp
+  preview: https://charts.daisyui.com/
 tech:
   - react
   - vue
