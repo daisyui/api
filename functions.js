@@ -72,10 +72,51 @@ export const resolveCreemApiBaseUrl = (apiKey) => {
 export const isNonEmptyArray = (value) =>
   Array.isArray(value) && value.length > 0;
 
-export const mapProductIds = (productsResponse) =>
+export const mapProducts = (productsResponse) =>
   Array.isArray(productsResponse?.items)
-    ? productsResponse.items.map((product) => product.id)
+    ? productsResponse.items.map((product) => ({
+        id: product.id,
+        name: product.name,
+      }))
     : [];
+
+export const mapProductIds = (productsResponse) =>
+  mapProducts(productsResponse).map((product) => product.id);
+
+export const getProductBundleKey = (name) => {
+  const trimmed = name.trim();
+  const match = trimmed.match(/^(.+?)\s*\([^)]+\)\s*$/);
+  return match ? match[1].trim() : trimmed;
+};
+
+export const groupProductsIntoBundles = (products) => {
+  const bundles = new Map();
+
+  for (const product of products) {
+    const key = getProductBundleKey(product.name);
+    if (!bundles.has(key)) {
+      bundles.set(key, { key, productIds: [] });
+    }
+    bundles.get(key).productIds.push(product.id);
+  }
+
+  return Array.from(bundles.values());
+};
+
+export const selectRandomBundleProductIds = (products, bundleCount) => {
+  const bundles = groupProductsIntoBundles(products);
+  const selectedBundles = [];
+  const remainingBundles = [...bundles];
+  const count = Math.min(bundleCount, remainingBundles.length);
+
+  for (let i = 0; i < count; i++) {
+    const index = Math.floor(Math.random() * remainingBundles.length);
+    selectedBundles.push(remainingBundles[index]);
+    remainingBundles.splice(index, 1);
+  }
+
+  return selectedBundles.flatMap((bundle) => bundle.productIds);
+};
 
 export const getNextPage = (pagination, currentPage) => {
   const nextPage = pagination?.next_page;
@@ -129,12 +170,12 @@ const readJsonResponse = async (response) => {
   return { response, body };
 };
 
-export const fetchAllCreemProductIds = async ({
+export const fetchAllCreemProducts = async ({
   fetchImpl,
   apiBaseUrl,
   apiKey,
 }) => {
-  let allProductIds = [];
+  let allProducts = [];
   let currentPage = 1;
 
   while (currentPage !== null) {
@@ -154,11 +195,16 @@ export const fetchAllCreemProductIds = async ({
     }
 
     const data = await response.json();
-    allProductIds.push(...mapProductIds(data));
+    allProducts.push(...mapProducts(data));
     currentPage = getNextPage(data.pagination, currentPage);
   }
 
-  return allProductIds;
+  return allProducts;
+};
+
+export const fetchAllCreemProductIds = async (params) => {
+  const products = await fetchAllCreemProducts(params);
+  return products.map((product) => product.id);
 };
 
 export const createCreemDiscount = async ({

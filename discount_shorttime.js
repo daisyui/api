@@ -10,7 +10,8 @@ import {
   isNonEmptyArray,
   toStoredDiscountJson,
   buildPercentageDiscountPayload,
-  fetchAllCreemProductIds,
+  fetchAllCreemProducts,
+  selectRandomBundleProductIds,
   createCreemDiscount,
 } from "./functions.js";
 
@@ -56,7 +57,7 @@ const createDiscountMessage = (
 ) => `🎁 daisyUI Store: short time discount
   Use code \`${discountAttributes.code}\` at checkout to get ${
     discountAttributes.amount
-  }% discount on all products
+  }% discount on selected products
   ${expiresIn(discountAttributes.expiresAt)}
   https://daisyui.com/store`;
 
@@ -82,17 +83,24 @@ const run = async () => {
   }
 
   const discountAttributes = buildShorttimeDiscountAttributes();
-  const productIds = await fetchAllCreemProductIds({
+  const products = await fetchAllCreemProducts({
     fetchImpl: fetch,
     apiBaseUrl: creemApiBaseUrl,
     apiKey: creemApiKey,
   });
 
-  if (!isNonEmptyArray(productIds)) {
+  if (!isNonEmptyArray(products)) {
     throw new Error("No Creem products found to apply discount");
   }
 
-  console.log(`Fetched ${productIds.length} product IDs from Creem API`);
+  const productIds = selectRandomBundleProductIds(
+    products,
+    config.activeDiscounts,
+  );
+
+  console.log(
+    `Fetched ${products.length} products, applying discount to ${productIds.length} product IDs across up to ${config.activeDiscounts} bundles`,
+  );
 
   const payload = buildPercentageDiscountPayload({
     name: discountAttributes.name,
