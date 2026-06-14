@@ -151,7 +151,7 @@
   },
   {
     "kind": "youtube#video",
-    "etag": "7pcjnEDDlrEa4xLyQBHR6LRdpjE",
+    "etag": "sQzfp3FMpzRh7HrS-HC_xgM6Nqo",
     "id": "ky95s6eoNr4",
     "snippet": {
       "publishedAt": "2025-04-28T13:30:44Z",
@@ -736,7 +736,7 @@
   },
   {
     "kind": "youtube#video",
-    "etag": "1AFriZobBk0WsO4Ly0CBLeiffzM",
+    "etag": "ghRNAz1IlAV1nzmH_8hWFEjkal0",
     "id": "aQA4O3Njb0w",
     "snippet": {
       "publishedAt": "2025-04-02T12:59:12Z",
@@ -770,7 +770,7 @@
           "height": 720
         }
       },
-      "channelTitle": "Coding like its the 90s",
+      "channelTitle": "Indigo Tech Tutorials",
       "tags": [
         "Web development",
         "coding",
@@ -1606,7 +1606,7 @@
       "publishedAt": "2023-11-17T15:36:38Z",
       "channelId": "UCTwxaBjziKfy6y_uWu30orA",
       "title": "Django, HTMX and DaisyUI Components - Building a To-Do List App",
-      "description": "In this video, we'll build a to-do list app with Django, HTMX and DaisyUI.\n\nStarter Code: https://github.com/bugbytes-io/htmx-django-daisyui\n\nWe'll walk through adding the model and form classes, as well as styling page elements with DaisyUI component classes.\n\nWe'll then learn how to submit data using HTMX, and how to update the DOM in response to those requests, again with DaisyUI components responsible for the styles. We will see how to mark to-dos as completed, and how to remove them from the database and front-end (with help from custom HTMX events).\n\n📌 𝗖𝗵𝗮𝗽𝘁𝗲𝗿𝘀:\n00:00 Intro\n00:43 DaisyUI\n02:12 Creating Todo Django model class\n04:06 Fetching and Displaying Todos\n06:57 Adding TailwindCSS & DaisyUI\n10:12 Adding DaisyUI Table component\n11:21 Create Todo form class\n13:29 Improving form styles with django-widget-tweaks\n16:42 Adding HTMX to project\n20:49 Creating partial template with django-template-partials\n29:05 Marking to-do complete with HTMX\n33:54 Deleting Todo with HTMX\n\n☕️ 𝗕𝘂𝘆 𝗺𝗲 𝗮 𝗰𝗼𝗳𝗳𝗲𝗲:\nTo support the channel and encourage new videos, please consider buying me a coffee here:\nhttps://ko-fi.com/bugbytes\n\n▶️ Full Playlist:\nhttps://www.youtube.com/playlist?list=PL-2EBeDYMIbRByZ8GXhcnQSuv2dog4JxY\n\n𝗦𝗼𝗰𝗶𝗮𝗹 𝗠𝗲𝗱𝗶𝗮:\n📖 Blog: https://bugbytes.io/posts/\n👾 Github: https://github.com/bugbytes-io/htmx-django-daisyui\n🐦 Twitter: https://twitter.com/bugbytesio\n\n📚 𝗙𝘂𝗿𝘁𝗵𝗲𝗿 𝗿𝗲𝗮𝗱𝗶𝗻𝗴 𝗮𝗻𝗱 𝗶𝗻𝗳𝗼𝗿𝗺𝗮𝘁𝗶𝗼𝗻:\nStarter Code: https://github.com/bugbytes-io/htmx-django-daisyui\nDaisyUI: https://daisyui.com/\nDaisyUI Install: https://daisyui.com/docs/cdn/\nDaisyUI Button: https://daisyui.com/components/button/\nDaisyUI Table: https://daisyui.com/components/table/\ndjango-widget-tweaks: https://pypi.org/project/django-widget-tweaks/\nHTMX: https://htmx.org/docs/#installing\nDjango-template-partials: https://github.com/carltongibson/django-template-partials\nAdding CSRF Token to HTMX Request: https://django-htmx.readthedocs.io/en/latest/tips.html\n \n#python #django #webdevelopment #htmx",
+      "description": "In this video, we'll build a to-do list app with Django, HTMX and DaisyUI.\n\nStarter Code: https://github.com/bugbytes-io/htmx-django-daisyui\n\nWe'll walk through adding the model and form classes, as well as styling page elements with DaisyUI component classes.\n\nWe'll then learn how to submit data using HTMX, and how to update the DOM in response to those requests, again with DaisyUI components responsible for the styles. We will see how to mark to-dos as completed, and how to remove them from the database and front-end (with help from custom HTMX events).\n\n📌 𝗖𝗵𝗮𝗽𝘁𝗲𝗿𝘀:\n00:00 Intro\n00:43 DaisyUI\n02:12 Creating Todo Django model class\n04:06 Fetching and Displaying Todos\n06:57 Adding TailwindCSS & DaisyUI\n10:12 Adding DaisyUI Table component\n11:21 Create Todo form class\n13:29 Improving form styles with django-widget-tweaks\n16:42 Adding HTMX to project\n20:49 Creating partial template with django-template-partials\n29:05 Marking to-do complete with HTMX\n33:54 Deleting Todo with HTMX\n\n☕️ 𝗕𝘂𝘆 𝗺𝗲 𝗮 𝗰𝗼𝗳𝗳𝗲𝗲:\nTo support the channel and encourage new videos, please consider buying me a coffee here:\nhttps://ko-fi.com/bugbytes\n\n▶️ Full Playlist:\nhttps://www.youtube.com/playlist?list=PL-2EBeDYMIbRByZ8GXhcnQSuv2dog4JxY\n\n𝗦𝗼𝗰𝗶𝗮𝗹 𝗠𝗲𝗱𝗶𝗮:\n📖 Blog: https://bugbytes.io/posts/\n👾 Github: https://github.com/bugbytes-io/htmx-django-daisyui\n🐦 Twitter: https://twitter.com/bugbytesio\n\n📚 𝗙𝘂𝗿𝘁𝗵𝗲��� 𝗿𝗲𝗮𝗱𝗶𝗻𝗴 𝗮𝗻𝗱 𝗶𝗻𝗳𝗼𝗿𝗺𝗮𝘁𝗶𝗼𝗻:\nStarter Code: https://github.com/bugbytes-io/htmx-django-daisyui\nDaisyUI: https://daisyui.com/\nDaisyUI Install: https://daisyui.com/docs/cdn/\nDaisyUI Button: https://daisyui.com/components/button/\nDaisyUI Table: https://daisyui.com/components/table/\ndjango-widget-tweaks: https://pypi.org/project/django-widget-tweaks/\nHTMX: https://htmx.org/docs/#installing\nDjango-template-partials: https://github.com/carltongibson/django-template-partials\nAdding CSRF Token to HTMX Request: https://django-htmx.readthedocs.io/en/latest/tips.html\n \n#python #django #webdevelopment #htmx",
       "thumbnails": {
         "default": {
           "url": "https://i.ytimg.com/vi/akd7u69k27k/default.jpg",
