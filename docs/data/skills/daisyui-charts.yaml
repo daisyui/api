@@ -1,0 +1,198 @@
+title: daisyUI Charts + Skill
+short_title: Charts Skill
+price: 3900
+from_price: 3900
+to_price: 5900
+created_at: 2026-04-02
+updated_at: 2026-06-05
+desc: A big collection of beautiful charts examples, made with ApexCharts and daisyUI. Visual demos, code examples and skill files included.
+usecase: Expert in generating all kind of charts and graphs, based on daisyUI style
+
+logo: '<svg style="color: #00baa3;" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" class="size-5"><g stroke-linejoin="round" stroke-linecap="round" stroke-width="2" fill="none" stroke="currentColor"><path d="M3 3v16a2 2 0 0 0 2 2h16"></path><path d="M7 16c.5-2 1.5-7 4-7 2 0 2 3 4 3 2.5 0 4.5-5 5-7"></path></g></svg>'
+media:
+  - type: image
+    sm: https://img.daisyui.com/images/store/small/daisyui-charts/daisyui-charts-1.webp
+    lg: https://img.daisyui.com/images/store/large/daisyui-charts/daisyui-charts-1.webp?v=1.1
+  - type: image
+    sm: https://img.daisyui.com/images/store/small/daisyui-charts/daisyui-charts-2.webp
+    lg: https://img.daisyui.com/images/store/large/daisyui-charts/daisyui-charts-2.webp
+  - type: image
+    sm: https://img.daisyui.com/images/store/small/daisyui-charts/daisyui-charts-3.webp
+    lg: https://img.daisyui.com/images/store/large/daisyui-charts/daisyui-charts-3.webp
+  - type: image
+    sm: https://img.daisyui.com/images/store/small/daisyui-charts/daisyui-charts-4.webp
+    lg: https://img.daisyui.com/images/store/large/daisyui-charts/daisyui-charts-4.webp
+links:
+  # license: https://api.daisyui.com/license/daisyui-charts@1.txt
+  screenshot: https://img.daisyui.com/images/store/screenshots/daisyui-charts.webp
+  preview: https://charts.daisyui.com/
+packages:
+  - [null, Solo License, Team License]
+  - [price, 3900, 5900]
+  - [popular, false, true]
+  - [
+      checkout,
+      "https://www.creem.io/payment/prod_6w7BbA5UVpkH2Y0RSf8cfg",
+      "https://www.creem.io/payment/prod_2OCda6p9ogQBSDmbA2Y5ou",
+    ]
+  - [Chart examples included, 51, 51]
+  - [daisyui-charts skill for LLM, true, true]
+  - [🛠️ Frameworks, null, null]
+  - [React code, true, true]
+  - [Vue code, true, true]
+  - [Svelte code, true, true]
+  - [Vanilla JS code, true, true]
+  - [⚖️ License, null, null]
+  - [Developer seats, 1, Unlimited]
+  - [Projects limit, Unlimited, Unlimited]
+  - [🛟 Support, null, null]
+  - [Updates and bugfixes, true, true]
+
+faq:
+  - Q: How to install the skill?
+    A: Follow the instructions in the README file included in the package. If you have any questions, you can ask in the Discord server https://daisyui.com/discord and we will help you.
+
+filetree:
+  LOC: 11816
+  size: 508KB
+  contents:
+    - type: directory
+      name: skills
+      contents:
+        - type: directory
+          name: daisyui-charts
+          contents:
+            - type: file
+              name: SKILL.md
+            - type: directory
+              name: area-charts
+              contents:
+                - type: file
+                  name: SKILL.md
+                - type: file
+                  name: area-chart-1.md
+                - type: file
+                  name: area-chart-2.md
+                - type: file
+                  name: area-chart-3.md
+                - type: file
+                  name: area-chart-4.md
+                - type: file
+                  name: area-chart-5.md
+                - type: file
+                  name: area-chart-6.md
+                - type: file
+                  name: area-chart-7.md
+                - type: file
+                  name: area-chart-8.md
+                - type: file
+                  name: area-chart-9.md
+            - type: directory
+              name: bar-charts
+              contents:
+                - type: file
+                  name: SKILL.md
+                - type: file
+                  name: bar-chart-1.md
+                - type: file
+                  name: bar-chart-2.md
+                - type: file
+                  name: bar-chart-3.md
+                - type: file
+                  name: bar-chart-4.md
+                - type: file
+                  name: bar-chart-5.md
+                - type: file
+                  name: bar-chart-6.md
+            - type: directory
+              name: column-charts
+              contents:
+                - type: file
+                  name: SKILL.md
+                - type: file
+                  name: column-chart-1.md
+                - type: file
+                  name: column-chart-10.md
+                - type: file
+                  name: column-chart-11.md
+                - type: file
+                  name: column-chart-12.md
+                - type: file
+                  name: column-chart-2.md
+                - type: file
+                  name: column-chart-3.md
+                - type: file
+                  name: column-chart-4.md
+                - type: file
+                  name: column-chart-5.md
+                - type: file
+                  name: column-chart-6.md
+                - type: file
+                  name: column-chart-7.md
+                - type: file
+                  name: column-chart-8.md
+                - type: file
+                  name: column-chart-9.md
+            - type: directory
+              name: line-charts
+              contents:
+                - type: file
+                  name: SKILL.md
+                - type: file
+                  name: line-chart-1.md
+                - type: file
+                  name: line-chart-2.md
+                - type: file
+                  name: line-chart-3.md
+                - type: file
+                  name: line-chart-4.md
+                - type: file
+                  name: line-chart-5.md
+                - type: file
+                  name: line-chart-6.md
+                - type: file
+                  name: line-chart-7.md
+                - type: file
+                  name: line-chart-8.md
+                - type: file
+                  name: line-chart-9.md
+            - type: directory
+              name: pie-charts
+              contents:
+                - type: file
+                  name: SKILL.md
+                - type: file
+                  name: pie-chart-1.md
+                - type: file
+                  name: pie-chart-2.md
+                - type: file
+                  name: pie-chart-3.md
+                - type: file
+                  name: pie-chart-4.md
+                - type: file
+                  name: pie-chart-5.md
+                - type: file
+                  name: pie-chart-6.md
+                - type: file
+                  name: pie-chart-7.md
+            - type: directory
+              name: radial-charts
+              contents:
+                - type: file
+                  name: SKILL.md
+                - type: file
+                  name: radial-chart-1.md
+                - type: file
+                  name: radial-chart-2.md
+                - type: file
+                  name: radial-chart-3.md
+                - type: file
+                  name: radial-chart-4.md
+                - type: file
+                  name: radial-chart-5.md
+                - type: file
+                  name: radial-chart-6.md
+                - type: file
+                  name: radial-chart-7.md
+                - type: file
+                  name: radial-chart-8.md
