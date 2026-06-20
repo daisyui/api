@@ -33,9 +33,9 @@ packages:
   - [popular, false, true, false]
   - [
       checkout,
-      "https://www.creem.io/payment/xxx",
-      "https://www.creem.io/payment/xxx",
-      "https://www.creem.io/payment/xxx",
+      "https://www.creem.io/payment/prod_6LSLhVpQmoCCjGq3Nf6NKw",
+      "https://www.creem.io/payment/prod_bsA9tevVbeBUv6ZMZvqSl",
+      "https://www.creem.io/payment/prod_6aqdvSoui6zPm9fQm5K5SH",
     ]
   - [Authored skill files, true, true, true]
   - [No need for prompt engineering, true, true, true]
