@@ -41,6 +41,7 @@ desc: |-
     - Apex charts
     - 6 exclusive customizable themes
     - Compatible with all daisyUI themes
+    - 3 bonus dashboard templates (Ecommerce, Finance, Restaurant) made by [daisyUI Dashboard Skill](http://daisyui.com/skills/daisyui-dashboard/)
 
 
   Solo license:
@@ -111,6 +112,9 @@ packages:
   - [🛟 Support, null, null, null]
   - [Support in Discord, true, true, true]
   - [Updates and bugfixes, true, true, true]
+  - [Bonus, null, null, null]
+  - ["Bonus: 3 dashboard templates", true, true, true]
+  - ["Bonus: daisyUI Dashboard Skill", false, false, true]
 tech:
   - html
   - alpine
