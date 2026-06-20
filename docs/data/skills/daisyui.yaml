@@ -20,8 +20,18 @@ media:
     lg: https://img.daisyui.com/images/skills.png?1
 
 links:
-  # license: https://api.daisyui.com/license/daisyui-charts@1.txt
+  license: https://api.daisyui.com/license/daisyui-skill@1.txt
   preview: https://daisyui.com/SKILL.md
+
+faq:
+  - Q: How to install the skill?
+    A: Run the command `npx skills add saadeghi/daisyui` in your terminal. After install, prompt like "Make a daisyUI pricing card, use daisyUI skill" to generate your first component.
+  - Q: Is this free?
+    A: Yes, this skill is free to use. We want to provide this resource for everyone who wants to use daisyUI with their LLM.
+  - Q: What's the license?
+    A: This skill is licensed under the MIT License.
+  - Q: Can I contribute to this skill?
+    A: Yes, contributions are welcome! You can open a pull request on GitHub. Please make sure to follow the contribution guidelines and code of conduct.
 
 filetree:
   LOC: 1925
