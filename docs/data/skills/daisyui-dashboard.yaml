@@ -28,7 +28,7 @@ media:
     after: https://img.daisyui.com/images/store/large/dashboard-skill/finance-1-light.png
 links:
   license: https://api.daisyui.com/license/daisyui-dashboard-skill@1.txt
-  preview: https://nexus-dev.daisyui.com/bonus/
+  preview: https://nexus.daisyui.com/bonus/
 
 packages:
   - [null, Solo License, Team License, Enterprise License]
@@ -46,7 +46,8 @@ packages:
   - [Expert-level design taste, true, true, true]
   - [Avoids AI slop, true, true, true]
   - [Avoids hallucinations, true, true, true]
-  - [Compatible with all coding tools, true, true, true]
+  - [Works with all coding tools, true, true, true]
+  - [Works with all frameworks, true, true, true]
   - [⚖️ License, null, null]
   - [Developer seats, 1, 5, Unlimited]
   - [Projects limit, Unlimited, Unlimited, Unlimited]
