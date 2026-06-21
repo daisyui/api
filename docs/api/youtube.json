@@ -1286,7 +1286,7 @@
     "snippet": {
       "publishedAt": "2025-03-29T09:54:27Z",
       "channelId": "UC_-Sg3dW0yIathaX7-RtJMQ",
-      "title": "🚀 DaisyUI | Build Stunning UIs for web| Tamil Video (🔥)",
+      "title": "�� DaisyUI | Build Stunning UIs for web| Tamil Video (🔥)",
       "description": "Want to master Tailwind CSS and DaisyUI to build stunning UI components? In this tutorial, we’ll explore how to use DaisyUI 5.9.0 with React and JavaScript to create beautiful, responsive web designs effortlessly!\n\nThis video is perfect for beginners and developers looking to improve their frontend skills using Tailwind CSS, DaisyUI, and React. If you're a Tamil-speaking developer looking for a clear, step-by-step explanation, you're in the right place!\n\nWhat You'll Learn:\n✅ Tailwind CSS fundamentals & utility-first styling\n✅ DaisyUI Components – Faster UI development\n✅ React + Tailwind best practices\n✅ Responsive, modern design techniques\n✅ Real-world hands-on coding examples\n\n📌 Why Tailwind & DaisyUI?\n🚀 Speeds up frontend development\n🎨 Pre-designed UI components for quick styling\n⚡ Highly customizable & lightweight\n\n💡 Whether you’re a beginner learning JavaScript and React or an experienced developer improving your UI skills, this tutorial will help you!\n\n🔥 Watch, Learn & Build! Don’t forget to subscribe for more Tamil coding tutorials on React, JavaScript, Web Development, and UI/UX design!\n\nLet me know if you need any more tweaks! 🚀😃",
       "thumbnails": {
         "default": {
@@ -1606,7 +1606,7 @@
       "publishedAt": "2023-11-17T15:36:38Z",
       "channelId": "UCTwxaBjziKfy6y_uWu30orA",
       "title": "Django, HTMX and DaisyUI Components - Building a To-Do List App",
-      "description": "In this video, we'll build a to-do list app with Django, HTMX and DaisyUI.\n\nStarter Code: https://github.com/bugbytes-io/htmx-django-daisyui\n\nWe'll walk through adding the model and form classes, as well as styling page elements with DaisyUI component classes.\n\nWe'll then learn how to submit data using HTMX, and how to update the DOM in response to those requests, again with DaisyUI components responsible for the styles. We will see how to mark to-dos as completed, and how to remove them from the database and front-end (with help from custom HTMX events).\n\n📌 𝗖𝗵𝗮𝗽𝘁𝗲𝗿𝘀:\n00:00 Intro\n00:43 DaisyUI\n02:12 Creating Todo Django model class\n04:06 Fetching and Displaying Todos\n06:57 Adding TailwindCSS & DaisyUI\n10:12 Adding DaisyUI Table component\n11:21 Create Todo form class\n13:29 Improving form styles with django-widget-tweaks\n16:42 Adding HTMX to project\n20:49 Creating partial template with django-template-partials\n29:05 Marking to-do complete with HTMX\n33:54 Deleting Todo with HTMX\n\n☕️ 𝗕𝘂𝘆 𝗺𝗲 𝗮 𝗰𝗼𝗳𝗳𝗲𝗲:\nTo support the channel and encourage new videos, please consider buying me a coffee here:\nhttps://ko-fi.com/bugbytes\n\n▶️ Full Playlist:\nhttps://www.youtube.com/playlist?list=PL-2EBeDYMIbRByZ8GXhcnQSuv2dog4JxY\n\n𝗦𝗼𝗰𝗶𝗮𝗹 𝗠𝗲𝗱𝗶𝗮:\n📖 Blog: https://bugbytes.io/posts/\n👾 Github: https://github.com/bugbytes-io/htmx-django-daisyui\n🐦 Twitter: https://twitter.com/bugbytesio\n\n📚 𝗙𝘂𝗿𝘁𝗵𝗲��� 𝗿𝗲𝗮𝗱𝗶𝗻𝗴 𝗮𝗻𝗱 𝗶𝗻𝗳𝗼𝗿𝗺𝗮𝘁𝗶𝗼𝗻:\nStarter Code: https://github.com/bugbytes-io/htmx-django-daisyui\nDaisyUI: https://daisyui.com/\nDaisyUI Install: https://daisyui.com/docs/cdn/\nDaisyUI Button: https://daisyui.com/components/button/\nDaisyUI Table: https://daisyui.com/components/table/\ndjango-widget-tweaks: https://pypi.org/project/django-widget-tweaks/\nHTMX: https://htmx.org/docs/#installing\nDjango-template-partials: https://github.com/carltongibson/django-template-partials\nAdding CSRF Token to HTMX Request: https://django-htmx.readthedocs.io/en/latest/tips.html\n \n#python #django #webdevelopment #htmx",
+      "description": "In this video, we'll build a to-do list app with Django, HTMX and DaisyUI.\n\nStarter Code: https://github.com/bugbytes-io/htmx-django-daisyui\n\nWe'll walk through adding the model and form classes, as well as styling page elements with DaisyUI component classes.\n\nWe'll then learn how to submit data using HTMX, and how to update the DOM in response to those requests, again with DaisyUI components responsible for the styles. We will see how to mark to-dos as completed, and how to remove them from the database and front-end (with help from custom HTMX events).\n\n📌 𝗖𝗵𝗮𝗽𝘁𝗲𝗿𝘀:\n00:00 Intro\n00:43 DaisyUI\n02:12 Creating Todo Django model class\n04:06 Fetching and Displaying Todos\n06:57 Adding TailwindCSS & DaisyUI\n10:12 Adding DaisyUI Table component\n11:21 Create Todo form class\n13:29 Improving form styles with django-widget-tweaks\n16:42 Adding HTMX to project\n20:49 Creating partial template with django-template-partials\n29:05 Marking to-do complete with HTMX\n33:54 Deleting Todo with HTMX\n\n☕️ 𝗕𝘂𝘆 𝗺𝗲 𝗮 𝗰𝗼𝗳𝗳𝗲𝗲:\nTo support the channel and encourage new videos, please consider buying me a coffee here:\nhttps://ko-fi.com/bugbytes\n\n▶️ Full Playlist:\nhttps://www.youtube.com/playlist?list=PL-2EBeDYMIbRByZ8GXhcnQSuv2dog4JxY\n\n𝗦𝗼𝗰𝗶𝗮𝗹 𝗠𝗲𝗱𝗶𝗮:\n📖 Blog: https://bugbytes.io/posts/\n👾 Github: https://github.com/bugbytes-io/htmx-django-daisyui\n🐦 Twitter: https://twitter.com/bugbytesio\n\n📚 𝗙𝘂𝗿𝘁𝗵𝗲𝗿 𝗿𝗲𝗮𝗱𝗶𝗻𝗴 𝗮𝗻𝗱 𝗶𝗻𝗳𝗼𝗿𝗺𝗮𝘁𝗶𝗼𝗻:\nStarter Code: https://github.com/bugbytes-io/htmx-django-daisyui\nDaisyUI: https://daisyui.com/\nDaisyUI Install: https://daisyui.com/docs/cdn/\nDaisyUI Button: https://daisyui.com/components/button/\nDaisyUI Table: https://daisyui.com/components/table/\ndjango-widget-tweaks: https://pypi.org/project/django-widget-tweaks/\nHTMX: https://htmx.org/docs/#installing\nDjango-template-partials: https://github.com/carltongibson/django-template-partials\nAdding CSRF Token to HTMX Request: https://django-htmx.readthedocs.io/en/latest/tips.html\n \n#python #django #webdevelopment #htmx",
       "thumbnails": {
         "default": {
           "url": "https://i.ytimg.com/vi/akd7u69k27k/default.jpg",
@@ -2333,13 +2333,13 @@
   },
   {
     "kind": "youtube#video",
-    "etag": "j6AOP2v6P5Qstf8kMNCTVIcSPpM",
+    "etag": "BfaUDXbzMSSzFyW_B184OlZQgjs",
     "id": "EaaGZ7M6muE",
     "snippet": {
       "publishedAt": "2024-05-14T12:01:45Z",
       "channelId": "UCUF6OCouf0BekUYn63nsclw",
       "title": "Gagne du temps avec cette librairie TailwindCSS (DaisyUI)",
-      "description": "🚀 Prévente de ma formation pour lancer ton SaaS avec l'IA → https://prakticode.com\n\nDans cette vidéo je te présente brièvement cette librairie de composants basés sur TailwindCSS : DaisyUI.\nJe te montre comment l'installer dans ton projet Nextjs, la mettre en place dans ta config Tailwind et commencer à l'utiliser dans ton code !",
+      "description": "🚀 Lance ton SaaS en 30 jours avec l'IA, même si t'es 100% débutant en dev\n👉 Formation (accès anticipé, -100€ off) : https://prakticode.com\n\nDans cette vidéo je te présente brièvement cette librairie de composants basés sur TailwindCSS : DaisyUI.\nJe te montre comment l'installer dans ton projet Nextjs, la mettre en place dans ta config Tailwind et commencer à l'utiliser dans ton code !",
       "thumbnails": {
         "default": {
           "url": "https://i.ytimg.com/vi/EaaGZ7M6muE/default.jpg",
@@ -2385,7 +2385,7 @@
       "defaultLanguage": "fr",
       "localized": {
         "title": "Gagne du temps avec cette librairie TailwindCSS (DaisyUI)",
-        "description": "🚀 Prévente de ma formation pour lancer ton SaaS avec l'IA → https://prakticode.com\n\nDans cette vidéo je te présente brièvement cette librairie de composants basés sur TailwindCSS : DaisyUI.\nJe te montre comment l'installer dans ton projet Nextjs, la mettre en place dans ta config Tailwind et commencer à l'utiliser dans ton code !"
+        "description": "🚀 Lance ton SaaS en 30 jours avec l'IA, même si t'es 100% débutant en dev\n👉 Formation (accès anticipé, -100€ off) : https://prakticode.com\n\nDans cette vidéo je te présente brièvement cette librairie de composants basés sur TailwindCSS : DaisyUI.\nJe te montre comment l'installer dans ton projet Nextjs, la mettre en place dans ta config Tailwind et commencer à l'utiliser dans ton code !"
       },
       "defaultAudioLanguage": "fr"
     },
@@ -3443,7 +3443,7 @@
   },
   {
     "kind": "youtube#video",
-    "etag": "On_DaN-mXZtqg7bvSeIi70TwLGM",
+    "etag": "_vMdjIPXZWuYjG0VqBlVVTw_UYY",
     "id": "Kd6n3B0JRO8",
     "snippet": {
       "publishedAt": "2023-05-11T09:07:51Z",
