@@ -202,6 +202,30 @@
       done: true
     - title: Adjust theme colors to the new Tailwind CSS 4 color palette
       done: true
+    - title: OTP component
+      done: true
+    - title: Megamenu component
+      done: true
+    - title: Aura component
+      done: true
+    - title: Vertical range slider
+      done: true
+    - title: CSS layers
+      done: true
+    - title: Icon-only drawer sidebar,
+      done: true
+    - title: Floating action button / Speed Dial
+      done: true
+    - title: Styled native HTML <select> options
+      done: true
+    - title: Hover Gallery
+      done: true
+    - title: Popover modal
+      done: true
+    - title: CSS anchor positioning
+      done: true
+    - title: MCP server
+      done: true
 - title: Docs
   done: false
   items:
@@ -215,7 +239,7 @@
       done: true
     - title: Add share feautre to Theme Generator
       done: true
-    - title: Improve llms.txt
+    - title: llms.txt
       done: true
     - title: Add OpenProps setup guide
       done: false
@@ -233,38 +257,46 @@
       done: false
     - title: Improve the loading of translation files
       done: true
-    - title: llms.txt
+    - title: Agent skill
       done: true
     - title: LLM and editor setup guides
       done: true
 - title: Future
   done: false
   items:
-    - title: CSS layers
-      done: true
-    - title: Icon-only drawer sidebar,
-      done: true
-    - title: Floating action button / Speed Dial
-      done: true
-    - title: Styled native HTML <select> options
-      done: true
-    - title: Hover Gallery
-      done: true
-    - title: Popover modal
+    - title: Corner shape
       done: false
-    - title: Mega menu
+    - title: Paged menus
       done: false
-    - title: Pre-built CSS grid layouts
+    - title: Skins
       done: false
-    - title: micro animations
+    - title: Avatar in square and triangle layouts
       done: false
-    - title: More theme effects
+    - title: Circular Rotating text
       done: false
-    - title: CSS anchor positioning
+    - title: Resizable panels
+      done: false
+    - title: Reveal component
       done: false
     - title: View transitions API
       done: false
+    - title: swap with multiple items
+      done: false
     - title: CSS color-contrast()
+      done: false
+    - title: Bottom sheet
+      done: false
+    - title: Social proof component
+      done: false
+    - title: Marquee component
+      done: false
+    - title: Ribbon component
+      done: false
+    - title: Text effects
+      done: false
+    - title: Bento grid
+      done: false
+    - title: Tooltip with popover API
       done: false
     - title: CSS relative color syntax
       done: false
@@ -272,7 +304,7 @@
       done: false
     - title: HTML invoker API
       done: false
-    - title: Tailwind CSS 5
-      done: false
     - title: CSS @scope
+      done: false
+    - title: Tailwind CSS 5
       done: false
