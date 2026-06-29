@@ -58,6 +58,8 @@ filetree:
                 - type: file
                   name: alert.md
                 - type: file
+                  name: aura.md
+                - type: file
                   name: avatar.md
                 - type: file
                   name: badge.md
@@ -124,6 +126,8 @@ filetree:
                 - type: file
                   name: mask.md
                 - type: file
+                  name: megamenu.md
+                - type: file
                   name: menu.md
                 - type: file
                   name: mockup-browser.md
@@ -137,6 +141,8 @@ filetree:
                   name: modal.md
                 - type: file
                   name: navbar.md
+                - type: file
+                  name: otp.md
                 - type: file
                   name: pagination.md
                 - type: file
