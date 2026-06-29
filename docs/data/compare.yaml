@@ -22,8 +22,8 @@ data:
         positive: true
         desc: daisyUI is framework agnostic and works everywhere
       Unique components:
-        value: 60
-        desc: daisyUI has 63 components, 59 of them are unique – for example pagination and button group are considered as same.
+        value: 65
+        desc: daisyUI has 68 components, 65 of them are unique – for example pagination and button group are considered as same.
       Built-in Themes:
         value: 35
         desc: daisyUI has 35 themes
@@ -44,13 +44,13 @@ data:
         positive: true
         desc:
       GitHub stars:
-        value: 39000
+        value: 41000
         desc: In GitHub's top 400 repositories of all time
       Used by open source projects:
-        value: 430000
+        value: 431000
         desc: Based on GitHub's public repositories
       NPM downloads:
-        value: 510000
+        value: 800000
         desc: Weekly downloads from NPM
       CDN:
         value: Yes
@@ -89,8 +89,8 @@ data:
         positive: true
         desc: daisyUI uses native CSS nesting, reducing the CSS file size
       Open GitHub issues:
-        value: 15
-        desc: As of October 2025
+        value: 19
+        desc: As of June 2026
 
   tailwindui:
     name: Tailwind UI
@@ -317,13 +317,13 @@ data:
         positive: false
         desc:
       GitHub stars:
-        value: 8400
+        value: 9300
         desc:
       Used by open source projects:
-        value: 157000
+        value: 166000
         desc: Based on GitHub's public repositories
       NPM downloads:
-        value: 390000
+        value: 634000
         desc: Weekly downloads from NPM
       CDN:
         value: Yes
@@ -362,8 +362,8 @@ data:
         positive: false
         desc: Flowbite doesn not use native CSS nesting
       Open GitHub issues:
-        value: 184
-        desc: As of April 2025
+        value: 214
+        desc: As of June 2026
 
   mui:
     name: MUI
@@ -403,13 +403,13 @@ data:
         positive: false
         desc:
       GitHub stars:
-        value: 95300
+        value: 98500
         desc:
       Used by open source projects:
-        value: 1400000
+        value: 1980000
         desc: Based on GitHub's public repositories
       NPM downloads:
-        value: 5000000
+        value: 7900000
         desc: Weekly downloads from NPM
       CDN:
         value: No
@@ -448,8 +448,8 @@ data:
         positive: false
         desc: MUI doesn not use native CSS nesting
       Open GitHub issues:
-        value: 1700
-        desc: As of April 2025
+        value: 1400
+        desc: As of June 2026
 
   shadcn:
     name: shadcn/ui
@@ -467,8 +467,8 @@ data:
         positive: false
         desc: shadcn only works with React
       Unique components:
-        value: 43
-        desc: shadcn has 50 components, 43 of them are unique – for example pagination and button group are considered as same.
+        value: 44
+        desc: shadcn has 64 components, 44 of them are unique – for example pagination and button group are considered as same.
       Built-in Themes:
         value: 2
         desc: shadcn has 2 themes
@@ -489,13 +489,13 @@ data:
         positive: false
         desc:
       GitHub stars:
-        value: 84900
+        value: 118000
         desc:
       Used by open source projects:
-        value: 22600
+        value: 21000
         desc: Based on GitHub's public repositories
       NPM downloads:
-        value: 173000
+        value: 4700000
         desc: Weekly downloads from NPM
       CDN:
         value: No
@@ -546,8 +546,8 @@ data:
         positive: false
         desc: shadcn works as a registry of components, rather than a library. The CLI tool generates component files in your project. After that, there's no versioning, no updates, and no compatibility guarantees between components.
       Open GitHub issues:
-        value: 895
-        desc: As of April 2025
+        value: 1007
+        desc: As of June 2026
 
   preline:
     name: Preline UI
@@ -587,13 +587,13 @@ data:
         positive: false
         desc:
       GitHub stars:
-        value: 5400
+        value: 6300
         desc:
       Used by open source projects:
-        value: 12700
+        value: 14000
         desc: Based on GitHub's public repositories
       NPM downloads:
-        value: 32000
+        value: 58000
         desc: Weekly downloads from NPM
       CDN:
         value: Yes
@@ -632,8 +632,8 @@ data:
         positive: false
         desc: Preline doesn not use native CSS nesting
       Open GitHub issues:
-        value: 37
-        desc: As of April 2025
+        value: 7
+        desc: As of June 2026
 
   hyperui:
     name: HyperUI
@@ -672,7 +672,7 @@ data:
         positive: false
         desc: HyperUI has no dependencies, but it requires @tailwindcss/forms plugin
       GitHub stars:
-        value: 11000
+        value: 12000
         desc:
       Used by open source projects:
         value: "?"
@@ -718,7 +718,7 @@ data:
         desc: HyperUI doesn not use native CSS nesting
       Open GitHub issues:
         value: 0
-        desc: As of April 2025
+        desc: As of June 2029
 
   merakiui:
     name: Meraki UI
@@ -802,8 +802,8 @@ data:
         positive: false
         desc: Meraki UI doesn not use native CSS nesting
       Open GitHub issues:
-        value: 0
-        desc: As of April 2025
+        value: 3
+        desc: As of June 2026
 
   nuxtui:
     name: NuxtUI
@@ -843,13 +843,13 @@ data:
         positive: false
         desc:
       GitHub stars:
-        value: 4700
+        value: 6700
         desc:
       Used by open source projects:
         value: "?"
         desc: No data available
       NPM downloads:
-        value: 71000
+        value: 412000
         desc: Weekly downloads from NPM
       CDN:
         value: No
@@ -888,8 +888,8 @@ data:
         positive: false
         desc: NuxtUI doesn not use native CSS nesting
       Open GitHub issues:
-        value: 316
-        desc: As of April 2025
+        value: 188
+        desc: As of June 2026
 
   heroui:
     name: HeroUI
@@ -929,13 +929,13 @@ data:
         positive: false
         desc:
       GitHub stars:
-        value: 23800
+        value: 29700
         desc:
       Used by open source projects:
         value: 71000
         desc: Based on GitHub's public repositories
       NPM downloads:
-        value: 81000
+        value: 420000
         desc: Weekly downloads from NPM
       CDN:
         value: No
@@ -974,8 +974,8 @@ data:
         positive: false
         desc: HeroUI doesn not use native CSS nesting
       Open GitHub issues:
-        value: 280
-        desc: As of April 2025
+        value: 31
+        desc: As of June 2026
 
   bootstrap:
     name: Bootstrap
@@ -1015,7 +1015,7 @@ data:
         positive: true
         desc:
       GitHub stars:
-        value: 172000
+        value: 174000
         desc:
       Used by open source projects:
         value: 6300000
@@ -1060,8 +1060,8 @@ data:
         positive: false
         desc: Bootstrap doesn not use native CSS nesting
       Open GitHub issues:
-        value: 479
-        desc: As of April 2025
+        value: 158
+        desc: As of June 2026
 
   chakra:
     name: Chakra UI
@@ -1101,13 +1101,13 @@ data:
         positive: false
         desc:
       GitHub stars:
-        value: 38900
+        value: 40000
         desc:
       Used by open source projects:
         value: 372000
         desc: Based on GitHub's public repositories
       NPM downloads:
-        value: 721000
+        value: 1791000
         desc: Weekly downloads from NPM
       CDN:
         value: No
@@ -1146,8 +1146,8 @@ data:
         positive: false
         desc: Chakra UI doesn not use native CSS nesting
       Open GitHub issues:
-        value: 2
-        desc: As of April 2025
+        value: 1
+        desc: As of June 2026
 
   bulma:
     name: Bulma
@@ -1190,13 +1190,13 @@ data:
         positive: false
         desc: Bulma does not have any dependencies but all interactivities require custom JavaScript. There's an unofficial @vizuaalog/bulmajs package that provides interactivity.
       GitHub stars:
-        value: 49700
+        value: 50100
         desc:
       Used by open source projects:
         value: 259000
         desc: Based on GitHub's public repositories
       NPM downloads:
-        value: 201000
+        value: 354000
         desc: Weekly downloads from NPM
       CDN:
         value: Yes
@@ -1235,8 +1235,8 @@ data:
         positive: false
         desc: Bulma doesn not use native CSS nesting
       Open GitHub issues:
-        value: 317
-        desc: As of April 2025
+        value: 346
+        desc: As of June 2026
 
   radix:
     name: Radix
@@ -1276,13 +1276,13 @@ data:
         positive: false
         desc:
       GitHub stars:
-        value: 6600
+        value: 8500
         desc:
       Used by open source projects:
         value: "?"
         desc: No data available
       NPM downloads:
-        value: 165000
+        value: 681000
         desc: Weekly downloads from NPM
       CDN:
         value: No
@@ -1321,8 +1321,8 @@ data:
         positive: false
         desc: Radix Themes doesn not use native CSS nesting
       Open GitHub issues:
-        value: 104
-        desc: As of April 2025
+        value: 153
+        desc: As of June 2026
 
   flux:
     name: Flux
@@ -1369,7 +1369,7 @@ data:
         positive: true
         desc: Flux has no JS dependencies but it requires Laravel Livewire.
       GitHub stars:
-        value: 690
+        value: 951
         desc:
       Used by open source projects:
         value: "?"
@@ -1414,5 +1414,5 @@ data:
         positive: false
         desc: Flux doesn not use native CSS nesting
       Open GitHub issues:
-        value: 7
-        desc: As of April 2025
+        value: 19
+        desc: As of June 2026
