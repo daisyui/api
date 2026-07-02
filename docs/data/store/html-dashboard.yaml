@@ -1,4 +1,4 @@
-title: HTML Dashboard template
+title: HTML Dashboard template 2.0
 # buy_now_url: "https://daisyui.lemonsqueezy.com/checkout/buy/3c805f3d-77a5-440b-9e4d-e775005db6c9"
 buy_now_url: https://www.creem.io/payment/prod_1b0GJj59ORMjGvf2G1Czjh
 price: 2900
@@ -8,62 +8,88 @@ to_price: 2900
 # displayprice: 0
 # displaypricenote: with discount
 created_at: 2023-10-12
-updated_at: 2023-10-12
+updated_at: 2026-07-02
 desc: |-
-  Production-ready admin dashboard template to use in your project right now.
+  HTML Admin dashboard template to use in your project right now.
 
   Features:
-    - HTML admin dashboard layout made with daisyUI 5
+    - HTML admin dashboard UI made with daisyUI 5
+    - 90 pages, with every possible UI blocks needed for a dashboard
     - Web component charts
     - Framework agnostic. Can be used everywhere
-    - No dependencies
+    - No dependencies. No JS file in production. Uses CDN links for charts
 
 
   Including:
-    - 2 exclusive daisyUI themes (dark/light) + Compatible with all 32 daisyUI themes
-    - Responsive grid layout
-    - 14 blocks of useful sections for dashboard
-    - Sidebar with collapsible submenus
-    - Tables and Item lists
-    - Dropdown menus
-    - Charts and forms
+    - 90 pages, with tables, forms, charts, cards and other daisyUI UI blocks
+      - Dashboard main page
+      - 9 Product management pages: list, new, detail, edit, categories, inventory,
+        stats, performance, logs, tags
+      - 10 User management pages: list, new, detail, edit, roles, role new, role edit,
+        permissions, payments, products, stats, logs
+      - 5 Order management pages: list, detail, fulfillment, returns, abandoned
+        checkouts
+      - 4 Customer management pages: list, detail, segments, notes
+      - 4 Transaction pages: list, detail, refunds, logs
+      - 7 Analytics pages: overview, products, reports, sales, support, traffic, users
+      - 6 Message/support pages: inbox, detail, agents, agent new, agent edit,
+        departments, canned replies
+      - 5 Media pages: library, upload, edit, folders, settings
+      - 5 Blog pages: posts, new post, edit post, categories, tags, comments
+      - 4 Content pages: list, new, edit, revisions
+      - 4 Marketing pages: campaigns, audiences, automations, email
+      - 4 Promotions pages: campaigns, coupons, discounts, gift cards
+      - 8 Settings pages: general, commerce, integrations, notifications, payments,
+        security, shipping, taxes
+      - 4 Plugin pages: list, add, logs, settings
+      - 5 Tools pages: import, export, scheduled jobs, system health, audit logs
+      - daisyUI Skill
+      - AGENTS.md file
+
 media:
   - type: image
-    sm: https://img.daisyui.com/images/store/small/html-dashboard/html-dashboard-1.webp
-    lg: https://img.daisyui.com/images/store/large/html-dashboard/html-dashboard-1.webp
+    sm: https://img.daisyui.com/images/store/small/html-dashboard/html-dashboard@2-1.webp?1
+    lg: https://img.daisyui.com/images/store/large/html-dashboard/html-dashboard@2-1.webp?1
   - type: image
-    sm: https://img.daisyui.com/images/store/small/html-dashboard/html-dashboard-2.webp
-    lg: https://img.daisyui.com/images/store/large/html-dashboard/html-dashboard-2.webp
+    sm: https://img.daisyui.com/images/store/small/html-dashboard/html-dashboard@2-2.webp?1
+    lg: https://img.daisyui.com/images/store/large/html-dashboard/html-dashboard@2-2.webp?1
   - type: image
-    sm: https://img.daisyui.com/images/store/small/html-dashboard/html-dashboard-3.webp
-    lg: https://img.daisyui.com/images/store/large/html-dashboard/html-dashboard-3.webp
+    sm: https://img.daisyui.com/images/store/small/html-dashboard/html-dashboard@2-3.webp?1
+    lg: https://img.daisyui.com/images/store/large/html-dashboard/html-dashboard@2-3.webp?1
   - type: image
-    sm: https://img.daisyui.com/images/store/small/html-dashboard/html-dashboard-4.webp
-    lg: https://img.daisyui.com/images/store/large/html-dashboard/html-dashboard-4.webp
+    sm: https://img.daisyui.com/images/store/small/html-dashboard/html-dashboard@2-4.webp?1
+    lg: https://img.daisyui.com/images/store/large/html-dashboard/html-dashboard@2-4.webp?1
   - type: image
-    sm: https://img.daisyui.com/images/store/small/html-dashboard/html-dashboard-5.webp
-    lg: https://img.daisyui.com/images/store/large/html-dashboard/html-dashboard-5.webp
-  - type: image
-    sm: https://img.daisyui.com/images/store/small/html-dashboard/html-dashboard-6.webp
-    lg: https://img.daisyui.com/images/store/large/html-dashboard/html-dashboard-6.webp
-  - type: image
-    sm: https://img.daisyui.com/images/store/small/html-dashboard/html-dashboard-7.webp
-    lg: https://img.daisyui.com/images/store/large/html-dashboard/html-dashboard-7.webp
-  - type: image
-    sm: https://img.daisyui.com/images/store/small/html-dashboard/html-dashboard-8.webp
-    lg: https://img.daisyui.com/images/store/large/html-dashboard/html-dashboard-8.webp
-  - type: image
-    sm: https://img.daisyui.com/images/store/small/html-dashboard/html-dashboard-9.webp
-    lg: https://img.daisyui.com/images/store/large/html-dashboard/html-dashboard-9.webp
+    sm: https://img.daisyui.com/images/store/small/html-dashboard/html-dashboard@2-5.webp?1
+    lg: https://img.daisyui.com/images/store/large/html-dashboard/html-dashboard@2-5.webp?1
 links:
   license: https://api.daisyui.com/license/html-dashboard@1.txt
-  screenshot: https://img.daisyui.com/images/store/screenshots/dashboard.webp
+  preview: https://html-dashboard.daisyui.com/
+  screenshot: https://img.daisyui.com/images/store/screenshots/dashboard@2.webp
 tech:
   - html
   - webcomponents
 tags:
   - dashboard
-# badge:
-#   class: badge-success
-#   icon: check
-#   text: Updated to daisyUI 5
+changelog:
+  - version: 2.0.0
+    changes:
+      - Redesign homepage
+      - "Added 9 Product management pages: list, new, detail, edit, categories, inventory, stats, performance, logs, tags"
+      - "Added 10 User management pages: list, new, detail, edit, roles, role new, role edit, permissions, payments, products, stats, logs"
+      - "Added 5 Order management pages: list, detail, fulfillment, returns, abandoned checkouts"
+      - "Added 4 Customer management pages: list, detail, segments, notes"
+      - "Added 4 Transaction pages: list, detail, refunds, logs"
+      - "Added 7 Analytics pages: overview, products, reports, sales, support, traffic, users"
+      - "Added 6 Message/support pages: inbox, detail, agents, agent new, agent edit, departments, canned replies"
+      - "Added 5 Media pages: library, upload, edit, folders, settings"
+      - "Added 5 Blog pages: posts, new post, edit post, categories, tags, comments"
+      - "Added 4 Content pages: list, new, edit, revisions"
+      - "Added 4 Marketing pages: campaigns, audiences, automations, email"
+      - "Added 4 Promotions pages: campaigns, coupons, discounts, gift cards"
+      - "Added 8 Settings pages: general, commerce, integrations, notifications, payments, security, shipping, taxes"
+      - "Added 4 Plugin pages: list, add, logs, settings"
+      - "Added 5 Tools pages: import, export, scheduled jobs, system health, audit logs"
+      - Updated daisyUI and Tailwind CSS
+      - Added AGENTS.md file
+      - Added daisyUI skill
