@@ -736,7 +736,7 @@
   },
   {
     "kind": "youtube#video",
-    "etag": "ghRNAz1IlAV1nzmH_8hWFEjkal0",
+    "etag": "5n0GCp-EAyU-5O4pZV5SSooFP2o",
     "id": "aQA4O3Njb0w",
     "snippet": {
       "publishedAt": "2025-04-02T12:59:12Z",
@@ -792,7 +792,8 @@
       "localized": {
         "title": "How To Build a Social Media App With Ruby on Rails & DaisyUI",
         "description": "In this video I show you how to build a social media app using Ruby on Rails and the DaisyUI library for frontend components. This was a really fun video to make and I hope this helps someone. Overall DaisyUI was cool but the carousels where not great.. Let me know if you want to see a part 2 and I will continue on building more functionality in this app!\n\nDownload the source code for this video 100% free on Github\nhttps://github.com/indigotechtutorials/Daisy-Social\n\n#rubyonrails #learnrubyonrails ."
-      }
+      },
+      "defaultAudioLanguage": "en"
     },
     "status": {
       "uploadStatus": "processed",
@@ -1226,13 +1227,13 @@
   },
   {
     "kind": "youtube#video",
-    "etag": "E0uCV_uLLZE44rZ9xQvvdKLBP-Q",
+    "etag": "zBoqMtr7-Eqc4FMTwg1JCtj6AKg",
     "id": "RkSnBpPh12o",
     "snippet": {
       "publishedAt": "2025-03-28T11:28:13Z",
       "channelId": "UCTwxaBjziKfy6y_uWu30orA",
       "title": "django-vite - HTMX, Alpine.js and TailwindCSS Plugin Installation",
-      "description": "☕️ 𝗕𝘂𝘆 𝗺𝗲 𝗮 𝗰𝗼𝗳𝗳𝗲𝗲:\nTo support the channel and encourage new videos, please consider buying me a coffee here:\nhttps://ko-fi.com/bugbytes\n\nIn this video, we'll expand on the previous video and setup django-vite with TailwindCSS Plugins, HTMX and Alpine.js. The method presented will be extendable to any JS client-side package.\n \n📌 𝗖𝗵𝗮𝗽𝘁𝗲𝗿𝘀:\n00:00 Intro\n00:39 Adding DaisyUI plugin to django-vite setup\n03:30 Adding Flowbite plugin to django-vite setup\n05:22 Adding HTMX to django-vite setup\n09:35 Adding Alpine.js to django-vite setup\n\n𝗦𝗼𝗰𝗶𝗮𝗹 𝗠𝗲𝗱𝗶𝗮:\n📖 Blog: https://bugbytes.io/posts/\n👾 Github: https://github.com/bugbytes-io/\n\n�� 𝗙𝘂𝗿𝘁𝗵𝗲𝗿 𝗿𝗲𝗮𝗱𝗶𝗻𝗴 𝗮𝗻𝗱 𝗶𝗻𝗳𝗼𝗿𝗺𝗮𝘁𝗶𝗼𝗻:\nDjango-vite: https://github.com/MrBin99/django-vite\nVite: https://vite.dev/\nHTMX: https://htmx.org/docs/#installing \nAlpineJS: https://alpinejs.dev/essentials/installation \nDaisyUI: https://daisyui.com/docs/install/\nFlowbite: https://flowbite.com/docs/getting-started/quickstart/#getting-started\n\n#python #django #tailwindcss #vitejs #htmx",
+      "description": "☕️ 𝗕𝘂𝘆 𝗺𝗲 𝗮 𝗰𝗼𝗳𝗳𝗲𝗲:\nTo support the channel and encourage new videos, please consider buying me a coffee here:\nhttps://ko-fi.com/bugbytes\n\nIn this video, we'll expand on the previous video and setup django-vite with TailwindCSS Plugins, HTMX and Alpine.js. The method presented will be extendable to any JS client-side package.\n \n📌 𝗖𝗵𝗮𝗽𝘁𝗲𝗿𝘀:\n00:00 Intro\n00:39 Adding DaisyUI plugin to django-vite setup\n03:30 Adding Flowbite plugin to django-vite setup\n05:22 Adding HTMX to django-vite setup\n09:35 Adding Alpine.js to django-vite setup\n\n𝗦𝗼𝗰𝗶𝗮𝗹 𝗠𝗲𝗱𝗶𝗮:\n📖 Blog: https://bugbytes.io/posts/\n👾 Github: https://github.com/bugbytes-io/\n\n📚 𝗙𝘂𝗿𝘁𝗵𝗲𝗿 𝗿𝗲𝗮𝗱𝗶𝗻𝗴 𝗮𝗻𝗱 𝗶𝗻𝗳𝗼𝗿𝗺𝗮𝘁𝗶𝗼𝗻:\nDjango-vite: https://github.com/MrBin99/django-vite\nVite: https://vite.dev/\nHTMX: https://htmx.org/docs/#installing \nAlpineJS: https://alpinejs.dev/essentials/installation \nDaisyUI: https://daisyui.com/docs/install/\nFlowbite: https://flowbite.com/docs/getting-started/quickstart/#getting-started\n\n#python #django #tailwindcss #vitejs #htmx",
       "thumbnails": {
         "default": {
           "url": "https://i.ytimg.com/vi/RkSnBpPh12o/default.jpg",
@@ -7869,7 +7870,7 @@
       "liveBroadcastContent": "none",
       "defaultLanguage": "ko",
       "localized": {
-        "title": "22 08 24 로그인예제 1강 tailwind daisyui 세팅",
+        "title": "22 08 24 로그인예제 1�� tailwind daisyui 세팅",
         "description": ""
       }
     },
@@ -9316,7 +9317,7 @@
   },
   {
     "kind": "youtube#video",
-    "etag": "IeAPl8AqsEYeRMbO-jODmpC4JkQ",
+    "etag": "txXIdtqgxziUljjrAcsLR7g6WzQ",
     "id": "6-fVLzcbvi4",
     "snippet": {
       "publishedAt": "2025-09-14T10:30:04Z",
