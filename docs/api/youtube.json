@@ -206,7 +206,7 @@
   },
   {
     "kind": "youtube#video",
-    "etag": "5NLXuuh2bKiptG3ZuX7J96WlAtY",
+    "etag": "o8bCWG5ys8toARtxQ3ILO8aSQ9E",
     "id": "PPXktTJXMPE",
     "snippet": {
       "publishedAt": "2025-01-22T00:00:55Z",
@@ -265,7 +265,7 @@
       "defaultLanguage": "en",
       "localized": {
         "title": "Build a Mobile App Fast! React + Capacitor + Tailwind + DaisyUI",
-        "description": "Build a Mobile App Fast! React + Capacitor + Tailwind + DaisyUI\n#daisyui #tailwindcss #reactjs #capacitorjs \n\n🚀 Build & Deploy a Mobile App with React, Capacitor, TailwindCSS & DaisyUI – Step by Step! 🎨📱\n\nIn this tutorial, I'll guide you through the entire process of setting up a mobile app using React, Capacitor, TailwindCSS, and DaisyUI. Whether you're a beginner or an experienced developer, this step-by-step guide will help you integrate TailwindCSS and DaisyUI seamlessly, giving your app a clean and modern design.\n\nBut that’s not all! I’ll also walk you through the Capacitor JS commands needed to package and deploy your app on iOS and Android—so you can take your project from development to a fully functional mobile app! 🚀\n\n⏱️ Chapters\n=================\n00:00 - Introduction\n01:58 - Step 1 - Create vite react typescript project\n05:46 - Step 2 - Add DaisyUI\n08:17 - Step 3 - Add Capacitor\n11:05 - Step 4 - Deploy on Device\n\nInstallation & Setup Guides\n- Capacitor CLI Commands: https://capacitorjs.com/docs/getting-started\n- Building & Deploying with Capacitor: https://capacitorjs.com/docs/guides/building-your-app\n- Adding TailwindCSS to a Project: https://tailwindcss.com/docs/installation\n- Using DaisyUI Components: https://daisyui.com/components/\n\nMS Code Ionic Plugin\n- https://ionicframework.com/docs/intro/vscode-extension\n\nSource Code\n- https://github.com/aaronksaunders/my-daisyui-capacitor-project\n\n ---\n⚡ \"For teams or developers looking for specialized advisory on the Vue, React, Ionic Framework, and Capacitor stack for mobile apps, I offer targeted consulting sessions. Feel free to get in touch to discuss how I can help.\"\n\n- 🎥 [YouTube Channel](https://www.youtube.com/channel/UCMCcqbJpyL3LAv3PJeYz2bg/)\n- 🐦 [Twitter](https://x.com/aaronksaunders)\n- 💼 [LinkedIn](https://www.linkedin.com/in/aaronksaunders/)\n- 🌐 [GitHub](https://github.com/aaronksaunders)\n---\n\n#React #Capacitor #TailwindCSS #DaisyUI #MobileApp #WebDevelopment #uiux"
+        "description": "Build a Mobile App Fast! React + Capacitor + Tailwind + DaisyUI\n#daisyui #tailwindcss #reactjs #capacitorjs \n\n🚀 Build & Deploy a Mobile App with React, Capacitor, TailwindCSS & DaisyUI – Step by Step! 🎨📱\n\nIn this tutorial, I'll guide you through the entire process of setting up a mobile app using React, Capacitor, TailwindCSS, and DaisyUI. Whether you're a beginner or an experienced developer, this step-by-step guide will help you integrate TailwindCSS and DaisyUI seamlessly, giving your app a clean and modern design.\n\nBut that’s not all! I’ll also walk you through the Capacitor JS commands needed to package and deploy your app on iOS and Android—so you can take your project from development to a fully functional mobile app! 🚀\n\n⏱️ Chapters\n=================\n00:00 - Introduction\n01:58 - Step 1 - Create vite react typescript project\n05:46 - Step 2 - Add DaisyUI\n08:17 - Step 3 - Add Capacitor\n11:05 - Step 4 - Deploy on Device\n\nInstallation & Setup Guides\n- Capacitor CLI Commands: https://capacitorjs.com/docs/getting-started\n- Building & Deploying with Capacitor: https://capacitorjs.com/docs/guides/building-your-app\n- Adding TailwindCSS to a Project: https://tailwindcss.com/docs/installation\n- Using DaisyUI Components: https://daisyui.com/components/\n\nMS Code Ionic Plugin\n- https://ionicframework.com/docs/intro/vscode-extension\n\nSource Code\n- https://github.com/aaronksaunders/my-daisyui-capacitor-project\n\n ---\n�� \"For teams or developers looking for specialized advisory on the Vue, React, Ionic Framework, and Capacitor stack for mobile apps, I offer targeted consulting sessions. Feel free to get in touch to discuss how I can help.\"\n\n- 🎥 [YouTube Channel](https://www.youtube.com/channel/UCMCcqbJpyL3LAv3PJeYz2bg/)\n- 🐦 [Twitter](https://x.com/aaronksaunders)\n- 💼 [LinkedIn](https://www.linkedin.com/in/aaronksaunders/)\n- 🌐 [GitHub](https://github.com/aaronksaunders)\n---\n\n#React #Capacitor #TailwindCSS #DaisyUI #MobileApp #WebDevelopment #uiux"
       },
       "defaultAudioLanguage": "en-US"
     },
@@ -736,7 +736,7 @@
   },
   {
     "kind": "youtube#video",
-    "etag": "5n0GCp-EAyU-5O4pZV5SSooFP2o",
+    "etag": "IzHBRrObLEIwZoDiUMNzAYimmF4",
     "id": "aQA4O3Njb0w",
     "snippet": {
       "publishedAt": "2025-04-02T12:59:12Z",
@@ -792,8 +792,7 @@
       "localized": {
         "title": "How To Build a Social Media App With Ruby on Rails & DaisyUI",
         "description": "In this video I show you how to build a social media app using Ruby on Rails and the DaisyUI library for frontend components. This was a really fun video to make and I hope this helps someone. Overall DaisyUI was cool but the carousels where not great.. Let me know if you want to see a part 2 and I will continue on building more functionality in this app!\n\nDownload the source code for this video 100% free on Github\nhttps://github.com/indigotechtutorials/Daisy-Social\n\n#rubyonrails #learnrubyonrails ."
-      },
-      "defaultAudioLanguage": "en"
+      }
     },
     "status": {
       "uploadStatus": "processed",
@@ -1233,7 +1232,7 @@
       "publishedAt": "2025-03-28T11:28:13Z",
       "channelId": "UCTwxaBjziKfy6y_uWu30orA",
       "title": "django-vite - HTMX, Alpine.js and TailwindCSS Plugin Installation",
-      "description": "☕️ 𝗕𝘂𝘆 𝗺𝗲 𝗮 𝗰𝗼𝗳𝗳𝗲𝗲:\nTo support the channel and encourage new videos, please consider buying me a coffee here:\nhttps://ko-fi.com/bugbytes\n\nIn this video, we'll expand on the previous video and setup django-vite with TailwindCSS Plugins, HTMX and Alpine.js. The method presented will be extendable to any JS client-side package.\n \n📌 𝗖𝗵𝗮𝗽𝘁𝗲𝗿𝘀:\n00:00 Intro\n00:39 Adding DaisyUI plugin to django-vite setup\n03:30 Adding Flowbite plugin to django-vite setup\n05:22 Adding HTMX to django-vite setup\n09:35 Adding Alpine.js to django-vite setup\n\n𝗦𝗼𝗰𝗶𝗮𝗹 𝗠𝗲𝗱𝗶𝗮:\n📖 Blog: https://bugbytes.io/posts/\n👾 Github: https://github.com/bugbytes-io/\n\n📚 𝗙𝘂𝗿𝘁𝗵𝗲𝗿 𝗿𝗲𝗮𝗱𝗶𝗻𝗴 𝗮𝗻𝗱 𝗶𝗻𝗳𝗼𝗿𝗺𝗮𝘁𝗶𝗼𝗻:\nDjango-vite: https://github.com/MrBin99/django-vite\nVite: https://vite.dev/\nHTMX: https://htmx.org/docs/#installing \nAlpineJS: https://alpinejs.dev/essentials/installation \nDaisyUI: https://daisyui.com/docs/install/\nFlowbite: https://flowbite.com/docs/getting-started/quickstart/#getting-started\n\n#python #django #tailwindcss #vitejs #htmx",
+      "description": "☕️ 𝗕𝘂𝘆 𝗺𝗲 𝗮 𝗰𝗼𝗳𝗳𝗲𝗲:\nTo support the channel and encourage new videos, please consider buying me a coffee here:\nhttps://ko-fi.com/bugbytes\n\nIn this video, we'll expand on the previous video and setup django-vite with TailwindCSS Plugins, HTMX and Alpine.js. The method presented will be extendable to any JS client-side package.\n \n📌 𝗖𝗵𝗮𝗽𝘁𝗲𝗿𝘀:\n00:00 Intro\n00:39 Adding DaisyUI plugin to django-vite setup\n03:30 Adding Flowbite plugin to django-vite setup\n05:22 Adding HTMX to django-vite setup\n09:35 Adding Alpine.js to django-vite setup\n\n𝗦𝗼𝗰𝗶𝗮𝗹 𝗠𝗲𝗱𝗶𝗮:\n📖 Blog: https://bugbytes.io/posts/\n👾 Github: https://github.com/bugbytes-io/\n\n�� 𝗙𝘂𝗿𝘁𝗵𝗲𝗿 𝗿𝗲𝗮𝗱𝗶𝗻𝗴 𝗮𝗻𝗱 𝗶𝗻𝗳𝗼𝗿𝗺𝗮𝘁𝗶𝗼𝗻:\nDjango-vite: https://github.com/MrBin99/django-vite\nVite: https://vite.dev/\nHTMX: https://htmx.org/docs/#installing \nAlpineJS: https://alpinejs.dev/essentials/installation \nDaisyUI: https://daisyui.com/docs/install/\nFlowbite: https://flowbite.com/docs/getting-started/quickstart/#getting-started\n\n#python #django #tailwindcss #vitejs #htmx",
       "thumbnails": {
         "default": {
           "url": "https://i.ytimg.com/vi/RkSnBpPh12o/default.jpg",
@@ -2057,7 +2056,7 @@
   },
   {
     "kind": "youtube#video",
-    "etag": "SE4bIHsBuDc6rcL973Cqzl4oiPU",
+    "etag": "S0Xr702nipKis076x3Y9H-hmrMs",
     "id": "ovPZ_oWRdVU",
     "snippet": {
       "publishedAt": "2023-10-17T09:43:53Z",
@@ -4801,7 +4800,7 @@
       "defaultLanguage": "ar",
       "localized": {
         "title": "طريقة بناء شات بوت مثل ChatGPT ب استخدام React | Langchain | daisyUI",
-        "description": "في هذا الفيديو سنقوم ب إنشاء تطبيق مشابه ل ChatGPT ب استخدام الذكاء الاصطناعي و React , Langchain و daisyUI.\nهذا الفيديو تطبيق عملي لسلسلة دروس Langchain الموجودة في القناة على الرابط التالي:\nhttps://bit.ly/langchain-playlist\n\nلايك واشتراك اذا عجبك الفيديو وديس لايك اذا ما عجبك وقولي رأيك في التعليقات. \n\nشكراً للمتابعة."
+        "description": "في هذا الفيديو سنقوم ب إنشاء تطبيق مشابه ل ChatGPT ب استخدام الذكاء الاصطناعي و React , Langchain و daisyUI.\nهذا الفيديو تطبيق عملي لسلسلة دروس Langchain الموجودة في القناة على الرابط التالي:\nhttps://bit.ly/langchain-playlist\n\nلايك واشتراك اذا عجبك الفيديو وديس لايك اذا ما عجب�� وقولي رأيك في التعليقات. \n\nشكراً للمتابعة."
       },
       "defaultAudioLanguage": "ar"
     },
@@ -4822,7 +4821,7 @@
       "publishedAt": "2023-09-16T02:45:00Z",
       "channelId": "UC3YgTINPYQmUcRt5ZcNFIZQ",
       "title": "แนะนำ Tailwind และ DaisyUI (พร้อมหยิบมาแต่ง Todo List) | VF Masterclass - EP. 6",
-      "description": "☕️ สนับสนุนช่องเราด้วยการสมัครสมาชิกช่องทางนี้ได้เลย\nhttps://www.youtube.com/channel/UC3YgTINPYQmUcRt5ZcNFIZQ/join\n\nสวัสดีสู่ตอนที่ 6 ของซีรีย์ Vue Firebase masterclass ตอนนี้เราจะพาแนะนำ Tailwind และ DaisyUI กันว่ามันคืออะไร มันช่วยอำนวยความสะดวกอะไรได้บ้าง และทำไมผมถึงหยิบ technology 2 ตัวนี้มาใช้ใน project นี้ \n\nพร้อมกับเราจะนำ tailwind และ daisyUI มาแต่ง style ใน Todo list ให้สวยงามกัน\n\n** สำหรับใครที่มาดู Session นี้เลยและอยากได้ code ส่วน Todo list ให้สร้าง project ใหม่และดู code Todo List ตามเอกสารนี้ได้นะครับ\nhttps://docs.mikelopster.dev/c/vue-firebase/chapter-5/workshop\n\nหัวข้อ\n00:00 แนะนำ Session\n00:31 แนะนำ Tailwind ว่าคืออะไร\n08:04 ลง Tailwind ใน project Todo List\n11:40 แนะนำ Tailwind core concept (utility class)\n13:00 Tailwind - 1. Layout\n18:04 Tailwind - 2. Flexbox & Grid\n20:29 Tailwind - 3. Spacing\n22:55 Taliwind - 4. Sizing\n23:46 Tailwind - 5. Typography\n26:12 Tailwind - 6. Background\n27:18 Tailwind - 7. Borders\n28:29 Tailwind - 8. Effect\n29:14 Tailwind - 9. Filters\n30:11 Tailwind - 10. Table\n30:48 Tailwind - 11. Transform and Transition\n31:13 Tailwind - Handling Hover, Focus, State\n31:50 Tailwind - 12. Responsive\n33:44 การ Customize Tailwind และ Directive (group class)\n37:40 แนะนำ Daisy UI (Tailwind plugin)\n39:21 ลง DaisyUI ใน project Todo List\n40:26 DaisyUI Component - 1. Action\n42:14 DaisyUI Component - 2. Data display\n43:45 DaisyUI Component - 3. Data input\n45:08 DaisyUI Component - 4. Layout\n46:06 DaisyUI Component - 5. Navigation\n47:30 แนะนำ Theme ใน DaisyUI\n49:11 เริ่มแต่ง Todo List overview ว่าจะทำอะไรบ้าง\n49:28 แก้ Layout ใหญ่ที่ App.vue\n51:30 แต่ง HomeView - ตาม checklist / เริ่มเรียง input ก่อน\n53:11 แต่ง HomeView - แต่ง list view ของ todo ใหม่\n57:25 แต่ง HomeView - เพิ่ม checkbox และ status 'Done' style\n1:01:42 แต่ง HomeView - เพิ่ม Loading component\n1:06:05 แต่ง HomeView - เพิ่ม tab สำหรับแยก status และ computed แยก status\n1:11:43 แต่ง EditView - adjust style หน้า input\n1:15:20 แต่ง EditView - เพิ่ม back button\n1:16:45 แต่ง EditView - เพิ่ม Loading\n1:17:10 แต่ง EditView - เพิ่ม Toast (สำหรับบอกว่า update เรียบร้อยแล้ว)\n1:19:17 Recap เราทำอะไรกันไปบ้าง\n1:20:17 เราจะทำอะไรกันต่อใน 2 Session ต่อไป\n\nสำหรับใครอยาก follow ตามเอกสาร สามารถเข้ามาอ่านกันได้เล้ยที่นี่\nhttps://docs.mikelopster.dev/c/vue-firebase/chapter-6/intro\n\nใครมีข้อสงสัยเพิ่มเติม มาพูดคุยแลกเปลี่ยนความรู้กันได้ที่\nFacebook page: https://www.facebook.com/mikelopster.dev\nWebsite: https://mikelopster.dev\n\nพิกัดของด้านหลัง : https://shope.ee/8A54c8cfkf",
+      "description": "☕️ สนับสนุนช่องเราด้วยการสมัครสมาชิกช่องทางนี้ได้เลย\nhttps://www.youtube.com/channel/UC3YgTINPYQmUcRt5ZcNFIZQ/join\n\nสวัสดีสู่ตอนที่ 6 ของซีรีย์ Vue Firebase masterclass ตอนนี้เราจะพาแนะนำ Tailwind และ DaisyUI กันว่ามันคืออะไร มันช่วยอำนวยความสะดวกอะไรได้บ้าง และทำไมผมถึงหยิบ technology 2 ต��วนี้มาใช้ใน project นี้ \n\nพร้อมกับเราจะนำ tailwind และ daisyUI มาแต่ง style ใน Todo list ให้สวยงามกัน\n\n** สำหรับใครที่มาดู Session นี้เลยและอยากได้ code ส่วน Todo list ให้สร้าง project ใหม่และดู code Todo List ตามเอกสารนี้ได้นะครับ\nhttps://docs.mikelopster.dev/c/vue-firebase/chapter-5/workshop\n\nหัวข้อ\n00:00 แนะนำ Session\n00:31 แนะนำ Tailwind ว่าคืออะไร\n08:04 ลง Tailwind ใน project Todo List\n11:40 แนะนำ Tailwind core concept (utility class)\n13:00 Tailwind - 1. Layout\n18:04 Tailwind - 2. Flexbox & Grid\n20:29 Tailwind - 3. Spacing\n22:55 Taliwind - 4. Sizing\n23:46 Tailwind - 5. Typography\n26:12 Tailwind - 6. Background\n27:18 Tailwind - 7. Borders\n28:29 Tailwind - 8. Effect\n29:14 Tailwind - 9. Filters\n30:11 Tailwind - 10. Table\n30:48 Tailwind - 11. Transform and Transition\n31:13 Tailwind - Handling Hover, Focus, State\n31:50 Tailwind - 12. Responsive\n33:44 การ Customize Tailwind และ Directive (group class)\n37:40 แนะนำ Daisy UI (Tailwind plugin)\n39:21 ลง DaisyUI ใน project Todo List\n40:26 DaisyUI Component - 1. Action\n42:14 DaisyUI Component - 2. Data display\n43:45 DaisyUI Component - 3. Data input\n45:08 DaisyUI Component - 4. Layout\n46:06 DaisyUI Component - 5. Navigation\n47:30 แนะนำ Theme ใน DaisyUI\n49:11 เริ่มแต่ง Todo List overview ว่าจะทำอะไรบ้าง\n49:28 แก้ Layout ใหญ่ที่ App.vue\n51:30 แต่ง HomeView - ตาม checklist / เริ่มเรียง input ก่อน\n53:11 แต่ง HomeView - แต่ง list view ของ todo ใหม่\n57:25 แต่ง HomeView - เพิ่ม checkbox และ status 'Done' style\n1:01:42 แต่ง HomeView - เพิ่ม Loading component\n1:06:05 แต่ง HomeView - เพิ่ม tab สำหรับแยก status และ computed แยก status\n1:11:43 แต่ง EditView - adjust style หน้า input\n1:15:20 แต่ง EditView - เพิ่ม back button\n1:16:45 แต่ง EditView - เพิ่ม Loading\n1:17:10 แต่ง EditView - เพิ่ม Toast (สำหรับบอกว่า update เรียบร้อยแล้ว)\n1:19:17 Recap เราทำอะไรกันไปบ้าง\n1:20:17 เราจะทำอะไรกันต่อใน 2 Session ต่อไป\n\nสำหรับใครอยาก follow ตามเอกสาร สามารถเข้ามาอ่านกันได้เล้ยที่นี่\nhttps://docs.mikelopster.dev/c/vue-firebase/chapter-6/intro\n\nใครมีข้อสงสัยเพิ่มเติม มาพูดคุยแลกเปลี่ยนความรู้กันได้ที่\nFacebook page: https://www.facebook.com/mikelopster.dev\nWebsite: https://mikelopster.dev\n\nพิกัดของด้านหลัง : https://shope.ee/8A54c8cfkf",
       "thumbnails": {
         "default": {
           "url": "https://i.ytimg.com/vi/1VC8ps7EI18/default.jpg",
@@ -7870,7 +7869,7 @@
       "liveBroadcastContent": "none",
       "defaultLanguage": "ko",
       "localized": {
-        "title": "22 08 24 로그인예제 1�� tailwind daisyui 세팅",
+        "title": "22 08 24 로그인예제 1강 tailwind daisyui 세팅",
         "description": ""
       }
     },
