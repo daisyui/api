@@ -1,11 +1,11 @@
-title: Nexus Dashboard 4.0
+title: Nexus Dashboard 4.1
 # buy_now_url: "https://daisyui.lemonsqueezy.com/checkout/buy/2a4d3f50-8ffd-4857-a8d8-513a66bc273a"
 # ref: Db6q2
 price: 6900
 from_price: 6900
 to_price: 49900
 created_at: 2024-04-28
-updated_at: 2026-05-20
+updated_at: 2026-08-21
 bannerTitle: Looking for a startup template too?
 banner:
   Get Nexus dashboard template + [Scalo startup template](/store/scalo/) as a bundle and save up to $99! <br/>
@@ -24,7 +24,7 @@ desc: |-
 
   Including:
     - All pages
-    - 6 dashboard layouts (CRM, e-commerce, Gen-AI, Growth, AI Ops, Corporate Finance)
+    - 8 dashboard layouts (CRM, e-commerce, Gen-AI, Growth, AI Ops, Corporate Finance, Site Reliability Engineering, Security Operations)
     - Landing page
     - 10 e-commerce pages with tables, forms, cards, etc
     - File manager app layout
@@ -41,7 +41,7 @@ desc: |-
     - Apex charts
     - 6 exclusive customizable themes
     - Compatible with all daisyUI themes
-    - 3 bonus dashboard templates (Ecommerce, Finance, Restaurant) made by [daisyUI Dashboard Skill](http://daisyui.com/skills/daisyui-dashboard/)
+    - 10 bonus dashboard templates (Ecommerce, Finance, Restaurant, Cloths Atelier, CRM, Tourism, Book Management, Crisis Management, Health System, Sport Events) made by [daisyUI Dashboard Skill](http://daisyui.com/skills/daisyui-dashboard/)
 
 
   Solo license:
@@ -59,7 +59,7 @@ media:
     ratio: 16/9
   - type: image
     sm: https://img.daisyui.com/images/store/small/nexus/nexus-v4-1.webp
-    lg: https://img.daisyui.com/images/store/large/nexus/nexus-v4-1.webp
+    lg: https://img.daisyui.com/images/store/large/nexus/nexus-v4.1-1.webp
   - type: image
     sm: https://img.daisyui.com/images/store/small/nexus/nexus-v4-2.webp
     lg: https://img.daisyui.com/images/store/large/nexus/nexus-v4-2.webp
@@ -78,6 +78,9 @@ media:
   - type: image
     sm: https://img.daisyui.com/images/store/small/nexus/nexus-v4-7.webp
     lg: https://img.daisyui.com/images/store/large/nexus/nexus-v4-7.webp
+  - type: image
+    sm: https://img.daisyui.com/images/store/small/nexus/nexus-v4-4.webp
+    lg: https://img.daisyui.com/images/store/large/nexus/nexus-v4.1-8.webp
 # quote:
 #   img: https://img.daisyui.com/images/profile/people/pouya-saadeghi.webp
 #   name: Pouya
@@ -113,7 +116,7 @@ packages:
   - [Support in Discord, true, true, true]
   - [Updates and bugfixes, true, true, true]
   - [Bonus, null, null, null]
-  - ["Bonus: 3 dashboard templates", true, true, true]
+  - ["Bonus: 10 dashboard templates", true, true, true]
   - ["Bonus: daisyUI Dashboard Skill", false, false, true]
 tech:
   - html
@@ -142,6 +145,11 @@ faq:
   - Q: I don't need all frameworks, can I buy only a specific version for a lower price?
     A: The price is not the total of all framework versions, buying the Team or Enterprise license gives you access to all frameworks at once. This way, you will have access to all versions, you can compare the file structure and code, and choose the best framework for your project. Later on if you need to switch framework, you can easily do that without paying again. All packages will receive updates and bug fixes for all frameworks.
 changelog:
+  - version: 4.1
+    changes:
+      - Added 2 new dashboard layouts (Site Reliability Engineering, Security Operations)
+      - Update Angular to v22
+      - Bug fixes and dependency updates
   - version: 4.0
     changes:
       - Added Angular version
