@@ -70,8 +70,8 @@ faq:
     A: If the payment failed and you didn't receive the product, it usually means the payment didn't go through. Please try again. If the money was deducted from your account, it will be refunded automatically within a week or two. If the issue persists, send an email to help@daisyui.com so I can help you.
 
 filetree:
-  LOC: 11816
-  size: 508KB
+  LOC: 25279
+  size: 823KB
   contents:
     - type: directory
       name: skills
@@ -82,134 +82,491 @@ filetree:
             - type: file
               name: SKILL.md
             - type: directory
-              name: area-charts
+              name: references
               contents:
                 - type: file
-                  name: SKILL.md
-                - type: file
-                  name: area-chart-1.md
-                - type: file
-                  name: area-chart-2.md
-                - type: file
-                  name: area-chart-3.md
-                - type: file
-                  name: area-chart-4.md
-                - type: file
-                  name: area-chart-5.md
-                - type: file
-                  name: area-chart-6.md
-                - type: file
-                  name: area-chart-7.md
-                - type: file
-                  name: area-chart-8.md
-                - type: file
-                  name: area-chart-9.md
-            - type: directory
-              name: bar-charts
-              contents:
-                - type: file
-                  name: SKILL.md
-                - type: file
-                  name: bar-chart-1.md
-                - type: file
-                  name: bar-chart-2.md
-                - type: file
-                  name: bar-chart-3.md
-                - type: file
-                  name: bar-chart-4.md
-                - type: file
-                  name: bar-chart-5.md
-                - type: file
-                  name: bar-chart-6.md
-            - type: directory
-              name: column-charts
-              contents:
-                - type: file
-                  name: SKILL.md
-                - type: file
-                  name: column-chart-1.md
-                - type: file
-                  name: column-chart-10.md
-                - type: file
-                  name: column-chart-11.md
-                - type: file
-                  name: column-chart-12.md
-                - type: file
-                  name: column-chart-2.md
-                - type: file
-                  name: column-chart-3.md
-                - type: file
-                  name: column-chart-4.md
-                - type: file
-                  name: column-chart-5.md
-                - type: file
-                  name: column-chart-6.md
-                - type: file
-                  name: column-chart-7.md
-                - type: file
-                  name: column-chart-8.md
-                - type: file
-                  name: column-chart-9.md
-            - type: directory
-              name: line-charts
-              contents:
-                - type: file
-                  name: SKILL.md
-                - type: file
-                  name: line-chart-1.md
-                - type: file
-                  name: line-chart-2.md
-                - type: file
-                  name: line-chart-3.md
-                - type: file
-                  name: line-chart-4.md
-                - type: file
-                  name: line-chart-5.md
-                - type: file
-                  name: line-chart-6.md
-                - type: file
-                  name: line-chart-7.md
-                - type: file
-                  name: line-chart-8.md
-                - type: file
-                  name: line-chart-9.md
-            - type: directory
-              name: pie-charts
-              contents:
-                - type: file
-                  name: SKILL.md
-                - type: file
-                  name: pie-chart-1.md
-                - type: file
-                  name: pie-chart-2.md
-                - type: file
-                  name: pie-chart-3.md
-                - type: file
-                  name: pie-chart-4.md
-                - type: file
-                  name: pie-chart-5.md
-                - type: file
-                  name: pie-chart-6.md
-                - type: file
-                  name: pie-chart-7.md
-            - type: directory
-              name: radial-charts
-              contents:
-                - type: file
-                  name: SKILL.md
-                - type: file
-                  name: radial-chart-1.md
-                - type: file
-                  name: radial-chart-2.md
-                - type: file
-                  name: radial-chart-3.md
-                - type: file
-                  name: radial-chart-4.md
-                - type: file
-                  name: radial-chart-5.md
-                - type: file
-                  name: radial-chart-6.md
-                - type: file
-                  name: radial-chart-7.md
-                - type: file
-                  name: radial-chart-8.md
+                  name: chart-index.md
+                - type: directory
+                  name: charts
+                  contents:
+                    - type: directory
+                      name: area
+                      contents:
+                        - type: file
+                          name: area-chart-1.md
+                        - type: file
+                          name: area-chart-10.md
+                        - type: file
+                          name: area-chart-11.md
+                        - type: file
+                          name: area-chart-12.md
+                        - type: file
+                          name: area-chart-13.md
+                        - type: file
+                          name: area-chart-14.md
+                        - type: file
+                          name: area-chart-15.md
+                        - type: file
+                          name: area-chart-2.md
+                        - type: file
+                          name: area-chart-3.md
+                        - type: file
+                          name: area-chart-4.md
+                        - type: file
+                          name: area-chart-5.md
+                        - type: file
+                          name: area-chart-6.md
+                        - type: file
+                          name: area-chart-7.md
+                        - type: file
+                          name: area-chart-8.md
+                        - type: file
+                          name: area-chart-9.md
+                    - type: directory
+                      name: bar
+                      contents:
+                        - type: file
+                          name: bar-chart-1.md
+                        - type: file
+                          name: bar-chart-10.md
+                        - type: file
+                          name: bar-chart-2.md
+                        - type: file
+                          name: bar-chart-3.md
+                        - type: file
+                          name: bar-chart-4.md
+                        - type: file
+                          name: bar-chart-5.md
+                        - type: file
+                          name: bar-chart-6.md
+                        - type: file
+                          name: bar-chart-7.md
+                        - type: file
+                          name: bar-chart-8.md
+                        - type: file
+                          name: bar-chart-9.md
+                    - type: directory
+                      name: column
+                      contents:
+                        - type: file
+                          name: column-chart-1.md
+                        - type: file
+                          name: column-chart-10.md
+                        - type: file
+                          name: column-chart-11.md
+                        - type: file
+                          name: column-chart-12.md
+                        - type: file
+                          name: column-chart-13.md
+                        - type: file
+                          name: column-chart-14.md
+                        - type: file
+                          name: column-chart-15.md
+                        - type: file
+                          name: column-chart-16.md
+                        - type: file
+                          name: column-chart-17.md
+                        - type: file
+                          name: column-chart-2.md
+                        - type: file
+                          name: column-chart-3.md
+                        - type: file
+                          name: column-chart-4.md
+                        - type: file
+                          name: column-chart-5.md
+                        - type: file
+                          name: column-chart-6.md
+                        - type: file
+                          name: column-chart-7.md
+                        - type: file
+                          name: column-chart-8.md
+                        - type: file
+                          name: column-chart-9.md
+                    - type: directory
+                      name: heatmap
+                      contents:
+                        - type: file
+                          name: heatmap-chart-1.md
+                        - type: file
+                          name: heatmap-chart-2.md
+                        - type: file
+                          name: heatmap-chart-3.md
+                        - type: file
+                          name: heatmap-chart-4.md
+                        - type: file
+                          name: heatmap-chart-5.md
+                        - type: file
+                          name: heatmap-chart-6.md
+                        - type: file
+                          name: heatmap-chart-7.md
+                    - type: directory
+                      name: line
+                      contents:
+                        - type: file
+                          name: line-chart-1.md
+                        - type: file
+                          name: line-chart-10.md
+                        - type: file
+                          name: line-chart-11.md
+                        - type: file
+                          name: line-chart-12.md
+                        - type: file
+                          name: line-chart-13.md
+                        - type: file
+                          name: line-chart-14.md
+                        - type: file
+                          name: line-chart-15.md
+                        - type: file
+                          name: line-chart-2.md
+                        - type: file
+                          name: line-chart-3.md
+                        - type: file
+                          name: line-chart-4.md
+                        - type: file
+                          name: line-chart-5.md
+                        - type: file
+                          name: line-chart-6.md
+                        - type: file
+                          name: line-chart-7.md
+                        - type: file
+                          name: line-chart-8.md
+                        - type: file
+                          name: line-chart-9.md
+                    - type: directory
+                      name: mixed
+                      contents:
+                        - type: file
+                          name: mixed-chart-1.md
+                        - type: file
+                          name: mixed-chart-2.md
+                        - type: file
+                          name: mixed-chart-3.md
+                        - type: file
+                          name: mixed-chart-4.md
+                        - type: file
+                          name: mixed-chart-5.md
+                    - type: directory
+                      name: pie
+                      contents:
+                        - type: file
+                          name: pie-chart-1.md
+                        - type: file
+                          name: pie-chart-10.md
+                        - type: file
+                          name: pie-chart-11.md
+                        - type: file
+                          name: pie-chart-12.md
+                        - type: file
+                          name: pie-chart-2.md
+                        - type: file
+                          name: pie-chart-3.md
+                        - type: file
+                          name: pie-chart-4.md
+                        - type: file
+                          name: pie-chart-5.md
+                        - type: file
+                          name: pie-chart-6.md
+                        - type: file
+                          name: pie-chart-7.md
+                        - type: file
+                          name: pie-chart-8.md
+                        - type: file
+                          name: pie-chart-9.md
+                    - type: directory
+                      name: radar
+                      contents:
+                        - type: file
+                          name: radar-chart-1.md
+                        - type: file
+                          name: radar-chart-2.md
+                        - type: file
+                          name: radar-chart-3.md
+                        - type: file
+                          name: radar-chart-4.md
+                        - type: file
+                          name: radar-chart-5.md
+                        - type: file
+                          name: radar-chart-6.md
+                    - type: directory
+                      name: radial
+                      contents:
+                        - type: file
+                          name: radial-chart-1.md
+                        - type: file
+                          name: radial-chart-10.md
+                        - type: file
+                          name: radial-chart-11.md
+                        - type: file
+                          name: radial-chart-12.md
+                        - type: file
+                          name: radial-chart-13.md
+                        - type: file
+                          name: radial-chart-2.md
+                        - type: file
+                          name: radial-chart-3.md
+                        - type: file
+                          name: radial-chart-4.md
+                        - type: file
+                          name: radial-chart-5.md
+                        - type: file
+                          name: radial-chart-6.md
+                        - type: file
+                          name: radial-chart-7.md
+                        - type: file
+                          name: radial-chart-8.md
+                        - type: file
+                          name: radial-chart-9.md
+                - type: directory
+                  name: examples
+                  contents:
+                    - type: file
+                      name: react-line-chart-1.md
+                    - type: file
+                      name: svelte-line-chart-1.md
+                    - type: file
+                      name: vanilla-typescript-line-chart-1.md
+                    - type: file
+                      name: vue-line-chart-1.md
+                - type: directory
+                  name: frameworks
+                  contents:
+                    - type: file
+                      name: react.md
+                    - type: file
+                      name: shared.md
+                    - type: file
+                      name: svelte.md
+                    - type: file
+                      name: vanilla-typescript.md
+                    - type: file
+                      name: vue.md
+                - type: directory
+                  name: snippets
+                  contents:
+                    - type: directory
+                      name: area
+                      contents:
+                        - type: file
+                          name: area-chart-1.md
+                        - type: file
+                          name: area-chart-10.md
+                        - type: file
+                          name: area-chart-11.md
+                        - type: file
+                          name: area-chart-12.md
+                        - type: file
+                          name: area-chart-13.md
+                        - type: file
+                          name: area-chart-14.md
+                        - type: file
+                          name: area-chart-15.md
+                        - type: file
+                          name: area-chart-2.md
+                        - type: file
+                          name: area-chart-3.md
+                        - type: file
+                          name: area-chart-4.md
+                        - type: file
+                          name: area-chart-5.md
+                        - type: file
+                          name: area-chart-6.md
+                        - type: file
+                          name: area-chart-7.md
+                        - type: file
+                          name: area-chart-8.md
+                        - type: file
+                          name: area-chart-9.md
+                    - type: directory
+                      name: bar
+                      contents:
+                        - type: file
+                          name: bar-chart-1.md
+                        - type: file
+                          name: bar-chart-10.md
+                        - type: file
+                          name: bar-chart-2.md
+                        - type: file
+                          name: bar-chart-3.md
+                        - type: file
+                          name: bar-chart-4.md
+                        - type: file
+                          name: bar-chart-5.md
+                        - type: file
+                          name: bar-chart-6.md
+                        - type: file
+                          name: bar-chart-7.md
+                        - type: file
+                          name: bar-chart-8.md
+                        - type: file
+                          name: bar-chart-9.md
+                    - type: directory
+                      name: column
+                      contents:
+                        - type: file
+                          name: column-chart-1.md
+                        - type: file
+                          name: column-chart-10.md
+                        - type: file
+                          name: column-chart-11.md
+                        - type: file
+                          name: column-chart-12.md
+                        - type: file
+                          name: column-chart-13.md
+                        - type: file
+                          name: column-chart-14.md
+                        - type: file
+                          name: column-chart-15.md
+                        - type: file
+                          name: column-chart-16.md
+                        - type: file
+                          name: column-chart-17.md
+                        - type: file
+                          name: column-chart-2.md
+                        - type: file
+                          name: column-chart-3.md
+                        - type: file
+                          name: column-chart-4.md
+                        - type: file
+                          name: column-chart-5.md
+                        - type: file
+                          name: column-chart-6.md
+                        - type: file
+                          name: column-chart-7.md
+                        - type: file
+                          name: column-chart-8.md
+                        - type: file
+                          name: column-chart-9.md
+                    - type: directory
+                      name: heatmap
+                      contents:
+                        - type: file
+                          name: heatmap-chart-1.md
+                        - type: file
+                          name: heatmap-chart-2.md
+                        - type: file
+                          name: heatmap-chart-3.md
+                        - type: file
+                          name: heatmap-chart-4.md
+                        - type: file
+                          name: heatmap-chart-5.md
+                        - type: file
+                          name: heatmap-chart-6.md
+                        - type: file
+                          name: heatmap-chart-7.md
+                    - type: directory
+                      name: line
+                      contents:
+                        - type: file
+                          name: line-chart-1.md
+                        - type: file
+                          name: line-chart-10.md
+                        - type: file
+                          name: line-chart-11.md
+                        - type: file
+                          name: line-chart-12.md
+                        - type: file
+                          name: line-chart-13.md
+                        - type: file
+                          name: line-chart-14.md
+                        - type: file
+                          name: line-chart-15.md
+                        - type: file
+                          name: line-chart-2.md
+                        - type: file
+                          name: line-chart-3.md
+                        - type: file
+                          name: line-chart-4.md
+                        - type: file
+                          name: line-chart-5.md
+                        - type: file
+                          name: line-chart-6.md
+                        - type: file
+                          name: line-chart-7.md
+                        - type: file
+                          name: line-chart-8.md
+                        - type: file
+                          name: line-chart-9.md
+                    - type: directory
+                      name: mixed
+                      contents:
+                        - type: file
+                          name: mixed-chart-1.md
+                        - type: file
+                          name: mixed-chart-2.md
+                        - type: file
+                          name: mixed-chart-3.md
+                        - type: file
+                          name: mixed-chart-4.md
+                        - type: file
+                          name: mixed-chart-5.md
+                    - type: directory
+                      name: pie
+                      contents:
+                        - type: file
+                          name: pie-chart-1.md
+                        - type: file
+                          name: pie-chart-10.md
+                        - type: file
+                          name: pie-chart-11.md
+                        - type: file
+                          name: pie-chart-12.md
+                        - type: file
+                          name: pie-chart-2.md
+                        - type: file
+                          name: pie-chart-3.md
+                        - type: file
+                          name: pie-chart-4.md
+                        - type: file
+                          name: pie-chart-5.md
+                        - type: file
+                          name: pie-chart-6.md
+                        - type: file
+                          name: pie-chart-7.md
+                        - type: file
+                          name: pie-chart-8.md
+                        - type: file
+                          name: pie-chart-9.md
+                    - type: directory
+                      name: radar
+                      contents:
+                        - type: file
+                          name: radar-chart-1.md
+                        - type: file
+                          name: radar-chart-2.md
+                        - type: file
+                          name: radar-chart-3.md
+                        - type: file
+                          name: radar-chart-4.md
+                        - type: file
+                          name: radar-chart-5.md
+                        - type: file
+                          name: radar-chart-6.md
+                    - type: directory
+                      name: radial
+                      contents:
+                        - type: file
+                          name: radial-chart-1.md
+                        - type: file
+                          name: radial-chart-10.md
+                        - type: file
+                          name: radial-chart-11.md
+                        - type: file
+                          name: radial-chart-12.md
+                        - type: file
+                          name: radial-chart-13.md
+                        - type: file
+                          name: radial-chart-2.md
+                        - type: file
+                          name: radial-chart-3.md
+                        - type: file
+                          name: radial-chart-4.md
+                        - type: file
+                          name: radial-chart-5.md
+                        - type: file
+                          name: radial-chart-6.md
+                        - type: file
+                          name: radial-chart-7.md
+                        - type: file
+                          name: radial-chart-8.md
+                        - type: file
+                          name: radial-chart-9.md
