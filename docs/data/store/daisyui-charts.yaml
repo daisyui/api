@@ -24,8 +24,7 @@ desc: |-
   - Provides code examples for React, Vue, Svelte, Vanilla JS
   - Only one package dependency: Apex Charts (Or can be used with CDN link instead of Node package)
   - Easy copy/paste codes, no additional config or styles needed
-  - Includes multiple examples for line charts, bar charts, area charts, column charts and pie charts.
-  - Coming soon: radial chart, heatmap charts and radar charts
+  - Includes multiple examples for line charts, bar charts, area charts, column charts, pie charts, radial chart, radar charts, heatmap charts, mixed charts
 
 media:
   - type: image
