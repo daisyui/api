@@ -1,7 +1,7 @@
 [
   {
     "kind": "youtube#video",
-    "etag": "3qxa9uQ9CPFrVxtPp4TM9sRd0rs",
+    "etag": "WO2uFNXhuvdy3Nnwut1E4NXM1z8",
     "id": "DK93dqmJJYg",
     "snippet": {
       "publishedAt": "2025-04-29T19:35:50Z",
@@ -96,7 +96,7 @@
   },
   {
     "kind": "youtube#video",
-    "etag": "yyNPxXFTmvAv4Wd6fjXj94ZdQT8",
+    "etag": "bjxDpUK8YHKbSEYTzcGE3FK6OVc",
     "id": "l-CygzPLrwQ",
     "snippet": {
       "publishedAt": "2025-04-01T10:15:06Z",
@@ -736,7 +736,7 @@
   },
   {
     "kind": "youtube#video",
-    "etag": "Hp72G5f7jOs2lC0K31FKVwM5t5I",
+    "etag": "U0I72e0h8_SRweH2zNDdJs7bVyg",
     "id": "aQA4O3Njb0w",
     "snippet": {
       "publishedAt": "2025-04-02T12:59:12Z",
@@ -792,8 +792,7 @@
       "localized": {
         "title": "How To Build a Social Media App With Ruby on Rails & DaisyUI",
         "description": "In this video I show you how to build a social media app using Ruby on Rails and the DaisyUI library for frontend components. This was a really fun video to make and I hope this helps someone. Overall DaisyUI was cool but the carousels where not great.. Let me know if you want to see a part 2 and I will continue on building more functionality in this app!\n\nDownload the source code for this video 100% free on Github\nhttps://github.com/indigotechtutorials/Daisy-Social\n\n#rubyonrails #learnrubyonrails ."
-      },
-      "defaultAudioLanguage": "en"
+      }
     },
     "status": {
       "uploadStatus": "processed",
@@ -806,7 +805,7 @@
   },
   {
     "kind": "youtube#video",
-    "etag": "YY4JrnlvlZLF81xuFD1gFKWO0oY",
+    "etag": "ogqKYkJ1MozdDjn8RE1c84FzsqI",
     "id": "3wb-hvu4y3Y",
     "snippet": {
       "publishedAt": "2025-05-30T16:00:14Z",
@@ -861,7 +860,7 @@
   },
   {
     "kind": "youtube#video",
-    "etag": "LFk2pYTMpbns7GCdb_RFsxdqdQg",
+    "etag": "lNWB0GYj5EoA-SeCZoCdpJt0SBw",
     "id": "f0EXkjL_hE4",
     "snippet": {
       "publishedAt": "2025-05-29T14:48:37Z",
@@ -915,7 +914,7 @@
   },
   {
     "kind": "youtube#video",
-    "etag": "zFKbw-PmVtdgZD1soXFR_WK1ZJ8",
+    "etag": "wo_O7TVU-SHaP92-eKtmwrO2t2I",
     "id": "v4TJbutVjV8",
     "snippet": {
       "publishedAt": "2025-09-02T08:30:31Z",
@@ -977,7 +976,7 @@
   },
   {
     "kind": "youtube#video",
-    "etag": "sdkxdJwFWvUvbu6t_Ihepu1erFs",
+    "etag": "eOzek51b6fPFy5GzeHwCUgNuoYQ",
     "id": "FX7hTeB0nc4",
     "snippet": {
       "publishedAt": "2025-06-04T09:16:55Z",
@@ -1043,7 +1042,7 @@
   },
   {
     "kind": "youtube#video",
-    "etag": "gTpktULasbr-7fjriWk5ecaSGU8",
+    "etag": "noskXI9D7hx8mATZTY2FtYbSuTg",
     "id": "AfM6ipH23k8",
     "snippet": {
       "publishedAt": "2025-06-04T12:56:58Z",
@@ -1267,7 +1266,7 @@
       "defaultLanguage": "en",
       "localized": {
         "title": "django-vite - HTMX, Alpine.js and TailwindCSS Plugin Installation",
-        "description": "☕️ 𝗕𝘂𝘆 𝗺𝗲 𝗮 𝗰𝗼𝗳𝗳𝗲𝗲:\nTo support the channel and encourage new videos, please consider buying me a coffee here:\nhttps://ko-fi.com/bugbytes\n\nIn this video, we'll expand on the previous video and setup django-vite with TailwindCSS Plugins, HTMX and Alpine.js. The method presented will be extendable to any JS client-side package.\n \n📌 𝗖𝗵𝗮𝗽𝘁𝗲𝗿𝘀:\n00:00 Intro\n00:39 Adding DaisyUI plugin to django-vite setup\n03:30 Adding Flowbite plugin to django-vite setup\n05:22 Adding HTMX to django-vite setup\n09:35 Adding Alpine.js to django-vite setup\n\n𝗦𝗼𝗰𝗶𝗮𝗹 𝗠𝗲𝗱𝗶𝗮:\n📖 Blog: https://bugbytes.io/posts/\n👾 Github: https://github.com/bugbytes-io/\n\n📚 𝗙𝘂𝗿𝘁𝗵𝗲𝗿 𝗿𝗲𝗮𝗱𝗶𝗻𝗴 𝗮𝗻𝗱 𝗶𝗻𝗳𝗼𝗿𝗺𝗮𝘁𝗶𝗼𝗻:\nDjango-vite: https://github.com/MrBin99/django-vite\nVite: https://vite.dev/\nHTMX: https://htmx.org/docs/#installing \nAlpineJS: https://alpinejs.dev/essentials/installation \nDaisyUI: https://daisyui.com/docs/install/\nFlowbite: https://flowbite.com/docs/getting-started/quickstart/#getting-started\n\n#python #django #tailwindcss #vitejs #htmx"
+        "description": "☕️ 𝗕𝘂𝘆 𝗺𝗲 𝗮 𝗰𝗼𝗳𝗳𝗲𝗲:\nTo support the channel and encourage new videos, please consider buying me a coffee here:\nhttps://ko-fi.com/bugbytes\n\nIn this video, we'll expand on the previous video and setup django-vite with TailwindCSS Plugins, HTMX and Alpine.js. The method presented will be extendable to any JS client-side package.\n \n📌 𝗖𝗵𝗮𝗽𝘁𝗲𝗿𝘀:\n00:00 Intro\n00:39 Adding DaisyUI plugin to django-vite setup\n03:30 Adding Flowbite plugin to django-vite setup\n05:22 Adding HTMX to django-vite setup\n09:35 Adding Alpine.js to django-vite setup\n\n𝗦𝗼𝗰𝗶𝗮𝗹 𝗠𝗲𝗱𝗶𝗮:\n📖 Blog: https://bugbytes.io/posts/\n👾 Github: https://github.com/bugbytes-io/\n\n📚 𝗙𝘂𝗿𝘁𝗵𝗲𝗿 𝗿𝗲𝗮𝗱𝗶𝗻𝗴 𝗮𝗻𝗱 𝗶𝗻𝗳𝗼𝗿𝗺����𝘁𝗶𝗼𝗻:\nDjango-vite: https://github.com/MrBin99/django-vite\nVite: https://vite.dev/\nHTMX: https://htmx.org/docs/#installing \nAlpineJS: https://alpinejs.dev/essentials/installation \nDaisyUI: https://daisyui.com/docs/install/\nFlowbite: https://flowbite.com/docs/getting-started/quickstart/#getting-started\n\n#python #django #tailwindcss #vitejs #htmx"
       },
       "defaultAudioLanguage": "en-GB"
     },
@@ -1282,7 +1281,7 @@
   },
   {
     "kind": "youtube#video",
-    "etag": "RDn5vStraFLNBygrSiQc-Uhmog4",
+    "etag": "ezbUEe4GuEnFht23eUoFL_2plEs",
     "id": "2ZLfgQE4NZk",
     "snippet": {
       "publishedAt": "2025-03-29T09:54:27Z",
@@ -1361,7 +1360,7 @@
   },
   {
     "kind": "youtube#video",
-    "etag": "4c3cVnQLR7t67dM03vmznVT64Aw",
+    "etag": "2xG3oQsvfAgwVA_y2khW64g8xlk",
     "id": "XKC5ezVPQFA",
     "snippet": {
       "publishedAt": "2025-03-12T10:15:04Z",
@@ -1601,7 +1600,7 @@
   },
   {
     "kind": "youtube#video",
-    "etag": "y59i_9uuNeSyRU-E1f_iDl2-P0Q",
+    "etag": "uQRHt4CIzbQtIm3ppZEZnOnhJlg",
     "id": "akd7u69k27k",
     "snippet": {
       "publishedAt": "2023-11-17T15:36:38Z",
@@ -1727,7 +1726,7 @@
   },
   {
     "kind": "youtube#video",
-    "etag": "ZBGw5fDNtlyUMHTU8SRE3Yjj9Pw",
+    "etag": "FGEyezbwld4VQblDFDAo466uI80",
     "id": "CKOH37J1EnI",
     "snippet": {
       "publishedAt": "2024-06-13T09:51:44Z",
@@ -1797,8 +1796,7 @@
       "localized": {
         "title": "Master DaisyUI Customization: A Complete Guide",
         "description": "Complete guide on customizing DaisyUI with any React project. Learn how to install and use DaisyUI, customize components, and create your own themes.\n\nHighlights\n🎯 Customize DaisyUI components and themes in your React project.\n💡 Use the “data-theme” property to apply different themes to specific components or elements.\n🌈 Customize colors, animations, borders, and other styles using DaisyUI’s default options.\n🛠️ Leverage the power of Tailwind CSS and DaisyUI together by using prefixes.\n🎨 Create your own themes and customize the default options to match your project’s style guide.\n\n\nKey Insights\n📚 DaisyUI offers a complete guide for customizing components, themes, and styles in React projects. This allows developers to create unique and personalized designs.\n⚙️ By using the “data-theme” property, developers can apply different themes to specific components or elements, providing flexibility in design.\n🎨 DaisyUI provides default options for colors, animations, borders, and more, allowing developers to easily customize the look and feel of their project.\n🛠️ By using prefixes, developers can use DaisyUI and Tailwind CSS together, avoiding conflicts and creating a cohesive design system.\n🌈 Creating custom themes and adjusting the default options allows developers to match their project’s style guide and create a consistent user experience.\n📚 DaisyUI’s documentation provides detailed instructions and examples for customizing components, themes, and styles, making it easy for developers to implement these features in their projects.\n💡 The ability to customize colors, animations, borders, and other styles offers developers the flexibility to create visually appealing and unique designs.\n\n\n======= ignore this =======\nDaisyUI,DaisyUI tutorial,DaisyUI customization,DaisyUI full tutorial,DaisyUI masterclass,CSS framework,web design,frontend development,responsive design,UI customization,DaisyUI examples,DaisyUI themes,web development tutorial,UI design,beginner tutorial,expert tutorial,web design tips,DaisyUI components,CSS customization,theming,utility classes,rakibulhashanrabbi,Learn DaisyUI,vite,react vite daisy,web development,tailwind css tutorial"
-      },
-      "defaultAudioLanguage": "bn"
+      }
     },
     "status": {
       "uploadStatus": "processed",
@@ -1943,7 +1941,7 @@
   },
   {
     "kind": "youtube#video",
-    "etag": "mEbXS8PY6Gsp7VJw18gAhr-ZTV4",
+    "etag": "5oSvz9qGEVct1I1-83Elbs-mWpY",
     "id": "L2P8-crX59o",
     "snippet": {
       "publishedAt": "2023-11-03T06:00:08Z",
@@ -2003,7 +2001,7 @@
   },
   {
     "kind": "youtube#video",
-    "etag": "ms-QJOOb00itOGvC3hMEoNO-7go",
+    "etag": "KK_DTVaGUTe5Am8rcw_DQdW3_wg",
     "id": "l4sbqrY0XGk",
     "snippet": {
       "publishedAt": "2022-08-17T21:57:33Z",
@@ -2058,7 +2056,7 @@
   },
   {
     "kind": "youtube#video",
-    "etag": "S0Xr702nipKis076x3Y9H-hmrMs",
+    "etag": "fUA4Q1qlWaiYuqL0I2sH9L_YaSw",
     "id": "ovPZ_oWRdVU",
     "snippet": {
       "publishedAt": "2023-10-17T09:43:53Z",
@@ -2120,7 +2118,7 @@
   },
   {
     "kind": "youtube#video",
-    "etag": "8-tJ6Tb897s3rINAXP6kagpdGMw",
+    "etag": "ZJjON1Yo22NenaIJTr1DOfmER7U",
     "id": "c7UFf1asCRE",
     "snippet": {
       "publishedAt": "2022-12-05T07:00:14Z",
@@ -2199,7 +2197,7 @@
   },
   {
     "kind": "youtube#video",
-    "etag": "SJ2Oq1AraK3cqF4eAbbQ8GhZlE8",
+    "etag": "Y-c0OWRcQ_zQlqqa9CDuGO-7MTA",
     "id": "B-MzDlbxHRw",
     "snippet": {
       "publishedAt": "2023-04-25T18:03:10Z",
@@ -2273,7 +2271,7 @@
   },
   {
     "kind": "youtube#video",
-    "etag": "CWos58gl2qbMvI5TX3Pzl7n73lo",
+    "etag": "-eCb3gEmyrVL_4ELO8CxeDNiHlo",
     "id": "X6Yp9FXNpvU",
     "snippet": {
       "publishedAt": "2024-06-22T13:25:58Z",
@@ -2402,7 +2400,7 @@
   },
   {
     "kind": "youtube#video",
-    "etag": "CEOB8d_LGhwjAJGpxlEn-d8Q8Lk",
+    "etag": "HpeSCcr53XJvMa9ZHwyv7o4AjZk",
     "id": "AaiijESQH5o",
     "snippet": {
       "publishedAt": "2023-07-03T16:29:27Z",
@@ -2605,7 +2603,7 @@
   },
   {
     "kind": "youtube#video",
-    "etag": "Lkkj9lje-ipDG_CoTxfbat3O7Cg",
+    "etag": "Y8J6a0vswlNYhdHNTAEBFmvLh2M",
     "id": "haKnkk6ds20",
     "snippet": {
       "publishedAt": "2021-09-04T01:49:37Z",
@@ -2667,7 +2665,7 @@
   },
   {
     "kind": "youtube#video",
-    "etag": "rsslXmL6tvtBU2GA5PaInc6t9_A",
+    "etag": "OuxxQ4hrLjFtyRj0inmkNf2xj1Q",
     "id": "LHDJCQMEE3M",
     "snippet": {
       "publishedAt": "2023-10-14T04:00:09Z",
@@ -2744,7 +2742,7 @@
   },
   {
     "kind": "youtube#video",
-    "etag": "xj91xA4RqSNxQX-U8rbQi7VXjoY",
+    "etag": "SaVBCMZrvpuaoz-ty62i7WfuuF8",
     "id": "SDK_UKMzgyE",
     "snippet": {
       "publishedAt": "2023-10-13T23:32:35Z",
@@ -2807,7 +2805,7 @@
   },
   {
     "kind": "youtube#video",
-    "etag": "47YN0LXVpVIUqd0H_N01AgQojGo",
+    "etag": "4g6LLqyU468ns7GJrL8l4cFWXTA",
     "id": "th8OswsAq6Q",
     "snippet": {
       "publishedAt": "2023-10-07T01:36:37Z",
@@ -2980,7 +2978,7 @@
   },
   {
     "kind": "youtube#video",
-    "etag": "LLtLeDho9KAu5xRrjIwiB7gYkLI",
+    "etag": "DRTXve1tH0QaOZHqXT9IhE0IWCA",
     "id": "jzSL4HsPbZk",
     "snippet": {
       "publishedAt": "2022-11-27T23:06:16Z",
@@ -3093,7 +3091,7 @@
   },
   {
     "kind": "youtube#video",
-    "etag": "-MrNtHKz0i4_y7pWWH5kCuPIZx0",
+    "etag": "CNKG4DVwt4vdvptSnhj1uCWe420",
     "id": "1kON7Q9MBak",
     "snippet": {
       "publishedAt": "2023-06-20T02:20:11Z",
@@ -3154,7 +3152,7 @@
   },
   {
     "kind": "youtube#video",
-    "etag": "JbEkdeFQjQ7vT8bzs0FgCY1RxFQ",
+    "etag": "YytQxDKpu9mOGs7qhDJuEoRWT0Y",
     "id": "JN4uI4cNljE",
     "snippet": {
       "publishedAt": "2023-06-03T22:28:36Z",
@@ -3311,7 +3309,7 @@
   },
   {
     "kind": "youtube#video",
-    "etag": "30lZje8N8z8ZQ8A6iaHlrsYoyU4",
+    "etag": "C5LKnV7YW9FMso1bY2zaIq5daEE",
     "id": "NWzGJanh3Lg",
     "snippet": {
       "publishedAt": "2023-05-31T02:00:10Z",
@@ -3948,7 +3946,7 @@
   },
   {
     "kind": "youtube#video",
-    "etag": "9TmYDumkH0B7nFHQnrN7ljsIW20",
+    "etag": "s0O2nV0f47tA2Gf_UeCTOmdbWNc",
     "id": "Hpjq0D1vcpM",
     "snippet": {
       "publishedAt": "2021-12-09T15:15:00Z",
@@ -4085,7 +4083,7 @@
   },
   {
     "kind": "youtube#video",
-    "etag": "GbrJL2y5HA3m5vfiK9t-9rDuKpY",
+    "etag": "GRbcl_qz8CxrLJKKH9vtR9JQ0s0",
     "id": "hM9fENyAquM",
     "snippet": {
       "publishedAt": "2021-10-28T13:51:00Z",
@@ -4146,7 +4144,7 @@
   },
   {
     "kind": "youtube#video",
-    "etag": "BF0EgJE6yQSOU3ETKGBPpMemnsQ",
+    "etag": "jmnhoaC0-mM7IkA-yVpXd8O7G9M",
     "id": "Wm2g6FWec34",
     "snippet": {
       "publishedAt": "2021-09-02T22:30:02Z",
@@ -4210,7 +4208,7 @@
   },
   {
     "kind": "youtube#video",
-    "etag": "agWUAPT9oDB4IhY_47wVgZjnuUs",
+    "etag": "K-o23TqxXfUXvS0i2kcPmuMf5gs",
     "id": "uXQgJbUj3PQ",
     "snippet": {
       "publishedAt": "2021-11-18T10:18:23Z",
@@ -4244,7 +4242,7 @@
           "height": 720
         }
       },
-      "channelTitle": "Software School Tamil",
+      "channelTitle": "Straw Hat Devs",
       "tags": [
         "nextjs",
         "html",
@@ -4574,7 +4572,7 @@
   },
   {
     "kind": "youtube#video",
-    "etag": "gzzkc1ZVI8TVbTkWhDHD2xNbTRo",
+    "etag": "K-1BP6Jw4dXLaiWDQpsb-hbNHjI",
     "id": "28db3jojTgo",
     "snippet": {
       "publishedAt": "2022-02-24T17:22:16Z",
@@ -4733,7 +4731,7 @@
   },
   {
     "kind": "youtube#video",
-    "etag": "F7TJjfELEWQw1nCO8QgCzp_MzCs",
+    "etag": "vH8F1TC3Kyp_phDMgv-Br4lTsss",
     "id": "2rXSE_KMZKM",
     "snippet": {
       "publishedAt": "2023-10-20T16:57:26Z",
@@ -4823,7 +4821,7 @@
       "publishedAt": "2023-09-16T02:45:00Z",
       "channelId": "UC3YgTINPYQmUcRt5ZcNFIZQ",
       "title": "แนะนำ Tailwind และ DaisyUI (พร้อมหยิบมาแต่ง Todo List) | VF Masterclass - EP. 6",
-      "description": "☕️ สนับสนุนช่องเราด้วยการสมัครสมาชิกช่องทางนี้ได้เลย\nhttps://www.youtube.com/channel/UC3YgTINPYQmUcRt5ZcNFIZQ/join\n\nสวัสดีสู่ตอนที่ 6 ของซีรีย์ Vue Firebase masterclass ตอนนี้เราจะพาแนะนำ Tailwind และ DaisyUI กันว่ามันคืออะไร มันช่วยอำนวยความสะดวกอะไรได้บ้าง และทำไมผมถึงหยิบ technology 2 ตัวนี้มาใช้ใน project นี้ \n\nพร้อมกับเราจะนำ tailwind และ daisyUI มาแต่ง style ใน Todo list ให้สวยงามกัน\n\n** สำหรับใครที่มาดู Session นี้เลยและอยากได้ code ส่วน Todo list ให้สร้าง project ใหม่และดู code Todo List ตามเอกสารนี้ได้นะครับ\nhttps://docs.mikelopster.dev/c/vue-firebase/chapter-5/workshop\n\nหัวข้อ\n00:00 แนะนำ Session\n00:31 แนะนำ Tailwind ว่าคืออะไร\n08:04 ลง Tailwind ใน project Todo List\n11:40 แนะนำ Tailwind core concept (utility class)\n13:00 Tailwind - 1. Layout\n18:04 Tailwind - 2. Flexbox & Grid\n20:29 Tailwind - 3. Spacing\n22:55 Taliwind - 4. Sizing\n23:46 Tailwind - 5. Typography\n26:12 Tailwind - 6. Background\n27:18 Tailwind - 7. Borders\n28:29 Tailwind - 8. Effect\n29:14 Tailwind - 9. Filters\n30:11 Tailwind - 10. Table\n30:48 Tailwind - 11. Transform and Transition\n31:13 Tailwind - Handling Hover, Focus, State\n31:50 Tailwind - 12. Responsive\n33:44 การ Customize Tailwind และ Directive (group class)\n37:40 แนะนำ Daisy UI (Tailwind plugin)\n39:21 ลง DaisyUI ใน project Todo List\n40:26 DaisyUI Component - 1. Action\n42:14 DaisyUI Component - 2. Data display\n43:45 DaisyUI Component - 3. Data input\n45:08 DaisyUI Component - 4. Layout\n46:06 DaisyUI Component - 5. Navigation\n47:30 แนะนำ Theme ใน DaisyUI\n49:11 เริ่มแต่ง Todo List overview ว่าจะทำอะไรบ้าง\n49:28 แก้ Layout ใหญ่ที่ App.vue\n51:30 แต่ง HomeView - ตาม checklist / เริ่มเรียง input ก่อน\n53:11 แต่ง HomeView - แต่ง list view ของ todo ใหม่\n57:25 แต่ง HomeView - เพิ่ม checkbox และ status 'Done' style\n1:01:42 แต่ง HomeView - เพิ่ม Loading component\n1:06:05 แต่ง HomeView - เพิ่ม tab สำหรับแยก status และ computed แยก status\n1:11:43 แต่ง EditView - adjust style หน้า input\n1:15:20 แต่ง EditView - เพิ่ม back button\n1:16:45 แต่ง EditView - เพิ่ม Loading\n1:17:10 แต่ง EditView - เพิ่ม Toast (สำหรับบอกว่า update เรียบร้อยแล้ว)\n1:19:17 Recap เราทำอะไรกันไปบ้าง\n1:20:17 เราจะทำอะไรกันต่อใน 2 Session ต่อไป\n\nสำหรับใครอยาก follow ���ามเอกสาร สามารถเข้ามาอ่านกันได้เล้ยที่นี่\nhttps://docs.mikelopster.dev/c/vue-firebase/chapter-6/intro\n\nใครมีข้อสงสัยเพิ่มเติม มาพูดคุยแลกเปลี่ยนความรู้กันได้ที่\nFacebook page: https://www.facebook.com/mikelopster.dev\nWebsite: https://mikelopster.dev\n\nพิกัดของด้านหลัง : https://shope.ee/8A54c8cfkf",
+      "description": "☕️ สนับสนุนช่องเราด้วยการสมัครสมาชิกช่องทางนี้ได้เลย\nhttps://www.youtube.com/channel/UC3YgTINPYQmUcRt5ZcNFIZQ/join\n\nสวัสดีสู่ตอนที่ 6 ของซีรีย์ Vue Firebase masterclass ตอนนี้เราจะพาแนะนำ Tailwind และ DaisyUI กันว่ามันคืออะไร มันช่วยอำนวยความสะดวกอะไรได้บ้าง และทำไมผมถึงหยิบ technology 2 ตัวนี้มาใช้ใน project นี้ \n\nพร้อมกับเราจะนำ tailwind และ daisyUI มาแต่ง style ใน Todo list ให้สวยงามกัน\n\n** สำหรับใครที่มาดู Session นี้เลยและอยากได้ code ส่วน Todo list ให้สร้าง project ใหม่และดู code Todo List ตามเอกสารนี้ได้นะครับ\nhttps://docs.mikelopster.dev/c/vue-firebase/chapter-5/workshop\n\nหัวข้อ\n00:00 แนะนำ Session\n00:31 แนะนำ Tailwind ว่าคืออะไร\n08:04 ลง Tailwind ใน project Todo List\n11:40 แนะนำ Tailwind core concept (utility class)\n13:00 Tailwind - 1. Layout\n18:04 Tailwind - 2. Flexbox & Grid\n20:29 Tailwind - 3. Spacing\n22:55 Taliwind - 4. Sizing\n23:46 Tailwind - 5. Typography\n26:12 Tailwind - 6. Background\n27:18 Tailwind - 7. Borders\n28:29 Tailwind - 8. Effect\n29:14 Tailwind - 9. Filters\n30:11 Tailwind - 10. Table\n30:48 Tailwind - 11. Transform and Transition\n31:13 Tailwind - Handling Hover, Focus, State\n31:50 Tailwind - 12. Responsive\n33:44 การ Customize Tailwind และ Directive (group class)\n37:40 แนะนำ Daisy UI (Tailwind plugin)\n39:21 ลง DaisyUI ใน project Todo List\n40:26 DaisyUI Component - 1. Action\n42:14 DaisyUI Component - 2. Data display\n43:45 DaisyUI Component - 3. Data input\n45:08 DaisyUI Component - 4. Layout\n46:06 DaisyUI Component - 5. Navigation\n47:30 แนะนำ Theme ใน DaisyUI\n49:11 เริ่มแต่ง Todo List overview ว่าจะทำอะไรบ้าง\n49:28 แก้ Layout ใหญ่ที่ App.vue\n51:30 แต่ง HomeView - ตาม checklist / เริ่มเรียง input ก่อน\n53:11 แต่ง HomeView - แต่ง list view ของ todo ใหม่\n57:25 แต่ง HomeView - เพิ่ม checkbox และ status 'Done' style\n1:01:42 แต่ง HomeView - เพิ่ม Loading component\n1:06:05 แต่ง HomeView - เพิ่ม tab สำหรับแยก status และ computed แยก status\n1:11:43 แต่ง EditView - adjust style หน้า input\n1:15:20 แต่ง EditView - เพิ่ม back button\n1:16:45 แต่ง EditView - เพิ่ม Loading\n1:17:10 แต่ง EditView - เพิ่ม Toast (สำหรับบอกว่า update เรียบร้อยแล้ว)\n1:19:17 Recap เราทำอะไรกันไปบ้าง\n1:20:17 เราจะทำอะไรกันต่อใน 2 Session ต่อไป\n\nสำหรับใครอยาก follow ตามเอกสาร สามารถเข้ามาอ่านกันได้เล้ยที่นี่\nhttps://docs.mikelopster.dev/c/vue-firebase/chapter-6/intro\n\nใครมีข้อสงสัยเพิ่มเติม มาพูดคุยแลกเปลี่ยนความรู้กันได้ที่\nFacebook page: https://www.facebook.com/mikelopster.dev\nWebsite: https://mikelopster.dev\n\nพิกัดของด้านหลัง : https://shope.ee/8A54c8cfkf",
       "thumbnails": {
         "default": {
           "url": "https://i.ytimg.com/vi/1VC8ps7EI18/default.jpg",
@@ -4903,7 +4901,7 @@
   },
   {
     "kind": "youtube#video",
-    "etag": "VHKJVtXOthbq-WkfEyheKlrEBUo",
+    "etag": "9V7pL7H0Fu1O6L2er1p-MtaGLRI",
     "id": "X5_ZQmddfyk",
     "snippet": {
       "publishedAt": "2023-08-31T18:45:15Z",
@@ -4977,7 +4975,7 @@
   },
   {
     "kind": "youtube#video",
-    "etag": "0-2W37mX7Q088X3-DmNhcRYhcgM",
+    "etag": "-hqb5pEwPH13gGpQYwFijIAWWoU",
     "id": "RyZbYZAXAa4",
     "snippet": {
       "publishedAt": "2023-09-05T19:36:06Z",
@@ -5329,7 +5327,7 @@
   },
   {
     "kind": "youtube#video",
-    "etag": "D8ZWVGi1b_AaScm7zW3EvAJ0g1s",
+    "etag": "Ad5MYvo8w8eDycOGUOPF1B9cRgk",
     "id": "Z-EgUIh27nU",
     "snippet": {
       "publishedAt": "2023-07-26T08:00:28Z",
@@ -5389,7 +5387,7 @@
       "publishedAt": "2023-07-22T03:00:34Z",
       "channelId": "UCDSn4Ql7fuyjxsSNOws81iQ",
       "title": "เขียน TailwindCSS ให้สั้นลงด้วย DaisyUI",
-      "description": "ใครที่ใช้ TailwindCSS ไปซักพักแล้วรู้สึกว่าเอ๊ะ Class ที่เราเขียนมันยาววว ซะเหลือเกิน กว่าจะอ่านให้เก็ทแต่ละทีเล่นซะหัวหมุน มาลองรู้จักกับ DaisyUI ที่จะทำให้เพื่อนๆ เขียน TailwindCSS ให้มันสั้นลงกันเถอะ!\n\nลิงก์สอน  TailwindCSS  https://www.youtube.com/watch?v=dDf_fNbqUYM&t=21s\n\nลิงก์ DaisyUI https://daisyui.com/\n\nมาแบ่งปันความรู้ แชร์ประสบการณ์ใน Community borntoDev ได้ที่ https://discord.com/invite/wam6MYrfND\nเข้าร่วมกลุ่ม Facebook Community ได้ที่ https://www.facebook.com/groups/24251... \nสนใจจัดอบรมออฟไลน์ ดูรายละเอียดได้ที่นี่ https://www.borntodev.com/borntodev-f... \n\n▲ ติดตามช่องของเราได้ที่ : https://bit.ly/SubBorntoDev\n▲ Facebook : https://www.facebook.com/borntodev\n▲ Website : http://www.borntodev.com/\n\n🦖BorntoDev Channel คือ ช่องยูทูปที่เน้นสาระด้านเทคโนโลยี การพัฒนาโปรแกรม ไปพร้อมกับความสนุกสนาน และ รอยยิ้มเข้าไว้ด้วยกันทั้งในรูปแบบบทเรียน และ vlog เพื่อการเปลี่ยนรูปแบบการเรียนรู้ด้านการพัฒนาโปรแกรม และ เทคโนโลยีแบบเดิม ๆ ที่เป็นเรื่องเฉพาะกลุ่มให้เข้าถึง เข้าใจได้ง่ายยิ่งขึ้น โดยพัฒนาเน้นไปที่รูปแบบการนำเสนอใหม่ ๆ ที่เป็นมิตรกับทุกคน\n\n▲ กิจกรรมใน Channel BorntoDev เป็นส่วนหนึ่งในการดำเนินงานของ บริษัท บอร์นทูเ��ฟ จำกัด ที่เปิดรับ Partners ที่สนใจร่วมเปลี่ยนแปลงให้สังคมไทยเป็นสังคมด้านวิทยาศาสตร์ และ เทคโนโลยีมากยิ่งขึ้น หากคุณสนใจสนับสนุน และ ก้าวไปพร้อมกัน สามารถติดต่อร่วมงานได้แล้ววันนี้\n\n▲ ติดต่อโฆษณา สนับสนุน และ ร่วมงานได้ที่: support@borntoDev.com",
+      "description": "ใครที่ใช้ TailwindCSS ไปซักพักแล้วรู้สึกว่าเอ๊ะ Class ที่เราเขียนมันยาววว ซะเหลือเกิน กว่าจะอ่านให้เก็ทแต่ละทีเล่นซะหัวหมุน มาลองรู้จักกับ DaisyUI ที่จะทำให้เพื่อนๆ เขียน TailwindCSS ให้มันสั้นลงกันเถอะ!\n\nลิงก์สอน  TailwindCSS  https://www.youtube.com/watch?v=dDf_fNbqUYM&t=21s\n\nลิงก์ DaisyUI https://daisyui.com/\n\nมาแบ่งปันความรู้ แชร์ประสบการณ์ใน Community borntoDev ได้ที่ https://discord.com/invite/wam6MYrfND\nเข้าร่วมกลุ่ม Facebook Community ได้ที่ https://www.facebook.com/groups/24251... \nสนใจจัดอบรมออฟไลน์ ดูรายละเอียดได้ที่นี่ https://www.borntodev.com/borntodev-f... \n\n▲ ติดตามช่องของเราได้ที่ : https://bit.ly/SubBorntoDev\n▲ Facebook : https://www.facebook.com/borntodev\n▲ Website : http://www.borntodev.com/\n\n🦖BorntoDev Channel คือ ช่องยูทูปที่เน้นสาระด้านเทคโนโลยี การพัฒนาโปรแกรม ไปพร้อมกับความสนุกสนาน และ รอยยิ้มเข้าไว้ด้วยกันทั้งในรูปแบบบทเรียน และ vlog เพื่อการเปลี่ยนรูปแบบการเรียนรู้ด้านการพัฒนาโปรแกรม และ เทคโนโลยีแบบเดิม ๆ ที่เป็นเรื่องเฉพาะกลุ่มให้เข้าถึง เข้าใจได้ง่ายยิ่งขึ้น โดยพัฒนาเน้นไปที่รูปแบบการนำเสนอใหม่ ๆ ที่เป็นมิตรกับทุกคน\n\n▲ กิจกรรมใน Channel BorntoDev เป็นส่วนหนึ่งในการดำเนินงานของ บริษัท บอร์นทูเดฟ จำกัด ที่เปิดรับ Partners ที่สนใจร่วมเปลี่ยนแปลงให้สังคมไทยเป็นสังคมด้านวิทยาศาสตร์ และ เทคโนโลยีมากยิ่งขึ้น หากคุณสนใจสนับสนุน และ ก้าวไปพร้อมกัน สามารถติดต่อร่วมงานได้แล้ววันนี้\n\n▲ ติดต่อโฆษณา สนับสนุน และ ร่วมงานได้ที่: support@borntoDev.com",
       "thumbnails": {
         "default": {
           "url": "https://i.ytimg.com/vi/uK5fEIiFEAI/default.jpg",
@@ -5922,7 +5920,7 @@
   },
   {
     "kind": "youtube#video",
-    "etag": "C1fImVXQTbr3OG7twTMbgm6sRxM",
+    "etag": "W6qv8EmLXCwCDpvBhGZmdiohrhE",
     "id": "l6NDDv3KcZg",
     "snippet": {
       "publishedAt": "2023-04-20T07:58:11Z",
@@ -5976,7 +5974,7 @@
   },
   {
     "kind": "youtube#video",
-    "etag": "GV_tRYxg1M90y5ElCJcdEffFoCQ",
+    "etag": "wKj5hauhmchjtyW-25CYl7g7uXs",
     "id": "kytDBk6UBw4",
     "snippet": {
       "publishedAt": "2023-04-11T21:25:24Z",
@@ -6040,7 +6038,7 @@
   },
   {
     "kind": "youtube#video",
-    "etag": "63yZX25CnLQXeQmNH74gTgVmYKI",
+    "etag": "0btPVcUWoEscs_7dGwKTkkR6QVc",
     "id": "kVdU1e5HPIo",
     "snippet": {
       "publishedAt": "2023-04-03T18:58:30Z",
@@ -6476,7 +6474,7 @@
   },
   {
     "kind": "youtube#video",
-    "etag": "hAcYwhLA75e_lHYnUBC1tyxaZQc",
+    "etag": "9QgTi4jGdmouoFL7Nj7qZi8YcGs",
     "id": "HfUDVJoBk7k",
     "snippet": {
       "publishedAt": "2023-03-03T07:00:03Z",
@@ -6606,7 +6604,7 @@
   },
   {
     "kind": "youtube#video",
-    "etag": "xy1a2RPxi5vKb_mW4lrGX9SrtVY",
+    "etag": "ZcM6RzUsb9NXh0oXbgxzXyKMLSE",
     "id": "n_S5IOLdsSk",
     "snippet": {
       "publishedAt": "2023-02-26T10:37:36Z",
@@ -6661,7 +6659,7 @@
   },
   {
     "kind": "youtube#video",
-    "etag": "xbtAU41g2SigfdHJR4xUwh55Uaw",
+    "etag": "CuU4S-_6pno-22UzBy-RuqzFBk8",
     "id": "IkmlcZgMeH0",
     "snippet": {
       "publishedAt": "2023-02-21T06:38:00Z",
@@ -6838,7 +6836,7 @@
   },
   {
     "kind": "youtube#video",
-    "etag": "YTY4EbVeAcjYVRl7pyaNHXRNkT8",
+    "etag": "lMfbXUoTe_hlJUlNGRDr3VIHaXQ",
     "id": "osNYQvn19Zo",
     "snippet": {
       "publishedAt": "2023-02-16T19:40:12Z",
@@ -6907,7 +6905,7 @@
   },
   {
     "kind": "youtube#video",
-    "etag": "VmOPBShplUcXpqXFwp7Kl2GcUJw",
+    "etag": "0VFL43SjcMb9dmRlsLJTHyESuNw",
     "id": "11CCTx7rkjU",
     "snippet": {
       "publishedAt": "2023-01-05T15:11:17Z",
@@ -6969,7 +6967,7 @@
   },
   {
     "kind": "youtube#video",
-    "etag": "2371ya7J9bYVpz_sJIstH51UIXI",
+    "etag": "4FJtldfNeJiLGBV1GrCZjAsJhFs",
     "id": "jX2cS9pj4hw",
     "snippet": {
       "publishedAt": "2022-12-24T19:27:34Z",
@@ -7366,7 +7364,7 @@
   },
   {
     "kind": "youtube#video",
-    "etag": "S4VkVTmTmrBN-EHRhoXyHXTz9t4",
+    "etag": "DmMMTqgWhps-lbh2jyUULUpLpO4",
     "id": "9quJEOVW9Bk",
     "snippet": {
       "publishedAt": "2022-10-18T12:26:10Z",
@@ -7539,7 +7537,7 @@
   },
   {
     "kind": "youtube#video",
-    "etag": "hVrRDQL08YqoBJW-iydFnFjRno0",
+    "etag": "aSJ7FBdsTGkcPs8Ivg9gkgA8S8Y",
     "id": "g2owVghzXzY",
     "snippet": {
       "publishedAt": "2022-10-08T05:17:18Z",
@@ -7768,7 +7766,7 @@
   },
   {
     "kind": "youtube#video",
-    "etag": "jsh1L6-x6lAlUSFiteIFV8LjWdw",
+    "etag": "b3QU65aY6A01wQeLksV4kxCJ-BA",
     "id": "yz9_8ehtBu8",
     "snippet": {
       "publishedAt": "2022-08-30T13:00:40Z",
@@ -7871,7 +7869,7 @@
       "liveBroadcastContent": "none",
       "defaultLanguage": "ko",
       "localized": {
-        "title": "22 08 24 로그인예제 1강 tailwind daisyui 세팅",
+        "title": "22 08 24 로그인예제 1�� tailwind daisyui 세팅",
         "description": ""
       }
     },
@@ -8279,7 +8277,7 @@
   },
   {
     "kind": "youtube#video",
-    "etag": "mMhM2m78QB4dmOjCfVhPq2eZHbY",
+    "etag": "LtzfEmQ9T7RnYrBXIlJcE71xq_s",
     "id": "UfkrWf5jwrA",
     "snippet": {
       "publishedAt": "2024-01-25T12:30:18Z",
@@ -8439,7 +8437,7 @@
   },
   {
     "kind": "youtube#video",
-    "etag": "y59i_9uuNeSyRU-E1f_iDl2-P0Q",
+    "etag": "uQRHt4CIzbQtIm3ppZEZnOnhJlg",
     "id": "akd7u69k27k",
     "snippet": {
       "publishedAt": "2023-11-17T15:36:38Z",
@@ -8796,7 +8794,7 @@
   },
   {
     "kind": "youtube#video",
-    "etag": "IeYRBtUQAhzSmx2sGSkBoYFi2HI",
+    "etag": "5jdlKxEpgXYzNFgDFMrDFr9HMs8",
     "id": "VkRP6kWTrv4",
     "snippet": {
       "publishedAt": "2025-01-27T12:24:23Z",
@@ -8872,7 +8870,7 @@
   },
   {
     "kind": "youtube#video",
-    "etag": "KqKu_8U8VdbT3ytT3HfnKf5JCH4",
+    "etag": "0zYXXRbllTjQQihG32-e6-fPM6w",
     "id": "OLREEhetOcM",
     "snippet": {
       "publishedAt": "2024-12-17T08:14:59Z",
@@ -9188,7 +9186,7 @@
   },
   {
     "kind": "youtube#video",
-    "etag": "QQaEn_WFcafcyOs6xgfJIjRXgNc",
+    "etag": "l16DjYFQEbw8TVmXYaUILycWidc",
     "id": "56jFcoT_TwE",
     "snippet": {
       "publishedAt": "2025-04-28T22:59:42Z",
