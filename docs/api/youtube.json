@@ -151,7 +151,7 @@
   },
   {
     "kind": "youtube#video",
-    "etag": "BYR2SVt4m9vLOZFk2d_XzTZEu3g",
+    "etag": "Xn6TxCGX2I4-JcYFX4xdOfVDTHw",
     "id": "ky95s6eoNr4",
     "snippet": {
       "publishedAt": "2025-04-28T13:30:44Z",
@@ -206,7 +206,7 @@
   },
   {
     "kind": "youtube#video",
-    "etag": "o8bCWG5ys8toARtxQ3ILO8aSQ9E",
+    "etag": "ZMJ6RxsiviK3thaz5NWiTN2VpSI",
     "id": "PPXktTJXMPE",
     "snippet": {
       "publishedAt": "2025-01-22T00:00:55Z",
@@ -280,7 +280,7 @@
   },
   {
     "kind": "youtube#video",
-    "etag": "L3lsn1R9FJoQEk8ZH77bSrdcgXw",
+    "etag": "V3c94TQhrjGR7xT8sWvftFXUCpM",
     "id": "tZbOO97urWs",
     "snippet": {
       "publishedAt": "2023-05-21T21:51:04Z",
@@ -335,7 +335,7 @@
   },
   {
     "kind": "youtube#video",
-    "etag": "giEstw5Hjqn8-tXQSrp2lpR0rLE",
+    "etag": "uLVNv2o8UEA3o-rIneW8OBDavMc",
     "id": "X5L6LSj6eKw",
     "snippet": {
       "publishedAt": "2025-05-01T12:00:56Z",
@@ -444,7 +444,7 @@
   },
   {
     "kind": "youtube#video",
-    "etag": "IsLE6bSEVDDdyDLBHfuzUy9KMow",
+    "etag": "6EWzi-CH3XgfjNzkHo36iaveu5E",
     "id": "2pmFuqyXQCA",
     "snippet": {
       "publishedAt": "2025-04-14T05:00:02Z",
@@ -585,7 +585,7 @@
   },
   {
     "kind": "youtube#video",
-    "etag": "sh5GGG-OPRRo8lTgyvVc4SPhP7o",
+    "etag": "lQCbtQBrHxU7qAXfjbOu5F7eU0Q",
     "id": "g12_6l53uMM",
     "snippet": {
       "publishedAt": "2024-09-17T14:00:39Z",
@@ -681,7 +681,7 @@
   },
   {
     "kind": "youtube#video",
-    "etag": "5-OMzqF1rhORUYxY-N6HSi5CynM",
+    "etag": "v7gIFD-2LH4m4AV0wNyOz85D2O8",
     "id": "mJgNSN5YAMI",
     "snippet": {
       "publishedAt": "2022-02-09T17:02:29Z",
@@ -1096,7 +1096,7 @@
   },
   {
     "kind": "youtube#video",
-    "etag": "DS7_MR4nCMJ5P6jOlrsVvlrufBc",
+    "etag": "gntL3VZOPOSwB5lrQRR_KJOnEHI",
     "id": "N7g9rs3w1Ec",
     "snippet": {
       "publishedAt": "2025-03-31T04:00:17Z",
@@ -1140,7 +1140,8 @@
       "localized": {
         "title": "Build Tailwind v4 + Daisy UI with Dotnet + Docker",
         "description": "In this video we explore how to use Tailwind V4 and Daisy UI to style your dotnet apps, using Docker as our build tool.\n\nOriginal blog post with all code and links: https://hamy.xyz/blog/2025-03_dotnet-docker-tailwind-v4\n\nCTA: Join Haminions to get full access to the project files - https://hamy.xyz/blog/haminions\n* Full source code: https://github.com/HAMY-LABS/hamy-labs-code-examples/tree/main/fsharp/2025-03_fsharp-dotnet-tailwind-v4\n\nChapters\n\n00:50 - Project Overview\n03:10 - Tailwind v4 with Dotnet and Docker\n08:15 - Styling Dotnet Frontends with Tailwind v4\n\nLinks:\n\n- Build a Single-File Web API with F# + Falco - https://www.youtube.com/watch?v=SJCHBqrc3sE&ab_channel=HAMYLABS\n- Build a Fullstack Webapp with F# + Falco - https://www.youtube.com/watch?v=ELPdHdtEIY8&ab_channel=HAMYLABS\n- How to run an F# + Falco Webapp in a Docker Container - https://www.youtube.com/watch?v=B7MJZrdc6dk&ab_channel=HAMYLABS\n\nAbout me: I'm Hamilton - a Technomancer. I build Simple Scalable Systems to make the world 1% better.\n\nConnect with me:\n\n- Website: https://hamy.xyz\n- Twitter: @SIRHAMY - https://twitter.com/SIRHAMY\n\n# Support \n\nIf you liked this and would like to see more, consider becoming a supporter: https://hamy.xyz/labs/haminions\n\nSupporters get:\n* Full source code access from courses / tutorials\n* Exclusive discounts on products / courses\n\nPlus you help me to keep experimenting / sharing!\n\nFor Sponsorship info: https://hamy.xyz/labs/sponsors"
-      }
+      },
+      "defaultAudioLanguage": "en"
     },
     "status": {
       "uploadStatus": "processed",
@@ -1153,7 +1154,7 @@
   },
   {
     "kind": "youtube#video",
-    "etag": "IpHAKuwXEzX7mYWbFZ2SDi9vUzE",
+    "etag": "ZfvH2gYh6huQMC9fa1uQRFlA7cs",
     "id": "uI9gZ0TtTAs",
     "snippet": {
       "publishedAt": "2025-03-29T18:40:06Z",
@@ -1226,7 +1227,7 @@
   },
   {
     "kind": "youtube#video",
-    "etag": "zBoqMtr7-Eqc4FMTwg1JCtj6AKg",
+    "etag": "czR7dfxYOSTn4voeJDqrF7K5jEw",
     "id": "RkSnBpPh12o",
     "snippet": {
       "publishedAt": "2025-03-28T11:28:13Z",
@@ -1266,7 +1267,7 @@
       "defaultLanguage": "en",
       "localized": {
         "title": "django-vite - HTMX, Alpine.js and TailwindCSS Plugin Installation",
-        "description": "☕️ 𝗕𝘂𝘆 𝗺𝗲 𝗮 𝗰𝗼𝗳𝗳𝗲𝗲:\nTo support the channel and encourage new videos, please consider buying me a coffee here:\nhttps://ko-fi.com/bugbytes\n\nIn this video, we'll expand on the previous video and setup django-vite with TailwindCSS Plugins, HTMX and Alpine.js. The method presented will be extendable to any JS client-side package.\n \n📌 𝗖𝗵𝗮𝗽𝘁𝗲𝗿𝘀:\n00:00 Intro\n00:39 Adding DaisyUI plugin to django-vite setup\n03:30 Adding Flowbite plugin to django-vite setup\n05:22 Adding HTMX to django-vite setup\n09:35 Adding Alpine.js to django-vite setup\n\n𝗦𝗼𝗰𝗶𝗮𝗹 𝗠𝗲𝗱𝗶𝗮:\n📖 Blog: https://bugbytes.io/posts/\n👾 Github: https://github.com/bugbytes-io/\n\n📚 𝗙𝘂𝗿𝘁𝗵𝗲𝗿 𝗿𝗲𝗮𝗱𝗶𝗻𝗴 𝗮𝗻𝗱 𝗶𝗻𝗳𝗼𝗿𝗺����𝘁𝗶𝗼𝗻:\nDjango-vite: https://github.com/MrBin99/django-vite\nVite: https://vite.dev/\nHTMX: https://htmx.org/docs/#installing \nAlpineJS: https://alpinejs.dev/essentials/installation \nDaisyUI: https://daisyui.com/docs/install/\nFlowbite: https://flowbite.com/docs/getting-started/quickstart/#getting-started\n\n#python #django #tailwindcss #vitejs #htmx"
+        "description": "☕️ 𝗕𝘂𝘆 𝗺𝗲 𝗮 𝗰𝗼𝗳𝗳𝗲𝗲:\nTo support the channel and encourage new videos, please consider buying me a coffee here:\nhttps://ko-fi.com/bugbytes\n\nIn this video, we'll expand on the previous video and setup django-vite with TailwindCSS Plugins, HTMX and Alpine.js. The method presented will be extendable to any JS client-side package.\n \n📌 𝗖𝗵𝗮𝗽𝘁𝗲𝗿𝘀:\n00:00 Intro\n00:39 Adding DaisyUI plugin to django-vite setup\n03:30 Adding Flowbite plugin to django-vite setup\n05:22 Adding HTMX to django-vite setup\n09:35 Adding Alpine.js to django-vite setup\n\n𝗦𝗼𝗰𝗶𝗮𝗹 𝗠𝗲𝗱𝗶𝗮:\n📖 Blog: https://bugbytes.io/posts/\n👾 Github: https://github.com/bugbytes-io/\n\n📚 𝗙𝘂𝗿𝘁𝗵𝗲𝗿 𝗿𝗲𝗮𝗱𝗶𝗻𝗴 𝗮𝗻𝗱 𝗶𝗻𝗳𝗼𝗿𝗺𝗮𝘁𝗶𝗼𝗻:\nDjango-vite: https://github.com/MrBin99/django-vite\nVite: https://vite.dev/\nHTMX: https://htmx.org/docs/#installing \nAlpineJS: https://alpinejs.dev/essentials/installation \nDaisyUI: https://daisyui.com/docs/install/\nFlowbite: https://flowbite.com/docs/getting-started/quickstart/#getting-started\n\n#python #django #tailwindcss #vitejs #htmx"
       },
       "defaultAudioLanguage": "en-GB"
     },
@@ -1470,7 +1471,7 @@
   },
   {
     "kind": "youtube#video",
-    "etag": "siGBTTTt5Yowl2yJXHgzv2MsvY4",
+    "etag": "0REKWGFIaMAc5_fp_l7rJXpfoz8",
     "id": "F2813o7AFsw",
     "snippet": {
       "publishedAt": "2023-11-29T16:46:21Z",
@@ -1511,7 +1512,8 @@
       "localized": {
         "title": "daisyUI meets Laravel Livewire",
         "description": "If you haven't heard about DaisyUI, then you're missing out. But if you use Laravel or are Laravel-curious, then there's a great option for you that combines the flexibility of DaisyUI with the power of Laravel Livewire. Let's take a look.\n\nHelp me choose my next video:\nhttps://cir.re/suggest\n\nLinks:\nIn-depth daisyUI look (https://www.youtube.com/watch?v=PctfrkRo8Fg&t=335s)\nhttps://daisyui.com/\nhttps://mary-ui.com/\n\n00:00 Intro to daisyUI\n01:19 Creating a Button in Livewire\n02:25 Installing daisyUI\n03:26 Creating a Livewire Component\n04:15 Adding daisyUI\n06:03 Theming Buttons\n07:25 Adding Loading State\n12:09 Introducing Mary UI\n13:22 Installing Mary UI\n14:39 Creating Button with Mary UI\n16:40 Overview of Mary UI Repo\n17:43 Paper Dashboard Demo App\n18:19 Conclusion\n\nfor the algo:\nlaravel, livewire, component libraries, daisyui, tailwind components, tailwind buttons, tailwind tabs, tailwind cards, customizable uis, themable uis, laravel daisyui, livewire spinners, laravel loading spinners, bootstrap alternatives, css frameworks, front end development, web application development, php development, server side rendering\n\nKeep creating.\n\n---\n📹 **Watch My VSCode Setup Video:**  https://youtu.be/uoqhrFRuRF4\n\n🎓 **Make VSCode Awesome – Caleb Porzio's Course (support me with this link):** https://gumroad.com/a/636621331"
-      }
+      },
+      "defaultAudioLanguage": "en"
     },
     "status": {
       "uploadStatus": "processed",
@@ -1524,7 +1526,7 @@
   },
   {
     "kind": "youtube#video",
-    "etag": "xYl-vksTCSSey8DxtHd_TOy8nuI",
+    "etag": "Ge0KtSOCEwCnYGbbkk9-6oQu6Jo",
     "id": "PctfrkRo8Fg",
     "snippet": {
       "publishedAt": "2023-11-22T13:00:19Z",
@@ -1600,7 +1602,7 @@
   },
   {
     "kind": "youtube#video",
-    "etag": "uQRHt4CIzbQtIm3ppZEZnOnhJlg",
+    "etag": "kTzpTp43_v01C7tLOXZAactCJPY",
     "id": "akd7u69k27k",
     "snippet": {
       "publishedAt": "2023-11-17T15:36:38Z",
@@ -1655,7 +1657,7 @@
   },
   {
     "kind": "youtube#video",
-    "etag": "frCJ2d7cpHrVJadNtjtREiDR8NU",
+    "etag": "JF3qqmgfrG-AJksiNFpqOar82Jw",
     "id": "dT9XYE_YJW8",
     "snippet": {
       "publishedAt": "2024-08-13T09:17:00Z",
@@ -1809,7 +1811,7 @@
   },
   {
     "kind": "youtube#video",
-    "etag": "sUUqCiw7ZJRxv_LxIalnhP6D9ig",
+    "etag": "jU11yK2jPXOTgUMf4qSYkprNPeU",
     "id": "TW9MQLjL1uw",
     "snippet": {
       "publishedAt": "2024-03-19T12:00:32Z",
@@ -1870,7 +1872,7 @@
   },
   {
     "kind": "youtube#video",
-    "etag": "Wbb9YMvAneFS58dSJcV03RYFgxw",
+    "etag": "xh6DxRAlhjft5dGUGICQE0zGib0",
     "id": "ZxrNzv0rEws",
     "snippet": {
       "publishedAt": "2023-11-15T19:00:21Z",
@@ -2001,7 +2003,7 @@
   },
   {
     "kind": "youtube#video",
-    "etag": "KK_DTVaGUTe5Am8rcw_DQdW3_wg",
+    "etag": "JosV4OAhPrNTfHzZ73x7PTkFYcE",
     "id": "l4sbqrY0XGk",
     "snippet": {
       "publishedAt": "2022-08-17T21:57:33Z",
@@ -2271,7 +2273,7 @@
   },
   {
     "kind": "youtube#video",
-    "etag": "-eCb3gEmyrVL_4ELO8CxeDNiHlo",
+    "etag": "88WXGJpdOA1WZmzDfGUMLvIw--o",
     "id": "X6Yp9FXNpvU",
     "snippet": {
       "publishedAt": "2024-06-22T13:25:58Z",
@@ -2333,7 +2335,7 @@
   },
   {
     "kind": "youtube#video",
-    "etag": "Zm2c6017SKRdx8L5uy-hJjtVKfU",
+    "etag": "ghbREYuqoqiAtHWmAJAEIC5PuLA",
     "id": "EaaGZ7M6muE",
     "snippet": {
       "publishedAt": "2024-05-14T12:01:45Z",
@@ -2477,7 +2479,7 @@
   },
   {
     "kind": "youtube#video",
-    "etag": "5oDMezBQW5_MAiBBEOF-Tipvgf4",
+    "etag": "RRPqbJ8lkjGYYyVWdXms0Jb2YXY",
     "id": "fX3AhKuZnXc",
     "snippet": {
       "publishedAt": "2023-06-05T11:48:04Z",
@@ -2541,7 +2543,7 @@
   },
   {
     "kind": "youtube#video",
-    "etag": "AbVn6y3O163niN89bs_0F9UIxrk",
+    "etag": "gx99UIto-MYbhHbqw1k62P5CYxA",
     "id": "I78f5Atoa-Y",
     "snippet": {
       "publishedAt": "2023-05-30T14:47:05Z",
@@ -2869,7 +2871,7 @@
   },
   {
     "kind": "youtube#video",
-    "etag": "ZyN_bNdExdDcvTiMQT8EaQHDk0U",
+    "etag": "nayKHxZfLHOLDPvKodb8JT9EJiE",
     "id": "K4ziF0MhbLc",
     "snippet": {
       "publishedAt": "2023-10-05T15:26:35Z",
@@ -2924,7 +2926,7 @@
   },
   {
     "kind": "youtube#video",
-    "etag": "1hiaxE2C56A7b80nA-eE_3rp2o4",
+    "etag": "HjnIylshkLmPoAOYUCR9p80J4yI",
     "id": "9js_4PwapEc",
     "snippet": {
       "publishedAt": "2022-11-01T16:13:53Z",
@@ -3091,7 +3093,7 @@
   },
   {
     "kind": "youtube#video",
-    "etag": "CNKG4DVwt4vdvptSnhj1uCWe420",
+    "etag": "HDP6RDTLOZ1O-UpbTXXncxIXKeE",
     "id": "1kON7Q9MBak",
     "snippet": {
       "publishedAt": "2023-06-20T02:20:11Z",
@@ -3139,7 +3141,8 @@
       "localized": {
         "title": "Next JS 13 Tutorial: Build an Airbnb Clone (React, Tailwind, Daisy UI, Zustand)",
         "description": "This tutorial covers the new features of Next JS 13, including the App Router, routing and layouts, nested layouts, and changes to SSR and data fetching. The video also teaches(assisting resources provided, check links down below⬇️⬇️⬇️) how to create animations and responsive styling, and builds an Airbnb Clone with search functionality, responsive cards, and a mobile menu. The code is available on Github with separate branches for each chapter. As an outcome of the tutorial we build an Airbnb clone front-end project, go over the file structure, install the required packaged and set up a store for state management. We also implement mobile responsiveness, fetching data, and adding animations, among other tasks. \n\n✉️Sign up for my newsletter:\n\nhttp://eepurl.com/h4X959 \n\n👾Join my Discord:\n\nhttps://discord.gg/VGTVNvwReW\n\n✍️Full-Stack Roadmap:\n\nhttps://webdecoded.gumroad.com/l/full-stack\n\n🌐GitHub URL:\n\nhttps://github.com/judygab/airbnb-clone/tree/1.1-header-routing\n\n🔥Firebase:\n\nCRUD - https://www.youtube.com/watch?v=fz3w2m4F_K8\n\nAuthentication - https://www.youtube.com/watch?v=Vv_Oi7zPPTw\n\n⚛️More on React: \n\nBuild a Portfolio Website - https://youtu.be/hYv6BM2fWd8\n\nMERN Stack Project: Food Ordering App - https://youtu.be/x4dIga_3S4I\n\n☕Support the channel:\n\nbuymeacoff.ee/webdecoded5\n\n📁Project Assets(free):\n\nlistingsData.json - https://gist.github.com/judygab/f34636c6195db777bcf2080287bfda01\n\n🧑‍🚀AI Chatbot for your website:\n\nhttps://letsask.ai/\n\nTimestamps for the project and their branch names. (Tip: when you finish the chapter, check out the branch of that chapter to make sure you haven't missed anything)\n00:00:00 - Project setup, header & routing - 1.1-header-routing\n00:58:49 - Info Cards - 1.2-info-cards\n1:21:41 - Zustand Store - 1.3-store-set-up\n1:34:55 - Creating Modal - 1.4-header-modal\n1:40:23- Search Results Page & Functionality - 1.5-search-results-page\n2:11:14 - Mobile Menu - 1.6-mobile-menu\n\nDisclaimer:\nThis video is for only for the purpose to practice building web apps and I'm not affiliated with airbnb."
-      }
+      },
+      "defaultAudioLanguage": "en"
     },
     "status": {
       "uploadStatus": "processed",
@@ -3152,7 +3155,7 @@
   },
   {
     "kind": "youtube#video",
-    "etag": "YytQxDKpu9mOGs7qhDJuEoRWT0Y",
+    "etag": "GYZNv3lWIH_hDWnvJBRf4JBDVJU",
     "id": "JN4uI4cNljE",
     "snippet": {
       "publishedAt": "2023-06-03T22:28:36Z",
@@ -3229,7 +3232,8 @@
       "localized": {
         "title": "(Day 169) Coding Journey: DaisyUI",
         "description": "(Day 169) Coding Journey: Daisy UI\n\nSome of my projects:\nwagster.antoniorogers.com\nimagine.antoniorogers.com\nweather.antoniorogers.com\ntictactoe.antoniorogers.com\n\nProjects I am still currently working on:\nPremium Caps E-commerce\ntripper.antoniorogers.com\n\nGitHub: http://bit.ly/3WLGEzq\nTwitter: https://bit.ly/3GoxZ0m\nLinkedIn: https://bit.ly/3GqSdXk"
-      }
+      },
+      "defaultAudioLanguage": "en"
     },
     "status": {
       "uploadStatus": "processed",
@@ -3242,7 +3246,7 @@
   },
   {
     "kind": "youtube#video",
-    "etag": "U3wA9vTNDwGNqyRCUKKp14wE7UI",
+    "etag": "hjKdk4ApwJwt77w5508dgZRq_yc",
     "id": "KteaV_c4NUQ",
     "snippet": {
       "publishedAt": "2023-06-01T18:45:20Z",
@@ -3369,7 +3373,7 @@
   },
   {
     "kind": "youtube#video",
-    "etag": "GsdENZ42cK_6qIFHAP65-eARD0A",
+    "etag": "x2EB3qgH7st4erPaQMAaTqFZS8M",
     "id": "J827X9j0R60",
     "snippet": {
       "publishedAt": "2023-05-14T14:36:02Z",
@@ -3443,7 +3447,7 @@
   },
   {
     "kind": "youtube#video",
-    "etag": "_vMdjIPXZWuYjG0VqBlVVTw_UYY",
+    "etag": "H1yk7RfiU2N1jP3_vF_wRUoK6F0",
     "id": "Kd6n3B0JRO8",
     "snippet": {
       "publishedAt": "2023-05-11T09:07:51Z",
@@ -3518,7 +3522,7 @@
   },
   {
     "kind": "youtube#video",
-    "etag": "y9k5XAzUKvRxj6FWk25tGuFo6V8",
+    "etag": "OTONwNvgfXkwKsCXVIoCNvM05xw",
     "id": "8VWAj4CHdOk",
     "snippet": {
       "publishedAt": "2023-05-02T18:35:34Z",
@@ -3605,7 +3609,7 @@
   },
   {
     "kind": "youtube#video",
-    "etag": "6E-3FiBZa4eLM2yDESIwIyoUq5M",
+    "etag": "9ltmjQHoaNOzIlmQeKCi4dcWiSE",
     "id": "whvp0nSy6Y4",
     "snippet": {
       "publishedAt": "2023-04-20T11:57:13Z",
@@ -3680,7 +3684,7 @@
   },
   {
     "kind": "youtube#video",
-    "etag": "BOASc1b2XhbVRFj1Un3r10FQRmw",
+    "etag": "SOxmiQk4esW8vMmoFzucJFf5xM0",
     "id": "1HzFYpmx_zs",
     "snippet": {
       "publishedAt": "2023-04-08T05:39:48Z",
@@ -3749,7 +3753,7 @@
   },
   {
     "kind": "youtube#video",
-    "etag": "MqsE6KdOJMOTxay3SbL2CB6uEQ0",
+    "etag": "rKvJHn-0jpE1LQtWxGF3rkaTETY",
     "id": "XBYvzPe7skc",
     "snippet": {
       "publishedAt": "2022-02-05T04:42:26Z",
@@ -3816,7 +3820,7 @@
   },
   {
     "kind": "youtube#video",
-    "etag": "HrwvQqlfhw0GND7J9_hzIGPLgJU",
+    "etag": "pbZKXJgL1Eja-pmQInHf5EC4g88",
     "id": "mPQyckogDYc",
     "snippet": {
       "publishedAt": "2021-11-28T14:00:20Z",
@@ -4011,7 +4015,7 @@
   },
   {
     "kind": "youtube#video",
-    "etag": "D4fFB0AQG4PyUHLiBhYRx7ujgG0",
+    "etag": "LTrGEY7ANoamLI2PCd3C4qaB8U0",
     "id": "zH2qG9YwN3s",
     "snippet": {
       "publishedAt": "2021-09-15T20:51:27Z",
@@ -4208,7 +4212,7 @@
   },
   {
     "kind": "youtube#video",
-    "etag": "K-o23TqxXfUXvS0i2kcPmuMf5gs",
+    "etag": "m8DXxbm1xXpfjMOpwLTaqo4aPmk",
     "id": "uXQgJbUj3PQ",
     "snippet": {
       "publishedAt": "2021-11-18T10:18:23Z",
@@ -4303,7 +4307,7 @@
   },
   {
     "kind": "youtube#video",
-    "etag": "6NyeuRk7z7p-sJrUIWyfElzejfs",
+    "etag": "CVZGtv2P5onTx30PA9aZstge7Do",
     "id": "5lF5PxBJoso",
     "snippet": {
       "publishedAt": "2022-01-15T19:09:57Z",
@@ -4355,7 +4359,8 @@
       "localized": {
         "title": "Svelte Setup with Vite, Tailwind, DaisyUI. Custom Themes! | Svelte Tutorials",
         "description": "I first learned how to do this from this video here: https://www.youtube.com/watch?v=mEBPN_9jTAE\n\nThe three pages that I used are as follows:\n1. Vite: https://vitejs.dev/guide/#scaffolding-your-first-vite-project\n2. Tailwindcss: https://tailwindcss.com/docs/installation/using-postcss\n3. DaisyUI: https://daisyui.com/docs/install\n\nPlease feel free to follow along and setup a project base that won't let you down. These technologies work very well together, and I love using them!\nThank you for watching and have a great day! \n\nTimestamps:\n00:00 Using Vite Cli to setup a svelte typescript project\n01:00 Adding Tailwindcss\n04:20 Adding DaisyUI\n05:40 Adding custom themes with DaisyUI\n08:45 Interesting aspect of Tailwind"
-      }
+      },
+      "defaultAudioLanguage": "en"
     },
     "status": {
       "uploadStatus": "processed",
@@ -4368,7 +4373,7 @@
   },
   {
     "kind": "youtube#video",
-    "etag": "16KSAMoUgjRDMK961CcUUi9h1UA",
+    "etag": "eivFvKix4pbyPeaIo18X0kpp6OU",
     "id": "u9jtHBE6NL8",
     "snippet": {
       "publishedAt": "2022-01-22T22:00:14Z",
@@ -4495,7 +4500,7 @@
   },
   {
     "kind": "youtube#video",
-    "etag": "2jj3bahoznDz3XSIo9xzlQFJWSI",
+    "etag": "pP7nYPd1Jvrv8wW_dH4rOJMx35A",
     "id": "y7LYoRGRqRI",
     "snippet": {
       "publishedAt": "2022-01-31T00:12:26Z",
@@ -4815,7 +4820,7 @@
   },
   {
     "kind": "youtube#video",
-    "etag": "3DR8b2Ne2Mhd2CZWglliI_IkS6E",
+    "etag": "veF2g0t3mufKqadmTf7_ZmcWsd4",
     "id": "1VC8ps7EI18",
     "snippet": {
       "publishedAt": "2023-09-16T02:45:00Z",
@@ -5094,7 +5099,7 @@
   },
   {
     "kind": "youtube#video",
-    "etag": "_K_AK4NGKwwlLJhO8phtCbkAUx0",
+    "etag": "BJClCF17qZ_7Q0gG3x99I0iuLUI",
     "id": "l04LcLNM390",
     "snippet": {
       "publishedAt": "2023-08-07T09:44:35Z",
@@ -5245,7 +5250,7 @@
   },
   {
     "kind": "youtube#video",
-    "etag": "NAjmkGYARQHUUJrAenZntbwha6E",
+    "etag": "61aGK3Zr_OXH4GT1x6EkbTpyRac",
     "id": "K5QUx6iPyfQ",
     "snippet": {
       "publishedAt": "2023-08-17T08:17:30Z",
@@ -5381,7 +5386,7 @@
   },
   {
     "kind": "youtube#video",
-    "etag": "OwW83N0dyv8WEH_uK4usqZhJjOk",
+    "etag": "tm_lFpJjka-BaA06oS75tnjZHMs",
     "id": "uK5fEIiFEAI",
     "snippet": {
       "publishedAt": "2023-07-22T03:00:34Z",
@@ -5448,7 +5453,7 @@
   },
   {
     "kind": "youtube#video",
-    "etag": "T08JvfpYuOg1HCtAe0DgniUJTgo",
+    "etag": "mbgipCdax5_QVB2emE0L1sSAbfs",
     "id": "9XeiyFsfzlE",
     "snippet": {
       "publishedAt": "2023-07-21T13:14:25Z",
@@ -5497,7 +5502,7 @@
   },
   {
     "kind": "youtube#video",
-    "etag": "fh3w-tWN2t7EDOSMnC7wqqBAGlw",
+    "etag": "x4CE--L-qhw9o5CyXCHoTd9O6oM",
     "id": "-elV2erzt10",
     "snippet": {
       "publishedAt": "2023-07-10T07:30:10Z",
@@ -5576,7 +5581,7 @@
   },
   {
     "kind": "youtube#video",
-    "etag": "rAvCJUaDhrT5hy9kLbI3tJo-EA8",
+    "etag": "pq09zx5piliLJHfSlY9zx8TikrU",
     "id": "6nEcQFnfx8U",
     "snippet": {
       "publishedAt": "2023-07-04T16:54:36Z",
@@ -5634,7 +5639,7 @@
   },
   {
     "kind": "youtube#video",
-    "etag": "L3O3VTSLVRjZRhegSYL7IivEYSw",
+    "etag": "LOzXvGBl8jKTnXpWzsVCdZHk0rE",
     "id": "9AydJ-cg8fU",
     "snippet": {
       "publishedAt": "2023-06-23T11:00:10Z",
@@ -5710,7 +5715,7 @@
   },
   {
     "kind": "youtube#video",
-    "etag": "2E9s1xDsvz-61uwQ8lXAZOY9Uho",
+    "etag": "fWB9qkQ39L4XdItUjX5hW3tCUqg",
     "id": "v3QJAdVE-7Q",
     "snippet": {
       "publishedAt": "2023-06-25T20:52:14Z",
@@ -5785,7 +5790,7 @@
   },
   {
     "kind": "youtube#video",
-    "etag": "3AIzKQ1B_5pldP7NCo9dkSb9g4M",
+    "etag": "mi0f_QOQXU6_9G3PzVX__ez40pI",
     "id": "mRvohmjna-o",
     "snippet": {
       "publishedAt": "2023-06-26T13:00:07Z",
@@ -5862,7 +5867,7 @@
   },
   {
     "kind": "youtube#video",
-    "etag": "pEFfYiYWzMRWVyftgv1fV53cxbM",
+    "etag": "DphHJH-Ut1x3S3qPUASckCAmTOM",
     "id": "8DQVMcP0ZUY",
     "snippet": {
       "publishedAt": "2023-06-21T11:00:07Z",
@@ -6124,7 +6129,7 @@
   },
   {
     "kind": "youtube#video",
-    "etag": "nXAFdCMFCEA-RilIPjH9WMXlwcM",
+    "etag": "QP9gR_k5L7IhkmQSBTpzwz1QKk0",
     "id": "2nXsvpk9rd0",
     "snippet": {
       "publishedAt": "2023-04-02T21:38:21Z",
@@ -6200,7 +6205,7 @@
   },
   {
     "kind": "youtube#video",
-    "etag": "c5HHbb6_YzEC26QlEKJqDtxzX9c",
+    "etag": "cLWjGd0D5WVtrwo9OM5nyKufYbU",
     "id": "Z-KSLMRM_jI",
     "snippet": {
       "publishedAt": "2023-04-02T08:22:37Z",
@@ -6339,7 +6344,7 @@
   },
   {
     "kind": "youtube#video",
-    "etag": "ZqBJ1jf8RCgOnNTnDQ_48-uBKh0",
+    "etag": "9aJZ-G49Xgolz4ywOhBxpql2lPw",
     "id": "nne_lr711Iw",
     "snippet": {
       "publishedAt": "2023-03-15T01:12:00Z",
@@ -6539,7 +6544,7 @@
   },
   {
     "kind": "youtube#video",
-    "etag": "wslesr_d70ifY9rc2jsm5bpNqCQ",
+    "etag": "3By9E9FdgdfWlQ0htGlaRDSbUNc",
     "id": "Z4_4QKyuIkM",
     "snippet": {
       "publishedAt": "2023-03-02T17:03:06Z",
@@ -6704,7 +6709,7 @@
   },
   {
     "kind": "youtube#video",
-    "etag": "Fvst11oBj4NOKKRmo9_8qDnetAY",
+    "etag": "nYxMRj2rKPF3EHOqOfG1qIBsbXw",
     "id": "ZHBhA5gb4iM",
     "snippet": {
       "publishedAt": "2023-02-20T07:56:24Z",
@@ -6770,7 +6775,7 @@
   },
   {
     "kind": "youtube#video",
-    "etag": "bST9w6Tg8cfbcNWWXHRQFa3Hupw",
+    "etag": "1uNCpjUr75wLaLP7XMbyfMehDxo",
     "id": "HB7f_Mz4x7Y",
     "snippet": {
       "publishedAt": "2023-02-20T06:43:14Z",
@@ -7022,7 +7027,7 @@
   },
   {
     "kind": "youtube#video",
-    "etag": "nubTHVy5CeM5e3tTLhO0BKA_BiE",
+    "etag": "02u01i5e5O08sQrBtFIx5Na8W8k",
     "id": "jlWfXcRUQ3g",
     "snippet": {
       "publishedAt": "2022-12-05T09:47:30Z",
@@ -7141,7 +7146,7 @@
   },
   {
     "kind": "youtube#video",
-    "etag": "VZmrshEb9_RyoSKghyqxAgwt2RE",
+    "etag": "t7XnRYQw-Ef53v8OXs6e0ugmLRQ",
     "id": "oGZOrIfRnYQ",
     "snippet": {
       "publishedAt": "2022-11-13T11:28:17Z",
@@ -7254,7 +7259,7 @@
   },
   {
     "kind": "youtube#video",
-    "etag": "QNtztdPSBMFNZS2aR2cPFIadVtI",
+    "etag": "rBGtWpgV_llJKXluNpSiSbZvfQQ",
     "id": "kclTvXlVh0w",
     "snippet": {
       "publishedAt": "2022-10-19T03:13:41Z",
@@ -7309,7 +7314,7 @@
   },
   {
     "kind": "youtube#video",
-    "etag": "8zcghJmLNZLo9m9yu7uBVgdluTQ",
+    "etag": "mS8ZExjbYDG3VORPXHfp5zcefX4",
     "id": "1OCN03HHXAQ",
     "snippet": {
       "publishedAt": "2022-10-18T23:00:01Z",
@@ -7418,7 +7423,7 @@
   },
   {
     "kind": "youtube#video",
-    "etag": "g3mf2F4WIJZQDvBz2hV9EEnNbG0",
+    "etag": "cFErFG49RjD277A9NLjbRqri2Ek",
     "id": "2WQs7Em6dYw",
     "snippet": {
       "publishedAt": "2022-10-18T00:35:30Z",
@@ -7473,7 +7478,7 @@
   },
   {
     "kind": "youtube#video",
-    "etag": "JwzipGxgZMG-KcCERt7yjpScXqA",
+    "etag": "LZrCYOcVkDAFMWT2jDz0Z2Iuclg",
     "id": "qJcUjEsp9aY",
     "snippet": {
       "publishedAt": "2022-10-17T08:57:36Z",
@@ -7592,7 +7597,7 @@
   },
   {
     "kind": "youtube#video",
-    "etag": "_HzM-y5twhnS3MVRRCEPyRaBSgI",
+    "etag": "t5he3KjGbcMM_awFlgwFMzSwua8",
     "id": "fIdfxsKWnxQ",
     "snippet": {
       "publishedAt": "2022-10-06T17:24:48Z",
@@ -7646,7 +7651,7 @@
   },
   {
     "kind": "youtube#video",
-    "etag": "mLOMVAq5-Dr0NpKjz8A3WyBigm0",
+    "etag": "CUw443_iNphZcQ0SL3BVbtyI0Yo",
     "id": "zJ5bGZA9oWE",
     "snippet": {
       "publishedAt": "2022-10-06T00:16:45Z",
@@ -7701,7 +7706,7 @@
   },
   {
     "kind": "youtube#video",
-    "etag": "-azdBnu57EeYESHZHH7w563CDoI",
+    "etag": "QrqVCDjQcCE1BUiu2Sd34LnHSz4",
     "id": "cJV1G_w39wM",
     "snippet": {
       "publishedAt": "2022-09-19T11:00:32Z",
@@ -7766,7 +7771,7 @@
   },
   {
     "kind": "youtube#video",
-    "etag": "b3QU65aY6A01wQeLksV4kxCJ-BA",
+    "etag": "Tlfrv90HUSkfvpooCTFQpXx3360",
     "id": "yz9_8ehtBu8",
     "snippet": {
       "publishedAt": "2022-08-30T13:00:40Z",
@@ -7830,7 +7835,7 @@
   },
   {
     "kind": "youtube#video",
-    "etag": "ENiX2uQoQcHE5zpH-lf3diQadwM",
+    "etag": "S7rHIFrHK8mTemhkX__JkLDf61s",
     "id": "bwQvPBh3xYU",
     "snippet": {
       "publishedAt": "2022-08-24T09:26:38Z",
@@ -7869,7 +7874,7 @@
       "liveBroadcastContent": "none",
       "defaultLanguage": "ko",
       "localized": {
-        "title": "22 08 24 로그인예제 1�� tailwind daisyui 세팅",
+        "title": "22 08 24 로그인예제 1강 tailwind daisyui 세팅",
         "description": ""
       }
     },
@@ -7884,7 +7889,7 @@
   },
   {
     "kind": "youtube#video",
-    "etag": "JLVAhaAerMOxTKLa8MgOIjxfLGI",
+    "etag": "9nfINMJFPS_IlALAIGdC-tL_4eA",
     "id": "wwsHlo7UkKk",
     "snippet": {
       "publishedAt": "2022-07-24T19:45:02Z",
@@ -7966,7 +7971,7 @@
   },
   {
     "kind": "youtube#video",
-    "etag": "XKixeb1oaWiHEh7-LpPa-tvy0ss",
+    "etag": "qjiKxAl6cmf2UMADGfwecGW0x_o",
     "id": "Gpm3w7Mib_M",
     "snippet": {
       "publishedAt": "2022-05-07T02:38:40Z",
@@ -8021,7 +8026,7 @@
   },
   {
     "kind": "youtube#video",
-    "etag": "72cV5MsVq-iGbnbtkxhfdyahhGQ",
+    "etag": "Enu-Shonlb0DBGfpsRUaaPOGsII",
     "id": "sFyUWHH2sVg",
     "snippet": {
       "publishedAt": "2022-06-21T14:19:08Z",
@@ -8075,7 +8080,7 @@
   },
   {
     "kind": "youtube#video",
-    "etag": "yFECnv6xL0RKv7g_nN6OWJKz2Ts",
+    "etag": "3z7tFAtu8VT9owTjrOu8qssYUwo",
     "id": "YPYpPn-bY_o",
     "snippet": {
       "publishedAt": "2022-04-23T22:30:03Z",
@@ -8222,7 +8227,7 @@
   },
   {
     "kind": "youtube#video",
-    "etag": "ML6FsFgDJaoazyEOve03NYf5IlA",
+    "etag": "12Mx3LaUgYa0VQbA04cdwZ1ngXc",
     "id": "r0skgZkx_AQ",
     "snippet": {
       "publishedAt": "2024-05-21T07:58:35Z",
@@ -8356,7 +8361,7 @@
   },
   {
     "kind": "youtube#video",
-    "etag": "5ufNQ2Ovpwyoc9dCIypF-K4_vYM",
+    "etag": "YQo6992fTuEM7RhBE-CtT0i1l4k",
     "id": "XHin0fKGl6w",
     "snippet": {
       "publishedAt": "2023-12-26T07:00:02Z",
@@ -8437,7 +8442,7 @@
   },
   {
     "kind": "youtube#video",
-    "etag": "uQRHt4CIzbQtIm3ppZEZnOnhJlg",
+    "etag": "kTzpTp43_v01C7tLOXZAactCJPY",
     "id": "akd7u69k27k",
     "snippet": {
       "publishedAt": "2023-11-17T15:36:38Z",
@@ -8492,7 +8497,7 @@
   },
   {
     "kind": "youtube#video",
-    "etag": "Bs3okU8LpVzvtuVP_LID114oANA",
+    "etag": "vsiGMwebUdN8U09_QTBlj2UIDic",
     "id": "VR4YJjTlrnE",
     "snippet": {
       "publishedAt": "2024-08-15T23:12:07Z",
@@ -8547,7 +8552,7 @@
   },
   {
     "kind": "youtube#video",
-    "etag": "mHMYwUQIpz9LFHfdXypGfDJAtb8",
+    "etag": "NFL6Y7BK8ShemJj8YZIiNyG4HX8",
     "id": "qq8McH9sxOk",
     "snippet": {
       "publishedAt": "2025-01-15T17:24:24Z",
@@ -8612,7 +8617,7 @@
   },
   {
     "kind": "youtube#video",
-    "etag": "acbk7Ygrr22lH1K8nA4JdiF_zIw",
+    "etag": "Hz6eIsMKw_QojKjKpG46BL-xn2E",
     "id": "Z2Kwo5aecVk",
     "snippet": {
       "publishedAt": "2024-10-27T12:30:27Z",
@@ -8671,7 +8676,7 @@
   },
   {
     "kind": "youtube#video",
-    "etag": "iHrczJaPecvb2q5b-pNLx-CETMc",
+    "etag": "Zbug6CVBMGngo2YgPQ-6JyjJfeY",
     "id": "zBfWqrQxPTg",
     "snippet": {
       "publishedAt": "2025-02-02T06:10:32Z",
@@ -8744,7 +8749,7 @@
   },
   {
     "kind": "youtube#video",
-    "etag": "PCPILmCFTgvxQUQTdCONNai1beA",
+    "etag": "4ilUK6CgL0X5BJp9fBKpwtSAGrw",
     "id": "4QeXfv6gFfk",
     "snippet": {
       "publishedAt": "2025-01-23T17:54:39Z",
@@ -8924,7 +8929,7 @@
   },
   {
     "kind": "youtube#video",
-    "etag": "RdLMzTeEq8CheFvglw5U-1kvZ3o",
+    "etag": "1QpLVes-EYiRDMxbkFJkjCYvG5k",
     "id": "LWabAF3bkY4",
     "snippet": {
       "publishedAt": "2024-11-30T13:17:32Z",
@@ -8979,7 +8984,7 @@
   },
   {
     "kind": "youtube#video",
-    "etag": "f7BRlo_BeHpuDDkvvjwLRnzJ9rk",
+    "etag": "f5vYGWtd0MBC6F5_BZiq2hPo4PI",
     "id": "Im_xcqRUE9o",
     "snippet": {
       "publishedAt": "2024-11-19T13:08:37Z",
@@ -9033,7 +9038,7 @@
   },
   {
     "kind": "youtube#video",
-    "etag": "EEyBMp_Dswca8ICsDMDbxNKW0V4",
+    "etag": "3ovzWYoHHKxDC8Ca0qi_0oPI2ns",
     "id": "PiRgbyj9dWo",
     "snippet": {
       "publishedAt": "2025-02-14T14:00:15Z",
@@ -9106,7 +9111,7 @@
   },
   {
     "kind": "youtube#video",
-    "etag": "sGu-ptdmjBi5fVBTnm8yvmLqYC4",
+    "etag": "rShBHtjloH4ovoqd-ZztRmSIBFc",
     "id": "cnBUkbTcMak",
     "snippet": {
       "publishedAt": "2025-04-04T16:39:11Z",
@@ -9251,7 +9256,7 @@
   },
   {
     "kind": "youtube#video",
-    "etag": "Rpw86e-otuKifnqvJYfDgPQd4_I",
+    "etag": "vmifeKPvFfQD-mVyDUWaPU5L1ts",
     "id": "9Aqqa3kUkfY",
     "snippet": {
       "publishedAt": "2025-05-14T02:41:22Z",
@@ -9316,7 +9321,7 @@
   },
   {
     "kind": "youtube#video",
-    "etag": "txXIdtqgxziUljjrAcsLR7g6WzQ",
+    "etag": "wqYEEc06nkNqG1gau_wUDEvWd7Y",
     "id": "6-fVLzcbvi4",
     "snippet": {
       "publishedAt": "2025-09-14T10:30:04Z",
