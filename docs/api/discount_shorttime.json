@@ -1,21 +1,22 @@
 {
   "data": {
-    "id": "dis_3fyxWMo1MMdYbnDa7Oj0Kt",
+    "id": "dis_4FS1YF6ZktyaWNwHoTWIs7",
     "attributes": {
       "name": "Limited time discount code!",
-      "code": "LTDB8H53CVBE",
-      "amount": 10,
-      "expires_at": "2026-09-24T20:28:04.771Z",
+      "code": "LTDQV4XQNLL9",
+      "amount": 25,
+      "expires_at": "2026-09-25T03:07:12.019Z",
       "applies_to_products": [
-        "prod_1JQRbXEWbRAsptLAEsfw8F",
-        "prod_4bRdZVMQb6QfydHMXMBjG5",
-        "prod_4HV43h2tqQRp4ngVs8fOwh",
-        "prod_7Afxj3jdiMxWf0ZU0251V2",
-        "prod_34XVCvgDFmS40gbUSaQm90",
         "prod_3Ni06bDdsm6gJntYKRDiCo",
         "prod_6sDiC5PdavUVNvWsgU1oNJ",
         "prod_3RBS5pN9hDwM700ZAt7i63",
-        "prod_4KKOyL4xExMtlhf3JaPBa8"
+        "prod_5P3uPzHqmIapdYrfcN3kYa",
+        "prod_1b0GJj59ORMjGvf2G1Czjh",
+        "prod_1vkQ4tab7bl4LcopLGVb64",
+        "prod_5MydTlhSPfwzxNJRnf0qkJ",
+        "prod_yfdPS88lK7kfwSjbv5qei",
+        "prod_3RevXENXFXyrznI42m9cOP",
+        "prod_4UUna65T2mEcZqxeygE6jo"
       ]
     }
   }
