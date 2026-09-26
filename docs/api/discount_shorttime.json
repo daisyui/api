@@ -1,22 +1,21 @@
 {
   "data": {
-    "id": "dis_1IJIYV4eshWWsSrzxUxyFD",
+    "id": "dis_48SxieRsAlKDlMjk6kMOx4",
     "attributes": {
       "name": "Limited time discount code!",
-      "code": "LTDD58LVVFA7",
-      "amount": 30,
-      "expires_at": "2026-09-26T09:26:32.471Z",
+      "code": "LTDGCKCTGQ9C",
+      "amount": 25,
+      "expires_at": "2026-09-26T21:43:53.482Z",
       "applies_to_products": [
-        "prod_5E7U1fS3URoEtdjqJr3R9d",
-        "prod_7bSjj3UImBhfsYHclXQHt4",
-        "prod_4GWzcIFPubIXjTBvzo9pKA",
-        "prod_4EC2CMwyCoPAeJ6GhKabZd",
+        "prod_4bRdZVMQb6QfydHMXMBjG5",
         "prod_4HV43h2tqQRp4ngVs8fOwh",
         "prod_7Afxj3jdiMxWf0ZU0251V2",
         "prod_34XVCvgDFmS40gbUSaQm90",
-        "prod_zdNmz3m6JfzZNXjWwyEYC",
-        "prod_5WTF3NMjAyFXqUppgngpBP",
-        "prod_4KKOyL4xExMtlhf3JaPBa8"
+        "prod_4KKOyL4xExMtlhf3JaPBa8",
+        "prod_5P3uPzHqmIapdYrfcN3kYa",
+        "prod_yfdPS88lK7kfwSjbv5qei",
+        "prod_3RevXENXFXyrznI42m9cOP",
+        "prod_4UUna65T2mEcZqxeygE6jo"
       ]
     }
   }
