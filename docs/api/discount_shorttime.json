@@ -1,19 +1,18 @@
 {
   "data": {
-    "id": "dis_3EecAs8iKt7ufDNWNLnSCd",
+    "id": "dis_2W91T7ld5P06M0QR3HtVho",
     "attributes": {
       "name": "Limited time discount code!",
-      "code": "LTDZP23MFP54",
+      "code": "LTD42HR8SN48",
       "amount": 20,
-      "expires_at": "2026-10-15T09:07:17.180Z",
+      "expires_at": "2026-10-15T16:49:46.321Z",
       "applies_to_products": [
-        "prod_4KKOyL4xExMtlhf3JaPBa8",
+        "prod_1b0GJj59ORMjGvf2G1Czjh",
+        "prod_5WTF3NMjAyFXqUppgngpBP",
+        "prod_4bRdZVMQb6QfydHMXMBjG5",
         "prod_2OCda6p9ogQBSDmbA2Y5ou",
         "prod_6w7BbA5UVpkH2Y0RSf8cfg",
-        "prod_YxsechXAgtRBnbJTezU4K",
-        "prod_1sQIqWKENUzzXJtSoWZrUr",
-        "prod_5WTF3NMjAyFXqUppgngpBP",
-        "prod_5P3uPzHqmIapdYrfcN3kYa"
+        "prod_1JQRbXEWbRAsptLAEsfw8F"
       ]
     }
   }
