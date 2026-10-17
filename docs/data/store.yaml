@@ -5,12 +5,12 @@ productOrder:
   - daisyui-charts
   - html-dashboard
   - online-store
-  - saas-landingpage
+  # - saas-landingpage
   - documentation-template
   - blog-template
   - blink
   - auth-template
-  - mobile-app-landingpage
+  # - mobile-app-landingpage
 
 tech:
   all: All
