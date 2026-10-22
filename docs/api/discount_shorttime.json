@@ -1,20 +1,19 @@
 {
   "data": {
-    "id": "dis_48x86ZqX2avpq06bQaV9rQ",
+    "id": "dis_2zQ9MyMrjAHq1GNbX9IWXj",
     "attributes": {
       "name": "Limited time discount code!",
-      "code": "LTD67LJL9ALQ",
+      "code": "LTDGRUFHACPE",
       "amount": 25,
-      "expires_at": "2026-10-22T07:15:15.098Z",
+      "expires_at": "2026-10-22T16:07:25.268Z",
       "applies_to_products": [
-        "prod_4bRdZVMQb6QfydHMXMBjG5",
         "prod_4KKOyL4xExMtlhf3JaPBa8",
-        "prod_1JQRbXEWbRAsptLAEsfw8F",
-        "prod_2OCda6p9ogQBSDmbA2Y5ou",
-        "prod_6w7BbA5UVpkH2Y0RSf8cfg",
-        "prod_6aqdvSoui6zPm9fQm5K5SH",
-        "prod_bsA9tevVbeBUv6ZMZvqSl",
-        "prod_6LSLhVpQmoCCjGq3Nf6NKw"
+        "prod_3Ni06bDdsm6gJntYKRDiCo",
+        "prod_6sDiC5PdavUVNvWsgU1oNJ",
+        "prod_3RBS5pN9hDwM700ZAt7i63",
+        "prod_5P3uPzHqmIapdYrfcN3kYa",
+        "prod_zdNmz3m6JfzZNXjWwyEYC",
+        "prod_5WTF3NMjAyFXqUppgngpBP"
       ]
     }
   }
