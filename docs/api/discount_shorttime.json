@@ -1,23 +1,23 @@
 {
   "data": {
-    "id": "dis_2LzbBkGiABoTYc2p2bmmRb",
+    "id": "dis_vc07NfAH5FhCXT63ixaL6",
     "attributes": {
       "name": "Limited time discount code!",
-      "code": "LTDKNA2RYJKE",
+      "code": "LTD299B25BCW",
       "amount": 25,
-      "expires_at": "2026-10-30T04:24:29.402Z",
+      "expires_at": "2026-10-30T07:18:27.491Z",
       "applies_to_products": [
-        "prod_zdNmz3m6JfzZNXjWwyEYC",
-        "prod_1vkQ4tab7bl4LcopLGVb64",
-        "prod_5MydTlhSPfwzxNJRnf0qkJ",
-        "prod_2bqBD0ltsFD21PKMYtSmwC",
-        "prod_43046ZR98YJIZ59MGmDlGT",
-        "prod_k5xgnybTeo9v0TIiEQXnm",
-        "prod_YxsechXAgtRBnbJTezU4K",
-        "prod_1sQIqWKENUzzXJtSoWZrUr",
+        "prod_2OCda6p9ogQBSDmbA2Y5ou",
+        "prod_6w7BbA5UVpkH2Y0RSf8cfg",
         "prod_4HV43h2tqQRp4ngVs8fOwh",
         "prod_7Afxj3jdiMxWf0ZU0251V2",
-        "prod_34XVCvgDFmS40gbUSaQm90"
+        "prod_34XVCvgDFmS40gbUSaQm90",
+        "prod_yfdPS88lK7kfwSjbv5qei",
+        "prod_3RevXENXFXyrznI42m9cOP",
+        "prod_4UUna65T2mEcZqxeygE6jo",
+        "prod_YxsechXAgtRBnbJTezU4K",
+        "prod_1sQIqWKENUzzXJtSoWZrUr",
+        "prod_1b0GJj59ORMjGvf2G1Czjh"
       ]
     }
   }
