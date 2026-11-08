@@ -55,17 +55,11 @@ media:
     sm: https://img.daisyui.com/images/store/small/scalo/daisyui-template-scalo-4-responsive.webp
     lg: https://img.daisyui.com/images/store/large/scalo/daisyui-template-scalo-4-responsive.webp
   - type: image
-    sm: https://img.daisyui.com/images/store/small/scalo/daisyui-template-scalo-4-pages.webp
-    lg: https://img.daisyui.com/images/store/large/scalo/daisyui-template-scalo-4-pages.webp
-  - type: image
     sm: https://img.daisyui.com/images/store/small/scalo/daisyui-template-scalo-4-pricing.webp
     lg: https://img.daisyui.com/images/store/large/scalo/daisyui-template-scalo-4-pricing.webp
   - type: image
     sm: https://img.daisyui.com/images/store/small/scalo/daisyui-template-scalo-4-landing-page-2.webp
     lg: https://img.daisyui.com/images/store/large/scalo/scalo@5-landings.webp
-  - type: image
-    sm: https://img.daisyui.com/images/store/small/scalo/daisyui-template-scalo-4-landing-page-1.webp
-    lg: https://img.daisyui.com/images/store/large/scalo/daisyui-template-scalo-4-landing-page-1.webp
 # quote:
 #   img: https://img.daisyui.com/images/profile/people/pouya-saadeghi.webp
 #   name: Pouya
