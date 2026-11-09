@@ -19,6 +19,19 @@ on:
         description: "Code"
         required: false
         type: string
+      product_ids:
+        description: "Product IDs, separated by commas or spaces. Leave empty for all products."
+        required: false
+        type: string
+      banner_text:
+        description: "Optional text after the discount title"
+        required: false
+        type: string
+      banner_url:
+        description: "Banner link, for example /store/blink/"
+        required: false
+        default: "/store/"
+        type: string
 
 jobs:
   run-node-command:
@@ -38,7 +51,16 @@ jobs:
         run: bun build_log.js
 
       - name: Create Discount
-        run: bun discount_special.js ${{ inputs.discount_percentage }} ${{ inputs.discount_days }} "${{ inputs.discount_title }}" "${{ inputs.discount_code }}"
+        env:
+          DISCOUNT_PERCENTAGE: ${{ inputs.discount_percentage }}
+          DISCOUNT_DAYS: ${{ inputs.discount_days }}
+          DISCOUNT_TITLE: ${{ inputs.discount_title }}
+          DISCOUNT_CODE: ${{ inputs.discount_code }}
+          DISCOUNT_PRODUCT_IDS: ${{ inputs.product_ids }}
+          DISCOUNT_BANNER_TEXT: ${{ inputs.banner_text }}
+          DISCOUNT_BANNER_URL: ${{ inputs.banner_url }}
+        run: |
+          bun discount_special.js "$DISCOUNT_PERCENTAGE" "$DISCOUNT_DAYS" "$DISCOUNT_TITLE" "$DISCOUNT_CODE" "$DISCOUNT_PRODUCT_IDS" "$DISCOUNT_BANNER_TEXT" "$DISCOUNT_BANNER_URL"
 
       - name: Configure Git
         run: |
