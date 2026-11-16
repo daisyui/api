@@ -1,0 +1,98 @@
+{
+  "mode": "prod",
+  "created_in_creem": true,
+  "starts_at": "2026-11-16T00:00:00.000Z",
+  "expires_at": "2026-12-01T00:00:00.000Z",
+  "discounts": [
+    {
+      "code": "BF26ZXWRM",
+      "percentage": 75,
+      "starts_at": "2026-11-16T00:00:00.000Z",
+      "expires_at": "2026-11-17T00:00:00.000Z"
+    },
+    {
+      "code": "BF26FAHFR",
+      "percentage": 70,
+      "starts_at": "2026-11-17T00:00:00.000Z",
+      "expires_at": "2026-11-18T00:00:00.000Z"
+    },
+    {
+      "code": "BF26VXFNN",
+      "percentage": 65,
+      "starts_at": "2026-11-18T00:00:00.000Z",
+      "expires_at": "2026-11-19T00:00:00.000Z"
+    },
+    {
+      "code": "BF26MVTFQ",
+      "percentage": 60,
+      "starts_at": "2026-11-19T00:00:00.000Z",
+      "expires_at": "2026-11-20T00:00:00.000Z"
+    },
+    {
+      "code": "BF26BVJFX",
+      "percentage": 55,
+      "starts_at": "2026-11-20T00:00:00.000Z",
+      "expires_at": "2026-11-21T00:00:00.000Z"
+    },
+    {
+      "code": "BF26TPBET",
+      "percentage": 50,
+      "starts_at": "2026-11-21T00:00:00.000Z",
+      "expires_at": "2026-11-22T00:00:00.000Z"
+    },
+    {
+      "code": "BF26MUUFB",
+      "percentage": 45,
+      "starts_at": "2026-11-22T00:00:00.000Z",
+      "expires_at": "2026-11-23T00:00:00.000Z"
+    },
+    {
+      "code": "BF26TZXLP",
+      "percentage": 40,
+      "starts_at": "2026-11-23T00:00:00.000Z",
+      "expires_at": "2026-11-24T00:00:00.000Z"
+    },
+    {
+      "code": "BF26WUZVG",
+      "percentage": 35,
+      "starts_at": "2026-11-24T00:00:00.000Z",
+      "expires_at": "2026-11-25T00:00:00.000Z"
+    },
+    {
+      "code": "BF26FAUCB",
+      "percentage": 30,
+      "starts_at": "2026-11-25T00:00:00.000Z",
+      "expires_at": "2026-11-26T00:00:00.000Z"
+    },
+    {
+      "code": "BF26AGLUN",
+      "percentage": 25,
+      "starts_at": "2026-11-26T00:00:00.000Z",
+      "expires_at": "2026-11-27T00:00:00.000Z"
+    },
+    {
+      "code": "BF26BJRBR",
+      "percentage": 20,
+      "starts_at": "2026-11-27T00:00:00.000Z",
+      "expires_at": "2026-11-28T00:00:00.000Z"
+    },
+    {
+      "code": "BF26QZQWB",
+      "percentage": 15,
+      "starts_at": "2026-11-28T00:00:00.000Z",
+      "expires_at": "2026-11-29T00:00:00.000Z"
+    },
+    {
+      "code": "BF26PBMAF",
+      "percentage": 10,
+      "starts_at": "2026-11-29T00:00:00.000Z",
+      "expires_at": "2026-11-30T00:00:00.000Z"
+    },
+    {
+      "code": "BF26XZWLC",
+      "percentage": 5,
+      "starts_at": "2026-11-30T00:00:00.000Z",
+      "expires_at": "2026-12-01T00:00:00.000Z"
+    }
+  ]
+}
